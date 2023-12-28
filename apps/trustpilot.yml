@@ -1,0 +1,43 @@
+id: trustpilot
+name: Trustpilot
+description: Trustpilot is a website based in Denmark that allows users to share their experiences with
+  online businesses in the form of reviews. People can make more informed decisions when shopping online
+  by reading these reviews. Simultaneously, this platform provides a chance for businesses to interact
+  with their customers by responding to their reviews. Trustpilot is an impartial platform, it's open
+  to every person and every company around the globe free of charge.
+category: customer-support
+labels:
+- reviews
+- ratings
+- verified
+company:
+  organization: Trustpilot
+  headquarters: DK
+  founded: 2007
+  homepage: https://www.trustpilot.com/
+  privacyPolicy: https://legal.trustpilot.com/for-reviewers/end-user-privacy-terms
+  termsOfService: https://legal.trustpilot.com/for-reviewers/terms-of-use-for-consumers
+  statusPage: https://status.trustpilot.com/
+  securityPage: https://support.trustpilot.com/hc/en-us/articles/360000721308-Security-at-Trustpilot
+  linkedin: https://www.linkedin.com/company/trustpilot/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- trustpilot.com
+oauthDisplayNames:
+- Trustpilot

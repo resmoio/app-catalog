@@ -1,0 +1,41 @@
+id: jumpshare
+name: Jumpshare
+description: Jumpshare is a tool initially created for work-related communication and collaboration on
+  creative tasks. Its main features include user-friendly file sharing, where users can share various
+  file types simply by dragging and dropping them. It also aids in visual communication because it has
+  screenshot and screen recording capabilities. Better still, users can preview more than 200 different
+  file formats directly within the platform, making teamwork with coworkers or clients more efficient.
+  Jumpshare is especially useful for professionals in creative fields, easing file sharing and collaboration
+  processes.
+category: productivity
+labels: []
+company:
+  organization: Jumpshare
+  headquarters: US
+  founded: 2011
+  homepage: https://jumpshare.com/
+  privacyPolicy: https://jumpshare.com/privacy
+  termsOfService: https://jumpshare.com/terms
+  securityPage: https://jumpshare.com/security
+  linkedin: https://www.linkedin.com/company/jumpshare/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- jumpshare.com
+oauthDisplayNames:
+- Jumpshare

@@ -1,0 +1,40 @@
+id: frontspin
+name: FrontSpin
+description: FrontSpin is an online tool designed to facilitate and enhance communication for sales teams.
+  Working within a cloud-based system, it assists its users by enabling them to connect with a higher
+  number of potential clients, aiming to increase their capacity for closing deals. This tool's purpose is 
+  to amplify sales-related communications, aiding in reaching a bigger spectrum of prospects
+  more efficiently.
+category: sales
+labels:
+- sales engagement
+- email
+- outreach
+company:
+  organization: FrontSpin
+  headquarters: US
+  founded: 2014
+  homepage: https://www.frontspin.com
+  privacyPolicy: https://www.frontspin.com/privacy-policy/
+  termsOfService: https://www.frontspin.com/terms-use/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- frontspin.com
+oauthDisplayNames:
+- FrontSpin

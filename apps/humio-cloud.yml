@@ -1,0 +1,40 @@
+id: humio-cloud
+name: Humio Cloud
+description: Humio Cloud is a platform for managing and analyzing large amounts of log data in real time.
+  It can effectively handle vast information streams, assisting organizations in quickly identifying potential
+  threats, speeding up investigations, and ensuring full visibility to maintain optimal application uptime.
+  It allows users to draw insights from advanced analysis, aiding them to make informed decisions and
+  improve operational efficiency. Additionally, features such as streaming observability and unlimited
+  plans make it both affordable and efficient. It's capable of logging vast amounts of information, providing
+  real-time responses.
+category: data-analytics
+labels:
+- log management
+- analytics
+- monitoring
+company:
+  organization: ''
+  homepage: https://www.humio.com/
+  privacyPolicy: https://www.crowdstrike.com/privacy-notice/
+  termsOfService: https://www.crowdstrike.com/website-terms-of-use/
+  linkedin: https://www.linkedin.com/company/crowdstrike/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Humio Cloud

@@ -1,0 +1,35 @@
+id: forefornt
+name: Forefront
+description: Forefront AI is a platform that helps users access a variety of large language models that
+  are already trained. It allows users to gently modify these models through a process known as transfer
+  learning, creating AI programs specifically designed for their unique needs.
+category: others
+labels:
+- large language models
+- transfer learning
+- ai solutions
+company:
+  organization: Forefront
+  headquarters: US
+  founded: 2022
+  homepage: https://www.forefront.ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Forefront

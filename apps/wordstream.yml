@@ -1,0 +1,38 @@
+id: wordstream
+name: WordStream By LOCALiQ
+description: WordStream by LOCALiQ is an application that provides its users with meaningful data and
+  analyses for their digital marketing needs. The app offers original content to unveil the performance
+  of users' advertisements and delivers custom marketing strategies for businesses. It also presents unique
+  ideas to set the product apart. WordStream incorporates features such as the Google Ads Performance
+  Grader, a tool which enables users to assess the effectiveness of their Google Ads campaigns. The grader
+  includes comparative data and suggestions on how to make cost-effective adjustments.
+category: content-sharing
+labels: []
+company:
+  organization: WordStream Inc.
+  headquarters: US
+  founded: 2007
+  homepage: https://www.wordstream.com/google-adwords
+  privacyPolicy: https://www.wordstream.com/privacy-policy
+  termsOfService: https://www.wordstream.com/master-subscription-agreement
+  linkedin: https://www.linkedin.com/company/wordstream/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- WordStream By LOCALiQ

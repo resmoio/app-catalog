@@ -1,0 +1,36 @@
+id: techstars
+name: Techstars
+description: Techstars is a substantial pre-seed investment platform. Its primary goal is to provide funding to a
+  large number of startups. By doing so, it seeks to increase the amount of capital available to entrepreneurs.
+  As part of its initiative, Techstars also offers tools and resources aimed at enhancing the success
+  of the startup community globally.
+category: others
+labels:
+- startup accelerator
+- investment
+- mentorship
+company:
+  organization: ''
+  homepage: https://www.techstars.com
+  privacyPolicy: https://www.techstars.com/privacy-policy
+  termsOfService: https://www.techstars.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Techstars

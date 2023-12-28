@@ -1,0 +1,39 @@
+id: grouptogether
+name: GroupTogether
+description: GroupTogether is an online platform that streamlines the planning and coordination of group
+  gifts for different events like birthdays, farewells, well wishes, appreciation gestures, and others.
+  It makes the process of collecting contributions for group gifts easy and efficient. In essence, GroupTogether
+  provides a straightforward method to manage and contribute to group gifts and celebrations.
+category: others
+labels:
+- gift giving
+- fundraising
+- organizer
+company:
+  organization: GroupTogether Pty Ltd ABN
+  headquarters: AU
+  founded: 2015
+  homepage: https://www.grouptogether.com/
+  privacyPolicy: https://www.grouptogether.com/privacy
+  termsOfService: https://www.grouptogether.com/terms
+  linkedin: https://www.linkedin.com/company/grouptogether/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GroupTogether

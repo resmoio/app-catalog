@@ -1,0 +1,41 @@
+id: chegg
+name: Chegg
+description: Chegg is a digital platform designed to assist students with various academic tasks. Its
+  features include step-by-step solutions for textbook problems and a section where students can post
+  homework questions to receive expert responses. Additionally, the application provides resources like
+  textbook rentals, assistance with writing and citations, as well as exam preparation materials. It is
+  designed to be beneficial for both university students and those attending community colleges.
+category: education
+labels:
+- education
+- homework help
+- tutoring
+company:
+  organization: Chegg Inc.
+  headquarters: US
+  founded: 2005
+  homepage: https://www.chegg.com
+  privacyPolicy: https://www.chegg.com/en-US/privacypolicy
+  termsOfService: https://www.chegg.com/en-US/termsofuse
+  linkedin: https://www.linkedin.com/company/chegg-inc-
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- chegg.com
+oauthDisplayNames:
+- Chegg

@@ -1,0 +1,43 @@
+id: makerbot
+name: MakerBot
+description: MakerBot is a platform designed to support 3D printing, primarily in educational settings.
+  Its services include a range of 3D printing solutions that encourage innovative thinking. One of its
+  key features is Thingiverse, an online community where users can share and collaborate on 3D printable
+  files and open-source hardware designs. MakerBot is particularly focused on facilitating creativity
+  and learning, and it achieves this by simplifying the use and exploration of 3D printing technology
+  in educational surroundings. As part of its offering, MakerBot also provides 3D printers and classroom
+  solutions that equip teachers to integrate 3D printing into their curriculums.
+category: design
+labels:
+- 3d printing
+- education
+- stem
+company:
+  organization: Stratasys
+  headquarters: US
+  founded: 1988
+  homepage: https://www.makerbot.com/
+  privacyPolicy: https://www.makerbot.com/legal/privacy/
+  termsOfService: https://www.makerbot.com/legal/terms/
+  linkedin: https://www.linkedin.com/company/makerbot-industries/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- makerbot.com
+oauthDisplayNames:
+- MakerBot

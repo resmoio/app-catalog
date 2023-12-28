@@ -1,0 +1,32 @@
+id: sap-help
+name: SAP Help Portal
+description: The SAP Help Portal is a web-based platform provided by SAP that houses in-depth documentation,
+  guides, tutorials, and information related to SAP software products and systems. It functions as a key
+  resource for various users - encompassing administrators, developers, and consultants - offering official
+  records, updates about releases, instructional materials, and resources to troubleshoot various applications
+  and technologies. This portal presents all these resources in one central location, assisting in the
+  usage of different SAP solutions.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

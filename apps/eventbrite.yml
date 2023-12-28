@@ -1,0 +1,42 @@
+id: eventbrite
+name: Eventbrite
+description: Eventbrite is an online service which offers tools for organizing, marketing, and ticket
+  selling for various events. It caters to all types of events from concerts to conferences, workshops,
+  and fundraisers. Furthermore, it provides a platform where users can discover these various events.
+  In brief, Eventbrite serves as an avenue for both finding and creating diverse events.
+category: marketing
+labels:
+- events
+- ticketing
+- registration
+company:
+  organization: Eventbrite
+  headquarters: US
+  founded: 2006
+  homepage: https://www.eventbrite.com/
+  privacyPolicy: https://www.eventbrite.com/help/en-us/articles/460838/eventbrite-privacy-policy/
+  termsOfService: https://www.eventbrite.com/l/legalterms/
+  statusPage: https://www.eventbritestatus.com/
+  securityPage: https://www.eventbrite.com/security/
+  linkedin: https://www.linkedin.com/company/eventbrite/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- eventbrite.com
+oauthDisplayNames:
+- Eventbrite

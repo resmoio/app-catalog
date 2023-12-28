@@ -1,0 +1,41 @@
+id: datadog
+name: Datadog
+description: Datadog is an online-based platform focused on monitoring and analyzing different aspects
+  of a business, including its infrastructure, applications, and logs. The application caters to cloud-based
+  workflows and provides a unified look at the metrics from all tools, apps, and services an organization
+  utilizes. This allows businesses to gain a real-time understanding of their operations. Despite its
+  service offering a 'trial for free' option, it is best to consider the app's full capability and benefits
+  it can provide to suit your business needs.
+category: monitoring
+labels: []
+company:
+  organization: Datadog
+  headquarters: US
+  founded: 2010
+  homepage: https://www.datadoghq.com/
+  privacyPolicy: https://www.datadoghq.com/legal/privacy/
+  termsOfService: https://www.datadoghq.com/legal/terms/
+  statusPage: https://status.datadoghq.com/
+  securityPage: https://www.datadoghq.com/security/
+  linkedin: https://www.linkedin.com/company/datadog/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- datadoghq.com
+oauthDisplayNames:
+- Datadog

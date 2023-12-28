@@ -1,0 +1,36 @@
+id: meetingbar
+name: MeetingBar
+description: MeetingBar is a tool designed for macOS that allows easy access to meetings. It integrates
+  with the user's calendar and enables the creation and joining of meetings with a single click. With
+  its user-friendly design, it aims to streamline and simplify the process of managing virtual meetings,
+  making it suitable for individuals who often juggle various appointments.
+category: online-meetings
+labels:
+- calendar
+- meetings
+- productivity
+company:
+  organization: ''
+  homepage: https://meetingbar.leits.me
+  privacyPolicy: https://meetingbar.leits.me/privacy
+  termsOfService: https://meetingbar.leits.me/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- MeetingBar

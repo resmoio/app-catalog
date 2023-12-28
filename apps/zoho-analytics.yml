@@ -1,0 +1,42 @@
+id: zoho-analytics
+name: Zoho Analytics
+description: Zoho Analytics is a platform designed to effectively turn raw data into insightful information
+  for businesses. It offers an intuitive space for users to create and modify reports, dashboards, and
+  visual data depictions. It can work with a variety of data sources like spreadsheets, cloud databases,
+  or even on-premises databases. The goal of the platform is to amalgamate and analyze data to expose
+  trends, patterns, and valuable directions. Zoho supplies over 55 applications and serves more than 100
+  million users with complete business necessities.
+category: business-intelligence
+labels: []
+company:
+  organization: Zoho Corporation Pvt Ltd
+  headquarters: IN
+  founded: 1996
+  homepage: https://www.zoho.com/
+  privacyPolicy: https://www.zoho.com/privacy.html
+  termsOfService: https://www.zoho.com/en-in/terms.html
+  securityPage: https://www.zoho.com/security.html?ireft=nhome&src=home1-footer
+  linkedin: https://www.linkedin.com/company/zohocorp/?ireft=nhome&src=home1-footer
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- analytics.zoho.com
+- analytics.zoho.eu
+- analytics.zoho.in
+oauthDisplayNames:
+- Zoho Analytics

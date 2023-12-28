@@ -1,0 +1,42 @@
+id: veed
+name: VEED
+description: VEED is a video editing software accessible online, designed to offer users a variety of
+  tools to enhance their videos. It allows users to insert images, text, and subtitles into their videos,
+  apply filters, and eliminate unnecessary background noise. Users have the liberty to personalize their
+  videos to align with their needs and taste. This could be a beneficial tool for those who are attempting
+  to reach a larger audience, encourage viewer interaction, or simply improve their video editing abilities.
+  It's important to note that there is a free trial available for new users.
+category: design
+labels:
+- video editing
+- compression
+- branding
+company:
+  organization: Veed Limited
+  headquarters: GB
+  founded: 2018
+  homepage: https://veed.io/
+  privacyPolicy: https://www.veed.io/privacy
+  termsOfService: https://www.veed.io/terms-of-use
+  securityPage: https://www.veed.io/security
+  linkedin: https://www.linkedin.com/company/veedhq/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- VEED

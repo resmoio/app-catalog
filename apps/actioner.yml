@@ -1,0 +1,46 @@
+id: actioner
+name: Actioner
+description: Actioner is a software platform that utilizes artificial intelligence to integrate various
+  apps within Slack, a virtual team collaboration tool. It aims to boost productivity by streamlining
+  a variety of processes, such as employee workflows, market approach tactics, and software development
+  procedures. By enabling users to efficiently manage their tasks through Slack and other apps, Actioner
+  helps teams to effectively meet their objectives. Furthermore, with its emphasis on a "Slack-first"
+  experience, Actioner allows users to make full use of their existing technology resources within Slack
+  without any constraints.
+category: productivity
+labels:
+- productivity
+- automation
+- slack
+company:
+  organization: Nova Era Labs Inc.
+  headquarters: US
+  founded: 2021
+  homepage: https://actioner.com
+  privacyPolicy: https://actioner.com/privacy-policy
+  termsOfService: https://actioner.com/terms-conditions
+  securityPage: https://actioner.com/security
+  linkedin: https://www.linkedin.com/company/actioner/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- actioner.io
+appDomains:
+- app.actioner.com
+oauthDisplayNames:
+- Actioner

@@ -1,0 +1,41 @@
+id: playht
+name: Play.ht
+description: Play.ht is an application designed to transform written content into remarkably realistic
+  voiceovers using advanced AI text-to-speech technology. Capable of recognizing and imitating multiple
+  languages, accents, and dialects, this tool offers an efficient way to create lifelike speech automatically.
+  Users can conveniently use this AI-powered voice generator, with a wide selection of over 600 voices,
+  to produce text-to-speech voiceovers. One notable feature is the ability to convert text into audio
+  and subsequently save the output in convenient formats such as MP3 and WAV.
+category: news-and-entertainment
+labels:
+- podcast editor
+- audio production
+- automation
+company:
+  organization: Play.ht
+  headquarters: US
+  founded: 2019
+  homepage: https://play.ht/
+  privacyPolicy: https://play.ht/privacy/
+  termsOfService: https://play.ht/terms/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- play.ht
+oauthDisplayNames:
+- Play.ht

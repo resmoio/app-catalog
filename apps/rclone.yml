@@ -1,0 +1,37 @@
+id: rclone
+name: rclone
+description: Rclone is a command-line application that manages files in cloud storage. It supports numerous
+  platforms, including Google Drive, S3, Swift, Dropbox, Google Cloud Storage, Azure, and Box, among others.
+  The main role of Rclone is to synchronize your files to these various cloud storage services, making
+  it a practical tool for managing digital files.
+category: storage-and-database
+labels:
+- file sync
+- cloud storage
+- backup
+company:
+  organization: Rclone
+  homepage: https://rclone.org
+  privacyPolicy: https://rclone.org/privacy/
+  termsOfService: https://rclone.org/privacy/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- rclone.org
+oauthDisplayNames:
+- rclone

@@ -1,0 +1,43 @@
+id: screencastify
+name: Screencastify
+description: Screencastify is a browser extension for Google Chrome that lets users record, edit, and
+  share videos of their screen activity without complications. Transferable to various contexts, it is
+  suitable for generating tutorials, presentations, or other forms of visual content directly from the
+  browser. The software also allows for faster business communication and can facilitate the creation
+  of video classroom assignments, training modules, and tutorials. Notably, it is recognized for its straightforward
+  functionality and speed in delivering a user's recorded content.
+category: content-sharing
+labels:
+- screen recording
+- video
+- tutorials
+company:
+  organization: Showpad
+  headquarters: BE
+  founded: 2013
+  homepage: https://www.screencastify.com/
+  privacyPolicy: https://www.screencastify.com/privacy
+  termsOfService: https://www.screencastify.com/legal/terms
+  statusPage: https://status.screencastify.com/
+  linkedin: https://www.linkedin.com/company/screencastify/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- screencastify.com
+oauthDisplayNames:
+- Screencastify

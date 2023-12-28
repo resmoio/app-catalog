@@ -1,0 +1,35 @@
+id: seomon
+name: SEOmon
+description: SEOmon is an application that assists in the management and improvement of Search Engine
+  Optimization (SEO). Its features include rank tracking, SEO forecasting, organic traffic analysis, and
+  keyword research. Additionally, SEOmon provides content auditing, agency dashboards, artificial intelligence
+  assistance, and the possibility of integration with other software. The app aims to streamline SEO campaigns
+  and make them easier to execute and monitor, simplifying the task of recording and analyzing online
+  traffic data.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://seomon.net
+  privacyPolicy: https://seomon.net/privacy.html
+  termsOfService: https://seomon.net/privacy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SEOmon

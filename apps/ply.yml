@@ -1,0 +1,35 @@
+id: ply
+name: Ply
+description: Ply is an application designed to enhance team productivity by allowing the integration of
+  custom internal features into other software. It serves as a customization platform that endorses flexibility
+  and adaptability in other applications.
+category: others
+labels:
+- ui customization
+- plugins
+- react
+company:
+  organization: ''
+  homepage: https://ply.io
+  privacyPolicy: https://info.ply.io/privacy
+  termsOfService: https://info.ply.io/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Ply

@@ -1,0 +1,43 @@
+id: baremetrics
+name: Baremetrics
+description: Baremetrics is a platform for analyzing subscription analytics. It works in real-time to
+  provide updates on metrics associated with some recurring revenue models, typically those seen in subscription-based
+  businesses or products in the Software as a Service (SaaS) industry. By connecting with payment processors,
+  Baremetrics is able to derive useful metrics such as monthly recurring revenue (MRR), customer lifetime
+  value (CLV), and churn rates. This data can help businesses to make informed decisions. Users can access
+  these insights with just a single click, making it a practical tool for companies of all sizes.
+category: business-intelligence
+labels:
+- metrics
+- analytics
+- saas
+company:
+  organization: Baremetrics
+  headquarters: US
+  founded: 2013
+  homepage: https://baremetrics.com/
+  privacyPolicy: https://baremetrics.com/privacy
+  termsOfService: https://baremetrics.com/terms
+  securityPage: https://baremetrics.com/security
+  linkedin: https://www.linkedin.com/company/baremetrics
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- baremetrics.com
+oauthDisplayNames:
+- Baremetrics

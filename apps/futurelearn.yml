@@ -1,0 +1,41 @@
+id: futurelearn
+name: FutureLearn
+description: FutureLearn is an online learning platform that hosts courses and degree programs from top
+  universities and organizations. Available for everyone, it offers a variety of free, online courses
+  from established institutions in the UK and around the world. This accessible educational resource supports
+  lifelong learning, encouraging users to engage with subjects of interest and expand their knowledge
+  at their own pace. Whether for self-improvement, career advancement, or academic enrichment, FutureLearn
+  fosters an environment where millions of learners can explore diverse topics online.
+category: education
+labels:
+- online courses
+- education
+- skills
+company:
+  organization: FutureLearn
+  headquarters: GB
+  founded: 2012
+  homepage: https://www.futurelearn.com
+  privacyPolicy: https://www.futurelearn.com/info/terms/privacy-policy
+  termsOfService: https://www.futurelearn.com/info/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- futurelearn.com
+oauthDisplayNames:
+- FutureLearn

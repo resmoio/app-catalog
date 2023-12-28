@@ -1,0 +1,37 @@
+id: beulr
+name: Beulr
+description: Beulr is an application that facilitates seamless recording of Zoom meetings and the automatic
+  production of detailed meeting notes. Utilizing advanced artificial intelligence, it makes these notes
+  easily searchable, shareable and secure. This ensures users can access important content from their
+  meetings quickly and with ease.
+category: others
+labels:
+- video
+- transcription
+- zoom
+company:
+  organization: ''
+  homepage: https://beulr.com
+  privacyPolicy: https://bot.beulr.com/policy/privacy
+  termsOfService: https://bot.beulr.com/policy/terms
+  linkedin: https://www.linkedin.com/company/beulrai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Beulr

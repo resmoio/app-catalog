@@ -1,0 +1,39 @@
+id: snowflake
+name: Snowflake
+description: Snowflake is a cloud-based platform specifically designed to store, process, and analyze
+  data. This modern data warehousing solution allows users to share data securely, collaborate effectively,
+  and utilize advanced analytics. One of Snowflake's strengths is its distinct architecture that separates
+  storage and computation, allowing resources to be scaled independently according to demand. Many organizations
+  use Snowflake to manage their data efficiently and flexibly, gaining valuable insights as a result.
+  Essentially, Snowflake serves as a data warehouse provided as a service, designed to operate in the
+  cloud.
+category: data-analytics
+labels: []
+company:
+  organization: Snowflake
+  headquarters: US
+  founded: 2012
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+relatedDomains:
+- snowflake.net
+appDomains:
+- snowflake.com
+- snowflakecomputing.com
+oauthDisplayNames: []

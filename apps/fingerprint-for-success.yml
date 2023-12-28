@@ -1,0 +1,38 @@
+id: fingerprint-for-success
+name: Fingerprint For Success
+description: Fingerprint For Success is an application that uses artificial intelligence to enhance team
+  performance. Its main feature is 'Marlee', the first AI coach in the world, designed to assist teams
+  in reaching their maximum potential. The app boasts an impressive track record, with users engaging
+  in more than one million minutes of coaching, culminating in a 90% success rate. It also holds a strong
+  rating of 4.4 out of 5. This app is accessible at no cost, allowing users to start utilizing its features
+  immediately.
+category: others
+labels:
+- leadership
+- coaching
+- employee development
+company:
+  organization: ''
+  homepage: https://www.fingerprintforsuccess.com
+  privacyPolicy: https://www.fingerprintforsuccess.com/privacy-policy
+  termsOfService: https://www.fingerprintforsuccess.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Fingerprint For Success

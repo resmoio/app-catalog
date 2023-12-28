@@ -1,0 +1,39 @@
+id: recruiterbox
+name: Recruiterbox
+description: Recruiterbox, also known as Trakstar, is a software that assists in managing the workforce.
+  It offers a range of tools designed to help attract, retain, and use top-quality talent effectively.
+  By seamlessly merging with existing systems, it gives human resources leaders access to detailed analysis,
+  aiding in more effective staff management.
+category: hr
+labels:
+- ats
+- recruiting
+- hiring
+company:
+  organization: Applied Training Systems Inc.
+  headquarters: US
+  founded: 2001
+  homepage: https://recruiterbox.com/
+  statusPage: https://status.learn.trakstar.com/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- recruiterbox.com
+- hire.trakstar.com
+oauthDisplayNames:
+- Recruiterbox

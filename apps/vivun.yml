@@ -1,0 +1,32 @@
+id: vivun
+name: Vivun
+description: Vivun is a presales software platform tailored for technology companies. It's designed to
+  streamline presales procedures, offering tools for handling deal assessment, technical confirmation,
+  and pricing. Additionally, it facilitates communication and cooperation within and between presales
+  and sales teams, promoting efficient deal closure and revenue generation.
+category: sales
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vivun.com
+oauthDisplayNames:
+- Vivun Calendar Connect

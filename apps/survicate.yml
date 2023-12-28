@@ -1,0 +1,39 @@
+id: survicate
+name: Survicate
+description: Survicate is a survey tool that helps users gather customer feedback. It provides various
+  survey options including NPS, CSAT, and CES. Users can distribute the surveys through various channels
+  such as email, websites, in-app notifications on mobile devices, or even through direct links. Thus,
+  Survicate allows for a swift and efficient way to collect and analyze consumer responses.
+category: marketing
+labels:
+- surveys
+- polls
+- feedback
+company:
+  organization: Survicate
+  headquarters: PL
+  founded: 2013
+  homepage: https://survicate.com/
+  privacyPolicy: https://assets.survicate.com/docs/Privacy-Policy-Survicate-4.0.pdf
+  termsOfService: https://assets.survicate.com/docs/Terms-Of-Service-Survicate-2.0.pdf
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- survicate.com
+oauthDisplayNames:
+- Survicate

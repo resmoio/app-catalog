@@ -1,0 +1,40 @@
+id: vanta
+name: Vanta
+description: Vanta is a platform designed to assist businesses with acquiring and managing crucial security
+  and compliance certifications, including but not limited to SOC 2, ISO 27001, and HIPAA. It simplifies
+  the typically cumbersome audit process, aiming to promote trust between businesses and their relevant
+  stakeholders. In addition, Vanta facilitates automation of security monitoring tasks, potentially reducing
+  the time these tasks might take from months to weeks. Overall, this application is targeted at making
+  the process of compliance with security regulations more convenient and manageable for companies.
+category: security
+labels:
+- compliance automation
+- certifications
+- security
+company:
+  organization: Vanta
+  homepage: https://www.vanta.com/
+  privacyPolicy: https://vanta.com/privacy
+  termsOfService: https://vanta.com/privacy
+  securityPage: https://www.vanta.com/company/security
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- vanta.com
+oauthDisplayNames:
+- Vanta

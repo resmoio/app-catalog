@@ -1,0 +1,45 @@
+id: wetransfer
+name: WeTransfer
+description: WeTransfer is a straightforward and user-friendly application that creative professionals
+  often utilize to collaborate and share their work. Its key function is to enable the transfer of large
+  files up to 20 GB online. As such, it's a valuable tool for those who regularly need to
+  send high-volume files. In addition, users can also share photographs directly through the platform.
+  WeTransfer is particularly known for its simplicity, making it easy even for beginners to send files
+  globally. It provides up to 2GB of free data transfer, which can be increased with a subscription.
+category: content-sharing
+labels:
+- file sharing
+- transfer
+- collaboration
+company:
+  organization: WeTransfer
+  headquarters: NL
+  founded: 2009
+  homepage: https://wetransfer.com/
+  privacyPolicy: https://wetransfer.com/legal/privacy
+  termsOfService: https://wetransfer.com/legal/terms
+  statusPage: https://wetransfer.statuspage.io/
+  linkedin: https://www.linkedin.com/company/wetransfer/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- wetransfer.net
+appDomains:
+- wetransfer.com
+oauthDisplayNames:
+- WeTransfer

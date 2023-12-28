@@ -1,0 +1,36 @@
+id: oxylabs
+name: Oxylabs
+description: Oxylabs is a service that offers access to extensive proxy utilities, featuring over 100
+  million residential and 2 million data center IP proxies. The functionality of this platform enables
+  the straightforward collection of publicly available data from various websites. This useful feature
+  can be implemented across a wide scale, optimizing data extraction tasks.
+category: others
+labels:
+- proxy service
+- web scraping
+- rotating proxies
+company:
+  organization: ''
+  homepage: https://oxylabs.io
+  privacyPolicy: https://oxylabs.io/legal/privacy
+  termsOfService: https://oxylabs.io/legal/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Oxylabs

@@ -1,0 +1,42 @@
+id: trustpage
+name: Trustpage
+description: Trustpage is a digital platform that aims to help businesses handle and display their security,
+  privacy, and compliance practices. It makes sharing trust-related documents and procedures easier for
+  users with their customers, partners, and auditors, promoting transparency and trust in the digital
+  space. Practical features include tools for automating questionnaires, managing reviews, and sharing
+  documents, which streamline processes and increase efficiency for numerous organizations.
+category: security
+labels:
+- security posture
+- trust center
+- privacy
+company:
+  organization: Vanta
+  headquarters: US
+  founded: 2020
+  homepage: https://trustpage.com/
+  privacyPolicy: https://www.vanta.com/privacy
+  termsOfService: https://trustpage.com/terms
+  statusPage: https://status.vanta.com/
+  securityPage: https://metatrust.page/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- trust.page
+oauthDisplayNames:
+- Trustpage

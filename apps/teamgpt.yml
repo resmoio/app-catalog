@@ -1,0 +1,38 @@
+id: teamgpt
+name: TeamGPT
+description: TeamGPT is a collaborative software, primarily used in conjunction with ChatGPT, to facilitate
+  interaction within a team. It charges users based on their activity level, and it allows them to share
+  their most useful conversations externally. The application is developed with a focus on inclusivity
+  and can provide customized support. TeamGPT is designed to enable easy and effective group participation,
+  helping teams to excel in an environment significantly influenced by artificial intelligence. It is
+  a useful tool for teams that are keen on using AI to augment their collaborative efforts.
+category: others
+labels: []
+company:
+  organization: ''
+  headquarters: US
+  founded: 2023
+  homepage: https://team-gpt.com/
+  privacyPolicy: https://team-gpt.com/privacy-policy/
+  termsOfService: https://team-gpt.com/terms-of-use/
+  linkedin: https://www.linkedin.com/company/teamgpt/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TeamGPT

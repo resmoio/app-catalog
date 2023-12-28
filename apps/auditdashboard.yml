@@ -1,0 +1,43 @@
+id: auditdashboard
+name: AuditDashboard
+description: AuditDashboard is an online platform mainly used by professionals in tax, audit, and cyber
+  security fields worldwide. It acts as one central location for project management, file sharing, and
+  client communication. The fundamental goal of AuditDashboard is to make processes in accounting firms
+  more efficient and secure. It strives to enhance the client experience digitally and ensures the safety
+  of sensitive information at all times. With its primary features like secure portal technology and a
+  dynamic request list, AuditDashboard is designed to improve the workflow for CPA firms and their clients.
+category: project-management
+labels:
+- accounting
+- audit
+- compliance
+company:
+  organization: AuditDashboard Inc.
+  headquarters: CA
+  founded: 2012
+  homepage: https://www.auditdashboard.com/
+  privacyPolicy: https://www.auditdashboard.com/consumer-data-protection
+  termsOfService: https://www.auditdashboard.com/terms
+  securityPage: https://www.auditdashboard.com/trust/security
+  linkedin: https://www.linkedin.com/company/auditdashboard/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- auditdashboard.com
+oauthDisplayNames:
+- AuditDashboard

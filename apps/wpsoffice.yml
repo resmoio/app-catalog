@@ -1,0 +1,41 @@
+id: wpsoffice
+name: WPS Office
+description: WPS Office is an inclusive, free office suite compatible with multiple operating systems
+  including Windows, Mac, iOS, Android, and Linux. Equipped with the capability to produce and edit documents
+  in Word, Excel, PowerPoint, and PDF formats, WPS Office presents a user-friendly alternative to MS Office.
+  It provides key functionalities for Writer, Presentation, and Spreadsheet projects. Although it mirrors
+  some aspects of MS Office, it distinguishes itself as an independent, comprehensive office tool. Most
+  notably, WPS Office can be downloaded online at no cost.
+category: productivity
+labels:
+- office suite
+- documents
+- presentations
+company:
+  organization: Kingsoft Office Software
+  headquarters: CN
+  founded: 1988
+  homepage: https://www.wps.com
+  privacyPolicy: https://www.wps.com/privacy-policy/
+  termsOfService: https://www.wps.com/terms-of-use/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wps.com
+oauthDisplayNames:
+- WPS Office

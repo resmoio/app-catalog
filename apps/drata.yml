@@ -1,0 +1,43 @@
+id: drata
+name: Drata
+description: Drata is a platform designed to assist organizations in managing their SOC 2 compliance processes.
+  It automates tasks related to assessment, evidence collection, and reporting, thereby helping companies
+  meet and maintain critical security and privacy standards efficiently. The tool focuses on facilitating
+  the workflow associated with the organization's security controls to ensure compliance is streamlined
+  and less cumbersome.
+category: security
+labels:
+- compliance
+- soc2
+- security
+company:
+  organization: Drata
+  headquarters: US
+  founded: 2020
+  homepage: https://drata.com/
+  privacyPolicy: https://drata.com/privacy
+  termsOfService: https://drata.com/terms
+  statusPage: https://dratastatus.com/
+  securityPage: https://drata.com/security
+  linkedin: https://www.linkedin.com/company/drata/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- drata.com
+oauthDisplayNames:
+- Drata

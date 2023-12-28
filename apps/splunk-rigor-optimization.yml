@@ -1,0 +1,33 @@
+id: splunk-rigor-optimization
+name: Splunk Rigor Optimization
+description: Splunk Rigor Optimization is a web performance and user experience platform. It helps analyze
+  data from websites and apps to identify areas for improvement, particularly with usability and reliability.
+  As an analytic tool, it pinpoints issues such as slow pages, bugs, and errors, aiding businesses in
+  troubleshooting and optimizing their online presence for enhanced user experience. Useful for site owners,
+  developers and IT departments, its features include real-time alerts, detailed reports, and simulated
+  user journeys to provide insight into the performance and efficiency of websites and applications.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- optimization.rigor.com
+oauthDisplayNames: []

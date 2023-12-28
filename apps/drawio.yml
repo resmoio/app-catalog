@@ -1,0 +1,42 @@
+id: drawio
+name: draw.io
+description: Draw.io is an online tool that is both free and open-source, enabling users to construct
+  various kinds of diagrams. These include flowcharts, network diagrams, and UML diagrams among others.
+  Users can utilize this platform to create visual representations, according to their specific needs.
+category: design
+labels:
+- diagrams
+- wireframing
+- uml
+company:
+  organization: diagrams.net
+  headquarters: GB
+  founded: 2000
+  homepage: https://www.drawio.com/
+  privacyPolicy: https://www.drawio.com/trust/
+  termsOfService: https://www.drawio.com/trust/
+  securityPage: https://www.drawio.com/trust/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- diagrams.net
+oauthDisplayNames:
+- diagrams.net
+- diagrams.net (draw.io)
+- draw.io
+- draw.io Viewer

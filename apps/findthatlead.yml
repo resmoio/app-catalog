@@ -1,0 +1,36 @@
+id: findthatlead
+name: FindThatLead
+description: FindThatLead is a tool designed to simplify the process of generating leads, particularly
+  in the realm of B2B sales. It eliminates the need for manual prospecting by automating this task, thus
+  saving time and potentially increasing the number of leads generated. The application is versatile and
+  can be used to facilitate sales and drive business growth.
+category: marketing
+labels:
+- lead generation
+- prospecting
+- automation
+company:
+  organization: ''
+  homepage: https://findthatlead.com
+  privacyPolicy: https://findthatlead.com/en/privacy
+  termsOfService: https://findthatlead.com/en/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- FindThatLead

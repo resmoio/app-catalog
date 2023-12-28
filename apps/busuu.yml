@@ -1,0 +1,43 @@
+id: busuu
+name: busuu
+description: Busuu is a mobile application designed to assist users in learning a new language. It provides
+  comprehensive language courses online, created and supervised by experts in the field. The app also
+  integrates a community aspect where users can interact with native speakers, enhancing their language
+  proficiency. An additional feature of Busuu is its dedicated service for businesses and corporations,
+  offering language training to improve their employees' language abilities. The application's purpose
+  is to eliminate language barriers, promoting a more connected global community.
+category: education
+labels:
+- language learning
+- education
+- vocabulary
+company:
+  organization: Chegg
+  headquarters: US
+  founded: 2005
+  homepage: https://business.busuu.com
+  privacyPolicy: https://www.busuu.com/en/privacy
+  termsOfService: https://business.busuu.com/terms
+  linkedin: https://www.linkedin.com/company/busuu-com/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- busuu.com
+- business.busuu.com
+oauthDisplayNames:
+- busuu

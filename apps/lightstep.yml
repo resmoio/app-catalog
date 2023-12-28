@@ -1,0 +1,44 @@
+id: lightstep
+name: LightStep
+description: LightStep is a software system observability tool that aids teams in identifying and resolving
+  performance glitches. It scrutinizes traces from various distributed systems, providing clarity on application
+  health, dependencies, and performance bottlenecks. This helps keep operations running smoothly and improves
+  user interaction. LightStep also incorporates well into any existing team workflows for alert monitoring
+  and incident management, thereby facilitating quicker issue resolution across departments. Its main
+  goal is to reduce operational hurdles and ensure software applications function optimally.
+category: monitoring
+labels:
+- application monitoring
+- tracing
+- performance
+company:
+  organization: ServiceNow
+  headquarters: US
+  founded: 2015
+  homepage: https://lightstep.com/
+  privacyPolicy: https://www.servicenow.com/privacy-statement.html
+  termsOfService: https://lightstep.com/terms-of-service
+  statusPage: https://status.lightstep.com/
+  securityPage: https://lightstep.com/security
+  linkedin: https://www.linkedin.com/company/lightstep/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lightstep.com
+oauthDisplayNames:
+- LightStep

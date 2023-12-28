@@ -1,0 +1,40 @@
+id: arc
+name: Arc
+description: Arc is a web browser created by The Browser Company that focuses on providing a fast, secure,
+  and easy-to-use internet surfing experience. Its user-friendly interface combined with advanced features
+  helps to optimize online activities and improve productivity. Arc places great emphasis on protecting
+  user privacy and has introduced unique tools for better management of online activities. Whether for
+  work or personal use, Arc ensures a smooth, uninterrupted browsing experience. The goal of this browser
+  is to offer a more personal and calm internet experience by minimizing unnecessary interruptions and
+  clutter.
+category: others
+labels: []
+company:
+  organization: The Browser Company Inc.
+  headquarters: US
+  founded: 2019
+  homepage: https://arc.net/
+  privacyPolicy: https://thebrowser.company/privacy/
+  termsOfService: https://arcwise.app/terms
+  linkedin: https://www.linkedin.com/company/the-browser-company/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- arc.dev
+oauthDisplayNames:
+- Arc

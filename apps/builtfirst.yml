@@ -1,0 +1,37 @@
+id: builtfirst
+name: Builtfirst
+description: Builtfirst is a user-friendly application that supports the development of an integrated,
+  custom-labeled marketplace. This solution aims to expedite and streamline the management of a partner
+  ecosystem, boasting a 92% reduction in time consumption. Its primary features include the ability to
+  display and expand a partner ecosystem effectively, offer cost-saving benefits for customers or members,
+  and establish an additional source of revenue. The platform is designed to be intuitive and requires
+  no coding knowledge, making it ideal for businesses keen on efficient partner ecosystem management.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://www.builtfirst.com/
+  privacyPolicy: https://www.builtfirst.com/privacy-policy
+  termsOfService: https://www.builtfirst.com/terms-and-conditions
+  linkedin: https://www.linkedin.com/company/builtfirst/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- builtfirst.com
+oauthDisplayNames:
+- Builtfirst

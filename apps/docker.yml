@@ -1,0 +1,36 @@
+id: docker
+name: Docker
+description: Docker is a popular platform that makes the process of deploying and managing applications
+  easier by using an approach called containerization. Essentially, this approach allows developers to
+  put applications and everything they need to run, into independent containers. This way, they can be
+  sure the applications run the same way regardless of the environment. Docker enhances the procedure
+  from development to production, supporting productive teamwork, scalability, and fast deployment. Furthermore,
+  Docker favours an open platform for creating, delivering, and running applications that are distributed
+  or dispersed in different locations.
+category: development-tools
+labels: []
+company:
+  organization: Docker
+  headquarters: US
+  founded: 2013
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- docker.com
+oauthDisplayNames: []

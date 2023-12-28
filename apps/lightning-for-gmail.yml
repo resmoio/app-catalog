@@ -1,0 +1,42 @@
+id: lightning-for-gmail
+name: Lightning for Gmail
+description: Lightning for Gmail is a tool designed to connect Google's G Suite Gmail inbox with Salesforce's
+  CRM. It facilitates the simple transfer of emails and meetings, assigning them to relevant contacts,
+  accounts, and opportunities within Salesforce. This compatibility is extended to both the Classic and
+  Lightning versions of Salesforce. Furthermore, the application allows users to access pertinent CRM
+  information directly from their Gmail inbox, helping to streamline their workflow. Although it is often
+  widely used in sales, customer service, marketing, commerce, and IT, it can be used by any user of Salesforce,
+  regardless of their field.
+category: productivity
+labels:
+- gmail
+- salesforce
+- crm
+company:
+  organization: Salesforce Inc.
+  homepage: https://www.salesforce.com
+  privacyPolicy: https://www.salesforce.com/company/privacy/
+  termsOfService: https://www.salesforce.com/company/legal/agreements.jsp
+  statusPage: https://status.salesforce.com/
+  securityPage: https://security.salesforce.com/
+  linkedin: linkedin.com/company/salesforce/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- Lightning for Gmail

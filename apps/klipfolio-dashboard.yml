@@ -1,0 +1,38 @@
+id: klipfolio-dashboard
+name: Klipfolio Dashboard
+description: Klipfolio Dashboard is a software that facilitates informed decision-making by individuals
+  and teams by supplying data insights. The application, which is utilized by both startups and Fortune
+  500 companies, employs business intelligence (BI), dashboards, and reporting features. It is particularly
+  recognized for its power and flexibility, accommodating the distinct needs and goals of different users.
+  Klipfolio Dashboard essentially serves as a tool to better understand, utilize, and potentially benefit
+  from data.
+category: business-intelligence
+labels:
+- business intelligence
+- data visualization
+- reporting
+company:
+  organization: ''
+  homepage: https://www.klipfolio.com
+  privacyPolicy: https://www.klipfolio.com/legal/privacy/
+  termsOfService: https://www.klipfolio.com/legal/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Klipfolio Dashboard

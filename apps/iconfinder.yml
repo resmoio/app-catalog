@@ -1,0 +1,35 @@
+id: iconfinder
+name: ICONFINDER
+description: Iconfinder is an online tool for finding various types of icons. It is a large database housing
+  over 7.85 million options, including free and premium icons, vector illustrations, and 3D illustrations.
+  These are available in various formats such as SVG, AI, and PNG, catering to various user needs. Primarily
+  aimed at web developers, this platform provides an efficient and extensive source for quality visual
+  elements.
+category: design
+labels: []
+company:
+  organization: Iconfinder
+  headquarters: DK
+  founded: 2007
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- iconfinder.com
+oauthDisplayNames:
+- Iconfinder

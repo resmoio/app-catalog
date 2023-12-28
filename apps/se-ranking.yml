@@ -1,0 +1,35 @@
+id: se-ranking
+name: SE Ranking
+description: SE Ranking is a platform that simplifies the process of search engine optimization. It provides
+  precise data and user-friendly interfaces to manage SEO tasks efficiently. It also features a built-in
+  reporting function for monitoring progress. Notably, this platform offers a combined analysis feature
+  that provides a comprehensive review of your website's SEO health. These services are available at a
+  cost-effective price.
+category: web-analytics
+labels:
+- seo tools
+- backlinks
+- metrics
+company:
+  organization: ''
+  homepage: https://seranking.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SE Ranking

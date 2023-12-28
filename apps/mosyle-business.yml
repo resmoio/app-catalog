@@ -1,0 +1,35 @@
+id: mosyle-business
+name: Mosyle Business
+description: Mosyle Business is a tool used for managing and securing mobile devices, with an emphasis
+  on Apple gadgets like iPads and Macs. It's intended for use primarily by educational institutions and
+  businesses. The app provides users with the ability to efficiently control the distribution of apps,
+  filter content, track devices, and configure devices remotely. Mosyle Business is known for its user-friendly
+  management settings and advanced security measures that assist organizations in optimizing their device
+  usage while keeping their data safe.
+category: enterprise-it-services
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- mosyle.com
+appDomains:
+- mybusiness.mosyle.com
+oauthDisplayNames: []

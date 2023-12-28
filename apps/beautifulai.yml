@@ -1,0 +1,43 @@
+id: beautifulai
+name: Beautiful.ai
+description: Beautiful.ai is a software for designing presentations that strives to simplify the process
+  for users. Its AI-powered features and intuitive interface allows users to put their focus mainly on
+  the content while the system handles the visual presentation. It's suited for a variety of professionals
+  including presenters, educators, and business executives, offering a wide selection of templates and
+  themes to help transform their ideas into visually pleasing and impactful slides. This software also
+  allows for collaboration from different locations, which can be particularly useful for teams.
+category: design
+labels:
+- presentations
+- design
+- templates
+company:
+  organization: Beautiful Slides, Inc.
+  headquarters: US
+  founded: 2016
+  homepage: https://www.beautiful.ai/
+  privacyPolicy: https://www.beautiful.ai/privacy-policy
+  termsOfService: https://www.beautiful.ai/terms-of-service
+  statusPage: https://www.beautiful.ai/status
+  linkedin: https://www.linkedin.com/company/beautiful-ai/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- beautiful.ai
+oauthDisplayNames:
+- Beautiful.ai

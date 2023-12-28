@@ -1,0 +1,37 @@
+id: glockapps
+name: GlockApps
+description: GlockApps is a tool that specializes in testing email deliverability. It provides important
+  information about the user's ability to send emails that successfully reach their intended recipients.
+  It achieves this by analyzing the user's email reputation, authenticity, and compliance with DMARC,
+  a protocol for preventing fraudulent emails. This tool offers expert assistance in understanding the
+  nuances of email deliverability, aiming to enhance overall email communication effectiveness.
+category: marketing
+labels:
+- email deliverability
+- authentication
+- security
+company:
+  organization: ''
+  homepage: https://glockapps.com
+  privacyPolicy: https://glockapps.com/privacy-policies/
+  termsOfService: https://glockapps.com/privacy-policies/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GlockApps

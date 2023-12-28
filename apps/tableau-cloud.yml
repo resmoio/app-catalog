@@ -1,0 +1,32 @@
+id: tableau-cloud
+name: Tableau Cloud
+description: Tableau Cloud is a simple-to-use, cloud-based analytics program. It allows its users to connect
+  to and visualize data from different sources. With this application, organizations can design interactive
+  charts and reports, carry out data analyses, and circulate their findings amongst team members. It also
+  includes collaborative elements, data management controls, and adaptable analytics resources to aid
+  businesses in utilizing information to make informed decisions.
+category: cloud
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tableau.com
+oauthDisplayNames: []

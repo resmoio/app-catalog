@@ -1,0 +1,41 @@
+id: searchanalyticsforsheets
+name: Search Analytics for Google Sheets
+description: Search Analytics for Google Sheets is a tool that collaborates with Google Sheets to extract
+  data from Google Search Console. It makes it simple for the users to import search analytics data right
+  into their spreadsheets, aiding to assess and represent search performance from within the Google Sheets
+  platform. It specifically accrues performance and URL Inspection data from Google Search Console. This
+  tool is especially beneficial for SEO agencies and any business operating online due to its capacity
+  to enhance SEO analysis.
+category: web-analytics
+labels:
+- google analytics
+- google sheets
+- reporting
+company:
+  organization: Search Analytics for Google Sheets
+  headquarters: RO
+  founded: 2016
+  homepage: https://searchanalyticsforsheets.com/
+  privacyPolicy: https://searchanalyticsforsheets.com/privacy-policy/
+  termsOfService: https://searchanalyticsforsheets.com/terms-of-use/
+  linkedin: https://www.linkedin.com/in/mihaiaperghis/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Search Analytics for Google Sheets

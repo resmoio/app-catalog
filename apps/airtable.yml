@@ -1,0 +1,44 @@
+id: airtable
+name: Airtable
+description: Airtable is a versatile tool intended for organizing and creating content in a manner resembling
+  spreadsheets. Its key function is to act as a real-time and collaborative database, suitable for tasks
+  such as project management, inventory records, and sales tracking. It operates across numerous platforms
+  including web, iOS, Android, Apple OS X, and Microsoft Windows. It features a cloud backend which supports
+  real-time collaboration, as well as the secure storage of customer data. It is also a low-code platform,
+  meaning its users can make apps with less traditional programming, and offers the added advantage of
+  artificial intelligence to upgrade workflows.
+category: productivity
+labels:
+- database
+- spreadsheets
+- collaboration
+company:
+  organization: Formagrid
+  headquarters: US
+  founded: 2012
+  homepage: https://www.airtable.com
+  privacyPolicy: https://www.airtable.com/privacy
+  termsOfService: https://www.airtable.com/tos
+  statusPage: https://status.airtable.com/
+  linkedin: https://www.linkedin.com/company/airtable
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- airtable.com
+oauthDisplayNames:
+- Airtable

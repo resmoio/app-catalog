@@ -1,0 +1,39 @@
+id: easyretro
+name: EasyRetro
+description: EasyRetro is an online tool that supports teams in conducting retrospectives and discussing
+  projects in an agile work environment. The application offers a space where teams can analyze their
+  past work, pinpoint improvement areas, and develop plans to boost their performance in upcoming tasks.
+  The design of the tool focuses on simplicity and user-friendliness, making it suitable for teams working
+  remotely to collaborate effectively.
+category: project-management
+labels:
+- retrospectives
+- agile
+- collaboration
+company:
+  organization: EasyRetro
+  headquarters: BR
+  founded: 2015
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- easyretro.io
+- funretro.io
+oauthDisplayNames:
+- FunRetro

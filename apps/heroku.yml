@@ -1,0 +1,36 @@
+id: heroku
+name: Heroku
+description: Heroku is a cloud-based platform designed to facilitate the deployment, management, and
+  scaling of web and mobile applications. It accommodates diverse programming languages and frameworks,
+  enabling developers to concentrate more on the actual coding than on handling the infrastructure.
+  Heroku's main functions include application deployment, database management, and resource scaling
+  in response to demand. This service-oriented platform aims to expedite the development process, eradicating
+  unnecessary complexities and accelerating the time taken from starting a project to launching it into
+  the market.
+category: cloud
+labels: []
+company:
+  organization: Salesforce
+  headquarters: US
+  founded: 1999
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- heroku.com
+oauthDisplayNames: []

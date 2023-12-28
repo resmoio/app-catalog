@@ -1,0 +1,39 @@
+id: slab
+name: Slab
+description: Slab is a platform that serves as a centralized hub where teams can produce, arrange, and
+  disseminate important information. This includes things like internal documentation, onboarding guides,
+  and cooperative documents. The software aims to amplify productivity by offering a consolidated space
+  for all crucial team information. Its functionality is appreciated by teams that are both technically
+  adept and those that are not, thanks to its ease of use and several integrations.
+category: content-management
+labels: []
+company:
+  organization: Slab
+  headquarters: US
+  founded: 2016
+  homepage: https://slab.com/
+  privacyPolicy: https://slab.com/privacy/
+  termsOfService: https://slab.com/terms/
+  statusPage: https://slabstatus.com/
+  securityPage: https://slab.com/security/
+  linkedin: https://www.linkedin.com/company/slab-inc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- Slab

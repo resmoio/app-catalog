@@ -1,0 +1,39 @@
+id: data-miner
+name: Data Miner
+description: Data Miner is a tool intended for web scraping and extracting data from various online sources.
+  It offers a simple user-interface and features that help both individuals and businesses to automate
+  data collection, which includes product information, contact details, reviews, and more. Users can personalize
+  scraping agents with Data Miner to browse through websites, gather data, and arrange it in a structured
+  way. This tool is commonly used for tasks like market research, generating leads, competition analysis,
+  and making decisions based on data. It simplifies and brings accuracy to data collection.
+category: data-analytics
+labels:
+- web scraping
+- data extraction
+- lead generation
+company:
+  organization: Software Innovation Lab LLC
+  headquarters: US
+  homepage: https://dataminer.io/
+  privacyPolicy: https://dataminer.io/privacy
+  termsOfService: https://dataminer.io/tos
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Data Miner

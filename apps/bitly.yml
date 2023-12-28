@@ -1,0 +1,44 @@
+id: bitly
+name: Bitly
+description: Bitly is a digital link management platform primarily used for shortening links, creating
+  QR codes, and offering link-in-bio services, making it easier for individuals and organizations to connect
+  with their audiences. The service provides detailed analytics for every link, further aiding in tracking
+  audience interaction. Bitly simplifies the process of managing links while promoting better audience
+  engagement and is utilized by various user groups, from brands and marketers to educators and non-profit
+  organizations. Traditional URL shortening is enhanced with the inclusion of link management software,
+  sophisticated QR code options, and a comprehensive link-in-bio solution.
+category: marketing
+labels:
+- links
+- marketing
+- analytics
+company:
+  organization: Bitly, Inc.
+  headquarters: US
+  founded: 2008
+  homepage: https://bitly.com/
+  privacyPolicy: https://bitly.com/pages/privacy
+  termsOfService: https://bitly.com/pages/terms-of-service
+  statusPage: https://status.bitly.com/
+  linkedin: https://www.linkedin.com/company/bitly/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- bitly.com
+oauthDisplayNames:
+- Bitly

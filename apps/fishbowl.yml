@@ -1,0 +1,35 @@
+id: fishbowl
+name: Fishbowl
+description: Fishbowl is a software application designed for managing and automating processes in manufacturing
+  and warehouse contexts. It is especially known for its inventory management feature, which stands out
+  due to its adaptability. Besides, Fishbowl offers a range of system integrations that serve to further
+  streamline and scale business operations. The aim is to increase efficiency and reduce manual work,
+  making it a beneficial tool for businesses needing to handle and track inventory on a large scale.
+category: business-intelligence
+labels: []
+company:
+  organization: Fishbowl
+  headquarters: US
+  founded: 2001
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- fishbowlinventory.com
+oauthDisplayNames:
+- Fishbowl

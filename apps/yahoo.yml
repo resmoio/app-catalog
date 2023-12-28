@@ -1,0 +1,44 @@
+id: yahoo
+name: Yahoo!
+description: Yahoo! is an internet services company offering a variety of online tools including a search
+  engine, email, and news. Established in 1994, it has been a key player in the development of the web.
+  Through its portal, users can access up-to-date information on various topics such as politics, sports,
+  finance, and weather, as well as communicate using the integrated email and messenger functions. Yahoo!
+  strives to provide a comprehensive online experience with resources like live scores, stock quotes,
+  and video content.
+category: news-and-entertainment
+labels:
+- web portal
+- news
+- search
+company:
+  organization: Yahoo Japan
+  headquarters: JP
+  founded: 1996
+  homepage: https://www.yahoo.com/
+  privacyPolicy: https://legal.yahoo.com/us/en/yahoo/privacy/index.html
+  termsOfService: https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html
+  linkedin: https://www.linkedin.com/company/yaho
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- yahoo.net
+appDomains:
+- yahoo.com
+oauthDisplayNames:
+- Yahoo!

@@ -1,0 +1,44 @@
+id: reclaimai
+name: Reclaim.ai
+description: Reclaim.ai is a time management tool that works with users' calendars to enhance their scheduling.
+  This tool uses artificial intelligence to automate scheduling in a way that balances work tasks, personal
+  obligations, and other priority items based on users' individual requirements. The application accommodates
+  for breaks, meetings, habitual tasks, and other commitments, thereby optimizing the users' time efficiently.
+  It operates smoothly with Google Calendar, making it accessible for individuals and teams seeking to
+  increase their productivity.
+category: productivity
+labels:
+- calendar assistant
+- time management
+- productivity
+company:
+  organization: Reclaim.ai
+  headquarters: US
+  founded: 2019
+  homepage: https://reclaim.ai/
+  privacyPolicy: https://reclaim.ai/privacy
+  termsOfService: https://reclaim.ai/terms
+  statusPage: https://status.reclaim.ai/
+  securityPage: https://reclaim.ai/security
+  linkedin: https://www.linkedin.com/company/reclaim-ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- reclaim.ai
+oauthDisplayNames:
+- Reclaim.ai

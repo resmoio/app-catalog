@@ -1,0 +1,40 @@
+id: derrick
+name: Derrick - LinkedIn Importer for google sheet
+description: \"Derrick\" is a tool designed to integrate with Google Sheets for easy data importation and
+  processing. With this app, users can consolidate a wide range of tasks including data aggregation, cleaning,
+  and retrieving email details directly in their Google Sheets. A notable feature is the capacity to import
+  LinkedIn data. Users are able to search profiles, enrich them, and import LinkedIn search queries for
+  leads and companies. Derrick also offers a feature for gender enrichment. All these functions can be
+  done with a single click for optimal efficiency.
+category: others
+labels:
+- web scraping
+- data processing
+- google sheets
+company:
+  organization: ''
+  headquarters: FR
+  homepage: https://www.derrick-app.com/
+  privacyPolicy: https://derrick-app.com/privacy
+  termsOfService: https://www.derrick-app.com/terms-conditions
+  linkedin: https://www.linkedin.com/company/derrick-app/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Derrick - LinkedIn Importer for google sheet

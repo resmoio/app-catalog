@@ -1,0 +1,36 @@
+id: err0-io
+name: err0.io
+description: Err0.io is a tool that assists with the management of error codes. It primarily functions
+  by logging any return deliveries in a systematic, organized manner. This way, tracking and rectifying
+  issues becomes easier for the user. This software is suitable for individuals or businesses looking
+  to improve their error code management and seeking an orderly approach to handle delivery returns.
+category: others
+labels:
+- error monitoring
+- logging
+- alerting
+company:
+  organization: ''
+  homepage: https://www.err0.io
+  privacyPolicy: https://www.err0.io/privacy
+  termsOfService: https://www.err0.io/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- err0.io

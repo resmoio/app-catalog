@@ -1,0 +1,37 @@
+id: box
+name: Box
+description: Box is a digital service that allows users to store limitless data in the cloud, share files
+  securely, and manage content. It also provides customizable branding options and administrative controls
+  for streamlined operation. In addition to enabling straightforward file sharing, Box also aids in the
+  development of tailored applications to suit various business needs, substantially transforming how
+  content is managed across different business sectors.
+category: cloud
+labels: []
+company:
+  organization: Box
+  headquarters: US
+  founded: 2005
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- box.com
+- box.net
+- box.org
+oauthDisplayNames:
+- Box

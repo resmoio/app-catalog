@@ -1,0 +1,42 @@
+id: pexels
+name: Pexels
+description: Pexels is a platform that provides free stock photos and videos. Its selection includes a
+  wide range of high-quality images and clips submitted by photographers and videographers from around
+  the world. This platform can be especially useful for designers, writers, artists, and businesses who
+  need visually appealing content for their projects. Pexels does not impose any copyright restrictions,
+  and users may use the materials for both personal and commercial purposes without needing to give credit.
+  Thus, Pexels effectively simplifies the search for quality visual content.
+category: design
+labels:
+- free stock photos
+- images
+- video
+company:
+  organization: Pexels
+  headquarters: AU
+  founded: 2012
+  homepage: https://www.pexels.com/
+  privacyPolicy: https://www.pexels.com/terms-of-service/
+  termsOfService: https://www.pexels.com/privacy-policy/
+  linkedin: https://www.linkedin.com/company/pexels/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- pexels.com
+oauthDisplayNames:
+- Pexels

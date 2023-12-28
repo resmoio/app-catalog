@@ -1,0 +1,42 @@
+id: pocket
+name: Pocket
+description: Pocket is a digital application that allows users to save articles, videos, and other web
+  content for later reading or viewing, even without internet access. It acts as a personal storage tool,
+  where users can store interesting content from various websites. The saved material is synced across
+  all devices associated with the user's Pocket account, making it accessible anywhere at any time. The
+  application gives users the convenience of retrieving and engaging with their stored content as per
+  their convenience.
+category: others
+labels:
+- read later
+- saving content
+- productivity
+company:
+  organization: Mozilla
+  headquarters: US
+  founded: 2007
+  homepage: https://getpocket.com/en/
+  privacyPolicy: https://getpocket.com/en/privacy/
+  termsOfService: https://getpocket.com/en/tos/
+  securityPage: https://help.getpocket.com/article/870-pocket-security-overview
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- getpocket.com
+oauthDisplayNames:
+- Pocket

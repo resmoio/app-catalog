@@ -1,0 +1,43 @@
+id: mindmeister
+name: MindMeister
+description: MindMeister is an online tool designed for creating and editing mind maps, which are visual
+  representations of ideas and information. It supports real-time collaboration, allowing multiple users
+  to work on the same map simultaneously, which is beneficial for group brainstorming, project planning,
+  and managing knowledge. The service is accessible on various devices, including iPhones, iPads, and
+  Android devices. MindMeister aims to facilitate the organization and presentation of thoughts in a visual
+  format.
+category: productivity
+labels:
+- mind mapping
+- brainstorming
+- productivity
+company:
+  organization: MeisterLabs
+  headquarters: DE
+  founded: 2006
+  homepage: https://www.mindmeister.com/
+  privacyPolicy: https://mindmeister.com/privacy
+  termsOfService: https://mindmeister.com/legal
+  securityPage: https://www.meistertask.com/pages/security/
+  linkedin: https://www.linkedin.com/company/meisterlabs-gmbh/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mindmeister.com
+oauthDisplayNames:
+- MindMeister

@@ -1,0 +1,46 @@
+id: slido
+name: Slido
+description: Slido is a technology platform that focuses on enriching audience engagement during different
+  types of gatherings such as meetings, events, or webinars. This can happen both live and remotely. The
+  platform offers a user-friendly environment for question and answer sessions and live polling, promoting
+  real-time interaction between presenters and participants. With this approach, Slido not only enhances
+  audience involvement, but it also provides valuable insights about them. The objective of Slido is to
+  simplify and intensify audience interaction during various events, making it a valuable tool for fostering
+  meaningful conversations.
+category: marketing
+labels:
+- audience interaction
+- engagement
+- events
+company:
+  organization: Slido
+  headquarters: SK
+  founded: 2013
+  homepage: https://www.slido.com/
+  privacyPolicy: https://www.slido.com/terms#slido-privacy
+  termsOfService: https://www.slido.com/terms#terms-of-service
+  securityPage: https://www.slido.com/security
+  linkedin: https://www.linkedin.com/company/slido/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- sli.do
+- slido.com
+oauthDisplayNames:
+- Slido
+- Slido Integration

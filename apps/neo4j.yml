@@ -1,0 +1,33 @@
+id: neo4j
+name: Neo4j
+description: Neo4j is a system for managing and querying graph data. By storing and organizing information
+  through a graph-based model, it highlights the connections between different data points. Users can
+  leverage this platform to support a range of applications like social networking sites or fraud detection
+  systems. Its query language, Cypher, allows for intricate inquiries into the data, making it easier
+  to extract meaningful insights. This makes it ideal for anyone dealing with complex, interconnected
+  data sets.
+category: storage-and-database
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Neo4j Accounts

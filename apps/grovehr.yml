@@ -1,0 +1,34 @@
+id: grovehr
+name: GroveHR
+description: GroveHR is a cloud-based HR application primarily designed for small to medium-sized businesses.
+  It aims to uncomplicate HR operations and enhance the management of employee information. This tool
+  aspires to provide a simpler method for businesses to handle their HR tasks without the intricacies
+  typically associated with such undertakings.
+category: hr
+labels:
+- hr
+- payroll
+- compliance
+company:
+  organization: ''
+  homepage: https://www.grovehr.com
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GroveHR

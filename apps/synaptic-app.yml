@@ -1,0 +1,35 @@
+id: synaptic-app
+name: Synaptic App
+description: Synaptic is a platform designed to manage and interpret substantial amounts of data. It's
+  specifically tailored to address the needs of financial firms and investors. By analyzing the massive
+  datasets it handles, Synaptic provides practical insights that aid in the decision-making process.
+category: others
+labels:
+- alternative data
+- finance
+- investing
+company:
+  organization: ''
+  homepage: https://synaptic.com/
+  privacyPolicy: https://synaptic.com/privacy-policy.html
+  termsOfService: https://synaptic.com/privacy-policy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Synaptic App

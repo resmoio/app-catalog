@@ -1,0 +1,40 @@
+id: crisp.chat
+name: Crisp
+description: Crisp Chat is a versatile customer messaging platform designed to facilitate seamless communication between 
+  businesses and their customers. It offers a suite of tools encompassing live chat, email, and chatbot functionalities, 
+  empowering businesses to engage with their audience in real-time across various digital channels.
+  The platform provides a user-friendly interface, enabling businesses to easily manage conversations, respond to inquiries, 
+  and deliver personalized support. With features such as chat routing, canned responses, and file sharing, Crisp Chat ensures 
+  efficient and effective customer interactions.
+category: customer-support
+labels: []
+company:
+  organization: Crisp IM
+  headquarters: FR
+  founded: 2011
+  homepage: https://crisp.chat/en/
+  privacyPolicy: https://crisp.chat/en/privacy/
+  termsOfService: https://crisp.chat/en/terms/
+  statusPage: https://status.crisp.chat/
+  securityPage: https://docs.crisp.chat/guides/others/security-practices/
+  linkedin: https://www.linkedin.com/company/crisp-im/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.crisp.chat
+oauthDisplayNames: []

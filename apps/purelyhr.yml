@@ -1,0 +1,43 @@
+id: purelyhr
+name: PurelyHR
+description: PurelyHR is a cloud-based system designed to aid in managing various aspects of human resources
+  within small and medium-sized businesses. It covers several areas including leave management, time tracking,
+  attendance monitoring and employee data handling. Notably, the service is flexible, enabling users to
+  select individual components or combine modules based on their specific needs, thereby creating a cohesive
+  system tailored to their unique operational requirements. In essence, PurelyHR offers a comprehensive
+  set of tools aimed at streamlining the management process within a company's workforce.
+category: hr
+labels:
+- hr software
+- leave management
+- payroll
+company:
+  organization: PurelyHR.com
+  headquarters: CA
+  founded: 2008
+  homepage: https://www.purelyhr.com/
+  privacyPolicy: https://www.purelyhr.com/terms-of-use/?m=timeoff#security-and-privacy
+  termsOfService: https://www.purelyhr.com/terms-of-use/?m=timeoff
+  securityPage: https://www.purelyhr.com/security/
+  linkedin: https://www.linkedin.com/company/purely-hr/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- purelyhr.com
+oauthDisplayNames:
+- PurelyHR

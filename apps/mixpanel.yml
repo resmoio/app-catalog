@@ -1,0 +1,44 @@
+id: mixpanel
+name: Mixpanel
+description: Mixpanel is a user-friendly platform that assists companies in understanding user interaction
+  with their web and mobile applications. The tool focuses on tracking and analyzing user behavior, aiding
+  businesses in decision-making based on hard data. This information can be employed to enhance the user
+  experience. The platform's primary functions are to facilitate measurement and interpretation of user
+  data, which can help in creating better, data-informed products. It caters to all sorts of applications,
+  from web and mobile applications to others, making it a versatile analytics tool.
+category: web-analytics
+labels:
+- product analytics
+- retention
+- funnels
+company:
+  organization: Mixpanel
+  headquarters: US
+  founded: 2009
+  homepage: https://mixpanel.com/home
+  privacyPolicy: https://mixpanel.com/legal/privacy-policy/
+  termsOfService: https://mixpanel.com/legal/terms-of-use/
+  statusPage: https://www.mixpanelstatus.com/
+  securityPage: https://mixpanel.com/legal/security-overview
+  linkedin: https://www.linkedin.com/company/mixpanel-inc-/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- mixpanel.com
+oauthDisplayNames:
+- Mixpanel

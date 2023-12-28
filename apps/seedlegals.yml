@@ -1,0 +1,36 @@
+id: seedlegals
+name: SeedLegals
+description: SeedLegals is a service that assists start-ups and investors in managing their legal needs.
+  With the inclusion of unlimited expert support, it is relied upon by a large community of over 50,000
+  startups and investors. This application is geared towards supporting growth and streamlining legal
+  processes to alleviate potential complications.
+category: others
+labels:
+- startup fundraising
+- documents
+- legal
+company:
+  organization: ''
+  homepage: https://seedlegals.com
+  privacyPolicy: https://seedlegals.com/privacy-policy/
+  termsOfService: https://seedlegals.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SeedLegals

@@ -1,0 +1,44 @@
+id: doodle
+name: Doodle
+description: Doodle is a web-based application designed to assist in identification of an agreeable date
+  and time for group meetings or events. Users can suggest many time slots and invite others to share
+  when they are available, which aids in determining the most suitable time for everyone. It's especially
+  useful for arranging meetings with colleagues, clients, or friends, whether on an individual basis or
+  in larger groups. This free service offers a straightforward and efficient way to arrange any event,
+  from regular meetings to significant collaborative projects.
+category: productivity
+labels:
+- scheduling
+- calendar
+- meetings
+company:
+  organization: Tamedia
+  headquarters: CH
+  founded: 1893
+  homepage: https://doodle.com/en/
+  privacyPolicy: https://doodle.com/en/privacy-policy/
+  termsOfService: https://doodle.com/en/general-terms-and-conditions/
+  statusPage: https://uptime.doodle.com/
+  securityPage: https://doodle.com/en/features/security/
+  linkedin: https://www.linkedin.com/company/doodle-ag/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- doodle.com
+oauthDisplayNames:
+- Doodle

@@ -1,0 +1,41 @@
+id: nyota-ai
+name: Nyota AI
+description: Nyota AI is a digital meeting assistant intended to help professionals manage their work
+  more efficiently. The app brings together all discussions on one platform, making note-taking an easy
+  and organized process. It also transcribes and summarizes meetings, transforming them into actionable
+  insights. The app provides the necessary information at the right time, assisting users in staying well-organized
+  and focused. Nyota AI strives to increase productivity and reduce unnecessary time spent on unproductive
+  tasks.
+category: productivity
+labels:
+- meeting assistant
+- notes
+- collaboration
+company:
+  organization: Nyota AI Ltd
+  headquarters: GB
+  founded: 2021
+  homepage: https://www.nyota.ai/
+  privacyPolicy: https://www.nyota.ai/privacy
+  termsOfService: https://www.nyota.ai/terms
+  linkedin: https://www.linkedin.com/company/nyotaai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Nyota AI

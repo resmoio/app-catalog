@@ -1,0 +1,41 @@
+id: balsamiq-cloud
+name: Balsamiq Cloud
+description: Balsamiq Cloud is a tool designed to assist in the wireframing and prototyping process, suitable
+  for designers, product managers, and teams. It's meant to aid in the quick and effective development
+  of mock-ups and prototypes for both web and mobile applications. The platform provides a drag-and-drop
+  interfacing system and access to a vast collection of pre-existing components, making it simpler to
+  visualize and transform ideas into interactive wireframes. This application aims to foster both speed
+  and collaboration within the wireframing process.
+category: design
+labels:
+- design
+- wireframing
+- prototyping
+company:
+  organization: Balsamiq Studios, LLC
+  headquarters: US
+  founded: 2008
+  homepage: https://balsamiq.cloud/
+  privacyPolicy: https://balsamiq.com/legal/privacy/
+  termsOfService: https://balsamiq.com/legal/terms/tos/
+  linkedin: https://www.linkedin.com/company/balsamiq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Balsamiq Cloud

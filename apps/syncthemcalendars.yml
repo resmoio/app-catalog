@@ -1,0 +1,39 @@
+id: syncthemcalendars
+name: SyncThemCalendars
+description: SyncThemCalendars is a digital tool designed to simplify calendar management. It allows for
+  smooth coordination between multiple calendars, which can be beneficial for both businesses and freelancers.
+  Whether scheduling events or allocating time blocks, this cloud-based service makes sure everything
+  is cohesively organized. It also replicates shared events to work calendars, reducing the chances of
+  forgetting appointments or getting into scheduling troubles.
+category: productivity
+labels:
+- calendar sync
+- availability
+- scheduling
+company:
+  organization: SyncThemCalendars
+  headquarters: US
+  founded: 2019
+  homepage: https://syncthemcalendars.com/
+  privacyPolicy: https://syncthemcalendars.com/privacy/
+  termsOfService: https://syncthemcalendars.com/tos/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SyncThemCalendars

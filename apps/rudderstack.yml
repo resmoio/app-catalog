@@ -1,0 +1,43 @@
+id: rudderstack
+name: RudderStack
+description: RudderStack is an open-source platform utilized by businesses for the management of customer
+  event data. It enables companies to collect, store, and direct this data to several marketing and analytics
+  tools. The goal is to enhance the efficiency of data flow, granting better control over data. It ultimately
+  supports a unified and consistent understanding of users across multiple platforms and devices. Simplistically,
+  RudderStack is a tool for gathering, consolidating, and utilizing customer data across various platforms,
+  including data warehouses, websites, and applications.
+category: data-analytics
+labels:
+- customer data pipeline
+- analytics
+- warehouse
+company:
+  organization: RudderStack
+  headquarters: US
+  founded: 2019
+  homepage: https://www.rudderstack.com/
+  privacyPolicy: https://www.rudderstack.com/privacy-policy/
+  termsOfService: https://www.rudderstack.com/master-service-agreement/
+  statusPage: https://status.rudderstack.com/
+  securityPage: https://www.rudderstack.com/security/
+  linkedin: https://www.linkedin.com/company/rudderstack/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- RudderStack

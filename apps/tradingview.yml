@@ -1,0 +1,43 @@
+id: tradingview
+name: TradingView
+description: TradingView is a platform that is hosted in the cloud. It provides various features to aid
+  investors and traders such as interactive charts and technical analysis tools. The cloud-based nature
+  of the platform ensures it can be accessed from various locations, facilitating flexibility for users.
+  It also fosters engagement by allowing users to discuss a variety of financial markets and share their
+  strategies, insights, and ideas through charts and articles. Users can monitor numerous markets simultaneously
+  via the platform's comprehensive charting capabilities. Registration to use TradingView is free of charge.
+category: business-intelligence
+labels:
+- charting
+- technical analysis
+- community
+company:
+  organization: TradingView
+  headquarters: GB
+  founded: 2011
+  homepage: https://www.tradingview.com/
+  privacyPolicy: https://www.tradingview.com/privacy-policy/
+  termsOfService: https://www.tradingview.com/policies/
+  statusPage: https://status.tradingview.com/
+  linkedin: https://www.linkedin.com/company/tradingview/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tradingview.com
+oauthDisplayNames:
+- TradingView

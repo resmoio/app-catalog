@@ -1,0 +1,42 @@
+id: tally-workspace
+name: Tally Workspace
+description: Tally Workspace is an all-in-one platform that provides a simplified solution for office
+  space needs. It offers a wide range of choices to both individuals and teams, including the option to
+  find a permanent office, reserve meeting rooms, or book short-term workspaces like hot desks and day
+  offices. Users have thousands of handpicked workplace options across the UK, spanning different venue
+  types, such as co-working spaces, cafes, bars, restaurants and hotels, each equipped with essential
+  work facilities like fast Wi-Fi. This makes Tally Workspace an effective tool for companies seeking
+  a high-quality, flexible and local remote work solution for their employees.
+category: productivity
+labels:
+- coworking
+- workspace booking
+- meetings
+company:
+  organization: Tally Workspace Ltd.
+  headquarters: GB
+  founded: 2020
+  homepage: https://www.tallyworkspace.com/
+  privacyPolicy: https://www.tallyworkspace.com/assets/documents/Terms_and_conditions_11042022-75cbe8857aa06525aeaecafc3fd02945576ff3c3243ebdb9c49620b95336f6b2.pdf
+  termsOfService: https://www.tallyworkspace.com/assets/documents/Privacy%20Policy%20v2.docx-3a2260ea80f162e881429e4deafcbad8813d4d169c7da5dd379f63ec255f7747.pdf
+  linkedin: https://www.linkedin.com/company/tally-workspace/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Tally Workspace

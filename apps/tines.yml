@@ -1,0 +1,44 @@
+id: tines
+name: Tines
+description: Tines is a software application designed to assist security and IT teams by automating manual
+  and repetitive tasks without requiring any coding skills. Using Tines, teams can create automated workflows
+  to respond to incidents and manage routine tasks, while also integrating different systems. This ensures
+  improved efficiency and quicker response times. Tines also offers secure workflow building for the entire
+  team which aids in reducing duplicate efforts, unnecessary alerts, and information silos, thus promoting
+  better coordination across different systems.
+category: others
+labels:
+- workflow automation
+- no code
+- it workflows
+company:
+  organization: Tines
+  headquarters: US
+  founded: 2018
+  homepage: https://tines.io
+  privacyPolicy: https://www.tines.com/privacy
+  termsOfService: https://www.tines.com/terms
+  statusPage: https://status.tines.com/
+  securityPage: https://www.tines.com/security
+  linkedin: https://www.linkedin.com/company/tines-io/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tines.com
+oauthDisplayNames:
+- Tines

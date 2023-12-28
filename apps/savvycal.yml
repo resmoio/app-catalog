@@ -1,0 +1,43 @@
+id: savvycal
+name: SavvyCal
+description: SavvyCal is a user-friendly software designed to aid individuals and businesses with their
+  scheduling needs. It links to the users' Stripe accounts, enabling a simplified process for scheduling
+  payments and meetings. The platform accommodates diverse payment options, sends out automatic notifications,
+  and collects taxes. Moreover, it allows people to effortlessly establish a meeting time. Therefore,
+  SavvyCal is an all-inclusive scheduling tool that provides an efficient solution to streamline various
+  operations.
+category: account-and-finance
+labels:
+- stripe
+- scheduling
+- payments
+company:
+  organization: SavvyCal Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://savvycal.com/
+  privacyPolicy: https://savvycal.com/privacy
+  termsOfService: https://savvycal.com/terms
+  statusPage: https://savvycal.instatus.com/
+  securityPage: https://savvycal.com/security/
+  linkedin: https://www.linkedin.com/company/savvycal/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SavvyCal

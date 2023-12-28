@@ -1,0 +1,31 @@
+id: mulesoft-composer
+name: MuleSoft Composer
+description: MuleSoft Composer is a platform that allows users with minimal technical expertise to connect
+  various applications, systems, and data sources through integration and workflow automation. It provides
+  pre-made connectors, templates, and a user-friendly drag-and-drop interface, which simplifies the creation
+  of integrations and enhances business processes.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- composer.mulesoft.com
+oauthDisplayNames: []

@@ -1,0 +1,39 @@
+id: wise
+name: Wise
+description: Wise is a global technology company focused on simplifying the process of transferring money
+  across borders. It caters to more than 160 countries and accommodates up to 40 currencies. It provides
+  users with a unified account that seeks to cut costs when sending money, making expenditures overseas,
+  or handling international money matters. The primary goal of Wise is to streamline these international
+  transactions and increase their efficiency.
+category: others
+labels:
+- money transfer
+- currency exchange
+- international
+company:
+  organization: Wise Payments Limited
+  headquarters: GB
+  founded: 2011
+  homepage: https://wise.com
+  statusPage: https://status.wise.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wise.com
+oauthDisplayNames:
+- Wise

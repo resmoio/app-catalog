@@ -1,0 +1,34 @@
+id: figures
+name: Figures
+description: Figures is an application designed to manage compensation for startups and growing companies.
+  It provides real-time updates to help ensure fair pay practices are upheld within these businesses.
+  The app streamlines the process of handling employee remuneration, aiming to support organizations in
+  maintaining pay equity.
+category: others
+labels:
+- compensation planning
+- equity
+- hr
+company:
+  organization: ''
+  homepage: https://app.figures.hr
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Figures

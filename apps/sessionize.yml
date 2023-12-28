@@ -1,0 +1,40 @@
+id: sessionize
+name: Sessionize
+description: Sessionize is a platform designed to help event organizers manage various aspects of their
+  events, including calls for papers, speakers, and schedules. It's created to make the process of receiving
+  and reviewing submissions, organizing sessions, and communicating with presenters easier. It aims to
+  provide a seamless experience for both the ones arranging the event and the individuals giving presentations.
+category: online-meetings
+labels:
+- conference management
+- events
+- speakers
+company:
+  organization: dizzy.hr
+  headquarters: HR
+  founded: 2017
+  homepage: https://sessionize.com/
+  privacyPolicy: https://sessionize.com/privacy-policy
+  termsOfService: https://sessionize.com/terms-of-service
+  securityPage: https://sessionize.com/trust
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- sessionize.com
+oauthDisplayNames:
+- Sessionize

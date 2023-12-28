@@ -1,0 +1,38 @@
+id: fantastical
+name: Fantastical for Mac
+description: Fantastical is a calendar and task management tool designed to be used on macOS, iOS, and
+  iPadOS. It offers a straightforward interface that interprets natural language for event creation. The
+  software seamlessly connects with different apps and platforms, making it easier to manage schedules
+  and reminders. It is suited for both individual users and teams, providing a hassle-free and efficient
+  means of task organization.
+category: productivity
+labels:
+- calendar
+- events
+- reminders
+company:
+  organization: ''
+  homepage: https://flexibits.com
+  privacyPolicy: https://flexibits.com/privacy
+  termsOfService: https://flexibits.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Fantastical for Mac
+- Fantastical for iOS

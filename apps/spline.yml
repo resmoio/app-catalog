@@ -1,0 +1,40 @@
+id: spline
+name: Spline
+description: Spline is a user-friendly tool primarily used for designing 3D web experiences directly in
+  the browser. It does not require coding skills, making it accessible to a wide range of users. It allows
+  for quick building and modifications, and it enables users to finalize their designs with minimal effort.
+  Spline also supports real-time collaboration, meaning multiple users can work together on the same project
+  at the same time. Furthermore, it offers features such as 3D modeling, animation, texturing, and more.
+  Despite its comprehensive capabilities, the software remains free to use.
+category: design
+labels:
+- 3d design
+- ar/vr
+- collaboration
+company:
+  organization: Spline Inc.
+  headquarters: CL
+  founded: 2020
+  homepage: https://spline.design
+  privacyPolicy: https://splinetool.notion.site/Spline-Privacy-Policy-69eb8efed8fe44418afaafa3e2d8156d
+  termsOfService: https://splinetool.notion.site/Spline-Terms-Conditions-7c93187dd5ba4749af8b61d792e4436a
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Spline

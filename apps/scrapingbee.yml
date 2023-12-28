@@ -1,0 +1,36 @@
+id: scrapingbee
+name: ScrapingBee
+description: ScrapingBee is a web scraping application programming interface (API) designed to manage
+  proxies and headless browsers. Its key function is to allow the user to concentrate on data extraction,
+  excluding other distractions. In essence, it simplifies the process of obtaining the necessary data
+  from the web by taking care of the technical aspects.
+category: others
+labels:
+- web scraping
+- crawling
+- api
+company:
+  organization: ''
+  homepage: https://www.scrapingbee.com
+  privacyPolicy: https://www.scrapingbee.com/privacy-policy/
+  termsOfService: https://www.scrapingbee.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ScrapingBee

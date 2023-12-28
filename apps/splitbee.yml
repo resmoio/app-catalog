@@ -1,0 +1,39 @@
+id: splitbee
+name: Splitbee
+description: Splitbee is an intuitive tool designed to analyze and enhance the performance of your website.
+  It functions as a single, straightforward platform for all your analytic requirements, aiming to simplify
+  the tracking and optimization process for improved outcomes. While Splitbee does offer free access initially,
+  it's important to understand what features and services come with each plan.
+category: web-analytics
+labels:
+- analytics
+- attribution
+- privacy
+company:
+  organization: Splitbee
+  headquarters: AT
+  founded: 2020
+  homepage: https://splitbee.io
+  privacyPolicy: https://splitbee.io/privacy
+  termsOfService: https://splitbee.io/legal
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- splitbee.io
+oauthDisplayNames:
+- Splitbee

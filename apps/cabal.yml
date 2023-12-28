@@ -1,0 +1,35 @@
+id: cabal
+name: Cabal
+description: Cabal is an application designed to assist founders in managing their businesses. It offers
+  a private workspace where they can connect with investors and advisors, manage requests and updates,
+  and monitor contributions. The app also includes features that allow them to scale up their advisor
+  program. It is built to help founders better utilize their advisors and investors by organizing and
+  streamlining communication and contributions.
+category: education
+labels: []
+company:
+  organization: ''
+  homepage: https://getcabal.com
+  privacyPolicy: https://getcabal.com/privacy
+  termsOfService: https://getcabal.com/terms
+  linkedin: https://www.linkedin.com/company/getcabal
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Cabal

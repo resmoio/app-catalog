@@ -1,0 +1,33 @@
+id: mulesoft-training
+name: MuleSoft Training
+description: MuleSoft Training is a learning platform designed for people and teams who want to improve
+  their understanding of MuleSoft's integration and API management technologies. The platform provides
+  a range of courses that deal with various topics, including API design, integration development, and
+  effective use of the Anypoint Platform. The courses are structured to accommodate beginners as well
+  as advanced learners, equipping them with the necessary knowledge to efficiently design, construct and
+  oversee resilient integrations and APIs.
+category: education
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- training.mulesoft.com
+oauthDisplayNames: []

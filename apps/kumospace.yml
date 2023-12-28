@@ -1,0 +1,33 @@
+id: kumospace
+name: Kumospace
+description: Kumospace is an online platform that allows for video chats with a more immersive experience.
+  It is particularly useful for teams working remotely, providing a virtual workspace where they can meet,
+  communicate, and collaborate. Furthermore, it also offers a platform suitable for hosting events virtually.
+category: online-meetings
+labels: []
+company:
+  organization: Kumospace
+  headquarters: US
+  founded: 2020
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- kumospace.com
+oauthDisplayNames:
+- Kumospace

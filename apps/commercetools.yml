@@ -1,0 +1,33 @@
+id: commercetools
+name: commercetools Merchant Center
+description: The Commercetools Merchant Center is a user-friendly platform that offers businesses a way
+  to provide customized shopping experiences across different channels. It primarily uses an API system
+  and is based in the cloud for better integration and business growth. This platform makes it easier
+  for businesses to improve their online retail activities.
+category: e-commerce
+labels: []
+company:
+  organization: ''
+  homepage: https://commercetools.com/
+  privacyPolicy: https://commercetools.com/privacy
+  linkedin: https://www.linkedin.com/company/commercetools
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- commercetools.com
+oauthDisplayNames: []

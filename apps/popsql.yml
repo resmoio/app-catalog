@@ -1,0 +1,41 @@
+id: popsql
+name: PopSQL
+description: PopSQL is a user-friendly application ideal for managing databases. Its design makes it simple
+  for users to execute SQL queries, even without technical expertise. The app not only serves the purpose
+  of retrieving and manipulating data but also provides options for data visualization. Hence, PopSQL
+  simplifies the process of interacting with databases, making it manageable for a wide range of users.
+category: development-tools
+labels:
+- sql editor
+- database query
+- visualize data
+company:
+  organization: PopSQL Inc.
+  headquarters: US
+  founded: 2017
+  homepage: https://popsql.com
+  privacyPolicy: https://popsql.com/privacy
+  termsOfService: https://popsql.com/terms
+  statusPage: https://popsqlstatus.com/
+  securityPage: https://popsql.com/security
+  linkedin: https://www.linkedin.com/company/popsql/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- PopSQL

@@ -1,0 +1,36 @@
+id: sendsimple-app
+name: SendSimple App
+description: SendSimple App is an email add-on designed for Google Workplace. This user-friendly application
+  enables users to send out bulk, personalized emails through platforms like Gmail, Amazon SES, and Sendgrid.
+  The app can be used for various email marketing needs and is noted for both its affordability and ease
+  of use.
+category: others
+labels:
+- email campaigns
+- automation
+- templates
+company:
+  organization: ''
+  homepage: https://www.sendsimple.app
+  privacyPolicy: https://www.sendsimple.app/privacy-policy
+  termsOfService: https://www.sendsimple.app/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SendSimple App

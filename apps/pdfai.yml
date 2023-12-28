@@ -1,0 +1,40 @@
+id: pdfai
+name: PDF.ai
+description: PDF.ai is a tool that modernizes the handling of PDF documents. With the integration of sophisticated
+  Artificial Intelligence (AI), it permits users to interact with their PDFs beyond standard viewing.
+  It enables users to seek specific pieces of information, obtain synopses, and draw out data from their
+  files. PDF.ai also has distinct feature where users can 'chat' with their PDFs, enabling an even more
+  comprehensive understanding of document content.
+category: productivity
+labels:
+- pdf tools
+- data extraction
+- analytics
+company:
+  organization: PDF.ai
+  headquarters: GB
+  founded: 2023
+  homepage: https://pdf.ai/
+  privacyPolicy: https://pdf.ai/privacy-policy
+  termsOfService: https://pdf.ai/privacy-policy
+  linkedin: https://www.linkedin.com/company/pdfai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- PDF.ai

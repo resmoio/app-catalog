@@ -1,0 +1,44 @@
+id: announcekit
+name: Announcekit
+description: AnnounceKit is a tool that businesses can use to share updates and news with customers. With
+  this app, companies can create personalized news feeds, collect user feedback, and access thorough analytic
+  data to understand user engagement. This way, companies keep their stakeholders informed without any
+  complications. Despite carrying a variety of features, AnnounceKit ensures a straightforward and efficient
+  communication process. It is especially useful for sharing product updates and company news.
+category: marketing
+labels:
+- marketing
+- announcements
+- updates
+company:
+  organization: Announcekit
+  headquarters: US
+  founded: 2018
+  homepage: https://announcekit.app/
+  privacyPolicy: https://announcekit.app/privacy-policy
+  termsOfService: https://announcekit.app/terms-of-service
+  securityPage: https://announcekit.app/security
+  linkedin: https://www.linkedin.com/company/announcekit/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- announcekit-mail.com
+appDomains:
+- announcekit.app
+oauthDisplayNames:
+- Announcekit

@@ -1,0 +1,42 @@
+id: vantage
+name: Vantage
+description: Vantage is a platform that provides analytics and monitoring for cloud-based infrastructure.
+  It helps users understand their cloud infrastructure costs and performance. This platform aims to make
+  managing cloud resources easier through a unified dashboard and tools geared towards resource optimization
+  and cost management.
+category: business-intelligence
+labels:
+- cloud cost management
+- optimization
+- visibility
+company:
+  organization: Vantage
+  headquarters: US
+  founded: 2020
+  homepage: https://www.vantage.sh/
+  privacyPolicy: https://www.vantage.sh/privacy-policy
+  termsOfService: https://www.vantage.sh/terms-of-service
+  statusPage: https://status.vantage.sh/
+  securityPage: https://www.vantage.sh/security
+  linkedin: https://www.linkedin.com/company/vantage-sh/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vantage.sh
+oauthDisplayNames:
+- Vantage

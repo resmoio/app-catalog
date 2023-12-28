@@ -1,0 +1,43 @@
+id: writesonic
+name: Writesonic
+description: Writesonic is a writing platform that uses artificial intelligence to create content suited
+  for various platforms, such as blogs, Facebook ads, Google ads, and Shopify. The platform is particularly
+  useful for creating material that aligns with search engine optimization strategies. Users can also
+  take advantage of a tool that can replace and enhance their current content. Writesonic, utilized by
+  over 5 million people, aims to ease and transform the process of creating and conveying content.
+category: content-management
+labels:
+- ai writing assistant
+- seo
+- marketing
+company:
+  organization: Writesonic
+  headquarters: US
+  founded: 2021
+  homepage: https://writesonic.com/
+  privacyPolicy: https://writesonic.com/privacy-policy
+  termsOfService: https://writesonic.com/terms
+  statusPage: https://status.writesonic.com/
+  securityPage: https://writesonic.com/legal/security
+  linkedin: https://www.linkedin.com/company/writesonic/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- writesonic.com
+oauthDisplayNames:
+- Writesonic

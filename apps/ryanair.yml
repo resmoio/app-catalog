@@ -1,0 +1,40 @@
+id: ryanair
+name: Ryanair
+description: The Ryanair app is associated with the Irish low-cost airline, Ryanair, recognized as Europe's
+  largest budget airline. This airline typically offers lesser expensive fares and covers an extensive
+  network of routes. It operates on a straightforward approach, cutting back on extravagant services to
+  maintain lower costs for passengers.
+category: transportation-and-travel
+labels:
+- low-cost airline
+- flights
+- europe
+company:
+  organization: Ryanair
+  headquarters: IE
+  founded: 1985
+  homepage: https://www.ryanair.com/us/en
+  privacyPolicy: https://www.ryanair.com/us/en/corporate/privacy-policy
+  termsOfService: https://www.ryanair.com/us/en/corporate/terms-of-use
+  securityPage: https://corporate.ryanair.com/about-us/cyber-security/
+  linkedin: https://www.linkedin.com/company/ryanair/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Ryanair

@@ -1,0 +1,37 @@
+id: adveronix
+name: Adveronix
+description: Adveronix is an add-on for Google Sheets that simplifies the process of transferring analytics
+  data between Google Sheets and multiple advertising platforms. It allows users to automatically collect
+  data from different sources into a single report. The tool is designed to help businesses organize their
+  data more efficiently, improve their reporting methods, and increase productivity by reducing the time
+  spent on data management tasks.
+category: productivity
+labels: []
+company:
+  organization: Adveronix
+  headquarters: US
+  homepage: https://adveronix.com/
+  privacyPolicy: https://adveronix.com/privacy-policy
+  termsOfService: https://adveronix.com/tos
+  linkedin: https://www.linkedin.com/company/adveronix/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- adveronix.com
+oauthDisplayNames:
+- Adveronix

@@ -1,0 +1,41 @@
+id: prontopro
+name: ProntoPro
+description: ProntoPro is a well-known application used largely in Italy that provides a platform for
+  users to find and hire local service professionals. It includes over 600 different service areas, allowing
+  individuals to find specific providers such as wedding photographers, plumbers, and guitar teachers.
+  The application focuses on simplicity and reliability, ensuring that users can effortlessly locate and
+  compare the services they need effectively. As a leading marketplace for a broad range of professional
+  services, ProntoPro provides a streamlined process of identifying, comparing, and choosing the right
+  professionals based on the user's requirements.
+category: business-intelligence
+labels: []
+company:
+  organization: Prontopro
+  headquarters: IT
+  founded: 2015
+  homepage: https://www.prontopro.it/
+  privacyPolicy: https://www.prontopro.it/terms/privacy-policy
+  termsOfService: https://assets.prontopro.it/fe-cdn/static-assets/documents/termini_e_condizioni_16_06_2022.pdf
+  linkedin: https://www.linkedin.com/company/prontopro/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- prontopro.it
+oauthDisplayNames:
+- ProntoPro
+- ProntoPro.it

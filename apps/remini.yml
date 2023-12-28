@@ -1,0 +1,35 @@
+id: remini
+name: Remini
+description: Remini is an application that uses advanced artificial intelligence (AI) technology to enhance
+  photos and videos. It can help clear up blurry images and make aesthetic improvements, often restoring
+  old or low-quality media files to high-definition. The app provides an easy way to quickly improve the
+  visual quality of photos or videos, making it a useful tool for those wanting to revamp their media
+  library.
+category: productivity
+labels: []
+company:
+  organization: Splice Video Editor
+  headquarters: US
+  founded: 2010
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- remini.ai
+oauthDisplayNames:
+- Remini

@@ -1,0 +1,39 @@
+id: digitalocean
+name: DigitalOcean
+description: DigitalOcean is a cloud computing platform offering reliable and scalable infrastructure
+  solutions. Geared toward simplifying tasks for developers and businesses, DigitalOcean provides services
+  including virtual machines, managed databases, storage solutions, and networking tools. It assists users
+  in efficiently deploying, managing, and scaling applications regardless of their size. The platform
+  is designed to support project development and launching in the cloud environment smoothly.
+category: cloud
+labels: []
+company:
+  organization: DigitalOcean
+  headquarters: US
+  founded: 2012
+  homepage: https://www.digitalocean.com/
+  privacyPolicy: https://www.digitalocean.com/legal/privacy-policy
+  termsOfService: https://www.digitalocean.com/legal/terms-of-service-agreement
+  securityPage: https://www.digitalocean.com/security
+  linkedin: https://www.linkedin.com/company/digitalocean/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- digitalocean.com
+oauthDisplayNames:
+- DigitalOcean Control Panel

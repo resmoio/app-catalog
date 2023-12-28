@@ -1,0 +1,44 @@
+id: wordpress
+name: WordPress
+description: WordPress is an accessible and free open-source platform used to create and manage websites
+  and blogs without requiring an extensive understanding of coding. Initially designed for blogging, WordPress
+  has expanded its usability, and it's now extensively used by businesses, individuals, and organizations
+  globally. Beyond acting as a simple platform for blogging, WordPress also functions as a comprehensive
+  content management system, enabling users to build anything from simplistic blogs to complex websites
+  or applications.
+category: content-management
+labels:
+- cms
+- website builder
+- blogging
+company:
+  organization: WordPress
+  headquarters: US
+  founded: 2000
+  homepage: https://wordpress.org/
+  privacyPolicy: https://wordpress.org/about/privacy/
+  termsOfService: https://wordpress.com/tos/
+  statusPage: https://automatticstatus.com/
+  securityPage: https://wordpress.org/about/security/
+  linkedin: https://www.linkedin.com/company/wordpress/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wordpress.com
+oauthDisplayNames:
+- WordPress

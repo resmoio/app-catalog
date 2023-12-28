@@ -1,0 +1,37 @@
+id: zoho-accounts
+name: Zoho Accounts
+description: Zoho Accounts is a business software suite that serves a global clientele, with over 90 million
+  users in more than 150 countries. It offers a wide range of applications, with over 55 options available,
+  to meet the diverse business needs of enterprises, regardless of their size. Its services are designed
+  to assist with end-to-end operation of a company. Users can try the software for free before committing
+  to a full version.
+category: productivity
+labels: []
+company:
+  organization: Zoho Corp.
+  headquarters: IN
+  homepage: https://www.zoho.com
+  privacyPolicy: https://www.zoho.com/privacy.html
+  termsOfService: https://www.zoho.com/en-in/terms.html
+  securityPage: https://www.zoho.com/security.html?ireft=nhome&src=home1-footer
+  linkedin: https://www.linkedin.com/company/zohocorp/?ireft=nhome&src=home1-footer
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Zoho Accounts

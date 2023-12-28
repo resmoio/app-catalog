@@ -1,0 +1,39 @@
+id: motion
+name: Motion
+description: Motion is a calendar application powered by artificial intelligence, aimed at simplifying
+  task and time management. The app tracks daily schedules, assignments, and meetings while also planning
+  the user's day based on factors such as deadlines and work hours. It prioritizes tasks, organizes meetings,
+  and resolves any overlapping appointments. The goal is to help the user maintain an orderly schedule,
+  complete tasks efficiently, and enhance their focus during their workday. It's a preferred tool for
+  individuals across various professions, including CEOs.
+category: productivity
+labels:
+- calendar
+- ai assistant
+- scheduling
+company:
+  organization: NexusBird Inc.
+  homepage: https://usemotion.com
+  privacyPolicy: https://www.usemotion.com/privacy
+  termsOfService: https://www.usemotion.com/terms
+  securityPage: https://www.usemotion.com/security
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Motion

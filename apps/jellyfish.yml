@@ -1,0 +1,42 @@
+id: jellyfish
+name: Jellyfish
+description: Jellyfish is a digital marketing agency that helps businesses grow by using data-focused
+  strategies. The agency possesses a team of experts in multiple digital domains, providing a wide range
+  of services, from SEO and paid media, to analytics and creative design. Utilizing the latest technology
+  and insights, Jellyfish aids businesses in understanding and operating within the digital world to meet
+  their marketing objectives. Additionally, Jellyfish offers the Engineering Management Platform that
+  enhances engineering performance and aligns with strategic goals, integrating with tools like Jira and
+  GitHub.
+category: marketing
+labels:
+- digital agency
+- marketing
+- advertising
+company:
+  organization: ORTHOGONAL NETWORKS INC.
+  headquarters: US
+  founded: 2017
+  homepage: https://jellyfish.co/
+  privacyPolicy: https://jellyfish.co/?post_type=seopage&p=13399&preview=true
+  termsOfService: https://jellyfish.co/library/terms-of-service/
+  linkedin: https://www.linkedin.com/company/jellyfish-co/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Jellyfish

@@ -1,0 +1,38 @@
+id: apollographql
+name: Apollo GraphQL
+description: Apollo GraphQL stands at the forefront of modern API development, offering an innovative suite of tools, 
+  libraries, and services tailored for building, deploying, and consuming GraphQL APIs. This comprehensive platform empowers 
+  developers with robust solutions for seamless integration, efficient data management, and enhanced user experiences.
+category: development-tools
+labels:
+- api
+- productivity
+company:
+  organization: Apollo Graph, Inc.
+  headquarters: US
+  founded: 2016
+  homepage: https://www.apollographql.com/
+  privacyPolicy: https://www.apollographql.com/privacy-policy/
+  termsOfService: https://www.apollographql.com/Apollo-Terms-of-Service.pdf
+  securityPage: https://www.apollographql.com/trust/
+  linkedin: https://www.linkedin.com/company/apollo-graphql
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- apollographql.com
+oauthDisplayNames: []

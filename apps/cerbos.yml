@@ -1,0 +1,39 @@
+id: cerbos
+name: Cerbos Playground
+description: Cerbos Playground is an open-source service that primarily focuses on managing user access
+  within a product. With its unique features, it implements a robust layer of security which helps organize
+  and control user permissions in a cooperative manner. Fundamentally, it allows for the secure and flexible
+  moderation of access controls, ensuring that all parameters work in a harmonious and effectively managed
+  way. Cerbos Playground is easily scalable, enabling it to acclimatize and perform efficiently in different
+  working conditions while maintaining its primary functionality.
+category: security
+labels:
+- access control
+- authorization
+- security
+company:
+  organization: ''
+  homepage: https://cerbos.dev
+  privacyPolicy: https://cerbos.dev/privacy-policy
+  termsOfService: https://cerbos.dev/tos
+  linkedin: https://www.linkedin.com/company/cerbos-dev
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Cerbos Playground

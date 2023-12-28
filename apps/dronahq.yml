@@ -1,0 +1,34 @@
+id: dronahq
+name: DronaHQ
+description: DronaHQ is an application designed to assist developers, engineering teams, and product managers
+  in the creation of internal tools, customizable user journeys, admin panels and operational apps. It
+  does this at a much faster rate, typically ten times speedier than regular development methods. Essentially,
+  DronaHQ is a low-code platform for creating custom apps and internal tools, designed to streamline the
+  app-building process.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: https://www.dronahq.com/
+  privacyPolicy: https://www.dronahq.com/privacy
+  termsOfService: https://www.dronahq.com/terms-conditions/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- DronaHQ

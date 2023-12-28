@@ -1,0 +1,38 @@
+id: deepnote
+name: Deepnote
+description: Deepnote is a software application that facilitates data exploration and analysis using Python
+  and SQL. It allows teams to work together on the same project and share insightful findings. This collaborative
+  platform accommodates all these features in one location, making it an effective tool for teams working
+  on analytics and data science projects.
+category: development-tools
+labels:
+- data science
+- jupyter notebooks
+- collaboration
+company:
+  organization: ''
+  homepage: https://www.deepnote.com
+  privacyPolicy: https://www.deepnote.com/privacy
+  termsOfService: https://www.deepnote.com/terms
+  securityPage: https://security.deepnote.com/
+  linkedin: https://www.linkedin.com/company/deepnote
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Deepnote

@@ -1,0 +1,36 @@
+id: rize
+name: Rize
+description: Rize is a time management application known for its intelligent tracking features. It is
+  primarily designed to enhance users' concentration and assist them in developing more effective work
+  routines. Its functionality revolves around helping users optimize their productivity by offering visibility
+  into how their time is expended.
+category: others
+labels:
+- time tracking
+- productivity
+- habits
+company:
+  organization: ''
+  homepage: https://rize.io
+  privacyPolicy: https://rize.io/privacy-policy
+  termsOfService: https://rize.io/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Rize

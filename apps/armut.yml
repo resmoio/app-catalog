@@ -1,0 +1,40 @@
+id: armut
+name: Armut
+description: Armut is an online platform designed to connect homeowners with reliable service professionals
+  for various home improvement tasks. Users of Armut can easily find service providers for tasks including
+  plumbing, electrical work, painting, or general repairs. The app's user-friendly interface allows homeowners
+  to request service quotes, compare prices, and hire the professional best suited to their needs. In
+  addition, Armut encompasses a wide range of services, including cleaning, renovation, moving services,
+  and even photography, making it a convenient avenue for acquiring multiple services.
+category: others
+labels:
+- services
+- home improvement
+- booking
+company:
+  organization: Armut Teknoloji A.Ş.
+  homepage: https://armut.com/
+  privacyPolicy: https://homerun.co.uk/privacy
+  termsOfService: https://termsofservice.homerun.co.uk/
+  linkedin: https://www.linkedin.com/company/armut/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- armut.com
+oauthDisplayNames:
+- Armut

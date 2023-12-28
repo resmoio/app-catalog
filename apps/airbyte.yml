@@ -1,0 +1,43 @@
+id: airbyte
+name: Airbyte
+description: Airbyte is an open-source platform that facilitates data integration. It enables users to
+  copy data from various sources like applications, APIs, and databases, and then move them into data
+  warehouses, lakes, or other desired destinations. It offers a wide range of pre-made connectors and
+  a simple interface to make data management easier. Despite its capabilities, Airbyte avoids complicated
+  jargon and keeps its focus on helping users handle their data efficiently and effortlessly, regardless
+  of the tools and systems they are using.
+category: data-analytics
+labels:
+- data
+- etl
+- analytics
+company:
+  organization: Airbyte
+  headquarters: US
+  founded: 2020
+  homepage: https://airbyte.com/
+  privacyPolicy: https://airbyte.com/privacy-policy
+  termsOfService: https://airbyte.com/terms
+  securityPage: https://airbyte.com/data-protection
+  linkedin: https://www.linkedin.com/company/airbytehq/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- airbyte.com
+oauthDisplayNames:
+- Airbyte

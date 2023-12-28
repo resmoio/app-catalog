@@ -1,0 +1,40 @@
+id: imgur
+name: Imgur
+description: Imgur is a web-based application that offers its users access to a wide variety of entertaining
+  content, primarily in the form of memes and images. Users can engage with the material by rating and
+  sharing their favorites. With this application, users can explore the many different forms of online
+  content, understanding the varied aspects of Internet culture. In sum, Imgur is an app for browsing,
+  appreciating, and sharing internet memes and images.
+category: content-sharing
+labels:
+- image sharing
+- memes
+- community
+company:
+  organization: TD Ameritrade
+  headquarters: US
+  founded: 2009
+  homepage: https://imgur.com
+  privacyPolicy: https://imgur.com/privacy
+  termsOfService: https://imgur.com/tos
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- imgur.com
+oauthDisplayNames:
+- Imgur

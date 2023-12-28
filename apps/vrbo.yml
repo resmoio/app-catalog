@@ -1,0 +1,37 @@
+id: vrbo
+name: Vrbo
+description: Vrbo is an online platform that allows homeowners to list their vacation properties for travelers
+  worldwide. With a diverse range of properties including lodges, cabins, houses, condos, and apartments,
+  Vrbo caters to various accommodation needs whether in the city or off the beaten path. The app aids
+  users in finding suitable properties in top global destinations by offering secure and convenient search
+  and booking functionalities. It bridges the gap between homeowners and vacation-goers, providing an
+  alternative to traditional hotel stays.
+category: transportation-and-travel
+labels: []
+company:
+  organization: IAC
+  headquarters: US
+  founded: 1995
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- homeaway.co.in
+- vrbo.com
+oauthDisplayNames:
+- Vrbo

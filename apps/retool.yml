@@ -1,0 +1,41 @@
+id: retool
+name: Retool
+description: Retool is a platform designed to expedite the development of custom internal applications.
+  The low-code technology allows developers to build unique tools efficiently and quickly. Regardless
+  of whether it's managing databases, visualizing data, or automating workflows, Retool aids businesses
+  in optimizing their procedures and enhancing productivity through the streamlined creation of custom
+  tools. Its features allow quick development of applications and workflow automations that can easily
+  link with your databases and APIs.
+category: development-tools
+labels: []
+company:
+  organization: Retool Inc.
+  headquarters: US
+  founded: 2017
+  homepage: https://retool.com/
+  privacyPolicy: https://tryretool.com/privacy
+  termsOfService: https://cdn.tryretool.com/tos.pdf
+  statusPage: https://status.retool.com/
+  securityPage: https://docs.retool.com/legal/security
+  linkedin: https://www.linkedin.com/company/tryretool/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- retool.com
+oauthDisplayNames:
+- Retool

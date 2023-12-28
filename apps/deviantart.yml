@@ -1,0 +1,36 @@
+id: deviantart
+name: deviantart
+description: DeviantArt is a digital platform that serves as both an art gallery and a community for artists
+  and art enthusiasts. It enables users to create, discover, and share various forms of art. With a robust
+  collection of over 350 million art pieces, users can explore a wide range of artworks while interacting
+  with other members of the community. It is an expansive online space for art and its appreciation.
+category: social-media
+labels: []
+company:
+  organization: Wix
+  headquarters: IL
+  founded: 2006
+  homepage: https://www.deviantart.com/
+  privacyPolicy: https://www.deviantart.com/about/policy/privacy
+  termsOfService: https://www.deviantart.com/about/policy/service
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- deviantart.com
+oauthDisplayNames:
+- DeviantArt

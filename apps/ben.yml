@@ -1,0 +1,37 @@
+id: ben
+name: Ben
+description: The app named Ben is a versatile platform aimed at managing employee benefits. It offers
+  users the ability to create, implement and oversee their benefits scheme with ease. The platform has
+  a flexible nature that simplifies the entire process of handling employee benefits, from design to management.
+  However, it does not provide a function for booking a demo.
+category: others
+labels:
+- benefits
+- hr
+- insurance
+company:
+  organization: ''
+  homepage: https://www.thanksben.com
+  privacyPolicy: https://www.thanksben.com/legal/privacy-policy
+  termsOfService: https://www.thanksben.com/legal/terms-of-service
+  linkedin: https://www.linkedin.com/company/thanksben/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Ben

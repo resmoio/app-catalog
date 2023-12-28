@@ -1,0 +1,44 @@
+id: clearbit-connect
+name: Clearbit Connect
+description: Clearbit Connect is an email extension designed to enhance users' knowledge of their contacts
+  directly from their email inbox. It allows users to locate and verify email addresses, affording access
+  to detailed contact profiles and company information from within Gmail or Outlook. The tool retrieves
+  information from a comprehensive database to provide precise, current data. With Clearbit Connect, users
+  can swiftly identify any business email address, presenting a viable alternative to applications like
+  Rapportive. All of this functionality exists straight from the user's email inbox, streamlining the
+  gathering of contact information.
+category: productivity
+labels:
+- sales
+- email
+- linkedin
+company:
+  organization: APIHub Inc.
+  founded: 2015
+  homepage: https://clearbit.com/resources/tools/connect
+  privacyPolicy: https://clearbit.com/privacy-policy
+  termsOfService: https://clearbit.com/legal
+  statusPage: https://clearbit.statuspage.io/
+  securityPage: https://clearbit.com/trust#security
+  linkedin: https://www.linkedin.com/company/clearbit/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- clearbit.com
+oauthDisplayNames:
+- Clearbit Connect

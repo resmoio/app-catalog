@@ -1,0 +1,35 @@
+id: npm
+name: npm
+description: npm is a wide-ranging registry that hosts millions of open-source packages mainly for Node.js
+  and front-end web development. As the standard package manager for the JavaScript runtime environment,
+  Node.js, it facilitates easy installation and management of package dependencies. Developers are given
+  the opportunity to upload their own packages to the npm registry for communal use. In essence, npm is
+  a versatile package manager for the JavaScript language.
+category: development-tools
+labels: []
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 1975
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- npmjs.com
+- npmjs.org
+oauthDisplayNames: []

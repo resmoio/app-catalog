@@ -1,0 +1,41 @@
+id: crossmint
+name: Crossmint
+description: Crossmint is a platform designed for companies and developers who want to incorporate, manage,
+  and distribute Non-Fungible Tokens (NFTs) at significant volumes. Its robust set of APIs allows integration
+  of these digital assets into a wide range of applications. The platform's tools simplify and speed up
+  the process of creating, selling, and storing NFTs. They also include features for monetary transactions,
+  eliminating the need for users to have cryptocurrency. It is built to handle the fast-paced growth and
+  scalability requirements of the NFT market.
+category: others
+labels:
+- nfts
+- marketplaces
+- api
+company:
+  organization: Crossmint
+  headquarters: US
+  founded: 2022
+  homepage: https://www.crossmint.com/
+  privacyPolicy: https://www.crossmint.com/legal/privacy-policy
+  termsOfService: https://www.crossmint.com/legal/terms-of-service
+  linkedin: https://www.linkedin.com/company/crossmint-io/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Crossmint

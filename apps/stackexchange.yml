@@ -1,0 +1,39 @@
+id: stackexchange
+name: Stack Exchange
+description: Stack Exchange is a collection of websites centered around question-and-answer exchanges.
+  It welcomes enthusiasts and specialists to engage in knowledge exchange on a vast array of subjects.
+  One part of this network, Stack Overflow, provides a space for developers to explore, share their understanding,
+  and advance their professional growth.
+category: forums
+labels:
+- community forum
+- q&a
+- programming
+company:
+  organization: Prosus
+  headquarters: NL
+  founded: 2019
+  homepage: https://stackexchange.com
+  privacyPolicy: https://stackoverflow.com/legal/privacy-policy
+  termsOfService: https://stackoverflow.com/legal/terms-of-service
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- stackexchange.com
+oauthDisplayNames:
+- Stack Exchange

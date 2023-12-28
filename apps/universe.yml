@@ -1,0 +1,31 @@
+id: universe
+name: Universe
+description: Universe is a platform that lets individuals and creators develop their own websites easily,
+  without any coding knowledge. It provides user-friendly tools and templates for making a variety of
+  websites such as personal, portfolio, and event pages. The app enables users to design their online
+  presence, allowing them to display their work, events or hobbies in a customized manner.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- universe.com
+oauthDisplayNames: []

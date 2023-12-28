@@ -1,0 +1,44 @@
+id: zoominfo
+name: Zoominfo Community
+description: ZoomInfo Community is a platform that specializes in providing an extensive database of business-to-business
+  contacts. Created in 2007, it offers detailed profiles of businesses and professionals, including their
+  email addresses and direct dial numbers. This data supports sales and marketing teams by giving them
+  the information they need to better target and reach out to potential leads. They also have a simplified
+  version of their service called ZoomInfo Lite, which focuses on providing data.
+category: business-intelligence
+labels:
+- sales intelligence
+- contact data
+- enrichment
+company:
+  organization: Zoominfo Community
+  headquarters: US
+  founded: 2007
+  homepage: https://www.zoominfo.com/ce
+  privacyPolicy: https://www.zoominfo.com/about-zoominfo/privacy-policy
+  termsOfService: https://www.zoominfo.com/about-zoominfo/terms-of-use
+  statusPage: https://status.zoominfo.com/
+  securityPage: https://zoominfo.trust.page/
+  linkedin: https://www.linkedin.com/company/zoominfo/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- zoominfo.com
+oauthDisplayNames:
+- ZoomInfo Unified Login
+- Zoominfo Community

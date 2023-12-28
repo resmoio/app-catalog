@@ -1,0 +1,35 @@
+id: mention
+name: Mention
+description: Mention is a multifunctional application primarily designed for both corporations and agencies.
+  It offers various features including brand monitoring, social media management, and reputation control
+  functionalities. Mention allows users to keep track of their brand's online presence by listening to
+  their audience's feedback, publishing effective posts, and responding appropriately to their customers'
+  inquiries or issues.
+category: marketing
+labels: []
+company:
+  organization: MyNewsdesk
+  headquarters: SE
+  founded: 2003
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mention.com
+oauthDisplayNames:
+- mention

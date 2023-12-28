@@ -1,0 +1,42 @@
+id: idme
+name: ID.me
+description: ID.me is a software that focuses on quickly confirming identities and confirming group affiliations.
+  It's primarily used by government bodies and different industries. The program aims to boost security,
+  build trust, and streamline the process of user identification. It also offers a digital wallet feature
+  and additional verification methods. It's suitable for a variety of organizations that require reliable
+  identity confirmation.
+category: identity-and-access
+labels:
+- identity verification
+- authentication
+- security
+company:
+  organization: ID.me
+  headquarters: US
+  founded: 2010
+  homepage: https://id.me
+  privacyPolicy: https://www.id.me/privacy
+  termsOfService: https://www.id.me/terms
+  securityPage: https://www.id.me/security
+  linkedin: https://www.linkedin.com/company/id.me/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- id.me
+oauthDisplayNames:
+- ID.me

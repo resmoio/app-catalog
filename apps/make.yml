@@ -1,0 +1,35 @@
+id: make
+name: Make
+description: \"Make\" is a versatile digital platform designed for individuals interested in do-it-yourself
+  (DIY) projects. It houses a wide array of tutorials and resources on various creative domains including
+  woodworking, crafts, electronics, and coding. Users are provided with detailed instructions and ideas
+  that aid in their creative explorations. Beyond that, "Make" brings together a like-minded community
+  of hobbyists, providing a space for shared creativity, curiosity, and hands-on work. It aids users in
+  designing, building, and automating things at their own pace.
+category: others
+labels: []
+company:
+  organization: Make
+  headquarters: US
+  founded: 2016
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- make.com
+oauthDisplayNames: []

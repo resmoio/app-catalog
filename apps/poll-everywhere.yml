@@ -1,0 +1,44 @@
+id: poll-everywhere
+name: Poll Everywhere
+description: Poll Everywhere is a digital tool specifically designed to integrate real-time responses
+  into presentations. It can easily connect with widely-used software, such as PowerPoint, Keynote, and
+  Google Slides, for seamless operation. Whether it's a conference, training session, or a meeting, Poll
+  Everywhere lets participants engage actively through mobile responses, enriching the conversation. Users
+  can vote or comment on topics, and the host can visualize these results through engaging animations.
+  This system is versatile, allowing responses over the web, through SMS, and even on Twitter.
+category: marketing
+labels:
+- presentations
+- engagement
+- questionnaires
+company:
+  organization: Poll Everywhere
+  headquarters: US
+  founded: 2007
+  homepage: https://www.polleverywhere.com/
+  privacyPolicy: https://www.polleverywhere.com/privacy-policy
+  termsOfService: https://www.polleverywhere.com/terms
+  statusPage: https://pollev-status.com/
+  securityPage: https://www.polleverywhere.com/security
+  linkedin: https://www.linkedin.com/company/poll-everywhere-inc./
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- polleverywhere.com
+oauthDisplayNames:
+- Poll Everywhere

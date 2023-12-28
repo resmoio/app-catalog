@@ -1,0 +1,39 @@
+id: cypress.io
+name: Cypress.io
+description: Cypress.io offers a straightforward application for conducting front end automated testing.
+  The tool allows users to run unit and integration tests in a browser for any application or component.
+  Developed with an open-source framework, it simplifies the process of front-end testing by making use
+  of JavaScript component testing and end-to-end (E2E) testing. The goal is to make testing less difficult
+  and more efficient. It's an appropriate tool for any application or component that operates within a
+  browser.
+category: development-tools
+labels: []
+company:
+  organization: Cypress.io
+  headquarters: US
+  founded: 2015
+  homepage: https://www.cypress.io/
+  privacyPolicy: https://www.cypress.io/privacy-policy
+  termsOfService: https://www.cypress.io/terms-of-use
+  linkedin: https://www.linkedin.com/company/cypress.io
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cypress.io
+oauthDisplayNames:
+- Cypress.io

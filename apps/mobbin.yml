@@ -1,0 +1,39 @@
+id: mobbin
+name: Mobbin
+description: Mobbin is a curated selection of contemporary mobile design patterns, showcasing the finest
+  in design. It offers guidance and inspiration to designers and developers on the prevailing trends in
+  mobile user interface design.
+category: design
+labels:
+- mobile design
+- inspiration
+- ui
+company:
+  organization: Mobbin
+  headquarters: SG
+  founded: 2018
+  homepage: https://mobbin.com/
+  privacyPolicy: https://mobbin.com/privacy
+  termsOfService: https://mobbin.com/terms
+  statusPage: https://status.mobbin.com/
+  linkedin: https://www.linkedin.com/company/mobbin/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Mobbin

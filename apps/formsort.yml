@@ -1,0 +1,44 @@
+id: formsort
+name: Formsort
+description: Formsort is a platform that specializes in the automation of forms, making the collection
+  of data simpler and more efficient. It allows users to create customized forms and automates various
+  processes, integrating easily with other tools. The platform is designed with user-friendliness in mind
+  and provides real-time insights and analytics to support effective decision-making. It is especially
+  useful for those looking to optimize operations related to forms without spending excessive resources
+  on development.
+category: business-intelligence
+labels:
+- form builder
+- automation
+- zendesk
+company:
+  organization: Formsort Inc.
+  headquarters: US
+  founded: 2019
+  homepage: https://formsort.com
+  privacyPolicy: https://formsort.com/legal/privacy-policy/
+  termsOfService: https://formsort.com/legal/terms-of-use/
+  statusPage: https://www.formsortstatus.com/
+  securityPage: https://formsort.com/security/
+  linkedin: https://www.linkedin.com/company/formsort/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- studio.formsort.com
+oauthDisplayNames:
+- Formsort

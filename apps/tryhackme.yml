@@ -1,0 +1,40 @@
+id: tryhackme
+name: TryHackMe
+description: TryHackMe is an online learning platform focused on cybersecurity education. It offers a
+  wide range of virtual rooms and scenarios designed to help individuals enhance their understanding of
+  cybersecurity and improve their penetration testing abilities. Each learning environment is specifically
+  crafted to provide interactive instruction on a specific cybersecurity topic or tool. All learning activities
+  on TryHackMe are carried out directly through the user's browser, simplifying access and use.
+category: education
+labels:
+- cybersecurity training
+- hacking
+- labs
+company:
+  organization: TryHackMe
+  headquarters: GB
+  founded: 2018
+  homepage: https://tryhackme.com/
+  privacyPolicy: https://tryhackme.com/legal/privacy-policy
+  termsOfService: https://tryhackme.com/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/tryhackme
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TryHackMe

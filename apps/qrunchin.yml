@@ -1,0 +1,41 @@
+id: qrunchin
+name: qrunchin
+description: Qrunchin is an application aimed at businesses wanting to make better use of their spreadsheets.
+  It enables the user to convert their regular spreadsheets into insightful business analyses with just
+  one click. This function simplifies the task of spreadsheet management for finance teams in small to
+  medium-sized companies, giving them more time to make informed business decisions.
+category: business-intelligence
+labels:
+- business intelligence
+- analytics
+- finance
+company:
+  organization: Overdata Inc.
+  headquarters: US
+  founded: 2021
+  homepage: https://qrunchin.com/
+  privacyPolicy: https://qrunchin.com/privacy-policy
+  termsOfService: https://qrunchin.com/legal
+  statusPage: https://status.qrunchin.com/
+  securityPage: https://qrunchin.com/security
+  linkedin: https://www.linkedin.com/company/qrunchin/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- qrunchin

@@ -1,0 +1,36 @@
+id: sheetgpt
+name: SheetGPT
+description: SheetGPT is a simple integration tool for incorporating OpenAI's GPT natural language processing
+  into Google Sheets. It lets users directly use these advanced language capabilities within their spreadsheets
+  without any complication. This tool offers a streamlined approach to include artificial intelligence
+  language processing in Google Sheets, making language data management more straightforward and effective.
+category: others
+labels:
+- google sheets
+- excel
+- chatgpt
+company:
+  organization: ''
+  homepage: https://sheetgpt.ai
+  privacyPolicy: https://sheetgpt.ai/privacy
+  termsOfService: https://sheetgpt.ai/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SheetGPT

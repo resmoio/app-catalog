@@ -1,0 +1,37 @@
+id: timecamp
+name: TimeCamp
+description: TimeCamp is a user-friendly app designed for businesses and individual users alike. Its key
+  purpose is to track time efficiently and productively across various tasks and projects. It offers an
+  abundance of features that aid in gaining insights into your work, thereby boosting your competency.
+  This application has been developed by TimeCamp software company. It stands out due to its ability to
+  automate time tracking, offering a hassle-free user experience.
+category: project-management
+labels: []
+company:
+  organization: TimeCamp
+  headquarters: US
+  founded: 2008
+  homepage: https://www.timecamp.com
+  privacyPolicy: https://www.timecamp.com/privacy-policy/
+  termsOfService: https://www.timecamp.com/terms-conditions/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- timecamp.com
+oauthDisplayNames:
+- TimeCamp

@@ -1,0 +1,35 @@
+id: resembleai
+name: Resemble.AI
+description: Resemble.AI is an application that leverages artificial intelligence to facilitate speech
+  technology. It enables users to convert text into speech, and also offers a unique feature that allows
+  for voice cloning. With this tool, one can make a digital copy of a voice for various uses, enhancing
+  the versatility of speech-to-speech communication. The application combines both text-to-speech and
+  speech-to-speech features, providing a comprehensive solution for users interested in advanced voice
+  technology.
+category: generative-ai
+labels: []
+company:
+  organization: ''
+  homepage: https://www.resemble.ai/
+  privacyPolicy: https://www.resemble.ai/privacy-policy/
+  termsOfService: https://www.resemble.ai/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Resemble.AI

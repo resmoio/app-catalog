@@ -1,0 +1,43 @@
+id: ifttt
+name: IFTTT
+description: IFTTT, standing for "If This, Then That", is an online platform that lets users form sequences
+  termed "applets". These applets are produced when changes occur in other frequently used web systems
+  and tools, empowering users to automate numerous digital operations. By enabling the effortless integration
+  of various applications and devices, IFTTT can enhance the functionality and efficiency of both personal
+  and professional digital ecosystems. Users will find it easy to start using IFTTT to create a more productive
+  work environment or a more comfortable home setting.
+category: productivity
+labels:
+- automation
+- workflows
+- integrations
+company:
+  organization: IFTTT
+  headquarters: US
+  founded: 2010
+  homepage: https://ifttt.com/
+  privacyPolicy: https://ifttt.com/terms
+  termsOfService: https://ifttt.com/terms
+  statusPage: https://status.ifttt.com/
+  linkedin: https://www.linkedin.com/company/ifttt/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ifttt.com
+oauthDisplayNames:
+- IFTTT

@@ -1,0 +1,45 @@
+id: databox
+name: Databox
+description: Databox is a platform that helps businesses monitor and analyze their performance data. It
+  collects and visualizes key performance indicators and metrics in real-time from many sources, such
+  as social media platforms, Google Analytics, CRM systems, and databases. This information is presented
+  in customizable dashboards, facilitating data-driven decision-making and strategy planning. It provides
+  insights into various areas of businesses like marketing campaigns and sales trends. In simpler terms,
+  Databox can be seen as a personal data assistant for businesses, bringing all your data into a single
+  place for easy comprehension and use.
+category: data-analytics
+labels:
+- business intelligence
+- analytics
+- dashboards
+company:
+  organization: Databox Inc.
+  headquarters: US
+  founded: 2011
+  homepage: https://databox.com/
+  privacyPolicy: https://databox.com/privacy-policy
+  termsOfService: https://databox.com/terms-of-service
+  statusPage: https://status.databox.com/
+  securityPage: https://databox.com/security-policy
+  linkedin: https://www.linkedin.com/company/databoxhq/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- databox.com
+oauthDisplayNames:
+- Databox

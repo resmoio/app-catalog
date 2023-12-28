@@ -1,0 +1,40 @@
+id: planitpoker
+name: PlanITpoker
+description: PlanITpoker is an online tool designed to make project estimation easier for teams using
+  Agile methodologies. It employs a planning poker system, which encourages group discussion and collective
+  decision-making. This application aims to streamline the process of organizing and planning project-related
+  tasks, making it a suitable tool for teams who prioritize effective collaboration and accurate estimation.
+category: productivity
+labels:
+- planning poker
+- estimation
+- agile
+company:
+  organization: Codefirst Ltd.
+  headquarters: GB
+  founded: 2012
+  homepage: https://www.planitpoker.com
+  privacyPolicy: https://www.planitpoker.com/privacy/
+  termsOfService: https://www.planitpoker.com/terms/
+  linkedin: https://www.linkedin.com/company/codefirst/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- planitpoker.com
+oauthDisplayNames:
+- PlanITpoker

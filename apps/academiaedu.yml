@@ -1,0 +1,41 @@
+id: academiaedu
+name: academia.edu
+description: Academia.edu is an internet-based platform designed for the distribution and exchange of
+  academic research papers. It provides academics with the opportunity to upload their studies, stay updated
+  on developments in their field, and socially interact with their fellow researchers. This platform supports
+  an open-access environment where information is freely available, and it promotes cooperative efforts
+  among participants.
+category: education
+labels:
+- education
+- research
+- academics
+company:
+  organization: Academia.edu
+  headquarters: US
+  founded: 2008
+  homepage: https://www.academia.edu/
+  privacyPolicy: https://www.academia.edu/privacy
+  termsOfService: https://www.academia.edu/terms
+  linkedin: https://www.linkedin.com/company/academia-edu/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+  - academia.edu
+oauthDisplayNames:
+  - academia.edu

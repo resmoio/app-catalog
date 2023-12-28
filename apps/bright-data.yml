@@ -1,0 +1,41 @@
+id: bright-data
+name: Bright Data
+description: Bright Data is a software application that provides access to extensive proxy networks, adept
+  web scrapers, and pre-organized datasets for download. This application aims to enhance web transparency
+  and allows users to gain insights through data sourced from the internet. Through its advanced technology,
+  it throws light on the unseen areas of the internet, making such information readily available to users
+  around the globe.
+category: data-analytics
+labels:
+- web scraping
+- proxies
+- api
+company:
+  organization: EMK Capital
+  headquarters: GB
+  founded: 2015
+  homepage: https://brightdata.com
+  privacyPolicy: https://brightdata.com/privacy
+  termsOfService: https://brightdata.com/privacy
+  linkedin: https://il.linkedin.com/company/bright-data
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- brightdata.com
+oauthDisplayNames:
+- Bright Data

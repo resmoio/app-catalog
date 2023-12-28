@@ -1,0 +1,37 @@
+id: mode-analytics
+name: Mode Analytics
+description: Mode Analytics is a unified data platform that integrates SQL, R, Python, and visual analytics.
+  It is designed to enhance collaboration, enabling users to connect, analyze, and quickly share data.
+  The platform aims to support more informed decision-making by offering a comprehensive view of relevant
+  data in a single location. With its combined use of several programming languages, Mode provides a flexible
+  tool for various data analysis needs.
+category: data-analytics
+labels:
+- data platform
+- sql
+- python
+company:
+  organization: ''
+  homepage: https://mode.com
+  privacyPolicy: https://mode.com/privacy
+  termsOfService: https://mode.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Mode Analytics

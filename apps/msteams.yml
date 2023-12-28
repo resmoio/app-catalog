@@ -1,0 +1,42 @@
+id: msteams
+name: Microsoft Teams Meeting
+description: Microsoft Teams Meeting is a component of Microsoft Teams, a collaborative platform designed
+  by Microsoft. Its function is to allow users to plan and participate in video and audio meetings with
+  both internal team members and outside partners. Microsoft Teams Meeting is integrated with Office 365,
+  which allows users to work together on various files, such as documents, presentations, and spreadsheets,
+  while the meeting is in progress.
+category: chat
+labels:
+- microsoft teams
+- meetings
+- chat
+company:
+  organization: Microsoft Corporation
+  headquarters: US
+  founded: 1975
+  homepage: https://www.microsoft.com/en/microsoft-teams/group-chat-software
+  privacyPolicy: https://gsuite.microsoft.com/termsofuse
+  termsOfService: https://gsuite.microsoft.com/privacy
+  statusPage: https://portal.office.com/servicestatus
+  securityPage: https://www.microsoft.com/en-us/security
+  linkedin: https://www.linkedin.com/company/microsoft/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains: []  
+oauthDisplayNames:
+- Microsoft Teams Meeting

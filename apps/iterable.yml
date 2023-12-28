@@ -1,0 +1,44 @@
+id: iterable
+name: Iterable
+description: Iterable is a platform aimed at supporting business expansion that allows companies to manage
+  campaigns on various channels. It gives marketers the tools to identify distinct user groups, automate
+  operational processes and customize their messages in order to effectively interact with customers and
+  stimulate business growth. The platform is built to enhance and assess all customer interaction. It
+  integrates different marketing channels to facilitate consistent customer experiences. In essence, Iterable
+  provides the ability to create, optimize, and evaluate each customer interaction effectively and efficiently.
+category: marketing
+labels:
+- lifecycle marketing
+- segmentation
+- automation
+company:
+  organization: Iterable
+  headquarters: US
+  founded: 2013
+  homepage: https://iterable.com/
+  privacyPolicy: https://iterable.com/trust/privacy-policy/
+  termsOfService: https://iterable.com/terms/
+  statusPage: https://status.iterable.com/
+  securityPage: https://iterable.com/trust/
+  linkedin: https://www.linkedin.com/company/iterable/about/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- iterable.com
+oauthDisplayNames:
+- Iterable

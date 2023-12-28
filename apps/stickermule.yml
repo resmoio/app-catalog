@@ -1,0 +1,33 @@
+id: stickermule
+name: StickerMule
+description: StickerMule is a web-based service that focuses on personalized printing and design for stickers,
+  labels, and other marketing goods. Users can design their stickers, choosing the size, shape, and finish
+  to fit their needs. Anyone from individuals to businesses and organizations can use StickerMule to produce
+  branded items or marketing materials. Overall, it's a practical tool for meeting various printing and
+  marketing requirements.
+category: design
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- stickermule.com
+oauthDisplayNames:
+- stickermule

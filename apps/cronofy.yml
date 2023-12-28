@@ -1,0 +1,41 @@
+id: cronofy
+name: Cronofy
+description: Cronofy is a scheduling platform designed for businesses. It offers technology that allows
+  businesses to share their availability with contacts, irrespective of the application being used. In
+  addition, Cronofy provides enterprise-level scheduling tools, user interface elements, and APIs. Its
+  aim is to simplify the process of setting up meetings or appointments, and ensuring that all your contacts
+  are aware of your availability. Cronofy is a robust solution, suitable for businesses of all sizes that
+  require expert scheduling assistance.
+category: content-management
+labels:
+- calendar
+- scheduling
+- automation
+company:
+  organization: Cronofy
+  headquarters: GB
+  founded: 2014
+  homepage: https://www.cronofy.com
+  privacyPolicy: https://www.cronofy.com/privacy-policy/
+  termsOfService: https://www.cronofy.com/terms-of-service/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- cronofy.com
+oauthDisplayNames:
+- Cronofy

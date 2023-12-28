@@ -1,0 +1,41 @@
+id: parallels
+name: Parallels
+description: Parallels is a software that allows users to access applications and files across different
+  operating systems or devices. It is best known for Parallels Desktop, a feature that enables users to
+  run Windows on a Mac computer without having to restart the system. Moreover, Parallels offers virtualization
+  and automation solutions, providing an easy and efficient means to manage and use applications and files.
+  In essence, it simplifies the process of using multiple systems or formats simultaneously.
+category: others
+labels:
+- virtualization
+- dual-boot
+- mac
+company:
+  organization: Parallels
+  headquarters: US
+  founded: 1999
+  homepage: https://www.parallels.com/
+  privacyPolicy: https://www.parallels.com/support/pcep/privacy/
+  termsOfService: https://www.parallels.com/about/legal/terms/
+  linkedin: https://www.linkedin.com/showcase/parallels/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- parallels.com
+oauthDisplayNames:
+- Parallels

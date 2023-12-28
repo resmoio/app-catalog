@@ -1,0 +1,41 @@
+id: podcastle-ai
+name: Podcastle AI
+description: Podcastle AI is an online tool primarily intended for those creating podcasts and other audio
+  content. It comprises a variety of functions such as recording, editing, enriching, transcribing, and
+  publishing content. Its interface is user-friendly and features are potent, which makes the process
+  of podcasting smoother. Podcastle AI not only assists in developing high-standard audio content but
+  also makes the entire course effortless for creators. Additionally, it utilizes artificial intelligence
+  to aid users in recording, editing, transcribing, and sharing their finished podcasts.
+category: others
+labels:
+- podcast creation
+- editing
+- marketing
+company:
+  organization: Podcastle Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://podcastle.ai
+  privacyPolicy: https://podcastle.ai/privacy
+  termsOfService: https://podcastle.ai/terms
+  linkedin: https://www.linkedin.com/company/podcastle-ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Podcastle AI

@@ -1,0 +1,40 @@
+id: clipchamp
+name: Clipchamp
+description: Clipchamp is an online tool designed for easy video editing and creation. It provides various
+  tools and features enabling users to edit, compress, and convert videos. In addition, it allows the
+  addition of effects, text, and music to improve the overall quality of the video project. Clipchamp
+  aims to facilitate everyone in sharing their stories through videos.
+category: design
+labels:
+- video editing
+- converter
+- compressor
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 1975
+  homepage: https://clipchamp.com/en/
+  privacyPolicy: https://go.microsoft.com/fwlink/?LinkId=521839
+  termsOfService: https://go.microsoft.com/fwlink/?LinkID=206977
+  linkedin: https://www.linkedin.com/company/clipchamp-pty-ltd/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- clipchamp.com
+oauthDisplayNames:
+- Clipchamp

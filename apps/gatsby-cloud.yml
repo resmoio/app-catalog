@@ -1,0 +1,36 @@
+id: gatsby-cloud
+name: Gatsby Cloud
+description: Gatsby Cloud is a platform engineered to improve the deployment and performance of websites
+  built with Gatsby. It allows developers to construct, refine, and launch secure, high-performing websites
+  that can handle extensive traffic. The platform offers distinct features such as incremental builds
+  and immediate previews, coupled with globally distributed content, leading to fluid user interactions.
+  It also integrates with a variety of content sources, plugins, and APIs, simplifying the development
+  process. Gatsby Cloud seeks to eliminate technical hurdles, enabling developers to concentrate on creating
+  superb websites. However, it does not offer serverless platform features or an intuitive git-based workflow
+  like some others do.
+category: content-management
+labels: []
+company:
+  organization: Gatsby Inc.
+  headquarters: US
+  homepage: https://www.gatsbyjs.com/products/cloud/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Gatsby Cloud

@@ -1,0 +1,44 @@
+id: streamyard
+name: StreamYard
+description: StreamYard is a comprehensive tool used for creating a variety of live and recorded content
+  such as live streams, podcasts, webinars, and professional interviews. Users can easily navigate its
+  web-based interface to produce high-quality streams which can be posted onto popular social media platforms
+  like Facebook, YouTube, Twitter, and LinkedIn Live. The application also provides features for conducting
+  interviews, sharing screens, and recording podcasts. Additionally, it supplies the necessary tools for
+  organizing webinars, including built-in registration functions.
+category: online-meetings
+labels:
+- live streaming
+- webinars
+- video
+company:
+  organization: Hopin
+  headquarters: GB
+  founded: 2019
+  homepage: https://streamyard.com/
+  privacyPolicy: https://help.streamyard.com/docs/privacy
+  termsOfService: https://help.streamyard.com/docs/tos
+  statusPage: https://status.streamyard.com/
+  securityPage: https://hopin.com/hopin-events/products/security-privacy
+  linkedin: https://www.linkedin.com/company/streamyard/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- streamyard.com
+oauthDisplayNames:
+- StreamYard

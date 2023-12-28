@@ -1,0 +1,44 @@
+id: postman
+name: Postman
+description: Postman is an application that helps in the development and management of APIs (Application
+  Programming Interfaces). The main function of this platform is to facilitate team collaboration, making
+  it easier for programmers to test, document, and share APIs. Postman allows users to quickly send requests
+  to APIs, evaluate responses, and manage API-related workflows. This utility aids in the seamless integration
+  of APIs into software applications.
+category: development-tools
+labels:
+- api development
+- testing
+- collaboration
+company:
+  organization: Postman
+  headquarters: US
+  founded: 2014
+  homepage: https://www.postman.com/
+  privacyPolicy: https://www.postman.com/legal/privacy-policy/
+  termsOfService: https://www.postman.com/legal/terms/
+  statusPage: https://status.postman.com/
+  securityPage: https://www.postman.com/trust/
+  linkedin: https://www.linkedin.com/company/postman-platform/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- getpostman.com
+- web.postman.co
+oauthDisplayNames:
+- Postman

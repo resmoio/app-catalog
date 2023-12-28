@@ -1,0 +1,44 @@
+id: unbounce
+name: Unbounce
+description: Unbounce is a convenient tool designed to help marketers easily develop and manage landing
+  pages. It eliminates the need for IT or coding skills by offering a drag-and-drop builder for quick
+  creation of pages. Additionally, it provides A/B testing tools for the evaluation and improvement of
+  marketing campaigns. All of these features are seamlessly combined within Unbounce to help businesses
+  boost their relevance, accumulate leads, grow sales, and optimally use AI insights for better conversion
+  rates.
+category: marketing
+labels:
+- landing pages
+- lead gen
+- marketing
+company:
+  organization: Unbounce Marketing Solutions
+  headquarters: US
+  founded: 2009
+  homepage: https://unbounce.com/
+  privacyPolicy: https://unbounce.com/privacy/
+  termsOfService: https://unbounce.com/terms-of-service/
+  statusPage: https://status.unbounce.com/
+  securityPage: https://unbounce.com/security/
+  linkedin: https://www.linkedin.com/company/unbounce
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- unbounce.com
+oauthDisplayNames:
+- Unbounce

@@ -1,0 +1,39 @@
+id: leap-ai
+name: Leap AI
+description: Leap AI is a platform that assists in professional development by providing individualized
+  career advice and encouraging networking. It aims at simplifying the recruitment process for all involved
+  by aligning potential opportunities with apt candidates. An additional feature of Leap AI allows users
+  to create, examine, supervise, and implement artificial intelligence workflows swiftly and comfortably.
+  These workflows can be executed with a straightforward application programming interface call.
+category: hr
+labels:
+- career guidance
+- job search
+- recruiting
+company:
+  organization: ''
+  headquarters: US
+  founded: 2016
+  homepage: https://tryleap.ai/
+  privacyPolicy: https://app.getterms.io/view/dlM8u/privacy/en-us
+  statusPage: https://status.tryleap.ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Leap AI

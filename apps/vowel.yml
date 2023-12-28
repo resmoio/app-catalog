@@ -1,0 +1,43 @@
+id: vowel
+name: Vowel
+description: Vowel is a shared meeting platform that provides resources for recording, transcribing, and
+  disseminating meetings. It enables teams to sift through previous meetings, tasks, and follow-ups, thus
+  preserving crucial information and fostering productivity and teamwork. The platform integrates video
+  conferencing, meeting transcription and recording, and a collaborative space for agendas and notes.
+  Its functionality is augmented by Artificial Intelligence. All features and tools are consolidated in
+  a single location for ease of use.
+category: chat
+labels:
+- video meetings
+- collaboration
+- insights
+company:
+  organization: Vowel
+  headquarters: US
+  founded: 2018
+  homepage: https://www.vowel.com/
+  privacyPolicy: https://www.vowel.com/legal/privacy-policy
+  termsOfService: https://www.vowel.com/legal/terms-of-use
+  statusPage: https://vowel.statuspage.io/inactive
+  securityPage: https://www.vowel.com/legal/security
+  linkedin: https://www.linkedin.com/company/vowelhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Vowel

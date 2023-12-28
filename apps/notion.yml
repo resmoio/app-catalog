@@ -1,0 +1,44 @@
+id: notion
+name: Notion
+description: Notion is a comprehensive workspace application designed to centralize various work-related
+  tasks. It enables users to write, plan, collaborate, and organize within a single platform. By seamlessly
+  integrating tools such as notes, databases, kanban boards, wikis, calendars, and reminders, it provides
+  a unified workspace for individual users and teams alike. The app allows for easy access to various
+  materials like documents, project files, and wikis, making it a convenient tool for all types of work-related
+  needs.
+category: productivity
+labels:
+- notes
+- tasks
+- wiki
+company:
+  organization: Notion
+  headquarters: US
+  founded: 2016
+  homepage: https://www.notion.so/
+  privacyPolicy: https://www.notion.so/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091
+  termsOfService: https://www.notion.so/Personal-Use-Terms-of-Service-00e4e5d0f2b9411cbee6493f15779500
+  statusPage: https://status.notion.so/
+  securityPage: https://www.notion.so/security
+  linkedin: https://www.linkedin.com/company/notionhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- notion.so
+oauthDisplayNames:
+- Notion

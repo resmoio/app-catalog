@@ -1,0 +1,42 @@
+id: cloudinary-console
+name: Cloudinary Console
+description: Cloudinary Console is a cloud-based application that facilitates the efficient management
+  of digital media. Its primary duty is to assist businesses in the upload, storage, transformation, and
+  delivery of images and videos to multiple devices and platforms. The app's interface is straightforward,
+  enabling users to organize media assets with ease, carry out real-time changes, improve content delivery,
+  and simplify their entire media procedure. This includes functions, such as loading and storing images
+  and videos, and optimizing these media elements for each user for a better overall experience.
+category: content-management
+labels:
+- dam
+- media management
+- transformation
+company:
+  organization: Cloudinary Ltd.
+  headquarters: US
+  founded: 2011
+  homepage: https://cloudinary.com
+  privacyPolicy: https://cloudinary.com/privacy
+  termsOfService: https://cloudinary.com/tos
+  statusPage: https://status.cloudinary.com/
+  linkedin: https://www.linkedin.com/company/cloudinary/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Cloudinary Console

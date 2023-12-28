@@ -1,0 +1,37 @@
+id: storywizard
+name: StoryWizard
+description: StoryWizard is an educational application that uses artificial intelligence to provide children
+  with an individualized learning experience. Its primary purpose is to alter traditional teaching methods
+  by generating interactive and captivating educational content. Consequently, it aims to make learning
+  simpler, more enjoyable, and tailored to each child's unique needs and interests. Users can discover
+  this innovative approach to education by visiting storywizard.ai.
+category: others
+labels:
+- interactive stories
+- education
+- ai
+company:
+  organization: ''
+  homepage: https://www.storywizard.ai
+  privacyPolicy: https://www.storywizard.ai/privacy
+  termsOfService: https://www.storywizard.ai/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- StoryWizard

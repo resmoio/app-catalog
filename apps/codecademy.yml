@@ -1,0 +1,42 @@
+id: codecademy
+name: Codecademy
+description: Codecademy is an online platform that provides coding and programming lessons for learners
+  of all levels, globally. It offers courses on numerous programming languages, web development, and data
+  science, in an interactive and user-friendly format. This platform highlights learning by doing, allowing
+  users to practice their coding directly in the browser for a more realistic learning experience. Not
+  limited to career-starters in coding, Codecademy additionally serves those who aim to amplify their
+  current technical abilities. Over 50 million people have selected Codecademy as their pathway for mastering
+  vital digital skills.
+category: education
+labels:
+- coding
+- programming
+- education
+company:
+  organization: Charterhouse Capital Partners
+  headquarters: GB
+  founded: 1934
+  homepage: https://www.codecademy.com
+  privacyPolicy: https://www.codecademy.com/policy
+  termsOfService: https://www.codecademy.com/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- codecademy.com
+oauthDisplayNames:
+- Codecademy

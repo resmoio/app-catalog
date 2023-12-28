@@ -1,0 +1,37 @@
+id: isdown
+name: IsDown
+description: IsDown is a tool designed to help users monitor service outages in the various third-party
+  cloud services they use. It accomplishes this by providing status updates for over 2700 services. Its
+  primary function is to ensure the user doesn't overlook any interruption in service, offering a comprehensive
+  overview of any potential downtime for all monitored services. Through IsDown, users can manage their
+  cloud services with increased efficiency.
+category: monitoring
+labels:
+- uptime monitoring
+- status pages
+- api
+company:
+  organization: ''
+  homepage: https://isdown.app
+  privacyPolicy: https://isdown.app/privacy
+  termsOfService: https://isdown.app/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- IsDown

@@ -1,0 +1,40 @@
+id: pageproof
+name: PageProof
+description: PageProof is an online platform designed to streamline the process of reviewing and approving
+  various types of work, particularly for marketing teams and design agencies. It provides a user-friendly
+  interface to collaborate on a variety of content such as creative projects, documents, videos, websites,
+  banners, and prototypes. PageProof aims to ease the review and approval procedures, regardless of the
+  file type, making collaboration more convenient and efficient.
+category: design
+labels:
+- online proofing
+- graphic design
+- collaboration
+company:
+  organization: PageProof
+  headquarters: NZ
+  founded: 2014
+  homepage: https://pageproof.com
+  privacyPolicy: https://pageproof.com/privacy
+  termsOfService: https://pageproof.com/terms
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- pageproof.com
+oauthDisplayNames:
+- PageProof

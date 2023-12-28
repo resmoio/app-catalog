@@ -1,0 +1,41 @@
+id: streak
+name: Streak
+description: Streak is a service that adds Customer Relationship Management (CRM) capabilities directly
+  to a Gmail inbox, making tasks like handling sales, partnerships, or hiring more convenient without
+  needing to leave Gmail itself. It's the only tool offering a complete CRM system inside the Gmail interface.
+  It's possible to share contacts, email, files, and other necessary items simply with just a click. One
+  can manage various tasks including deals and support queues directly in Gmail, eliminating the need
+  for multiple external systems. This service integrates safely with Google Apps.
+category: crm
+labels: []
+company:
+  organization: Streak
+  headquarters: US
+  founded: 2011
+  homepage: https://www.streak.com/
+  privacyPolicy: https://www.streak.com/privacy
+  termsOfService: https://www.streak.com/terms
+  statusPage: https://status.streak.com/
+  securityPage: https://www.streak.com/security
+  linkedin: https://www.linkedin.com/company/streak-com/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- streak.com
+oauthDisplayNames:
+- Streak

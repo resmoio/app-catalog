@@ -1,0 +1,43 @@
+id: appsumo
+name: AppSumo
+description: AppSumo is a digital marketplace intended for entrepreneurs, startups, and small businesses.
+  It offers a variety of digitally-distributed goods and online services, including software tools, digital
+  books, and online courses. The platform facilitates partnerships with several software companies to
+  present exclusive deals and discounts on their products, valid for a specific duration only. Consequently,
+  businesses can access vital productivity, marketing, and content tools at significantly reduced prices.
+  AppSumo eliminates the need for monthly fees, providing an economical solution for businesses to acquire
+  necessary digital resources.
+category: marketing
+labels:
+- discounts
+- deals
+- marketing
+company:
+  organization: Sumo Group Inc.
+  headquarters: US
+  founded: 2010
+  homepage: https://appsumo.com/
+  privacyPolicy: https://appsumo.com/privacy/
+  termsOfService: https://appsumo.com/terms-of-use/
+  linkedin: https://www.linkedin.com/company/appsumo/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- appsumo.com
+oauthDisplayNames:
+- AppSumo

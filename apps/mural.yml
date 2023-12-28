@@ -1,0 +1,45 @@
+id: mural
+name: MURAL
+description: MURAL is a digital platform that facilitates visual collaboration among teams. This application
+  allows groups to brainstorm, strategize, examine, and agree on intricate projects within a shared digital
+  workspace. Users can conveniently populate this workspace with ideas by dragging and dropping elements
+  like sticky notes, images, links, and documents. MURAL also encompasses flowcharts and other visual
+  techniques to aid in understanding and organizing complex ideas. This platform, accessible via the web
+  or mobile devices, fosters team unity and enhances virtual connections securely. Its goal is to make
+  collaborations more of an engaging process rather than a mundane meeting.
+category: content-sharing
+labels:
+- collaboration
+- whiteboard
+- design
+company:
+  organization: MURAL
+  headquarters: US
+  founded: 2011
+  homepage: https://mural.co/
+  privacyPolicy: https://mural.co/terms/privacy-policy
+  termsOfService: https://mural.co/terms
+  statusPage: https://status.mural.co/
+  securityPage: https://mural.co/trust
+  linkedin: https://www.linkedin.com/company/mural.co/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- mural.co
+oauthDisplayNames:
+- MURAL

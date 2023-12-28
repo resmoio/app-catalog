@@ -1,0 +1,34 @@
+id: wolt
+name: Wolt
+description: Wolt is a food delivery application that focuses on effective and timely logistics management.
+  The application partners with a variety of high-quality restaurants and stores from your local area,
+  enabling you to order meals or products for swift and convenient delivery. With efficient real-time
+  tracking, Wolt ensures reliable transportation services designed to cater to your immediate needs.
+category: others
+labels: []
+company:
+  organization: DoorDash
+  headquarters: US
+  founded: 2013
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wolt.com
+oauthDisplayNames:
+- Wolt

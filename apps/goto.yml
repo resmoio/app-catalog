@@ -1,0 +1,36 @@
+id: goto
+name: GoTo
+description: GoTo is a unified set of tools designed to facilitate effective remote collaboration and
+  communication. The suite includes GoToMeeting, a platform for online meetings, GoToWebinar for webinar
+  hosting, and GoToConnect for integrated communication. The suite offers a range of useful features such
+  as screen sharing, video conferencing, and the ability to record sessions. Regardless of device or platform,
+  whether Mac, PC, iOS, or Android, users can utilize these services for smoother and more efficient remote
+  interactions.
+category: online-meetings
+labels: []
+company:
+  organization: LastPass
+  headquarters: US
+  founded: 2003
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- goto.com
+- gotomeeting.com
+oauthDisplayNames: []

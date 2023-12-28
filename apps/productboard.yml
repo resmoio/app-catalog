@@ -1,0 +1,39 @@
+id: productboard
+name: productboard
+description: Productboard is a platform focused on product management. It aids organizations in speeding
+  up the process of launching new products by enhancing understanding of customer needs, facilitating
+  decision-making on priorities, and promoting teamwork on product plans. The main goal of Productboard
+  is to help organizations bring high-demand market products to consumers more expediently.
+category: productivity
+labels: []
+company:
+  organization: Productboard
+  headquarters: US
+  founded: 2014
+  homepage: https://www.productboard.com
+  privacyPolicy: https://www.productboard.com/privacy-policy/2021-10-20/
+  termsOfService: https://www.productboard.com/website-terms-of-use/
+  statusPage: https://status.productboard.com/
+  securityPage: https://www.productboard.com/legal/security-standards/
+  linkedin: https://www.linkedin.com/company/productboard/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- productboard.com
+oauthDisplayNames:
+- productboard

@@ -1,0 +1,43 @@
+id: evernote
+name: Evernote
+description: Evernote is a user-friendly application designed for taking notes and organizing information.
+  Since its establishment in 2007, many have adopted it as their primary tool for storing thoughts, reminders,
+  and digital documents. Evernote enables different platforms to capture, arrange, and locate information
+  easily. Users can quickly and efficiently prioritize ideas, projects, and to-do lists to ensure they
+  haven't overlooked anything. The application offers a free trial for new users to explore its features.
+category: productivity
+labels:
+- notes
+- organization
+- productivity
+company:
+  organization: Evernote
+  headquarters: US
+  founded: 2008
+  homepage: https://evernote.com/
+  privacyPolicy: https://evernote.com/legal/privacy.php
+  termsOfService: https://evernote.com/legal
+  statusPage: https://status.evernote.com/
+  securityPage: https://evernote.com/security
+  linkedin: https://www.linkedin.com/company/evernote/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- evernote.com
+oauthDisplayNames:
+- Evernote

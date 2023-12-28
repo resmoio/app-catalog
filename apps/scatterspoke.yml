@@ -1,0 +1,32 @@
+id: scatterspoke
+name: Scatter Spoke
+description: Scatter Spoke is an application designed to assist in continual improvement processes. It
+  aims to enhance both individual and team performance, simplifying strategic decision-making processes
+  to help organizations reach their objectives more effectively. The software focuses on boosting productivity
+  and efficiency by providing helpful analytical tools.
+category: project-management
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- scatterspoke.com
+oauthDisplayNames:
+- ScatterSpoke Retrospectives

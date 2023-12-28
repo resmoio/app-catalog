@@ -1,0 +1,36 @@
+id: sophos
+name: Sophos
+description: Sophos is a company specializing in cybersecurity. It caters to both individuals and businesses,
+  offering a variety of security measures. These include protection for endpoints, firewalls, and network
+  security, as well as cloud security. Using Sophos services, users can defend against a wide range
+  of online threats such as malware, ransomware, phishing, and data breaches in an effort
+  to maintain a secure digital environment. The company also produces products designed for network
+  security and threat management, which can help organizations guard against malicious activities.
+category: security
+labels: []
+company:
+  organization: Thoma Bravo
+  headquarters: GB
+  founded: 1985
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- sophos.com
+oauthDisplayNames:
+- Sophos Central

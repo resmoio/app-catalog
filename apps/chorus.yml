@@ -1,0 +1,34 @@
+id: chorus
+name: Chorus
+description: Chorus is a platform designed to boost the effectiveness of sales teams. Using artificial
+  intelligence, it captures details from sales calls and meetings, conducts an analysis, and delivers
+  insights. This allows sales professionals to refine their communication methods, better comprehend the
+  needs of their customers, and update their strategies for more successful results.
+category: sales
+labels: []
+company:
+  organization: ZoomInfo Community
+  homepage: https://www.zoominfo.com/products/chorus
+  privacyPolicy: https://www.zoominfo.com/legal/privacy-policy?
+  termsOfService: https://www.zoominfo.com/legal/terms-of-use?
+  statusPage: https://status.zoominfo.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- chorus.ai
+oauthDisplayNames: []

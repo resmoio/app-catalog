@@ -1,0 +1,42 @@
+id: genuity
+name: Genuity
+description: Genuity is a platform designed to simplify the management of IT infrastructure for businesses. Through
+  its features, it provides an understanding of expenditure related to network, cloud, and software to
+  enhance cost-effectiveness and performance. The platform also assists businesses and IT leaders in understanding
+  the IT market and managing their technology expenditure for improved financial outcomes. Genuity also
+  includes services related to IT and asset management. The ''try it free today'' offer is not a permanent
+  feature of the service and subject to change.
+category: others
+labels:
+- it management
+- optimization
+- cloud cost
+company:
+  organization: Genuity
+  headquarters: US
+  founded: 2017
+  homepage: https://gogenuity.com/
+  privacyPolicy: https://gogenuity.com/privacy/
+  termsOfService: https://gogenuity.com/terms/
+  securityPage: https://gogenuity.com/company/security/
+  linkedin: https://www.linkedin.com/company/gogenuity/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Genuity

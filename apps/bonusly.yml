@@ -1,0 +1,43 @@
+id: bonusly
+name: Bonusly
+description: Bonusly is a digital tool designed to acknowledge and celebrate both ordinary and outstanding
+  contributions within a workplace. It eliminates time-consuming administrative tasks and encourages employees
+  to take part in organizational activities, thereby promoting a positive work atmosphere. Bonusly allows
+  for instant, personalized recognition and incentives, increasing employee satisfaction and alignment
+  with the company's key values. This enhances overall morale and supports the success of the organization.
+  Through Bonusly's peer-to-peer acknowledgement platform, employees can easily participate in, appreciate,
+  and strengthen the positive culture of their workplace.
+category: hr
+labels:
+- engagement
+- rewards
+- hr
+company:
+  organization: Smartly Inc.
+  headquarters: US
+  founded: 2014
+  homepage: https://bonusly.com/
+  privacyPolicy: https://bonus.ly/privacy-policy
+  termsOfService: https://bonus.ly/terms-of-service
+  linkedin: https://www.linkedin.com/company/bonusly/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- bonus.ly
+oauthDisplayNames:
+- Bonusly

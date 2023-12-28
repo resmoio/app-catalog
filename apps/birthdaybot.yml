@@ -1,0 +1,37 @@
+id: birthdaybot
+name: BirthdayBot
+description: BirthdayBot is an application that works in conjunction with Slack to help users remember
+  their teammates' birthdays. Designed as a reminder system, it ensures no one forgets to celebrate a
+  team member's special day. The main function of BirthdayBot is to create a co-shared celebration environment
+  within the Slack platform.
+category: others
+labels:
+- team building
+- slack
+- morale
+company:
+  organization: ''
+  homepage: https://birthdaybot.io/
+  privacyPolicy: https://birthdaybot.io/privacy/
+  termsOfService: https://birthdaybot.io/tos/
+  linkedin: https://www.linkedin.com/company/birthdaybot/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- BirthdayBot

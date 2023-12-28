@@ -1,0 +1,35 @@
+id: duolingo
+name: Duolingo
+description: Duolingo is a digital platform designed to facilitate language learning. With a selection
+  of 98 courses spanning almost 40 languages, it provides comprehensive learning resources to its users.
+  The unique approach of this platform facilitates language learning through engaging games. In contrast
+  to many competitors, it offers its services entirely for free. Moreover, the effectiveness of its methodology
+  is backed by scientific evidence.
+category: education
+labels: []
+company:
+  organization: Duolingo
+  headquarters: US
+  founded: 2011
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- duolingo.com
+oauthDisplayNames:
+- Duolingo

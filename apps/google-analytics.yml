@@ -1,0 +1,43 @@
+id: google-analytics
+name: Google Analytics
+description: Google Analytics is a web service by Google that allows businesses to track and analyze their
+  website and app performance. It presents useful data about user interactions, sources of web traffic,
+  and behavior patterns, enabling these businesses to better understand their audience. Features include
+  customizable reports and analysis of real-time data, allowing businesses to make informed decisions
+  based on these insights. This service also aids in content optimization and enhancement of digital marketing
+  strategies, with the aim of improving user experience and outcomes. Finally, Google Analytics forms
+  part of the broader Google Marketing Platform.
+category: web-analytics
+labels:
+- web analytics
+- tracking
+- reporting
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: https://marketingplatform.google.com/about/
+  privacyPolicy: https://www.google.com/intl/en/policies/privacy/?fg=1
+  termsOfService: https://www.google.com/intl/en/policies/terms/?fg=1
+  linkedin: https://www.linkedin.com/showcase/google-analytics/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- analytics.google.com
+oauthDisplayNames:
+- Google Analytics

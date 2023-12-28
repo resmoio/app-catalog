@@ -1,0 +1,45 @@
+id: vacation-tracker
+name: Vacation Tracker
+description: Vacation Tracker is a straightforward tool designed for managing and tracking leave within
+  a team or organization. It simplifies the process of scheduling and tracking time off, allowing employees
+  and teams a transparent view of their paid time off (PTO) availability. This can be done through the
+  built-in functions in commonly-used platforms like Microsoft Teams, Slack, or Google Workspace. There's
+  also a web-based dashboard where administrators can adjust organizational settings and supervise the
+  leave statuses of their staff. Employees, in turn, can utilize the same dashboard to submit leave requests
+  and review their remaining leave balances.
+category: hr
+labels:
+- leave management
+- time off
+- pto
+company:
+  organization: Vacation Tracker
+  headquarters: CA
+  founded: 2018
+  homepage: https://vacationtracker.io/
+  privacyPolicy: https://vacationtracker.io/privacy-policy
+  termsOfService: https://vacationtracker.io/terms-of-service
+  statusPage: https://status.vacationtracker.io/
+  securityPage: https://vacationtracker.io/security
+  linkedin: https://www.linkedin.com/company/vacation-tracker/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vacationtracker.io
+oauthDisplayNames:
+- Vacation Tracker

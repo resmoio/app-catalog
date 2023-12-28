@@ -1,0 +1,35 @@
+id: databricks-community
+name: Databricks Community
+description: Databricks Community is a user-friendly platform for individuals interested in data exploration
+  and analysis. It enables users to work together on investigating data, running queries, constructing
+  data pipelines and creating machine learning models. Essentially, it's a space for learning and experimenting
+  with data, promoting a collaborative atmosphere for innovation centered around data.
+category: data-analytics
+labels: []
+company:
+  organization: ''
+  homepage: https://community.databricks.com/
+  privacyPolicy: https://www.databricks.com/legal/privacynotice
+  termsOfService: https://www.databricks.com/legal/terms-of-use
+  securityPage: https://www.databricks.com/trust
+  linkedin: https://www.linkedin.com/company/databricks
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- community.cloud.databricks.com
+oauthDisplayNames: []

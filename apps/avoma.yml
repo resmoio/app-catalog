@@ -1,0 +1,44 @@
+id: avoma
+name: Avoma
+description: Avoma is an artificial intelligence (AI) tool aimed at assisting with various aspects of
+  revenue generation. It''s specifically tailored for teams that center their strategies on their product.
+  The platform automates meeting transcription and summarization while also integrating with customer
+  relationship management systems. Additionally, it offers collaborative note-taking features. Avoma''s
+  functionality extends to remotely working environments, providing streamlined assistance during virtual
+  meetings by highlighting actionable insights from all discussions. This simplifies meeting management
+  by reducing manual tasks and focusing on useful conversation intelligence.
+category: business-intelligence
+labels:
+- business intelligence
+- data
+- analytics
+company:
+  organization: Avoma
+  headquarters: US
+  founded: 2017
+  homepage: https://www.avoma.com/
+  privacyPolicy: https://www.avoma.com/privacy-policy
+  termsOfService: https://www.avoma.com/terms
+  securityPage: https://www.avoma.com/security
+  linkedin: https://www.linkedin.com/company/avoma/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- avoma.com
+oauthDisplayNames:
+- Avoma

@@ -1,0 +1,44 @@
+id: nifty
+name: Nifty
+description: Nifty is a project management application that operates in a cloud-based environment. It
+  allows teams to work together seamlessly, keep track of tasks, and manage projects. Users can easily
+  create, assign, and set priorities for tasks, set deadlines, raise alerts, and encourage communication.
+  Nifty also includes a feature that monitors project progress, resource distribution, and financial management.
+  This feature also allows for the making of customized reports depending on user requirements. It merges
+  reporting and analytics tools to keep track of all the aspects related to a project.
+category: project-management
+labels:
+- project management
+- tasks
+- collaboration
+company:
+  organization: NIFTY
+  headquarters: JP
+  founded: 2017
+  homepage: https://niftypm.com/
+  privacyPolicy: https://niftypm.com/privacy
+  termsOfService: https://niftypm.com/terms
+  statusPage: https://status.niftypm.com/
+  securityPage: https://niftypm.com/security
+  linkedin: https://www.linkedin.com/company/nifty-project-management/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- nifty.pm
+oauthDisplayNames:
+- Nifty

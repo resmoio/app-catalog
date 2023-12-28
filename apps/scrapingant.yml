@@ -1,0 +1,36 @@
+id: scrapingant
+name: ScrapingAnt
+description: ScrapingAnt is a web scraping API designed to extract data from websites. Users can make
+  use of this service free of charge in its basic capacity. It efficiently manages the complexities such
+  as rotating proxies and headless browsing, in addition to effectively handling CAPTCHA and Cloudflare-related
+  issues. This makes ScrapingAnt a reliable tool for data collection from various online sources.
+category: others
+labels:
+- web scraping
+- proxies
+- javascript
+company:
+  organization: ''
+  homepage: https://scrapingant.com
+  privacyPolicy: https://scrapingant.com/legal/privacy-policy/
+  termsOfService: https://scrapingant.com/legal/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ScrapingAnt

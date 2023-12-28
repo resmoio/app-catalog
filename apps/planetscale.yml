@@ -1,0 +1,41 @@
+id: planetscale
+name: Planetscale
+description: PlanetScale is a serverless database platform based on the open-source project, Vitess. This
+  platform provides a globally distributed database system that is compatible with MySQL and reputed for
+  its scalability. Regardless of scale, it maintains reliable availability and ensures consistent transactions.
+  PlanetScale is geared towards delivering an advanced MySQL experience to its users.
+category: storage-and-database
+labels:
+- mysql hosting
+- database
+- serverless
+company:
+  organization: Planetscale
+  headquarters: US
+  founded: 2018
+  homepage: https://planetscale.com/
+  privacyPolicy: https://planetscale.com/legal/privacy
+  termsOfService: https://planetscale.com/legal/siteterms
+  statusPage: https://www.planetscalestatus.com/
+  securityPage: https://planetscale.com/docs/concepts/security
+  linkedin: https://www.linkedin.com/company/planetscale/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- planetscale.com
+oauthDisplayNames: []

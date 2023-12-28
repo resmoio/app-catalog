@@ -1,0 +1,43 @@
+id: tango
+name: Tango
+description: Tango is a cloud-based platform that aims to improve productivity by automating the capture
+  of processes. It has the capability to quickly convert any workflow into a simple, step-by-step guide.
+  The platform, which includes a browser extension and desktop application, enables teams to document,
+  exchange, and access key data whenever and wherever it is necessary. Tango Analytics uses purpose-built
+  GIS solutions for location development control. Furthermore, Tango allows for the creation of brief
+  how-to guides to conduct on-the-job team training. Tango's software modules are also licensed by Microsoft.
+category: productivity
+labels:
+- process documentation
+- training
+- automation
+company:
+  organization: Tango Analytics
+  headquarters: US
+  founded: 2008
+  homepage: https://www.tango.us/
+  privacyPolicy: https://www.tango.us/privacy
+  termsOfService: https://www.tango.us/terms
+  securityPage: https://www.tango.us/security
+  linkedin: https://www.linkedin.com/company/trytango/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tangoanalytics.com
+oauthDisplayNames:
+- Tango

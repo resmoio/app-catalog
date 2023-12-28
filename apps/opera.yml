@@ -1,0 +1,41 @@
+id: opera
+name: Opera
+description: Opera is a web browser developed by Opera Software, compatible with both mobile and desktop
+  devices. It's designed to present a speedy browsing experience, while also providing enhanced safety
+  and smart features. These features include robust privacy settings, a secure browsing environment, and
+  various advanced functionalities. The software is freely available for users to download and use. In
+  addition to this, Opera Software produces offerings in areas like mobile payment systems and artificial
+  intelligence solutions.
+category: others
+labels:
+- web browser
+- privacy
+- ad blocking
+company:
+  organization: KUNLUN
+  headquarters: CN
+  founded: 2008
+  homepage: https://opera.com
+  privacyPolicy: https://legal.opera.com/privacy/
+  termsOfService: https://legal.opera.com/terms/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- opera.com
+oauthDisplayNames:
+- Opera

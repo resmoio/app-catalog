@@ -1,0 +1,42 @@
+id: contentbot.ai
+name: ContentBot.ai
+description: ContentBot.ai is a tool designed to help digital creators streamline their creative process.
+  The application offers an array of tools to help users generate different types of content, such as
+  brand names, blog topic ideas, and even entire blog posts. The AI-powered software can assist with tasks
+  relating to writing blog content, rephrasing existing text, and creating ad copy. This makes it a versatile
+  application for individuals interested in improving or simplifying their content creation tasks.
+category: generative-ai
+labels:
+- content creation
+- ai writing assistant
+- seo
+company:
+  organization: ContentBot
+  headquarters: US
+  founded: 2021
+  homepage: https://contentbot.ai
+  privacyPolicy: https://contentbot.ai/privacy-policy.php
+  termsOfService: https://contentbot.ai/terms.php
+  statusPage: https://contentbot.ai/status
+  linkedin: https://www.linkedin.com/company/contentbot-ai/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- contentbot.ai
+oauthDisplayNames:
+- ContentBot.ai

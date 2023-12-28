@@ -1,0 +1,43 @@
+id: flyio
+name: Fly.io
+description: Fly.io is a cloud-based platform that offers developers a simple solution for creating and
+  launching applications with notable speed and dependability. It permits users to send their applications
+  to data centers globally, ensuring both low-latency and high levels of performance. Regardless of the
+  service - whether it's APIs, websites, or others - Fly.io provides a straightforward approach to broaden
+  and enhance applications with an emphasis on simplicity and efficiency.
+category: cloud
+labels:
+- app hosting
+- serverless
+- global
+company:
+  organization: Fly.io Inc.
+  headquarters: US
+  founded: 2016
+  homepage: https://fly.io
+  privacyPolicy: https://fly.io/legal/privacy-policy/
+  termsOfService: https://fly.io/legal/terms-of-service/
+  statusPage: https://status.flyio.net/
+  securityPage: https://fly.io/docs/about/security/
+  linkedin: https://www.linkedin.com/company/fly-io/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- fly.io
+oauthDisplayNames:
+- Fly.io

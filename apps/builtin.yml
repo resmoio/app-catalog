@@ -1,0 +1,38 @@
+id: builtin
+name: Built in
+description: Built In is an online platform that links technology professionals with significant job openings,
+  tech news, and insights from major tech markets across the U.S. It serves as a connection between tech
+  industry companies and professionals. The platform also presents content, resources, and tools focusing
+  on local startups, technical innovations and trends. Essentially, Built In is a network that caters
+  to tech companies and startups, providing them with a platform for engagement and growth.
+category: others
+labels: []
+company:
+  organization: Built In
+  headquarters: US
+  founded: 2010
+  homepage: https://builtin.com/
+  privacyPolicy: https://builtin.com/privacy-policy
+  termsOfService: https://builtin.com/community-terms-of-use
+  linkedin: https://www.linkedin.com/company/built-in/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- builtin.com
+oauthDisplayNames:
+- Built in

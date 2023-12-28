@@ -1,0 +1,38 @@
+id: codesubmit
+name: CodeSubmit
+description: CodeSubmit is a useful tool for those seeking to assess potential candidates on the basis
+  of their coding abilities. It presents a broad collection of coding challenges drawn from real-world
+  scenarios. Users can assign these tasks to applicants, simulating the experience of working on a real
+  project. Following task completion, CodeSubmit offers detailed reports that let users gauge the abilities
+  and performance of each candidate. The overall aim is to facilitate a more comprehensive and practical
+  evaluation of programming skills.
+category: development-tools
+labels:
+- coding challenges
+- technical interviewing
+- recruiting
+company:
+  organization: ''
+  homepage: https://codesubmit.io
+  privacyPolicy: https://codesubmit.io/privacy
+  termsOfService: https://codesubmit.io/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- CodeSubmit

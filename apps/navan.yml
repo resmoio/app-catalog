@@ -1,0 +1,31 @@
+id: navan
+name: Navan (formerly TripActions)
+description: Navan, formerly known as TripActions, is an application that streamlines travel, expense,
+  and corporate card management for numerous global customers. It helps eliminate tedious manual processes
+  and offers a clear overview of spending. Through this application, users can handle all travel arrangements
+  and financial tracking needs more efficiently, bringing more order to these often complex tasks.
+category: hr
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- navan.com
+oauthDisplayNames: []

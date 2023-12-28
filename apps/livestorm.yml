@@ -1,0 +1,43 @@
+id: livestorm
+name: Livestorm
+description: Livestorm is a web-based platform designed to facilitate video communications for businesses.
+  It allows users to conduct webinars, online meetings, and virtual events directly from a browser, eliminating
+  the need for downloads. The interface is user-friendly, supporting interactive features such as presentations,
+  Q&A sessions, and workshops. Additionally, Livestorm provides analytics tools to help businesses review
+  performance and improve future online engagements. This platform is suitable for various video-related
+  activities including screen sharing, with a focus on creating and managing virtual interactions.
+category: online-meetings
+labels:
+- webinars
+- meetings
+- events
+company:
+  organization: Livestorm
+  headquarters: FR
+  founded: 2016
+  homepage: https://livestorm.co/
+  privacyPolicy: https://livestorm.co/privacy-policy
+  termsOfService: https://livestorm.co/terms-of-use
+  securityPage: https://security.livestorm.co/
+  statusPage: https://livestorm.statuspage.io/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- livestorm.co
+oauthDisplayNames:
+- Livestorm

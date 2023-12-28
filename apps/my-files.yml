@@ -1,0 +1,33 @@
+id: my-files
+name: My Files
+description: My Files is a free application designed for file sharing and file services. This easy-to-use
+  tool does not require registration and does not have intrusive advertisements. Users can download files
+  instantaneously, without waiting, and direct links are provided for convenience. However, the description
+  provided is in Russian and may cater to Russian-speaking users primarily.
+category: content-sharing
+labels: []
+company:
+  organization: My Files
+  headquarters: RU
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- my-files.su
+oauthDisplayNames:
+- My Files

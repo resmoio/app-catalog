@@ -1,0 +1,37 @@
+id: garmin-connect
+name: Garmin Connect
+description: Garmin Connect is a digital platform designed to track, organize, and share fitness data.
+  It accommodates a variety of physical activities including running, walking, cycling, swimming, skiing,
+  and triathlons. Users can document their health habits and monitor their athletic progress directly
+  through the platform. The application is tailored specifically for Garmin devices, facilitating seamless
+  integration between the user's activities and their device.
+category: productivity
+labels: []
+company:
+  organization: Garmin
+  headquarters: CH
+  founded: 1989
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- connect.garmin.com
+- sso.garmin.com
+- garmin.com
+oauthDisplayNames:
+- Garmin Connect

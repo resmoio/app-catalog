@@ -1,0 +1,44 @@
+id: crossbeam
+name: Crossbeam
+description: Crossbeam is a discrete data-sharing platform designed to facilitate collaborations among
+  businesses. It enables companies to securely share data and insights with their partners, pinpointing
+  common customers and potential clients without disclosing sensitive information. It primarily functions
+  as a data escrow service, helping businesses discover mutual points in their datasets. This promotes
+  growth and co-selling opportunities, all while ensuring data privacy and compliance. The platform also
+  offers accessible tools for account mapping and integrates smoothly with the Partner Cloud, forming
+  a network meant to streamline and enhance business partnerships.
+category: sales
+labels:
+- account mapping
+- overlaps
+- partnerships
+company:
+  organization: Crossbeam
+  headquarters: US
+  founded: 2018
+  homepage: https://www.crossbeam.com/
+  privacyPolicy: https://www.crossbeam.com/legal/privacy-policy/
+  termsOfService: https://www.crossbeam.com/legal/terms/
+  securityPage: https://www.crossbeam.com/legal/security-policy/
+  linkedin: https://www.linkedin.com/company/getcrossbeam/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- crossbeam.com
+oauthDisplayNames:
+- Crossbeam

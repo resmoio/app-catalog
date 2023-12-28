@@ -1,0 +1,37 @@
+id: synthesia
+name: Synthesia
+description: Synthesia is a learning platform using video as its primary medium. It employs artificial
+  intelligence to change text into video content, granting users the capability to form video presentations
+  and guides. A virtual host, within the program, voices over the provided text and generates corresponding
+  visual animations. The intent of Synthesia is to enhance the accessibility and engagement of information
+  by turning written material into more interactive visual presentations. Additionally, it provides businesses
+  with the tool to produce personalized videos merely from ordinary text.
+category: education
+labels: []
+company:
+  organization: Synthesia
+  headquarters: GB
+  founded: 2017
+  homepage: ''
+  securityPage: https://security.synthesia.io/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- synthesia.io
+oauthDisplayNames:
+- Synthesia Enact

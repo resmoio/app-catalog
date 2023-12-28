@@ -1,0 +1,78 @@
+id: slack
+name: Slack
+description: Slack is a communication platform developed by Slack Technologies, designed to promote efficient
+  engagement within teams and businesses. It maintains various features including organised chat rooms
+  by topic, private groups, and direct messaging functionalities. Its goal is to enhance team collaboration
+  and productivity. Unlike email, which can often be unorganised and insecure, Slack provides a faster,
+  more structured means of communication. The platform can accommodate teams and businesses of all sizes.
+category: chat
+labels:
+- team communication
+- collaboration
+- chat
+company:
+  organization: Salesforce
+  headquarters: US
+  founded: 1999
+  homepage: https://slack.com/
+  privacyPolicy: https://slack.com/intl/en-in/trust/privacy/privacy-policy
+  termsOfService: https://slack.com/intl/en-in/terms-of-service/user
+  statusPage: https://status.slack.com/
+  securityPage: https://slack.com/trust
+  linkedin: https://www.linkedin.com/company/tiny-spec-inc/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+relatedDomains:
+- email.slackhq.com
+appDomains:
+- slack.com
+oauthDisplayNames:
+- Slack
+appRelations:
+  byName:
+    github:
+    - github2
+    - github_actions
+    opsgenie:
+    - opsgenie_for_alerting
+    - opsgenie_handler
+    - opsgenie_eu_for_alert
+    resmo:
+    - resmo_events
+    - resmo_notifications_s
+    - resmo_notifications
+    - resmo_stg
+    jira:
+    - jira_cloud
+    - jirabot
+    newrelic:
+    - new_relic
+    pipedrive:
+    - dealbot_by_pipedrive
+    onepassword:
+    - 1password
+    kolide:
+    - kolide-bot
+    monday:
+    - mondaycom
+    the-new-york-times:
+    - nytimes
+    okta:
+    - okta_workflows
+    onedrive:
+    - onedrive_sharepoint

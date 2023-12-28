@@ -1,0 +1,43 @@
+id: flowla
+name: Flowla
+description: The Flowla application is designed to improve the operations of revenue teams by providing
+  personalized sales processes. It helps in expediting businesses transactions and organizing sales
+  activities. All sales-related interactions are consolidated within Flowla, from the first connection
+  to customer's onboarding, simplifying communication across parties. It also features real-time
+  updates, allowing users to track buyer engagement, and incorporates tools that promote cooperation
+  between stakeholders. Flowla assists in generating leads, shortening sales cycles and improving the
+  performance of sales teams. Overall, it is a practical solution for enhancing sales productivity and
+  interaction with potential customers.
+category: sales
+labels:
+- sales
+- deal management
+- pipeline
+company:
+  organization: Flowla Ltd.
+  headquarters: GB
+  founded: 2022
+  homepage: https://www.flowla.com/
+  privacyPolicy: https://www.flowla.com/privacy-policy
+  termsOfService: https://www.flowla.com/terms-of-use
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- flowla.com
+oauthDisplayNames:
+- Flowla

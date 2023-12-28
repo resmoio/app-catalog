@@ -1,0 +1,40 @@
+id: capterra
+name: Capterra
+description: Capterra is an online platform that helps users select software and services best suited
+  for their needs. It utilizes insights from millions of users and over 2 million verified reviews. The
+  platform allows you to compare features, pricing, and more, serving as a reliable resource for business
+  software buyers.
+category: business-intelligence
+labels:
+- reviews
+- ratings
+- software
+company:
+  organization: Gartner
+  headquarters: US
+  founded: 1979
+  homepage: https://capterra.com
+  privacyPolicy: https://www.capterra.com/legal/privacy-policy
+  termsOfService: https://www.capterra.com/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/capterra
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- capterra.com
+oauthDisplayNames:
+- Capterra

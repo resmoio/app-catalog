@@ -1,0 +1,41 @@
+id: datacamp
+name: DataCamp
+description: DataCamp is an online educational tool designed to help users learn Data Science and Artificial
+  Intelligence. The platform comprises of video tutorials and interactive coding challenges that the user
+  can follow at their own pace. The lessons include various topics such as Python, R, Statistics, and
+  more. It is operated by a team of experts passionate about data analysis and committed to providing
+  comprehensive data science and statistical education to all. The platform also includes a business analytics
+  function. This helps businesses comprehend their performance by displaying Key Performance Indicators
+  (KPIs), sourced from cloud services, databases, and spreadsheets, all in one location.
+category: education
+labels: []
+company:
+  organization: DataCamp
+  headquarters: US
+  founded: 2013
+  homepage: https://www.datacamp.com/
+  privacyPolicy: https://www.datacamp.com/privacy-policy
+  termsOfService: https://www.datacamp.com/terms-of-use
+  securityPage: https://www.datacamp.com/security
+  linkedin: https://www.linkedin.com/school/datacampinc/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- datacamp.com
+oauthDisplayNames:
+- DataCamp

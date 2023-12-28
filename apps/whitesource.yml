@@ -1,0 +1,34 @@
+id: whitesource
+name: WhiteSource
+description: Mend.io, formerly known as WhiteSource, is a tool designed to enhance the security of applications.
+  Specifically, it provides automated remediation for both open source and custom-coded applications,
+  which aids in strengthening the application's security. It also helps developers save time, making it
+  a handy tool for both security and productivity.
+category: security
+labels:
+- open source security
+- licensing
+- vulnerabilities
+company:
+  organization: ''
+  homepage: https://www.whitesourcesoftware.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- WhiteSource

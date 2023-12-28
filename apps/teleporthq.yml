@@ -1,0 +1,35 @@
+id: teleporthq
+name: teleportHQ
+description: TeleportHQ is a front-end development platform that simplifies the process of creating a
+  website. It features a visual builder that allows users to design their site's appearance without needing
+  extensive coding knowledge. The platform also includes tools for developing user interfaces and building
+  static websites. In addition to these, TeleportHQ also offers capabilities for headless content modeling,
+  providing users with a more flexible way to manage their content. Its low-code approach makes it a practical
+  tool for both expert developers and those with minimal technical experience.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://teleporthq.io
+  privacyPolicy: https://teleporthq.io/terms-privacy
+  termsOfService: https://teleporthq.io/terms-privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- teleportHQ

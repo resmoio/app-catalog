@@ -1,0 +1,42 @@
+id: debugbear
+name: DebugBear
+description: DebugBear is a tool mainly used for keeping a check on the efficiency of websites. It studies
+  how websites change with time and delivers data concerning the speed of the webpage, JavaScript errors,
+  and other significant measurements. Subsequently, this information assists developers to detect and
+  rectify issues, subsequently bettering the users' experience. The software also enables enhancement
+  of Core Web Vitals, which may potentially boost the website's ranking on Google. The user gets notifications
+  whenever the website's speed deteriorates. A 14-day trial is available without charge.
+category: monitoring
+labels:
+- web performance
+- monitoring
+- optimization
+company:
+  organization: DebugBear
+  headquarters: GB
+  founded: 2018
+  homepage: https://www.debugbear.com/
+  privacyPolicy: https://www.debugbear.com/privacy-policy
+  termsOfService: https://www.debugbear.com/terms-of-service
+  securityPage: https://www.debugbear.com/security
+  linkedin: https://www.linkedin.com/company/debugbear/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- DebugBear

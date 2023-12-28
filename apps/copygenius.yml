@@ -1,0 +1,36 @@
+id: copygenius
+name: CopyGenius
+description: CopyGenius is a software application that features an artificial intelligence component.
+  This component is designed to automate a variety of tasks. Some of these tasks include the writing of
+  product descriptions, the creation of ad copy that is likely to garner success and interest, and the
+  outlining of blog posts. The software does not require a credit card to begin its use.
+category: content-management
+labels:
+- copywriting
+- content creation
+- ai
+company:
+  organization: ''
+  homepage: https://copygenius.io/
+  privacyPolicy: https://copygenius.io/privacy
+  termsOfService: https://copygenius.io/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- CopyGenius

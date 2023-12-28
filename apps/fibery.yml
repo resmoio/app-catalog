@@ -1,0 +1,44 @@
+id: fibery
+name: Fibery
+description: Fibery is a workspace platform that functions as a unified space for different work apps,
+  integrating them into one system. It aims to facilitate teams in overseeing projects, processes, and
+  knowledge management. The platform is highly adaptable and can meet various team needs, including product
+  management and software development. Fibery enables users to create a unique workspace for their company
+  without needing to write code. It offers features like connected databases, adaptable views, extensive
+  reports, and automated processes. Additional tools include integrations, documentation, and whiteboards.
+category: project-management
+labels:
+- project management
+- crm
+- kanban
+company:
+  organization: Fibery
+  headquarters: Cyprus
+  founded: 2017
+  homepage: https://fibery.io/
+  privacyPolicy: https://fibery.io/privacy-policy
+  termsOfService: https://fibery.io/terms
+  statusPage: https://status.fibery.io/
+  securityPage: https://fibery.io/security
+  linkedin: https://www.linkedin.com/company/fibery/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- fibery.io
+oauthDisplayNames:
+- Fibery

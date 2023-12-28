@@ -1,0 +1,34 @@
+id: pixabay
+name: Pixabay
+description: Pixabay is a digital platform where users can access a vast array of high-quality images,
+  such as photos, vectors, and illustrations. Its vast database offers a wide range of visual content
+  categories, suitable for various projects and creative needs. Easy to navigate, Pixabay provides an
+  accessible way for individuals to find the visual resources they require.
+category: content-sharing
+labels: []
+company:
+  organization: Canva
+  headquarters: AU
+  founded: 2012
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pixabay.com
+oauthDisplayNames:
+- Pixabay

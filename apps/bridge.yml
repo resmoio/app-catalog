@@ -1,0 +1,42 @@
+id: bridge
+name: Bridge
+description: Bridge is a platform designed to assist mid-sized organizations in enhancing employee performance
+  and skills. This application allows for easy network building by enabling users to make introductions,
+  request connections, and gain insights. Additionally, it provides a learning management system that
+  supports corporate education initiatives. Bridge has been recognized for its effectiveness as a performance
+  platform that facilitates employee development and partner empowerment.
+category: others
+labels:
+- networking
+- contacts
+- introductions
+company:
+  organization: Learning Technologies Group
+  headquarters: GB
+  founded: 1986
+  homepage: https://www.getbridge.com
+  privacyPolicy: https://www.getbridge.com/privacy-notice/
+  termsOfService: https://www.getbridge.com/bridge-terms-of-use/
+  linkedin: https://www.linkedin.com/showcase/get-bridge
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- getbridge.com
+- bridgeapp.com
+oauthDisplayNames:
+- Bridge

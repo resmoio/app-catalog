@@ -1,0 +1,38 @@
+id: hibob
+name: hibob
+description: Hibob, also known as Bob, is an HR platform designed to assist contemporary, forward-thinking
+  companies in improving productivity, engagement, and staff retention. It is a comprehensive HRIS (Human
+  Resource Information System) equipped to handle a firm's various HR needs. It has received accolades
+  for its effectiveness in achieving these objectives. The platform aims to be a tool by which companies
+  can enhance their overall efficiency and success in today's fast-paced business environment.
+category: hr
+labels:
+- hr
+- people management
+- performance
+company:
+  organization: ''
+  homepage: https://www.hibob.com
+  privacyPolicy: https://www.hibob.com/privacy-policy/
+  termsOfService: https://www.hibob.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- hibob.com
+oauthDisplayNames:
+- hibob

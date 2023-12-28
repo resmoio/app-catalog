@@ -1,0 +1,40 @@
+id: backblaze
+name: Backblaze
+description: Backblaze is an online storage service that provides both individuals and businesses with
+  data backup and storage options. It is known for its affordable and scalable solutions. This application
+  gives users the opportunity to store their data securely in the cloud, no matter the scale of their
+  needs. Its services range from personal online backups to more extensive, enterprise-level data storage.
+  Additionally, Backblaze offers a B2 cloud storage option, further diversifying its range of services.
+category: storage-and-database
+labels:
+- backup
+- storage
+- cloud
+company:
+  organization: Backblaze
+  headquarters: US
+  founded: 2007
+  homepage: https://www.backblaze.com
+  privacyPolicy: https://www.backblaze.com/company/privacy.html
+  termsOfService: https://www.backblaze.com/company/terms.html
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- backblaze.com
+oauthDisplayNames:
+- Backblaze

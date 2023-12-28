@@ -1,0 +1,34 @@
+id: runway
+name: Runway
+description: Runway is a company that focuses on artificial intelligence (AI) research with an aim to
+  develop advanced tools for creativity. They endeavor to influence the future of art, entertainment,
+  and human creativity by utilizing AI. Runway's emphasis lies in cultivating innovative solutions and
+  enabling a new era of creative possibilities through the incorporation of artificial intelligence.
+category: productivity
+labels: []
+company:
+  organization: Runway
+  headquarters: US
+  founded: 2018
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- runwayml.com
+oauthDisplayNames:
+- Runway

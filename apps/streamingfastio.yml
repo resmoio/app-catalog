@@ -1,0 +1,36 @@
+id: streamingfastio
+name: streamingfast.io
+description: StreamingFast.io is a platform designed to process blockchain network data quickly, typically
+  within five minutes. It supports the application of Firehose and Substreams to work with data across
+  multiple blockchain networks. The platform allows developers to create and organize data models and
+  indexes, and provides an open setting for users to develop and enhance current data frameworks.
+category: data-analytics
+labels: []
+company:
+  organization: ''
+  headquarters: CA
+  founded: 2018
+  homepage: https://streamingfast.io
+  privacyPolicy: https://www.streamingfast.io/privacy-policy
+  termsOfService: https://www.streamingfast.io/terms-of-service
+  linkedin: https://www.linkedin.com/company/streamingfastio/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- streamingfast.io

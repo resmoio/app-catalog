@@ -1,0 +1,41 @@
+id: pictory
+name: Pictory
+description: Pictory is an application that uses artificial intelligence to convert long-form digital
+  content into short, engaging videos. This is achieved without any need for specific technological knowledge
+  or additional software downloads. The content that can be transformed includes webinars, blogs, and
+  white papers. Pictory incorporates an in-built editing feature that allows users to create professional-quality
+  videos through a simple text-based interface. It provides a simple, effective tool for users looking
+  to generate shareable videos from their existing written or spoken material in a few quick steps.
+category: design
+labels:
+- video creation
+- ai generated
+company:
+  organization: Pictory
+  headquarters: US
+  founded: 2019
+  homepage: https://pictory.ai
+  privacyPolicy: https://pictory.ai/policy.html
+  termsOfService: https://pictory.ai/terms-of-service
+  linkedin: https://www.linkedin.com/company/pictory/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pictory.ai
+oauthDisplayNames:
+- Pictory

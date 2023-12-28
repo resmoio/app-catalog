@@ -1,0 +1,43 @@
+id: shopify
+name: Shopify
+description: Shopify is an accessible e-commerce platform meant for individuals and businesses, helping
+  them establish and operate their own online stores, regardless of technical know-how. It incorporates
+  adjustable templates, payment processing, and inventory management among other crucial business tools.
+  It exists as a cloud-based platform accommodating multi-channel commerce and is particularly tailored
+  for small to medium-sized businesses. Despite its focus on e-commerce, Shopify also provides tools for
+  handling various aspects of one's business.
+category: e-commerce
+labels:
+- ecommerce
+- online store
+- marketplace
+company:
+  organization: Shopify
+  headquarters: CA
+  founded: 2004
+  homepage: https://www.shopify.com/
+  privacyPolicy: https://www.shopify.com/legal/privacy
+  termsOfService: https://www.shopify.com/legal/terms
+  statusPage: https://www.shopifystatus.com/
+  linkedin: https://www.linkedin.com/company/shopify/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- shopify.com
+oauthDisplayNames:
+- Shopify

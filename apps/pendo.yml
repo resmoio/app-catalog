@@ -1,0 +1,44 @@
+id: pendo
+name: Pendo
+description: Pendo is a software platform designed to optimize user experience and engagement. It provides
+  various tools which allow software product teams to collect user feedback, track user interactions,
+  and share in-app tips. This makes it easier for product teams to understand their users, making more
+  informed product improvements, and enhancing user engagement. Pendo aims to enhance experiences with
+  software worldwide and assist companies in becoming centered around their products by improving user's
+  digital experiences.
+category: customer-support
+labels:
+- product experience
+- analytics
+- guidance
+company:
+  organization: Pendo
+  headquarters: US
+  founded: 2013
+  homepage: https://www.pendo.io/
+  privacyPolicy: https://www.pendo.io/legal/privacy-policy
+  termsOfService: https://www.pendo.io/legal/terms-of-service
+  statusPage: https://status.pendo.io/
+  securityPage: https://www.pendo.io/data-privacy-security/
+  linkedin: https://www.linkedin.com/company/pendo-io/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- pendo.io
+oauthDisplayNames:
+- Pendo

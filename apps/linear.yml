@@ -1,0 +1,42 @@
+id: linear
+name: Linear
+description: Linear is an application that assists teams in managing projects and tracking issues. It
+  features a user-friendly interface that simplifies collaboration and task prioritization. The app is
+  geared towards facilitating software development and offers tools to identify and keep track of bugs.
+  Users can organize their work with features that support handling issues, setting up sprints, and creating
+  product roadmaps, all with the aim of enhancing the efficiency of the software development process.
+category: project-management
+labels:
+- project management
+- issue tracking
+- agile
+company:
+  organization: Linear
+  headquarters: US
+  founded: 2019
+  homepage: https://linear.app/
+  privacyPolicy: https://linear.app/privacy
+  termsOfService: https://linear.app/terms
+  statusPage: https://linearstatus.com/
+  securityPage: https://linear.app/docs/security
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- linear.app
+oauthDisplayNames:
+- Linear

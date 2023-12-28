@@ -1,0 +1,40 @@
+id: convertcsv
+name: ConvertCSV
+description: ConvertCSV is an online application designed to convert CSV files into a variety of different
+  formats, and conversely, convert various formats back into CSV. It also provides users with the ability
+  to manipulate data as required. This application is equally useful for converting and managing both
+  CSV and Excel data.
+category: productivity
+labels:
+- file conversion
+- csv
+- excel
+company:
+  organization: Data Design Group
+  headquarters: US
+  founded: 1993
+  homepage: www.convertcsv.com
+  privacyPolicy: https://www.convertcsv.com/PrivacyPolicy.htm
+  termsOfService: https://www.convertcsv.com/terms-of-use.htm
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- convertcsv.com
+- convertcsv.io
+oauthDisplayNames:
+- ConvertCSV

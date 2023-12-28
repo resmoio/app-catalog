@@ -1,0 +1,38 @@
+id: ngrok
+name: ngrok
+description: Ngrok is a tool designed to aid developers in their work. By exposing local servers to the
+  internet, it simplifies the sharing and testing of web projects. It is API-first, meaning it can work
+  with various application programming interfaces. Moreover, it operates as a unified ingress platform
+  and integrates several technical aspects, such as a reverse proxy, firewall, API gateway, and global
+  load balancing, into a single system. Users are not required to modify their code to use ngrok, making
+  it even easier and more secure.
+category: development-tools
+labels: []
+company:
+  organization: Ngrok
+  headquarters: US
+  founded: 2015
+  homepage: https://ngrok.com
+  privacyPolicy: https://ngrok.com/privacy
+  termsOfService: https://ngrok.com/tos
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ngrok.com
+oauthDisplayNames:
+- ngrok

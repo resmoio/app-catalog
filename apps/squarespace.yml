@@ -1,0 +1,43 @@
+id: squarespace
+name: Squarespace
+description: Squarespace is a comprehensive platform that assists users in constructing websites and online
+  stores, managing domains, and utilizing marketing tools. It guides users in creating compelling online
+  platforms that successfully connect with audiences and ensures seamless customer engagement. Users can
+  customize their websites by selecting from a range of templates. The platform offers a trial option
+  for new users to acquaint themselves with the services provided.
+category: e-commerce
+labels:
+- website builder
+- ecommerce
+- hosting
+company:
+  organization: Squarespace
+  headquarters: US
+  founded: 2003
+  homepage: https://www.squarespace.com/
+  privacyPolicy: https://www.squarespace.com/privacy
+  termsOfService: https://www.squarespace.com/terms-of-service
+  statusPage: https://status.squarespace.com/
+  securityPage: https://www.squarespace.com/security
+  linkedin: https://www.linkedin.com/company/squarespace/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- squarespace.com
+oauthDisplayNames:
+- Squarespace

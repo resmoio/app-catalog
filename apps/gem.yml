@@ -1,0 +1,35 @@
+id: gem
+name: Gem
+description: Gem is a software that streamlines the recruitment process. It simplifies sourcing potential
+  candidates and engages them efficiently, taking advantage of its integration with popular platforms
+  like LinkedIn and Gmail. The application also consists of features that automate various recruitment
+  tasks, which can save significant time. Additionally, it enables users to examine their hiring funnel
+  through its analytical tools. Overall, Gem can make hiring quicker and more effective.
+category: hr
+labels: []
+company:
+  organization: Gem
+  headquarters: US
+  founded: 2017
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- gem.com
+oauthDisplayNames:
+- Gem

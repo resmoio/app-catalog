@@ -1,0 +1,39 @@
+id: dropboxfax
+name: Dropbox Fax
+description: Dropbox Fax is a service that allows users to send and receive faxes through their existing
+  Dropbox account. This service merges the convenience of cloud-based file storage with the ability to
+  communicate via fax. Users can manage their fax communication without leaving the Dropbox interface,
+  offering a seamless experience that incorporates a time-honored method of sending documents with the
+  efficiency of digital storage.
+category: productivity
+labels: []
+company:
+  organization: Dropbox Inc.
+  headquarters: US
+  founded: 2007
+  homepage: https://www.hellofax.com/
+  privacyPolicy: https://sign.dropbox.com/about/privacy
+  termsOfService: https://sign.dropbox.com/about/terms
+  statusPage: https://status.dropbox.com/
+  securityPage: https://sign.dropbox.com/trust/security?_ga=2.15650485.2060937526.1702389326-1540155968.1702389326
+  linkedin: https://www.linkedin.com/company/dropboxsign/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- hellofax.com
+oauthDisplayNames: []

@@ -1,0 +1,42 @@
+id: zillow
+name: Zillow
+description: Zillow is a web-based service dedicated to simplifying real estate transactions. This service
+  allows individuals to engage effortlessly with the property market, offering transparency in processes
+  such as selling, buying, or renting properties. Zillow collaborates with a network of real estate agents,
+  brokers, builders, property managers, and landlords. The platform also serves as an online marketplace
+  where users can discover and exchange data about homes, real estate, and mortgages. Utilizing advanced
+  technology, Zillow aids in facilitating a comprehensive and efficient real estate experience.
+category: others
+labels:
+- real estate
+- rentals
+- home values
+company:
+  organization: Zillow
+  headquarters: US
+  founded: 2006
+  homepage: https://www.zillowgroup.com/
+  privacyPolicy: https://privacy.zillowgroup.com/
+  termsOfService: https://www.zillow.com/z/corp/terms/
+  linkedin: https://www.linkedin.com/company/zillow/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- zillow.com
+oauthDisplayNames:
+- Zillow

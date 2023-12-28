@@ -1,0 +1,40 @@
+id: sifted
+name: Sifted
+description: Sifted is a media platform that reports on startup companies and technological advancements
+  in Europe. Created with backing from the Financial Times, it provides comprehensive coverage of entrepreneurial
+  activities and innovations in the region. Content on Sifted includes news, in-depth analysis, and insight
+  into the factors that drive Europe's tech scene. In essence, it acts as a crucial source of meaningful
+  reporting on the activities and innovations of entrepreneurs, founders, investors, and operators throughout
+  the continent.
+category: others
+labels:
+- startup news
+- europe
+- technology
+company:
+  organization: Sifted
+  headquarters: GB
+  founded: 2018
+  homepage: https://sifted.eu/
+  privacyPolicy: https://sifted.eu/privacy-policy
+  termsOfService: https://sifted.eu/terms-of-use
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sifted

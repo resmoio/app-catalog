@@ -1,0 +1,41 @@
+id: quora
+name: Quora
+description: Quora is an online platform focused on facilitating community-based learning by engaging
+  users in question-and-answer exchanges. Operating worldwide, it offers people the opportunity to ask
+  questions on a range of topics and receive responses from a diverse pool of experts or enthusiasts.
+  Quora not only serves as an information-seeking tool but also provides a space for sharing knowledge
+  and fostering connections with others who share similar interests. Its inclusive and collaborative setup
+  ensures that the shared content is continuously reviewed and organized by the participating users.
+category: social-media
+labels:
+- question & answer
+- knowledge sharing
+- community
+company:
+  organization: Quora
+  headquarters: US
+  founded: 2009
+  homepage: https://www.quora.com/
+  privacyPolicy: https://www.quora.com/about/privacy
+  termsOfService: https://www.quora.com/about/tos
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- quora.com
+oauthDisplayNames:
+- Quora

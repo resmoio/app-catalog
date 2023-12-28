@@ -1,0 +1,41 @@
+id: close
+name: Close
+description: Close is a management platform that focuses on relationships or CRM. It's an efficient tool
+  geared towards improving sales operations and enhancing team output. Apart from its user-friendly interface
+  and advanced features, Close assists sales-centric professionals to seamlessly handle leads, monitor
+  engagements, and finalize deals more effectively. The program also offers customizable reports, automated
+  email handling, and smooth compatibility with other key business applications. Overall, Close is an
+  all-encompassing solution well-suited for developing businesses, providing an efficient means of improving
+  sales activities and achieving goals.
+category: crm
+labels: []
+company:
+  organization: Elastic Inc.
+  headquarters: US
+  founded: 2013
+  homepage: https://www.close.com/
+  privacyPolicy: https://www.close.com/privacy
+  termsOfService: https://www.close.com/tos
+  statusPage: https://www.close.com/tos
+  securityPage: https://www.close.com/security
+  linkedin: https://www.linkedin.com/company/close-crm/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Close

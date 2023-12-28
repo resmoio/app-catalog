@@ -1,0 +1,45 @@
+id: webflow
+name: Webflow
+description: Webflow is a platform that allows users to construct and initiate websites proficiently without
+  needing coding skills. It offers a user-friendly interface and adjustable templates, simplifying website
+  creation for both individuals and businesses. Webflow provides hosting, e-commerce features, and advanced
+  design tools, making it a complete website creation and management solution. Users can visually design
+  their custom, responsive websites and prototypes using this platform. It also furnishes users with a
+  flexible content management system (CMS) and high-quality hosting. The platform offers a free trial
+  for users to explore its features before committing.
+category: content-management
+labels:
+- website builder
+- no-code
+- hosting
+company:
+  organization: Webflow
+  headquarters: US
+  founded: 2013
+  homepage: https://webflow.com/
+  privacyPolicy: https://webflow.com/legal/privacy
+  termsOfService: https://webflow.com/legal/terms
+  statusPage: https://status.webflow.com/
+  securityPage: https://webflow.com/security
+  linkedin: https://www.linkedin.com/company/webflow-inc-/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- webflow.com
+oauthDisplayNames:
+- Webflow

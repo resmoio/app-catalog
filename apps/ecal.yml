@@ -1,0 +1,42 @@
+id: ecal
+name: ECAL
+description: ECAL is a comprehensive platform designed for interactive event-based communication. It allows
+  businesses to create and share tailored event calendars that accommodate to common calendar platforms
+  such as Google Calendar, Outlook, and Apple Calendar. With ECAL, users have the ability to subscribe
+  to their preferred calendars, obtaining real-time updates and reminders for events and significant dates.
+  The platform, through its emphasis on timely and relevant content delivery, aspires to enhance client
+  interaction, encourage customer commitment, and cultivate robust relationships between businesses and
+  their audience.
+category: marketing
+labels:
+- calendar marketing
+- events
+- engagement
+company:
+  organization: HyperKu Pte Ltd
+  headquarters: AU
+  founded: 2010
+  homepage: https://ecal.com/
+  privacyPolicy: https://ecal.com/privacy-policy/
+  termsOfService: https://ecal.com/terms-of-use/
+  linkedin: https://www.linkedin.com/company/ecalmarketing/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ECAL

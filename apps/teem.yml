@@ -1,0 +1,34 @@
+id: teem
+name: Teem Calendar Management
+description: Teem Calendar Management is an application designed to improve the organization and management
+  of workplace tasks and duties. It allows users to manage and arrange schedules, providing an enjoyable
+  and efficient experience for both employers and employees. The main aim of the app is to boost workplace
+  strategies. It allows for effective scheduling which, in turn, leads to increased productivity and job
+  satisfaction. Please note, demo versions of the app are available for trial purposes.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://teem.com
+  privacyPolicy: https://teem.com/privacy/
+  termsOfService: https://teem.com/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Teem Calendar Management

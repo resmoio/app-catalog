@@ -1,0 +1,31 @@
+id: tome
+name: Tome
+description: Tome is a tool designed to aid in the creation of visually-driven narratives. Utilizing artificial
+  intelligence technology, it assists its users in converting their concepts into visually attractive
+  stories. It is particularly useful for those who are looking to enhance their storytelling or presentation
+  skills.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Magical Tome

@@ -1,0 +1,40 @@
+id: educative
+name: Educative
+description: Educative is an interactive learning platform aimed at enriching the coding skills of individuals
+  at all levels of proficiency. It provides hands-on coding tutorials that emphasize practical engagement
+  over passive instruction. The platform covers various programming languages, development tools, and
+  software engineering concepts. Users can test their progress through interactive in-browser learning
+  environments, boosting their competency and knowledge in a dynamic, hands-on manner.
+category: education
+labels:
+- interactive courses
+- coding
+- programming
+company:
+  organization: Educative Inc.
+  headquarters: US
+  founded: 2015
+  homepage: https://www.educative.io/
+  privacyPolicy: https://www.educative.io/privacy
+  termsOfService: https://www.educative.io/terms
+  linkedin: https://www.linkedin.com/company/educative-inc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Educative

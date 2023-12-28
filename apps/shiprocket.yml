@@ -1,0 +1,37 @@
+id: shiprocket
+name: Shiprocket
+description: Shiprocket is a software tool that's frequently used in India for managing eCommerce logistics
+  and shipping. It offers solutions related to courier services, assisting in the overall process of shipping
+  for eCommerce businesses. The software includes a function that collects or "aggregates" the best courier
+  services in one place for users' convenience. Anyone can try Shiprocket to experience its features without
+  incurring charges.
+category: e-commerce
+labels:
+- shipping
+- delivery
+- ecommerce
+company:
+  organization: ''
+  homepage: https://www.shiprocket.in/
+  privacyPolicy: https://www.shiprocket.in/privacy-policy/
+  termsOfService: https://www.shiprocket.in/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Shiprocket

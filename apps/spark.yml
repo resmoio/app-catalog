@@ -1,0 +1,43 @@
+id: spark
+name: Spark
+description: Spark Mail is an email application designed to enhance efficiency and productivity by streamlining
+  email management. The app's key feature is its intelligent filtering system, which reduces email clutter
+  and unnecessary distractions. It aims to prioritize critical communications, enabling users to maintain
+  focus on significant matters. Cross-platform capabilities facilitate easy access across diverse devices,
+  further aiding in effective email management. Spark Mail is essentially a tool that assists users with
+  organizing their inbox, automatically highlighting important emails and enabling rapid cleanups of less
+  relevant ones.
+category: mail
+labels:
+- email app
+- calendar
+- tasks
+company:
+  organization: Readdle
+  headquarters: US
+  founded: 2007
+  homepage: https://sparkmailapp.com/
+  privacyPolicy: https://sparkmailapp.com/legal/privacy-web
+  termsOfService: https://sparkmailapp.com/legal/terms
+  linkedin: https://www.linkedin.com/company/readdle/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- sparkmailapp.com
+oauthDisplayNames:
+- Spark

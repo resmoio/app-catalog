@@ -1,0 +1,43 @@
+id: fullstory
+name: FullStory
+description: FullStory is an analytical tool designed to help businesses understand and enhance their
+  users' online experiences. It provides a range of features including session replay and funnel analysis,
+  thus offering meaningful insights into user behavior. This tool aggregates customer experience data
+  in a simplified, manageable way, allowing businesses to make necessary adjustments to their digital
+  products for user satisfaction.
+category: web-analytics
+labels:
+- session replay
+- analytics
+- optimization
+company:
+  organization: FullStory
+  headquarters: US
+  founded: 2014
+  homepage: https://www.fullstory.com/
+  privacyPolicy: https://www.fullstory.com/legal/privacy-policy
+  termsOfService: https://www.fullstory.com/legal/terms-and-conditions
+  statusPage: https://status.fullstory.com/
+  securityPage: https://trust.fullstory.com/
+  linkedin: https://www.linkedin.com/company/fullstory/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- fullstory.com
+oauthDisplayNames:
+- FullStory

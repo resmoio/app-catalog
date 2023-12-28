@@ -1,0 +1,36 @@
+id: telecompaper
+name: Telecompaper
+description: Telecompaper is a program that provides independent news and market information in the global
+  telecommunications industry. It covers a broad range of areas including mobile, stationary, broadband,
+  and IT markets. The app serves as a beneficial tool for industry professionals, executives, and stakeholders,
+  offering important insights and analysis based on data within the telecommunications field.
+category: news-and-entertainment
+labels: []
+company:
+  organization: Telecom.paper BV
+  headquarters: NL
+  founded: 2000
+  homepage: https://www.telecompaper.com/
+  privacyPolicy: https://www.telecompaper.com/about/privacy-policy
+  termsOfService: https://www.telecompaper.com/about/terms
+  linkedin: https://www.linkedin.com/company/telecompaper/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Telecompaper

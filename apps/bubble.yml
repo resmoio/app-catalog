@@ -1,0 +1,41 @@
+id: bubble
+name: Bubble
+description: Bubble is a web application development platform that simplifies the process for users, requiring
+  minimal to no coding experience. Users can design, develop, and manage web applications through a user-friendly
+  interface that involves dragging and dropping an interactive set of tools. The platform employs visual
+  workflows that make it easy to create custom web solutions. Bubble is primarily used for building full-stack
+  apps such as software-tools, customer relationship management (CRMs), and online marketplaces, all hosted
+  securely in a cloud environment.
+category: development-tools
+labels: []
+company:
+  organization: Bubble
+  headquarters: GB
+  founded: 1999
+  homepage: https://bubble.io/
+  privacyPolicy: https://bubble.io/privacy?ref=footer
+  termsOfService: https://bubble.io/terms?ref=footer
+  statusPage: https://status.bubble.io/
+  securityPage: https://bubble.io/security?ref=footer
+  linkedin: https://www.linkedin.com/company/bubble-hq/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- bubble.io
+oauthDisplayNames:
+- Bubble

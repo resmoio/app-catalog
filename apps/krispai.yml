@@ -1,0 +1,41 @@
+id: krispai
+name: Krisp.ai
+description: Krisp.ai is a tool that helps improve the quality of voice communications. It works by getting
+  rid of distracting background noise and making the speaker's voice clearer. In addition, it offers transcriptions
+  for every conversation and provides analytics to enhance communication effectiveness. Krisp.ai is straightforward
+  to use, one button is enough to start the noise cancellation feature. This tool can help in conducting
+  professional, disturbance-free conference calls from any location, resulting in increased productivity.
+category: others
+labels:
+- noise cancellation
+- audio quality
+- transcription
+company:
+  organization: Krisp Technologies Inc.
+  headquarters: US
+  founded: 2017
+  homepage: https://krisp.ai/
+  privacyPolicy: https://krisp.ai/privacy-policy
+  termsOfService: https://krisp.ai/terms-of-use
+  linkedin: https://www.linkedin.com/company/krisphq/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- krisp.ai
+oauthDisplayNames:
+- Krisp.ai

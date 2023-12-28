@@ -1,0 +1,41 @@
+id: paperless-post
+name: Paperless Post
+description: Paperless Post is a digital service that enables users to create and send personalized digital
+  invitations, cards, and flyers. It merges the flexibility of online communication with the personal
+  touch typically found in traditional paper cards. Users can customize their invitations and cards to
+  reflect their individual style. It's suitable for a range of events including weddings, birthdays, holidays,
+  and other significant moments.
+category: others
+labels:
+- online invitations
+- cards
+- gifting
+company:
+  organization: Paperless Inc.
+  headquarters: US
+  founded: 2009
+  homepage: https://www.paperlesspost.com/
+  privacyPolicy: https://www.paperlesspost.com/privacy-policy
+  termsOfService: https://www.paperlesspost.com/terms-of-service
+  statusPage: https://status.paperlesspost.com/
+  linkedin: https://www.linkedin.com/company/paperless-post/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Paperless Post

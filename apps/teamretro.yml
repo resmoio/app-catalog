@@ -1,0 +1,44 @@
+id: teamretro
+name: TeamRetro
+description: TeamRetro is an online platform specifically designed to conduct agile retrospectives and
+  team health checks. It provides a secure, collaborative environment that promotes active decision-making
+  and facilitates a sense of safety, essential for improvement. This tool is particularly beneficial for
+  remote teams as it aids in tracking their growth and enhancement. TeamRetro also includes a single sign-on
+  feature for ease of access, making it equipped to handle the requirements of corporations. Despite being
+  online, it has managed to establish itself as a reliable tool in this domain.
+category: productivity
+labels:
+- retrospectives
+- agile
+- action items
+company:
+  organization: GroupMap
+  headquarters: AU
+  founded: 2018
+  homepage: https://www.teamretro.com/
+  privacyPolicy: https://www.teamretro.com/privacy
+  termsOfService: https://www.teamretro.com/terms-of-service
+  statusPage: https://teamretro.betteruptime.com/
+  securityPage: https://www.teamretro.com/security
+  linkedin: https://www.linkedin.com/company/teamretro/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- teamretro.com
+oauthDisplayNames:
+- TeamRetro

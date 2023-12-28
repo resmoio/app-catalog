@@ -1,0 +1,31 @@
+id: zipextractor
+name: ZIP Extractor
+description: ZIP Extractor is an application that provides a simple process for accessing and using the
+  content of ZIP files. The main function is to decompress or 'extract' the various files and folders
+  that have been compressed into a ZIP file. This tool makes it easier for users to engage with the material
+  inside a ZIP file without any complications.
+category: productivity
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- zipextractor.com
+oauthDisplayNames: []

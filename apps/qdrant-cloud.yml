@@ -1,0 +1,35 @@
+id: qdrant-cloud
+name: Qdrant Cloud
+description: Qdrant Cloud is a database and search engine primarily focused on vector
+  data. Developed using Rust open-source coding, it offers a robust and capable platform for quick and
+  efficient vector similarity searches. The use of straightforward API makes its services encompassing
+  and user-friendly. This application merges scalability with speed, enabling smooth handling of operations
+  and ease in data search activities. As an open-source software, it fosters open collaboration to continually
+  refine and improve its functionality.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://qdrant.com
+  privacyPolicy: https://qdrant.tech/legal/privacy-policy/
+  termsOfService: https://qdrant.tech/legal/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Qdrant Cloud

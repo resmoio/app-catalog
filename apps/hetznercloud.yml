@@ -1,0 +1,36 @@
+id: hetznercloud
+name: Hetzner Cloud
+description: Hetzner Cloud is a cloud hosting service developed by Hetzner, a German-based data center
+  operator. It provides a server infrastructure that businesses can scale according to their needs. Its
+  user-friendly interfaces facilitate the rapid deployment of virtual private servers. The service is
+  competitively priced, making it a cost-effective option for various active businesses.
+category: cloud
+labels:
+- iaas
+- vps
+- cloud hosting
+company:
+  organization: Hetzner Cloud
+  homepage: https://www.hetzner.com/
+  privacyPolicy: https://www.hetzner.com/legal/privacy-policy
+  termsOfService: https://www.hetzner.com/legal/terms-and-conditions
+  statusPage: https://status.hetzner.com/de
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

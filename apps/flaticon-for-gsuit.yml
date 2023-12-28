@@ -1,0 +1,38 @@
+id: flaticon-for-gsuit
+name: Flaticon for GSuit
+description: Flaticon for GSuit is a platform that provides high-quality, customizable icons suitable
+  for a variety of design purposes. Featuring a large library of icon styles across numerous categories,
+  Flaticon facilitates the integration of visually pleasing and adaptable icons into various projects.
+  It caters to web designers, app developers, and others involved in visual projects by allowing them
+  to modify icons to match their preferred color schemes and sizes. Flaticon offers its massive icon library
+  in several formats including PNG, SVG, EPS, PSD, and CSS, making it a versatile tool for enhancing design
+  aesthetic and professionalism.
+category: design
+labels: []
+company:
+  organization: Freepik Company S.L.
+  headquarters: Spain
+  founded: 2013
+  homepage: https://www.flaticon.com/
+  privacyPolicy: https://www.freepikcompany.com/privacy
+  termsOfService: https://www.freepikcompany.com/legal#nav-flaticon
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Flaticon for GSuit

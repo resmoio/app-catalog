@@ -1,0 +1,35 @@
+id: hopin
+name: Hopin
+description: Hopin is an online platform that provides the tools to organize and participate in virtual
+  events. It's designed to facilitate connections within communities that are spread out. Various features
+  within Hopin aim to create a sense of community and stimulate business activity. The platform includes
+  several applications, such as StreamYard, Streamable, and Superwave, which are already in use by millions
+  of people.
+category: marketing
+labels: []
+company:
+  organization: Hopin
+  headquarters: GB
+  founded: 2019
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- hopin.com
+oauthDisplayNames:
+- Hopin

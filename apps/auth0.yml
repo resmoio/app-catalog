@@ -1,0 +1,46 @@
+id: auth0
+name: Auth0
+description: Auth0 is an identity management service that enables organizations to provide secure access
+  to various applications for users. It is designed for ease of use by developers while offering the flexibility
+  to meet different business requirements. Auth0 can handle a large number of login transactions each
+  month, emphasizing user convenience, privacy, and security. The service is suitable for web, mobile,
+  Internet of Things (IoT), and internal applications. It supports quick integration of authentication
+  and authorization processes, allowing organizations to prioritize their fundamental business activities.
+category: identity-and-access
+labels:
+- authentication
+- sso
+- security
+company:
+  organization: Okta
+  headquarters: US
+  founded: 2009
+  homepage: https://auth0.com/
+  privacyPolicy: https://auth0.com/docs/secure/data-privacy-and-compliance
+  termsOfService: https://auth0.com/web-terms
+  statusPage: https://status.auth0.com/
+  securityPage: https://auth0.com/security
+  linkedin: https://www.linkedin.com/company/auth0/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+# don't add auth0.com directly otherwise all others will be here
+appDomains:
+- auth0.auth0.com
+- manage.auth0.com
+oauthDisplayNames:
+- Auth0

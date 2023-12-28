@@ -1,0 +1,38 @@
+id: freepikcompany
+name: Freepik Company
+description: Freepik Company is a Spain-based firm specializing in graphic resources. It manages several
+  platforms such as Freepik, Flaticon, and Slidesgo. Its digital library houses an expansive variety of
+  graphic designs, vector images, and photographs for user access. The company also runs another project
+  named Wepik. Thus, it encompasses four distinct projects offering limitless opportunities for creative
+  exploration for users.
+category: design
+labels: []
+company:
+  organization: Freepik Company
+  headquarters: Malaga
+  founded: 2010
+  homepage: https://www.freepikcompany.com/
+  privacyPolicy: https://www.freepikcompany.com/privacy
+  termsOfService: https://www.freepikcompany.com/legal
+  linkedin: https://www.linkedin.com/company/freepik-corp/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- freepikcompany.com
+oauthDisplayNames:
+- Freepik Company

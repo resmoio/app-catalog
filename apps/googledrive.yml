@@ -1,0 +1,37 @@
+id: googledrive
+name: Google Drive
+description: Google Drive is a service for cloud-based storage and synchronizing files, enabling users
+  to store, access, and share various files and folders from different locations using an internet connection.
+  It works well with other tools in the Google Workspace, enabling simultaneous collaboration on documents,
+  spreadsheets, and presentations. It comes with diverse storage plans, thereby providing a flexible way
+  for individuals and teams to manage their digital files. Users can store all types of files, access
+  them from their desktop or mobile devices at their convenience, and control the sharing permissions.
+  It provides a secure area to store, access, and share files.
+category: storage-and-database
+labels: []
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- drive.google.com
+oauthDisplayNames:
+- Google Drive for Desktop

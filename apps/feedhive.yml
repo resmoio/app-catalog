@@ -1,0 +1,36 @@
+id: feedhive
+name: FeedHive
+description: FeedHive is an application that supports the creation of content on a large scale. Users
+  can generate substantial volumes of content effectively, thus making it a suitable tool for those who
+  regularly produce high quantities of content, such as bloggers, social media managers, content writers,
+  and more. The application helps in organizing the content creation process, streamlining your work and
+  making content production more manageable.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://feedhive.io
+  privacyPolicy: https://feedhive.io/privacy
+  termsOfService: https://feedhive.io/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.feedhive.com
+- app.feedhive.io
+oauthDisplayNames:
+- FeedHive

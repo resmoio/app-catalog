@@ -1,0 +1,42 @@
+id: seomonitor
+name: SEOmonitor
+description: SEOmonitor is a digital marketing tool primarily created for agencies and professionals working
+  in the Search Engine Optimization (SEO) field. This software provides useful information and suggests
+  practical steps to enhance online visibility, monitor keyword performance, and evaluate the success
+  of SEO efforts. It simplifies the process of reporting SEO outcomes and tracking performance. Key features
+  include tracking and predicting ranks, analysing organic traffic, assistance in keyword research, auditing
+  content, and offering agency-specific dashboards. The software also includes artificial intelligence
+  assistance and the possibility of integrating with APIs.
+category: seo
+labels: []
+company:
+  organization: SEOmonitor
+  headquarters: RO
+  founded: 2007
+  homepage: https://www.seomonitor.com/
+  privacyPolicy: https://help.seomonitor.com/en/articles/2285725-seomonitor-privacy-policy
+  termsOfService: https://help.seomonitor.com/en/articles/2285726-seomonitor-terms-of-use
+  statusPage: https://status.seomonitor.com/
+  linkedin: https://www.linkedin.com/company/seomonitor-application/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- seomonitor.com
+oauthDisplayNames:
+- SEOmonitor
+- SEOmonitor App Login

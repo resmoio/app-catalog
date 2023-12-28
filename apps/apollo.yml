@@ -1,0 +1,45 @@
+id: apollo
+name: Apollo
+description: Apollo.io is a platform designed to simplify the sales process. It includes a large database
+  of potential buyers, along with tools for sales engagement and automation. With more than 250 million
+  contacts, it provides sales professionals with a rich resource for finding and connecting with potential
+  buyers. Apollo.io also offers smart automation for outreach efforts, aiding in effective communication
+  with target audiences. In essence, it's a tool that helps manage sales projects and contacts effectively
+  by providing resources that support finding, engaging, and converting potential clients.
+category: sales
+labels:
+- crm
+- sales engagement
+- outreach
+company:
+  organization: Zenleads Inc.
+  headquarters: US
+  founded: 2015
+  homepage: https://www.apollo.io/
+  privacyPolicy: https://www.apollo.io/privacy-policy
+  termsOfService: https://www.apollo.io/terms
+  securityPage: https://www.apollo.io/product/security
+  linkedin: https://www.linkedin.com/company/apolloio/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- heyapollo.io
+appDomains:
+- apollo.io
+oauthDisplayNames:
+- Apollo

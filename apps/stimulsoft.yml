@@ -1,0 +1,38 @@
+id: stimulsoft
+name: Stimulsoft
+description: Stimulsoft is an application that offers reporting tools to users. Mainly, it features a
+  report writer that's free from royalty charges and can be deployed easily over numerous platforms. Some
+  of these platforms include ASP.NET, WinForms, .NET Core, JavaScript, WPF, Angular, Blazor, PHP, Java,
+  and others. Whether working on .NET, MVC, Blazor, PHP, or JavaScript, Stimulsoft is capable of providing
+  a reliable, flexible solution for generating reports. Its versatile functionality makes it a tool that
+  can cater to various reporting needs in multiple scenarios.
+category: development-tools
+labels:
+- reporting
+- business intelligence
+- dashboards
+company:
+  organization: ''
+  homepage: https://www.stimulsoft.com/
+  privacyPolicy: https://www.stimulsoft.com/en/stimulsoft-privacy-policy
+  termsOfService: https://www.stimulsoft.com/en/stimulsoft-privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Stimulsoft

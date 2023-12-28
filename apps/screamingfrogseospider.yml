@@ -1,0 +1,33 @@
+id: screamingfrogseospider
+name: Screaming Frog SEO Spider
+description: Screaming Frog SEO Spider operates as a tool which inspects websites for components that
+  can improve their performance in search engine listings. The tool works by examining websites page by
+  page, collating data regarding elements like the titles, descriptive tags, URL formatting, broken links,
+  or repeating content. This information helps users in understanding where their websites fall short
+  and how they can enhance their position in search engine results.
+category: seo
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- screamingfrog.co.uk
+oauthDisplayNames:
+- SEO Spider

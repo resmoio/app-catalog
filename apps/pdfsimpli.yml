@@ -1,0 +1,40 @@
+id: pdfsimpli
+name: PDFSimpli
+description: PDFSimpli is an online service designed to help users modify and handle PDF documents. It
+  allows the seamless editing, merging, splitting, and compressing of PDF files through a user-friendly
+  interface. This web-based platform eliminates the requirement for specialized software, enabling straightforward
+  document conversion and management directly from a browser. Users can also sign and secure their PDF
+  documents using PDFSimpli's online tools.
+category: productivity
+labels:
+- pdf manager
+- editor
+- converter
+company:
+  organization: WorkSimpli Software
+  headquarters: US
+  founded: 2017
+  homepage: https://pdfsimpli.com/
+  privacyPolicy: https://pdfsimpli.com/support/privacy-policy
+  termsOfService: https://pdfsimpli.com/support/terms-and-conditions
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pdfsimpli.com
+oauthDisplayNames:
+- PDFSimpli

@@ -1,0 +1,39 @@
+id: brainboard
+name: Brainboard
+description: Brainboard provides a visual tool for creating and overseeing cloud infrastructure. It is
+  designed to support multiple cloud platforms, aiming to streamline the deployment process, promote secure
+  environments, and facilitate teamwork. The application serves as an end-to-end cloud management solution
+  that focuses on efficiency and security without the need for extensive cloud expertise.
+category: others
+labels:
+- infrastructure
+- visualization
+- collaboration
+company:
+  organization: ''
+  homepage: https://www.brainboard.co/
+  privacyPolicy: https://www.brainboard.co/legal/privacy-policy
+  termsOfService: https://www.brainboard.co/legal/terms-of-use
+  securityPage: https://www.brainboard.co/legal/security
+  linkedin: https://www.linkedin.com/company/brainboard-co/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- brainboard.co
+oauthDisplayNames:
+- Brainboard

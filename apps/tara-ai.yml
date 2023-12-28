@@ -1,0 +1,40 @@
+id: tara-ai
+name: Tara AI
+description: Tara AI is an application designed to improve the productivity and scalability of product
+  delivery within an engineering context. Its primary function is to refine engineering processes, ultimately
+  enhancing the efficiency with which products are delivered. Therefore, it is beneficial for businesses
+  intending to optimize their engineering impact and achieve better customer outcomes.
+category: productivity
+labels:
+- engineering productivity
+- ai assistant
+- devops
+company:
+  organization: Tara Intelligence Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://tara.ai/
+  privacyPolicy: https://tara.ai/privacy/
+  termsOfService: https://tara.ai/terms-of-use
+  securityPage: https://tara.ai/security
+  linkedin: https://www.linkedin.com/company/tara.ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Tara AI

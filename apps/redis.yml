@@ -1,0 +1,41 @@
+id: redis
+name: Redis
+description: Redis is a software that enhances the speed of applications and improves data management
+  for organizations. It's utilized by over 8,000 global firms, combining the superior speed and simplicity
+  of Open-Source Redis with a comprehensive data ecosystem suitable for enterprises. Key features of Redis
+  include modern data models, streamlined management, process automation, strong performance, and resilience.
+  It also offers Redis Enterprise which helps developers fully utilize the capabilities of the Redis database
+  to build faster, more efficient applications.
+category: enterprise-it-services
+labels:
+- caching
+- database
+- realtime
+company:
+  organization: Redis Inc.
+  headquarters: US
+  founded: 2011
+  homepage: https://redis.com
+  privacyPolicy: https://redis.com/legal/privacy-policy/
+  termsOfService: https://redis.com/legal/redis-website-terms-of-use/
+  linkedin: https://www.linkedin.com/company/redisinc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Redis

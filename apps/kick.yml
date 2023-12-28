@@ -1,0 +1,36 @@
+id: kick
+name: Kick
+description: Kick is a platform that integrates gaming and livestreaming. It serves as a community for
+  users interested in these areas, offering a space to engage and connect. Presently, Kick is in its beta
+  stage, welcoming individuals to join and contribute to its rapid development. This is not a solicitation,
+  merely a statement of facts indicating the existing conditions and opportunities within the platform.
+category: others
+labels:
+- live streaming
+- video
+- gaming
+company:
+  organization: ''
+  homepage: https://kick.com
+  privacyPolicy: https://kick.com/privacypolicy
+  termsOfService: https://kick.com/privacypolicy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Kick

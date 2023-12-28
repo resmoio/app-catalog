@@ -1,0 +1,42 @@
+id: freecodecamp
+name: freeCodeCamp.org
+description: FreeCodeCamp.org is an online platform run by a non-profit entity called FreeCodeCamp Inc.
+  It aims to provide free and open access to coding education to people globally. The app offers a broad
+  curriculum covering different programming languages, web development, data science, among other things.
+  Users can learn at their own speed, tackle various coding challenges, and earn certificates that reflect
+  their proficiency to possible employers. FreeCodeCamp encourages learning through a community-based
+  approach learners can engage in projects and real-world applications, fostering teamwork. The
+  app's goal is to equip users with the skills and knowledge necessary for a successful career in the
+  tech industry.
+category: education
+labels:
+- coding
+- education
+- nonprofit
+company:
+  organization: Free Code camp Inc.
+  headquarters: US
+  founded: 2014
+  homepage: https://freecodecamp.org
+  privacyPolicy: https://www.freecodecamp.org/news/privacy-policy/
+  termsOfService: https://www.freecodecamp.org/news/terms-of-service/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- freeCodeCamp.org

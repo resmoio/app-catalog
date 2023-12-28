@@ -1,0 +1,35 @@
+id: playbook
+name: Playbook
+description: Playbook, made by Plug and Play, is a software aimed at promoting relationships between large
+  companies and startups. It works to simplify the process of building beneficial connections, with a
+  focus on helping prime innovators obtain resources. The long-term goal of the software is to push the
+  boundaries of innovation for broader societal benefits.
+category: content-sharing
+labels:
+- startup marketplace
+- corporate innovation
+company:
+  organization: Plug and Play
+  homepage: https://playbook.vc/
+  privacyPolicy: https://playbook.vc/legal/privacy.html
+  statusPage: https://playbook.vc/status/current.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Playbook

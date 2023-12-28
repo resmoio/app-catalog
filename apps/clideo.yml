@@ -1,0 +1,35 @@
+id: clideo
+name: Clideo
+description: Clideo is a web-based platform that simplifies video editing and format conversion. It provides
+  tools to make changes to video files, like shortening clips, combining different segments, writing captions,
+  and using colour filters. This service is beneficial for both individuals and businesses who need to
+  process videos for various uses such as sharing on social media, using in presentations, or generating
+  creative content. No special software installations are required to use Clideo.
+category: productivity
+labels: []
+company:
+  organization: ''
+  homepage: https://clideo.com/
+  termsOfService: https://clideo.com/terms
+  privacyPolicy: https://clideo.com/privacy
+  linkedin: https://www.linkedin.com/company/clideo/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Clideo

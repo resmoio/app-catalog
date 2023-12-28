@@ -1,0 +1,34 @@
+id: sprinklr-self-serve
+name: Sprinklr Self Serve
+description: Sprinklr Self Serve is primarily used by many large businesses to interact with consumers
+  via different digital channels. These channels include 23 social platforms, 11 messaging platforms,
+  chat features, SMS, and email. The app supports various functions such as marketing, advertising, research,
+  and customer engagement. Sprinklr Self Serve provides a single platform for managing all these digital
+  customer experiences.
+category: social-media
+labels: []
+company:
+  organization: ''
+  homepage: https://www.sprinklr.com
+  privacyPolicy: https://sprinklr.com/privacy/
+  termsOfService: https://sprinklr.com/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sprinklr Self Serve

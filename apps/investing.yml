@@ -1,0 +1,38 @@
+id: investing
+name: Investing.com App
+description: The Investing.com app is a financial markets platform that provides real-time data, quotes,
+  and charts, along with various financial tools. It's designed as a resource to keep users informed about
+  the investment world by presenting up-to-date information in a user-friendly interface.
+category: news-and-entertainment
+labels:
+- finance news
+- trading
+- analysis
+company:
+  organization: Fusion Media Limited
+  headquarters: US
+  founded: 2007
+  homepage: https://www.investing.com
+  privacyPolicy: https://www.investing.com/about-us/privacy-policy
+  termsOfService: https://www.investing.com/about-us/terms-and-conditions
+  linkedin: https://www.linkedin.com/company/investing-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Investing.com App

@@ -1,0 +1,40 @@
+id: instacart
+name: Instacart
+description: Instacart is a service accessible in the United States and Canada that provides delivery
+  and pickup options for groceries and household items. Within the service, users can place orders through
+  the Instacart website or its mobile application. The service encompasses not only groceries and household
+  supplies but, where legalized, also alcohol. Once an order is placed, it is handed over to a personal
+  shopper who then delivers it to the client's doorstep, often within an hour of order placement.
+category: e-commerce
+labels:
+- grocery delivery
+- delivery
+- ecommerce
+company:
+  organization: Instacart
+  headquarters: US
+  founded: 2012
+  homepage: https://www.instacart.com/
+  privacyPolicy: https://www.instacart.com/privacy
+  termsOfService: https://www.instacart.com/terms
+  linkedin: https://www.linkedin.com/company/instacart/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Instacart

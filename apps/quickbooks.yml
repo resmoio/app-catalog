@@ -1,0 +1,42 @@
+id: quickbooks
+name: QuickBooks
+description: QuickBooks is a software developed by Intuit that offers financial management solutions for
+  small businesses. By merging user-friendly interfaces with advanced tools, QuickBooks aims to simplify
+  complex accounting tasks. It offers features that allow users to efficiently track their expenses, manage
+  invoices, monitor cash flow, and prepare tax documents. QuickBooks caters particularly to startups and
+  small businesses by helping them organize and manage their finances effectively. Although many businesses
+  reportedly use QuickBooks, the software presents a straightforward setup process for new users, and
+  a trial version is also available.
+category: account-and-finance
+labels: []
+company:
+  organization: Intuit
+  headquarters: US
+  founded: 1983
+  homepage: https://quickbooks.intuit.com/
+  privacyPolicy: https://security.intuit.com/privacy/
+  termsOfService: https://qbo.intuit.com/c1/Terms_Of_Service.html
+  statusPage: https://status.quickbooks.intuit.com/
+  securityPage: https://security.intuit.com/
+  linkedin: https://www.linkedin.com/showcase/quickbooks/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- quickbooks.intuit.com
+oauthDisplayNames:
+- QuickBooks

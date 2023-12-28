@@ -1,0 +1,40 @@
+id: onelinkto
+name: onelink.to
+description: OneLink is an application that simplifies the process of downloading apps for users. It provides
+  a unified link or a QR code that directs users immediately to the relevant application on either the
+  App Store or Google Play. It removes the inconvenience of handling multiple links and guarantees a seamless
+  experience for users who are accessing apps across various platforms.
+category: others
+labels:
+- app installs
+- deep linking
+- qr codes
+company:
+  organization: ''
+  headquarters: Sweden
+  founded: 2011
+  homepage: https://onelink.to
+  privacyPolicy: https://www.onelink.to/legal/privacy
+  termsOfService: https://www.onelink.to/legal/terms
+  statusPage: https://status.onesignal.com/
+  linkedin: https://www.linkedin.com/company/onelink-to/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- onelink.to

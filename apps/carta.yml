@@ -1,0 +1,37 @@
+id: carta
+name: Carta
+description: Carta is a digital platform developed by a financial technology firm, dedicated to equity
+  management and valuation. It primarily assists startups, private organizations, and venture capitalists
+  with equity-related tasks and in tracking equity ownership. The software helps manage cap tables, issue
+  stock options, and ensures adherence to regulatory guidelines. Carta essentially simplifies complex
+  tasks related to managing equity and ownership. The platform is also equipped with features for order
+  tracking, stock control and customer management.
+category: account-and-finance
+labels: []
+company:
+  organization: ''
+  homepage: https://carta.com/uk/en/
+  privacyPolicy: https://carta.com/uk/en/privacy/
+  termsOfService: https://carta.com/uk/en/terms-of-service/
+  securityPage: https://carta.com/uk/en/security/responsible-disclosure-policy/
+  linkedin: https://www.linkedin.com/company/carta--/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- carta.com
+oauthDisplayNames: []

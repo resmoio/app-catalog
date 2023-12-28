@@ -1,0 +1,45 @@
+id: surveymonkey
+name: SurveyMonkey
+description: SurveyMonkey is an online platform designed to generate custom surveys for individuals and
+  businesses. Users can create their own unique surveys or use customizable templates, and these tools
+  provide a variety of question formats to choose from. Upon collection of responses, SurveyMonkey provides
+  advanced analysis features to help users understand the collected data better. It's an efficient tool
+  for gathering valuable insights, typically used for feedback collection or market research. Beyond its
+  premium features, SurveyMonkey also includes a free version that provides basic survey and questionnaire
+  functionalities.
+category: business-intelligence
+labels:
+- online surveys
+- questionnaire
+- analytics
+company:
+  organization: SurveyMonkey
+  headquarters: US
+  founded: 1999
+  homepage: https://www.surveymonkey.com/
+  privacyPolicy: https://surveymonkey.com/mp/policy/privacy-policy
+  termsOfService: https://surveymonkey.com/mp/policy/terms-of-use
+  statusPage: https://surveymonkey.statuspage.io/
+  securityPage: https://www.surveymonkey.com/mp/legal/security/
+  linkedin: https://www.linkedin.com/company/surveymonkey/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- surveymonkey.com
+oauthDisplayNames:
+- SurveyMonkey

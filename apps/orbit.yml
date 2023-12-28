@@ -1,0 +1,43 @@
+id: orbit
+name: Orbit
+description: Orbit is a platform designed to facilitate community experiences, primarily targeted at developers.
+  The platform enables organizations to monitor and enhance engagement within their community. The notion
+  behind Orbit is its "Orbit Model," a system that offers insights, metrics, and automated features. This
+  system assists users in comprehension and connection with community members through multiple channels.
+  Thousands of businesses already employ Orbit in the management and growth of their customer programs.
+  Use of Orbit does not initially require any payment.
+category: others
+labels:
+- community management
+- engagement
+- analytics
+company:
+  organization: Orbit
+  headquarters: US
+  founded: 2019
+  homepage: https://orbit.love/
+  privacyPolicy: https://orbit.love/privacy-policy
+  termsOfService: https://orbit.love/terms-of-service
+  statusPage: https://status.orbit.love/
+  securityPage: https://orbit.trustshare.com/certifications/gdpr_privacy
+  linkedin: https://www.linkedin.com/company/orbitco/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Orbit

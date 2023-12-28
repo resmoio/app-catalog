@@ -1,0 +1,39 @@
+id: pabbly
+name: Pabbly
+description: Pabbly is a comprehensive set of business tools designed to facilitate growth and expansion.
+  It is notable for its broad range of products, affordable cost, and high-quality customer service. Pabbly
+  includes functionalities for automated sales and marketing, enabling users to combine email marketing,
+  lead collection, WordPress themes, and subscriptions in one location. It has seen increasing preference
+  over some top brands in recent times due to its features and services.
+category: marketing
+labels:
+- marketing tools
+- email marketing
+- subscriptions
+company:
+  organization: MagnetBrains LLC
+  headquarters: IN
+  founded: 2017
+  homepage: https://www.pabbly.com/
+  privacyPolicy: https://www.pabbly.com/privacy-policy/
+  termsOfService: https://www.pabbly.com/terms-conditions/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Pabbly

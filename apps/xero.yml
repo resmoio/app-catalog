@@ -1,0 +1,43 @@
+id: xero
+name: Xero
+description: Xero is an online accounting software primarily designed for small businesses, accountants,
+  and bookkeepers. It allows users to manage various financial aspects, including basic accounting, payroll,
+  expenses, and project finances. Xero works by connecting users to their banks and other business applications,
+  providing an integrated financial platform. Its open-platform nature allows connections with various
+  apps and financial institutions, enhancing workflow efficiency. While a free trial is available, continued
+  access to the service requires a subscription.
+category: account-and-finance
+labels:
+- small business accounting
+- invoicing
+- reporting
+company:
+  organization: Xero
+  headquarters: AU
+  founded: 2006
+  homepage: https://www.xero.com/us/
+  privacyPolicy: https://www.xero.com/us/about/legal/privacy/
+  termsOfService: https://www.xero.com/us/about/legal/terms/
+  securityPage: https://www.xero.com/us/security/
+  linkedin: https://www.linkedin.com/company/xero/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- xero.com
+oauthDisplayNames:
+- Xero

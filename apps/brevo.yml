@@ -1,0 +1,43 @@
+id: brevo
+name: Brevo
+description: Brevo is a software application that aids in business expansion. It allows users to foster
+  customer relationships through different platforms such as email, SMS, and chat. The cloud-based digital
+  marketing platform offers various tools that users can utilize as per need. It notably focuses on strengthening
+  communication with customers. This application is not liable to an initial cost, which means users can
+  initially use it without any monetary commitment.
+category: others
+labels:
+- messaging
+- email
+- chat
+company:
+  organization: Brevo
+  headquarters: FR
+  founded: 2007
+  homepage: https://brevo.com
+  privacyPolicy: https://brevo.com/legal/privacypolicy/
+  termsOfService: https://www.brevo.com/legal/termsofuse/
+  statusPage: https://status.brevo.com/
+  securityPage: https://www.brevo.com/security/
+  linkedin: https://www.linkedin.com/company/brevo/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- brevo.com
+oauthDisplayNames:
+- Brevo

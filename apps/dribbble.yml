@@ -1,0 +1,42 @@
+id: dribbble
+name: Dribbble
+description: Dribbble is an online community primarily intended for designers. It began in 2009 and provides
+  a platform where individuals with a creative streak can display their work, which may include graphics,
+  web design, logo design, or animations. It works as a social networking site that facilitates the sharing
+  of work, enables receipt of feedback, and fosters finding inspiration as well as exploring job opportunities.
+  Dribbble's structure allows it to function remotely, aiding designers worldwide with various elements
+  such as motion design and illustrations.
+category: design
+labels:
+- design
+- creative
+- portfolio
+company:
+  organization: Dribbble
+  headquarters: US
+  founded: 2009
+  homepage: https://dribbble.com/shots
+  privacyPolicy: https://dribbble.com/privacy
+  termsOfService: https://dribbble.com/terms
+  linkedin: https://www.linkedin.com/company/dribbble/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dribbble.com
+oauthDisplayNames:
+- Dribbble

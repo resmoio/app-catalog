@@ -1,0 +1,41 @@
+id: rocketreach
+name: RocketReach
+description: RocketReach is a contact-curation platform that allows users to make direct connections
+  with important decision makers by providing access to an extensive and up-to-date collection of emails
+  and phone numbers. With a strong focus on data science, RocketReach has created one of the world's
+  largest open web professional networks. It offers the ability to find email, phone, and social media
+  information for more than 450 million professionals. RocketReach can be tried for free.
+category: others
+labels:
+- sales intelligence
+- contact data
+- enrichment
+company:
+  organization: RocketReach
+  headquarters: US
+  founded: 2015
+  homepage: https://rocketreach.co
+  privacyPolicy: https://rocketreach.co/privacy
+  termsOfService: https://rocketreach.co/terms
+  linkedin: https://www.linkedin.com/company/rocketreach.co/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- rocketreach.co
+oauthDisplayNames:
+- RocketReach

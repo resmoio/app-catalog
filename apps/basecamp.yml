@@ -1,0 +1,43 @@
+id: basecamp
+name: Basecamp
+description: Basecamp 4 is a project management and team collaboration software that aids in efficient
+  project planning, organization, and communication. Known for its various tools, the software has been
+  improved with a customizable home screen and unique features like the "Card Table" tool and enhanced
+  people management. Furthermore, it supports cloud file keeping. It provides a secure online space for
+  team collaborations and discussions. Designed for a calm, organized way of managing projects, it aids
+  in company-wide communication and client relations. Being reliable, Basecamp has proven to be a favorite
+  among many, functioning as a comprehensive workspace.
+category: project-management
+labels:
+- project management
+- collaboration
+- tasks
+company:
+  organization: Basecamp
+  headquarters: US
+  founded: 1999
+  homepage: https://basecamp.com/
+  privacyPolicy: https://basecamp.com/about/policies/privacy
+  termsOfService: https://basecamp.com/about/policies/terms
+  linkedin: https://www.linkedin.com/products/37signals-basecamp/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- basecamp.com
+oauthDisplayNames:
+- Basecamp 4

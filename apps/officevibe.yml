@@ -1,0 +1,43 @@
+id: officevibe
+name: Officevibe
+description: Officevibe is a platform aimed at enhancing both employee satisfaction and team productivity
+  within organizations. It assists management in comprehending their teams, scheduling significant one-on-one
+  meetings, and fostering managerial growth. It\u2019s a resourceful tool for managers, human resource
+  departments, and executives, aiding them in the creation and maintenance of employee engagement, recognition,
+  and alignment within the organization.
+category: hr
+labels:
+- employee engagement
+- feedback
+- surveys
+company:
+  organization: Officevibe
+  headquarters: CA
+  founded: 2013
+  homepage: https://officevibe.com/
+  privacyPolicy: https://officevibe.com/privacy
+  termsOfService: https://officevibe.com/terms
+  statusPage: https://status.officevibe.com/
+  securityPage: https://officevibe.com/security
+  linkedin: https://www.linkedin.com/company/officevibe/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- officevibe.com
+oauthDisplayNames:
+- Officevibe

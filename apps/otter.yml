@@ -1,0 +1,41 @@
+id: otter
+name: Otter
+description: Otter.ai is an application powered by artificial intelligence which is designed for automated
+  note-taking and chat. It works by converting spoken conversations into transcripts that can be easily
+  searched and shared. Its main functionalities include the creation of real-time transcriptions, audio
+  recording, and automatic meeting summaries. Additionally, it contains features such as OtterPilot and
+  Otter AI Chat, which provide instant responses related to the content of a conversation or meeting,
+  further enhancing collaboration and productivity. This notable capacity for conversation analysis and
+  conversion forms the core of Otter.ai's utility.
+category: productivity
+labels: []
+company:
+  organization: Otter
+  headquarters: US
+  founded: 2016
+  homepage: https://otter.ai/
+  privacyPolicy: https://otter.ai/privacy-policy
+  termsOfService: https://otter.ai/terms-of-service
+  securityPage: https://otter.ai/privacy-security
+  linkedin: https://www.linkedin.com/company/otter-ai/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- otter.ai
+oauthDisplayNames:
+- Otter

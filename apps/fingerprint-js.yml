@@ -1,0 +1,36 @@
+id: fingerprint-js
+name: FingerprintJS Dashboard
+description: FingerprintJS Dashboard is a tool that operates in both web and mobile environments. It's
+  primary function is to identify all users, including those who remain anonymous, with an accuracy rate
+  of 99.5%. This tool is applicable to a variety of digital applications, rendering it a versatile solution
+  for user identification within digital spaces.
+category: security
+labels:
+- web analytics
+- fraud prevention
+- bots
+company:
+  organization: ''
+  homepage: https://fingerprintjs.com/
+  privacyPolicy: https://dev.fingerprintjs.com/docs/privacy-policy
+  termsOfService: https://dev.fingerprintjs.com/docs/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- FingerprintJS Dashboard

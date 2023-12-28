@@ -1,0 +1,45 @@
+id: jasper
+name: Jasper
+description: Jasper is an AI tool that specializes in assisting with creative writing, ensuring the tone
+  matches a specific brand's style, whether that's bold, playful, or formal. It comes as a browser extension,
+  accessible across a range of platforms such as CMS, email systems, and social media, making it easy
+  to maintain uniformity in brand language. Additionally, it is recognized for its cloud-based solutions
+  for starting, managing, and profiting from Internet of Things (IoT) deployments globally. Jasper also
+  provides enterprise-level AI tools tailored to help marketing teams improve their speed and overall
+  performance.
+category: others
+labels:
+- writing assistant
+- ai
+- productivity
+company:
+  organization: Cisco Systems
+  headquarters: US
+  founded: 2004
+  homepage: https://www.jasper.ai/
+  privacyPolicy: https://privacy.jasper.ai/policies
+  termsOfService: https://legal.jasper.ai/#terms
+  statusPage: https://status.jasper.ai/
+  securityPage: https://www.jasper.ai/security
+  linkedin: https://www.linkedin.com/company/heyjasperai/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.jasper.ai
+oauthDisplayNames:
+- Jasper

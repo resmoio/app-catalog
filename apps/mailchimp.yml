@@ -1,0 +1,42 @@
+id: mailchimp
+name: Mailchimp
+description: Mailchimp is a comprehensive marketing automation and email marketing platform designed primarily
+  for entrepreneurs. It provides a variety of tools that cover multiple areas of marketing and commerce.
+  These capabilities include delivering automated marketing strategies for e-commerce businesses, transforming
+  emails into a revenue source, and suggesting ways to increase email opens, clicks, and sales. Despite
+  its complexity, the platform aims to support business growth without all the jargon.
+category: marketing
+labels:
+- email marketing
+- newsletters
+- automation
+company:
+  organization: Intuit
+  headquarters: US
+  founded: 1983
+  privacyPolicy: https://www.intuit.com/privacy/statement/
+  termsOfService: https://mailchimp.com/legal/
+  statusPage: https://status.mailchimp.com/
+  securityPage: https://mailchimp.com/about/security/
+  linkedin: https://www.linkedin.com/company/intuitmailchimp/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- mailchimp.com
+oauthDisplayNames:
+- Mailchimp

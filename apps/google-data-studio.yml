@@ -1,0 +1,34 @@
+id: google-data-studio
+name: Google Data Studio
+description: Google Data Studio is a tool that helps users manage their data in a more efficient and organized
+  way. It allows for the creation of interactive dashboards and detailed reports, aiding in making informed
+  business judgements. The goal of this application is to provide a practical and beneficial way to utilize
+  your data, promoting better decision-making processes.
+category: data-analytics
+labels: []
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- datastudio.google.com
+oauthDisplayNames:
+- Google Data Studio

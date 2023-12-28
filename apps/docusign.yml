@@ -1,0 +1,45 @@
+id: docusign
+name: DocuSign
+description: DocuSign is a digital platform that simplifies the process of managing documents. It permits
+  the secure digital signing, sending, and organizing of documents from any device, replacing the requirement
+  for paper-based procedures. It is primarily an electronic signature tool but extends beyond by providing
+  an overall contract lifecycle management solution. Users can sign documents digitally, ensuring both
+  mobility and security for businesses. It also offers free document signing, making it an accessible
+  tool for everyone.
+category: others
+labels:
+- esignatures
+- document management
+- workflows
+company:
+  organization: DocuSign, Inc
+  headquarters: US
+  founded: 2003
+  homepage: https://www.docusign.com/
+  privacyPolicy: https://www.docusign.com/company/privacy-policy
+  termsOfService: https://www.docusign.com/legal/terms-and-conditions
+  statusPage: https://statusold.docusign.com/
+  securityPage: https://www.docusign.com/trust/security
+  linkedin: https://www.linkedin.com/company/docusign/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- docusign.com
+- docusign.net
+oauthDisplayNames:
+- DocuSign

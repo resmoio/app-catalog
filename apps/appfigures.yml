@@ -1,0 +1,39 @@
+id: appfigures
+name: appfigures
+description: Appfigures is a platform designed to provide insights and analytics for mobile applications.
+  It features tools to optimize app store visibility and boost downloads, alongside app store analysis
+  functionalities. Additionally, it incorporates intelligence capabilities that offer a comprehensive
+  understanding of app performance. By using Appfigures, users can effectively monitor how well their
+  mobile application is doing in the app market.
+category: business-intelligence
+labels: []
+company:
+  organization: Appfigures
+  headquarters: US
+  founded: 2009
+  homepage: https://appfigures.com/
+  privacyPolicy: https://appfigures.com/privacy
+  termsOfUse: https://appfigures.com/terms
+  statusPage: https://status.appfigures.com/
+  linkedin: https://www.linkedin.com/company/appfigures
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- appfigures.com
+oauthDisplayNames:
+- Appfigures

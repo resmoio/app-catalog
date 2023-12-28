@@ -1,0 +1,38 @@
+id: the-swarm
+name: The Swarm
+description: The Swarm is a platform designed to streamline the process of hiring by allowing businesses
+  to browse multiple candidate profiles and quickly identify and match appropriate individuals to available
+  vacancies. It also provides users, which include companies and investors, with access to thorough relationship
+  data from their extended networks. This data can be used to effectively speed up various processes,
+  including sales, recruiting, and fundraising. This application serves as a practical tool for those
+  looking to enhance productivity in these areas.
+category: hr
+labels: []
+company:
+  organization: Swarm Holdings Inc.
+  headquarters: US
+  founded: 2021
+  homepage: https://www.theswarm.com
+  privacyPolicy: https://www.theswarm.com/privacy
+  termsOfService: https://www.theswarm.com/terms
+  linkedin: https://www.linkedin.com/company/wearetheswarm/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- The Swarm

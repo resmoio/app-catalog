@@ -1,0 +1,33 @@
+id: strawpoll
+name: StrawPoll
+description: StrawPoll is a straightforward application designed to allow users to create real-time polls
+  and surveys rapidly and at no cost. The principal purpose of the application is to facilitate instant
+  feedback collection, making it a useful tool for gathering quick consensus or opinions. The application's
+  simplicity further enables users to establish their polls within mere seconds, boosting its efficiency.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://strawpoll.com/en/
+  privacyPolicy: https://strawpoll.com/en/privacy/
+  termsOfService: https://strawpoll.com/en/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- StrawPoll

@@ -1,0 +1,39 @@
+id: stitch
+name: Stitch
+description: Stitch is a data integration service that seamlessly transfers data from over 140 sources
+  to a cloud data warehouse, making it readily available for analysis. Designed for ease of use, it eliminates
+  the need for coding, allowing users to focus on data exploration and insights. The service is designed
+  with a developer-friendly approach, ensuring straightforward connections to various data sources.
+category: others
+labels:
+- etl
+- data integration
+- warehouses
+company:
+  organization: Talend
+  headquarters: US
+  founded: 2004
+  homepage: https://www.stitchdata.com
+  privacyPolicy: https://www.talend.com/privacy/
+  termsOfService: https://www.stitchdata.com/eula/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- stitchdata.com
+oauthDisplayNames:
+- Stitch

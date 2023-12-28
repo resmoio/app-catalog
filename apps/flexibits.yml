@@ -1,0 +1,34 @@
+id: flexibits
+name: Flexibits
+description: Flexibits is a software company that focuses on developing applications specifically for
+  Apple devices. They create applications for the Mac, iPhone, and iPad, producing flexible solutions
+  to meet a variety of needs. Their software is designed to fully utilize the functionality of these devices,
+  thereby providing a seamless and enhanced user experience.
+category: development-tools
+labels: []
+company:
+  organization: Flexibits
+  headquarters: US
+  founded: 2011
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- flexibits.com
+oauthDisplayNames:
+- Flexibits

@@ -1,0 +1,35 @@
+id: spotahome
+name: Spotahome
+description: Spotahome is an online platform where users can search for different types of rental properties
+  such as apartments, shared rooms, studios, or student residences. It is designed for mid to long-term
+  rentals, making it easy to find your next living space entirely online.
+category: transportation-and-travel
+labels:
+- apartment rentals
+- accommodation
+- travel
+company:
+  organization: ''
+  homepage: https://www.spotahome.com
+  privacyPolicy: https://www.spotahome.com/privacy-policies
+  termsOfService: https://www.spotahome.com/privacy-policies
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Spotahome

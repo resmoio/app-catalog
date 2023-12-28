@@ -1,0 +1,39 @@
+id: barracudacloudgen
+name: Barracuda CloudGen Access
+description: Barracuda CloudGen Access is a secure access tool designed to facilitate businesses with
+  zero-trust network access to their applications and data, regardless of their location. It emphasizes
+  the use of detailed access controls and ongoing authentication to let only authorized individuals access
+  particular resources. This feature significantly improves security in remote and distributed work settings.
+  It's worth noting that Barracuda Networks, the app's developer, has gained global recognition for their
+  proficiency in security, application delivery, and data protection solutions.
+category: security
+labels: []
+company:
+  organization: Barracuda
+  headquarters: US
+  founded: 2003
+  homepage: https://www.barracuda.com/products/network-protection/cloudgen-access
+  privacyPolicy: https://www.barracuda.com/company/legal/data-privacy/privacy-policy
+  termsOfService: https://www.barracuda.com/company/legal/website-terms
+  securityPage: https://www.barracuda.com/company/legal/security-compliance
+  linkedin: https://www.linkedin.com/company/barracuda-networks/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Barracuda CloudGen Access

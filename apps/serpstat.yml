@@ -1,0 +1,39 @@
+id: serpstat
+name: Serpstat.com
+description: Serpstat is a platform designed to provide businesses with a variety of useful tools; these
+  cover areas such as SEO (Search Engine Optimization), PPC (Pay-Per-Click), marketing, and search analytics.
+  It aims to assist in improving online visibility and strategy planning. The main focus of Serpstat is
+  to contribute to business growth by optimizing these aspects.
+category: marketing
+labels:
+- seo tools
+- backlinks
+- rank tracking
+company:
+  organization: Serpstat Global Ltd.
+  headquarters: UA
+  founded: 2013
+  homepage: https://serpstat.com
+  privacyPolicy: https://serpstat.com/users/privacy-policy/
+  termsOfService: https://serpstat.com/users/license-agreement/
+  linkedin: https://www.linkedin.com/company/serpstat
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Serpstat.com

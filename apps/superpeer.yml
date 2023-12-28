@@ -1,0 +1,38 @@
+id: superpeer
+name: Superpeer
+description: Superpeer is an app that allows users to form and engage with their personalized communities
+  on a subscription basis. With this tool, live and chargeable broadcasts can be conducted, and online
+  courses can be published. One-to-one video calls are also accessible. By integrating news feeds and
+  Discord, continuous interaction with the audience can be achieved. In essence, Superpeer is a platform
+  that offers live broadcasts, online courses, one-to-one interactions, and much more to shape and guide
+  your community.
+category: social-media
+labels:
+- creator monetization
+- memberships
+- courses
+company:
+  organization: ''
+  homepage: https://superpeer.com
+  privacyPolicy: https://superpeer.com/privacy-policy
+  termsOfService: https://superpeer.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Superpeer

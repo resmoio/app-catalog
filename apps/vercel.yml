@@ -1,0 +1,43 @@
+id: vercel
+name: Vercel
+description: Vercel is a cloud-based platform specifically designed for frontend developers working with
+  static sites and serverless functions. It offers automated deployments and a global content delivery
+  network (CDN), which helps ensure rapid and reliable delivery of web applications. Vercel also supports
+  the development, preview, and shipping of Jamstack sites, a popular modern web development architecture.
+  In addition, this platform integrates effortlessly with prominent web frameworks, providing the necessary
+  workflows and infrastructure for developers to create efficient and personalized web experiences.
+category: cloud
+labels:
+- deployments
+- serverless
+- front end
+company:
+  organization: Vercel
+  headquarters: US
+  founded: 2015
+  homepage: https://vercel.com/
+  privacyPolicy: https://vercel.com/legal/privacy-policy
+  termsOfService: https://vercel.com/legal/terms
+  statusPage: https://www.vercel-status.com/
+  securityPage: https://vercel.com/security
+  linkedin: https://www.linkedin.com/company/vercel/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- vercel.com
+oauthDisplayNames: []

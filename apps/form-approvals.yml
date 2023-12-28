@@ -1,0 +1,38 @@
+id: form-approvals
+name: Form Approvals
+description: Form Approvals is a tool that enhances the functionality of Google Forms. It lets users create
+  custom forms based on their needs. This tool can then turn the responses from these forms into manageable
+  workflows. Essentially, it transforms form submissions into interactive procedures, thereby enhancing
+  task organization and efficiency.
+category: marketing
+labels:
+- google forms
+- automation
+- workflows
+company:
+  organization: Form Approvals LLC
+  headquarters: US
+  homepage: https://formapprovals.com
+  privacyPolicy: https://formapprovals.com/privacy/
+  termsOfService: https://formapprovals.com/terms/
+  securityPage: https://formapprovals.com/security/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Form Approvals

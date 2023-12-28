@@ -1,0 +1,35 @@
+id: virustotal
+name: VirusTotal
+description: VirusTotal is an online platform designed to scan files and URLs for potential security threats
+  and malware. It amasses information from a variety of antivirus systems and threat intelligence sources
+  to examine files and websites for indications of malicious activities. The tool is useful for individuals,
+  businesses, and cybersecurity professionals to evaluate the safety of files and URLs before engagement,
+  contributing toward a more secure digital environment. Moreover, VirusTotal enables the real-time detection
+  of harmful elements such as viruses, worms, trojans, and other malware in suspicious files.
+category: security
+labels: []
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- virustotal.com
+oauthDisplayNames: []

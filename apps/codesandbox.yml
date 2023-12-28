@@ -1,0 +1,42 @@
+id: codesandbox
+name: CodeSandbox
+description: CodeSandbox is an online platform that allows developers to work on web projects in a shared,
+  real-time environment. It offers immediate preparation for various frameworks and tools, simplifying
+  the process of prototyping and coding. Users can bypass the need for local setups. The application is
+  based in the cloud and can handle projects of different sizes. It further allows users to perform tasks
+  from any device, which is beneficial in saving time. The primary purpose is to facilitate coding, collaboration,
+  and the prompt delivery of projects.
+category: code-hosting
+labels:
+- online ide
+- code sharing
+- collaboration
+company:
+  organization: CodeSandbox
+  headquarters: NL
+  founded: 2017
+  homepage: https://codesandbox.io/
+  privacyPolicy: https://codesandbox.io/legal/privacy
+  termsOfService: https://codesandbox.io/legal/terms
+  statusPage: https://status.codesandbox.io/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- codesandbox.io
+oauthDisplayNames:
+- CodeSandbox

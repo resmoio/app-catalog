@@ -1,0 +1,41 @@
+id: emailanalytics
+name: EmailAnalytics
+description: EmailAnalytics is a useful tool that presents email activity in a visual format, making it
+  easier to understand and manage. It aids both individuals and managers in following and analyzing email
+  traffic patterns, the quantity of emails exchanged, and how quickly responses are delivered. This helps
+  to improve the flow of communication within teams and enhances team productivity. The tool works with
+  both Gmail and Outlook without necessitating additional software installations or intensive training.
+category: marketing
+labels:
+- email tracking
+- analytics
+- reporting
+company:
+  organization: EmailAnalytics
+  headquarters: US
+  founded: 2014
+  homepage: https://emailanalytics.com/
+  privacyPolicy: https://emailanalytics.com/privacy-policy/
+  termsOfService: https://emailanalytics.com/terms-of-use/
+  securityPage: https://emailanalytics.com/security/
+  linkedin: https://www.linkedin.com/company/emailanalytics/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- EmailAnalytics

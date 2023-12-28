@@ -1,0 +1,46 @@
+id: creately
+name: Creately
+description: Creately is a platform that enhances visual collaboration by providing tools for making
+  diagrams, flowcharts, and mind maps. It is suitable for both teams and individual users, offering
+  real-time collaboration elements. It features an extensive collection of templates and a user-friendly
+  drag-and-drop interface. This application aids in simplifying complex ideas and promotes effective
+  communication. Additionally, it allows users to plan, analyze, and carry out tasks within Microsoft
+  Teams. Creately's infinite, free-form visual canvas is ideal for organizing thoughts, brainstorming
+  solutions, designing processes, and working with teammates in real-time. It's trusted by over 10 million
+  users and thousands of teams worldwide.
+category: design
+labels:
+- diagrams
+- wireframing
+- brainstorming
+company:
+  organization: Creately
+  headquarters: AU
+  founded: 2008
+  homepage: https://creately.com/
+  privacyPolicy: https://creately.com/privacy/
+  termsOfService: https://creately.com/tos/
+  statusPage: https://status.creately.com/
+  securityPage: https://creately.com/security/
+  linkedin: https://www.linkedin.com/company/creately/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- creately.com
+oauthDisplayNames:
+- Creately

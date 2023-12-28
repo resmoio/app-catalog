@@ -1,0 +1,42 @@
+id: codeclimatevelocity
+name: Code Climate Velocity
+description: Code Climate Velocity is an analytical tool primarily designed for software engineering.
+  It focuses on providing detailed insights into the workflows of software development to aid in improving
+  team performance and refining processes. Fundamentally, it looks at an organization's codebase and pull
+  requests, offering an overall assessment of work quality, productivity, and the health of the development
+  process. The main goal of this platform is to help organizations enhance their coding capacities quickly
+  and efficiently, while maintaining high standards of code quality.
+category: development-tools
+labels:
+- analytics
+- ci/cd
+- engineering
+company:
+  organization: Code Climate
+  headquarters: US
+  founded: 2011
+  homepage: https://codeclimate.com/
+  privacyPolicy: https://codeclimate.com/privacy
+  termsOfService: https://codeclimate.com/terms
+  securityPage: https://codeclimate.com/velocity/security
+  linkedin: https://www.linkedin.com/company/code-climate/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Code Climate Velocity

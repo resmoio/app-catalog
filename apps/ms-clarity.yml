@@ -1,0 +1,42 @@
+id: ms-clarity
+name: Microsoft Clarity
+description: Microsoft Clarity is a web analytics tool that offers insights into how users interact with
+  a website. It uses heatmaps, session recordings, and other analytics to identify areas that may benefit
+  from adjustment in order to enhance overall user experience and website performance. Website owners
+  and marketers can use this tool to better understand their users' behavior. Clarity's key features include
+  session replays, allowing users to observe website interaction, and heatmaps, which graphically represent
+  user engagement on the site. This tool is offered free of charge.
+category: web-analytics
+labels:
+- web analytics
+- heatmaps
+- session recording
+company:
+  organization: Microsoft Corporation
+  headquarters: US
+  founded: 1975
+  homepage: https://clarity.microsoft.com/
+  privacyPolicy: https://privacy.microsoft.com/en-us/privacystatement
+  termsOfService: https://www.microsoft.com/en-us/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/microsoft-clarity/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- clarity.microsoft.com
+oauthDisplayNames:
+- Microsoft Clarity

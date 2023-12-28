@@ -1,0 +1,44 @@
+id: frameio
+name: Frame.io
+description: Frame.io is a cloud-based service that supports video production teams by facilitating the
+  uploading, reviewing, and sharing of video content. This platform offers users the ability to comment
+  on videos directly, as well as the capability to integrate with commonly-used video editing software.
+  This helps to streamline communication and hasten the approval process. In Frame.io, users can upload
+  assets and source media into private workspaces. This worldwide platform makes it easier to distribute
+  media, receive feedback, manage reviews, and deliver final videos more quickly.
+category: content-sharing
+labels:
+- video collaboration
+- review
+- workflow
+company:
+  organization: Adobe
+  headquarters: US
+  founded: 1982
+  homepage: https://frame.io/
+  privacyPolicy: https://frame.io/privacy
+  termsOfService: https://frame.io/terms
+  statusPage: https://status.frame.io/
+  securityPage: https://frame.io/security/
+  linkedin: https://www.linkedin.com/company/frame-io/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: true
+appDomains:
+- frame.io
+oauthDisplayNames:
+- Frame.io

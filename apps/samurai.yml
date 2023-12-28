@@ -1,0 +1,39 @@
+id: samurai
+name: SamurAI
+description: SamurAI is a software service which uses artificial intelligence to create customized chatbots.
+  These bots can be designed to meet the specific requirements of the user and are capable of delivering
+  a personalized conversational experience. The application utilises user-provided data to train the AI
+  of the chatbot, ensuring its responses and interactions closely match the user's needs. These chatbots,
+  which employ ChatGPT technology, can be easily integrated into websites. In summary, SamurAI is an alternative
+  to chatbase tool, allowing the creation and customization of AI chatbots.
+category: customer-support
+labels:
+- chatbots
+- conversational ai
+- whatsapp
+company:
+  organization: Vadoo Internet Services Private Limited
+  headquarters: AU
+  homepage: https://thesamur.ai
+  privacyPolicy: https://www.thesamur.ai/privacy
+  termsOfService: https://www.thesamur.ai/terms-conditions
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SamurAI

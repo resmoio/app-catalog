@@ -1,0 +1,39 @@
+id: envato
+name: Envato
+description: Envato is a widely utilized platform frequented by millions of people globally for their
+  creative needs. It serves as an international market and community dedicated to providing creative assets.
+  Individuals can buy or sell their creative pieces, gain access to smart design templates, learn creative
+  skills, or employ freelancers. As one of the premier destinations for digital assets and services, Envato
+  is instrumental in bringing various ideas and projects into reality.
+category: e-commerce
+labels:
+- marketplace
+- creative assets
+- graphics
+company:
+  organization: Envato
+  headquarters: AU
+  founded: 2006
+  homepage: https://www.envato.com
+  privacyPolicy: https://www.envato.com/privacy/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- envato.com
+oauthDisplayNames:
+- Envato

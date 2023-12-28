@@ -1,0 +1,42 @@
+id: metroretro
+name: Metro Retro
+description: Metro Retro is a collaborative online board tool that supports teamwork activities, including
+  agile retrospectives. This web application offers an engaging, interactive platform for teams to evaluate
+  their work methods, discuss enhancements, and plan upcoming tasks in a real-time setting. Reiterating
+  its function, Metro Retro aids in various types of meetings from retrospectives and backlog sessions
+  to health checks and workshops. Ultimately, it aims to stimulate productive discussions and foster a
+  progressive work environment.
+category: productivity
+labels:
+- agile retrospectives
+- collaboration
+- team building
+company:
+  organization: Metro Retro
+  headquarters: US
+  founded: 2019
+  homepage: https://metroretro.io/
+  privacyPolicy: https://metroretro.io/privacy
+  termsOfService: https://metroretro.io/terms
+  securityPage: https://metroretro.io/security
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- metroretro.io
+oauthDisplayNames:
+- Metro Retro

@@ -1,0 +1,40 @@
+id: wizer
+name: Wizer
+description: Wizer is a tool designed to enhance employees' understanding of cybersecurity. It offers
+  tailored training programs that cover different aspects of digital threats and cyber safety measures.
+  Using interactive, easy-to-understand content, Wizer aims to help organizations lessen their susceptibility
+  to cyber attacks. Features of this software include educational videos, quizzes, and a phishing simulation.
+  It also offers a learning management solution to better manage these resources across a working team.
+category: others
+labels:
+- security awareness
+- training
+- education
+company:
+  organization: Wizer
+  headquarters: US
+  founded: 2019
+  homepage: https://www.wizer-training.com/
+  privacyPolicy: https://www.wizer-training.com/privacy
+  termsOfService: https://www.wizer-training.com/agreement
+  linkedin: https://www.linkedin.com/company/wizer-1-minute-security/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wizer-training.com
+oauthDisplayNames: []

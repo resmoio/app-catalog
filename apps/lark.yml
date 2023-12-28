@@ -1,0 +1,42 @@
+id: lark
+name: Lark
+description: Lark is a digital service that offers diverse tools aimed at enhancing team productivity
+  and supporting health management efforts. Its features neatly combine multiple functionality aspects,
+  including email, chat, documentation, and video conferencing, assembled into one platform for streamlined
+  communication within a team. Notably, Lark extends its offerings into health care, serving as a virtual
+  wellness coach powered by artificial intelligence. It supports prediabetes control by integrating functionalities
+  of health devices such as Fitbit and scales, which are made available to users at no extra cost. It
+  aims to aid in diabetes prevention, confirmed by a straightforward eligibility quiz.
+category: chat
+labels:
+- chat
+- calendar
+- docs
+company:
+  organization: Lark
+  headquarters: US
+  founded: 2011
+  homepage: https://www.lark.com
+  privacyPolicy: https://www.lark.com/privacy-policy
+  termsOfService: https://www.lark.com/terms-conditions
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- lark.com
+oauthDisplayNames:
+- Lark

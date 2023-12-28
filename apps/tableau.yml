@@ -1,0 +1,41 @@
+id: tableau
+name: Tableau
+description: Tableau is a premier software designed for managing and visualizing data. Its user-friendly
+  interface allows for easy connections to a variety of data sources, helping to create interactive and
+  informative dashboards. Equipped to assist organizations around the globe, Tableau essentially unlocks
+  the potential of both data and personnel. Functioning as business intelligence software, Tableau realizes
+  the vision of making any data understandable through its advanced analytics features.
+category: business-intelligence
+labels:
+- data visualization
+- analytics
+- bi
+company:
+  organization: Salesforce
+  headquarters: US
+  founded: 1999
+  homepage: https://www.tableau.com/
+  privacyPolicy: https://www.tableau.com/privacy
+  termsOfService: https://www.tableau.com/legal
+  linkedin: https://www.linkedin.com/company/tableau-software/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- tableau.com
+oauthDisplayNames:
+- Tableau

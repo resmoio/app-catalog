@@ -1,0 +1,37 @@
+id: mongo
+name: MongoDB
+description: MongoDB is a modern database platform designed to streamline data handling
+  for developers. It simplifies the often complex process of working with data, enabling users to put
+  their ideas into practice more efficiently. As a forward-thinking database, it aids companies in revolutionizing
+  their respective sectors through effective data management. As such, MongoDB is built to facilitate
+  quick implementation of concepts, aiming at boosting market speed.
+category: storage-and-database
+labels: []
+company:
+  organization: MongoDB
+  headquarters: US
+  founded: 2007
+  homepage: https://mongodb.com
+  privacyPolicy: https://www.mongodb.com/legal/privacy-policy
+  termsOfService: https://www.mongodb.com/legal/terms-of-use
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- account.mongodb.com
+oauthDisplayNames:
+- MongoDB

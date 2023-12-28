@@ -1,0 +1,40 @@
+id: blink
+name: Blink
+description: Blink is a communication tool designed primarily for employees in certain sectors like nursing
+  and labor. It provides distinct communication avenues tailored to the specific needs of its users. In
+  addition to communication, Blink also includes a feature that enables users to open various applications
+  from its platform without repeatedly entering passwords. This app also includes a content management
+  system, making it a multifunctional tool for managing work-related communications and tasks. It aims
+  to enhance employees' overall experience by improving convenience, organization, and efficiency.
+category: productivity
+labels: []
+company:
+  organization: Blink
+  headquarters: GB
+  founded: 2015
+  homepage: https://www.joinblink.com/
+  privacyPolicy: https://www.joinblink.com/privacy-policy
+  termsOfService: https://www.joinblink.com/terms-of-service
+  securityPage: https://www.joinblink.com/security
+  linkedin: https://www.linkedin.com/company/10402501/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- joinblink.com
+oauthDisplayNames:
+- Blink

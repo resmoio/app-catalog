@@ -1,0 +1,45 @@
+id: crowdin
+name: Crowdin
+description: Crowdin is a cloud-based platform that facilitates the process of localizing content for
+  a diverse range of products such as applications, websites, and games. This platform connects developers,
+  content creators, and translation professionals, enabling them to collaboratively translate and localize
+  multilingual content. Its main strength lies in its capacity to integrate with various development and
+  content creation workflows, thereby maintaining an agile work process. Note that Crowdin is a technological
+  solution designed primarily to manage localization for teams.
+category: development-tools
+labels:
+- localization
+- translation
+- collaboration
+company:
+  organization: Crowdin
+  headquarters: EE
+  founded: 2009
+  homepage: https://crowdin.com/
+  privacyPolicy: https://support.crowdin.com/privacy-policy/
+  termsOfService: https://support.crowdin.com/terms/
+  statusPage: https://status.crowdin.com/
+  securityPage: https://crowdin.com/page/security
+  linkedin: https://www.linkedin.com/company/crowdin/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- crowdin.com
+- crowdin.net
+oauthDisplayNames:
+- Crowdin

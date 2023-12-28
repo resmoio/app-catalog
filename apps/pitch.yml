@@ -1,0 +1,39 @@
+id: pitch
+name: Pitch
+description: Pitch is a presentation application that allows teams to collaboratively generate visually
+  engaging presentations. It provides real-time collaboration capabilities, along with customizable templates
+  and an easy-to-use interface to simplify the process. Its features are designed to upgrade the experience
+  of contemporary teams working on shared presentations. The aim is to facilitate fast and efficient creation
+  of professional quality presentations by any team. Notably, the app is accessible at no cost.
+category: content-sharing
+labels: []
+company:
+  organization: Pitch
+  headquarters: DE
+  founded: 2018
+  homepage: https://pitch.com/
+  privacyPolicy: https://pitch.com/privacy-policy
+  termsOfService: https://pitch.com/terms-of-use
+  statusPage: https://status.pitch.com/
+  securityPage: https://pitch.com/security-policy
+  linkedin: https://www.linkedin.com/company/pitchhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Pitch

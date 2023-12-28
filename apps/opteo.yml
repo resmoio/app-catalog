@@ -1,0 +1,41 @@
+id: opteo
+name: Opteo
+description: Opteo is a tool used in digital marketing to enhance and automate campaigns on Google Ads.
+  This application assesses the effectiveness of an account and provides easy-to-understand advice on
+  how to improve it. As a result, marketers can use Opteo to streamline their AdWords tasks and achieve
+  improved campaign outcomes.
+category: marketing
+labels:
+- google ads
+- optimization
+- automation
+company:
+  organization: Opteo
+  headquarters: GB
+  founded: 2013
+  homepage: https://opteo.com/
+  privacyPolicy: https://opteo.com/privacy
+  termsOfService: https://opteo.com/tos
+  statusPage: https://status.opteo.com/
+  linkedin: https://www.linkedin.com/company/opteo/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- opteo.com
+oauthDisplayNames:
+- Opteo

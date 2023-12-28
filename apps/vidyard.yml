@@ -1,0 +1,44 @@
+id: vidyard
+name: Vidyard
+description: Vidyard is a video messaging platform mainly designed for business teams. It offers an array
+  of tools that enable a business to integrate video into different areas like marketing, sales, and customer
+  interactions for more effective communication. Vidyard also helps businesses understand viewer behavior
+  through its features that track viewer activity, which can be useful for the refining of marketing strategies
+  and customer relationship management. The platform''s use of video messaging and hosting also supports
+  the creation of engaging narratives and impressive customer interactions.
+category: business-intelligence
+labels:
+- video messaging
+- sales
+- marketing
+company:
+  organization: Vidyard
+  headquarters: CA
+  founded: 2011
+  homepage: https://www.vidyard.com/
+  privacyPolicy: https://www.vidyard.com/privacy/
+  termsOfService: https://www.vidyard.com/free-screen-record/terms/
+  statusPage: https://status.vidyard.com/
+  securityPage: https://www.vidyard.com/security/
+  linkedin: https://www.linkedin.com/company/vidyard/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vidyard.com
+oauthDisplayNames:
+- Vidyard

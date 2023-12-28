@@ -1,0 +1,37 @@
+id: signaturely
+name: Signaturely
+description: Signaturely is a software designed for securing legal signatures on electronic documents.
+  It facilitates a fast and straightforward process of uploading a document and obtaining a legally-binding
+  electronic signature within minutes. The application prioritizes simplicity but doesn't compromise its
+  worthwhile function as a mechanism for providing free and valid signatures for virtually any types of
+  documents.
+category: business-intelligence
+labels:
+- esignature
+- contracts
+- documents
+company:
+  organization: ''
+  homepage: https://signaturely.com
+  privacyPolicy: https://signaturely.com/privacy/
+  termsOfService: https://signaturely.com/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Signaturely

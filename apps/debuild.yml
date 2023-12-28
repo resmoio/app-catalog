@@ -1,0 +1,35 @@
+id: debuild
+name: Debuild
+description: Debuild is a tool designed to enable users to quickly create web applications. It
+  is a straightforward utility for efficiently developing web apps. Debuild steers clear of complex operations,
+  focusing instead on expedited, user-friendly creation processes.
+category: development-tools
+labels:
+- web development
+- deployments
+- hosting
+company:
+  organization: ''
+  homepage: https://debuild.co/
+  privacyPolicy: https://debuild.co/privacy-policy
+  termsOfService: https://debuild.co/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Debuild

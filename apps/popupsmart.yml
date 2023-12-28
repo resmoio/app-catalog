@@ -1,0 +1,37 @@
+id: popupsmart
+name: Popupsmart
+description: Popupsmart is a tool designed for user engagement and data gathering in e-commerce. It requires
+  no coding knowledge and can be set up in as little as 5 minutes. The software's primary functions include
+  facilitating the growth of email lists and the increase of online sales. Furthermore, it allows the
+  opportunity to engage more effectively with website visitors. It is presented as a straightforward and
+  efficient solution for diverse website enhancement strategies.
+category: marketing
+labels:
+- popups
+- email lists
+- lead gen
+company:
+  organization: ''
+  homepage: https://popupsmart.com
+  privacyPolicy: https://popupsmart.com/privacy-policy/
+  termsOfService: https://popupsmart.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Popupsmart

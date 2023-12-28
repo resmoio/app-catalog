@@ -1,0 +1,37 @@
+id: canary-mail
+name: Canary Mail
+description: Canary Mail is an intelligent email application designed to understand and adapt to your
+  emailing habits. It offers assistance through features like drafting emails, highlighting important
+  messages, and managing unwanted spam. The capabilities of Canary Mail go much beyond a regular email
+  app, as it learns, adapts, and essentially serves as a helpful partner in managing your inbox.
+category: mail
+labels:
+- email
+- calendar
+- tasks
+company:
+  organization: ''
+  homepage: https://www.canarymail.io/
+  privacyPolicy: https://canarymail.io/privacy.html
+  termsOfService: https://canarymail.io/terms.html
+  linkedin: https://www.linkedin.com/company/canary-mail/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Canary Mail

@@ -1,0 +1,42 @@
+id: oak9
+name: oak9 console
+description: Oak9 is a software service designed to incorporate security measures into cloud-native applications
+  from the early stages of development through to deployment. It emphasizes security as part of the codebase,
+  automating the evaluation and fortification of changes from infrastructure definitions to the operational
+  cloud environment. By doing this, it aims to save time for development and operations teams by reducing
+  manual security work. Oak9 operates through the development lifecycle to ensure a consistent security
+  posture within cloud-based applications.
+category: security
+labels:
+- devsecops
+- infrastructure as code
+- security
+company:
+  organization: ''
+  headquarters: US
+  founded: 2019
+  homepage: https://oak9.io
+  privacyPolicy: https://oak9.io/privacy-policy/
+  termsOfService: https://oak9.io/terms-of-service/
+  securityPage: https://oak9.io/security-practices-and-standards/
+  linkedin: https://www.linkedin.com/company/oak9/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- oak9 console

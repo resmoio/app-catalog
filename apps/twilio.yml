@@ -1,0 +1,35 @@
+id: twilio
+name: Twilio
+description: Twilio is a platform based in the cloud that offers developers a toolkit for incorporating
+  communication solutions into their applications. Its capabilities include sending and receiving text
+  messages, handling voice calls, and setting up video communications. With Twilio, businesses can use
+  many different channels to create engaging and tailored communication experiences with their customers.
+  Users employ standard web languages to construct voice, VoIP and SMS applications through a web API
+  provided by Twilio.
+category: development-tools
+labels: []
+company:
+  organization: Twilio
+  headquarters: US
+  founded: 2008
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- twilio.com
+oauthDisplayNames: []

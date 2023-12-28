@@ -1,0 +1,38 @@
+id: crowdcast
+name: Crowdcast
+description: Crowdcast is an online platform that allows you to host live events and interact with your
+  audience in real time. This tool enables you to expand your online community by facilitating active
+  engagement and audience growth during events. The global user base can gather on this platform to participate
+  in these live events, fostering a sense of belonging and unity. With Crowdcast, you can reach out to
+  a broader scope of participants and create an interactive and enriching virtual event experience.
+category: online-meetings
+labels: []
+company:
+  organization: Crowdcast
+  headquarters: US
+  founded: 2015
+  homepage: https://www.crowdcast.io/
+  privacyPolicy: https://www.crowdcast.io/privacy-policy
+  termsOfService: https://www.crowdcast.io/terms-of-service
+  statusPage: https://status.crowdcast.io/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- crowdcast.io
+oauthDisplayNames:
+- Crowdcast

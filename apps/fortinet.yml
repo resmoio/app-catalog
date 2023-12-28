@@ -1,0 +1,35 @@
+id: fortinet
+name: Fortinet
+description: Fortinet is a cybersecurity company specializing in creating solutions to protect organizations
+  from diverse cyber threats such as viruses, malware, and network breaches. Their main services span
+  firewalls, intrusion detection, and prevention systems, along with secure access technologies. Designed
+  to safeguard both infrastructure and data, Fortinet's products can be found in many businesses and enterprises.
+  To round out their offerings, they also provide network security appliances like security gateways and
+  other related products.
+category: security
+labels: []
+company:
+  organization: Fortinet
+  headquarters: US
+  founded: 2000
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- fortinet.com
+oauthDisplayNames: []

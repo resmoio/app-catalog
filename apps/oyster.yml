@@ -1,0 +1,36 @@
+id: oyster
+name: Oyster
+description: Oyster is a tool designed to make managing a global team easier. This software lets users
+  hire new team members from anywhere in the world, as well as manage and pay them seamlessly. Notably,
+  Oyster is designed to support the well-being of a globally distributed workforce. Anyone who wants to
+  try this tool can do so at no cost initially.
+category: others
+labels:
+- global employment
+- payroll
+- hr
+company:
+  organization: ''
+  homepage: https://www.oysterhr.com/
+  privacyPolicy: https://app.oysterhr.com/legal-notices/privacy
+  termsOfService: https://app.oysterhr.com/legal-notices/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Oyster

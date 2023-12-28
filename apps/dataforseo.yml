@@ -1,0 +1,40 @@
+id: dataforseo
+name: DataForSEO
+description: DataForSEO is a tool that provides useful information about search engine optimization through
+  a broad range of APIs and tools. It provides businesses and digital marketers with data like keyword
+  rankings, backlink data, and search volumes, helping them understand and improve their online presence.
+  With competitor analysis features, users can refine their strategies to boost their site visibility
+  and optimize their content. DataForSEO is recognized for its powerful APIs and user-friendly interfaces,
+  making it easy to access precise and actionable SEO-related data. The tool is regularly used by more
+  than 750 SEO software firms and agencies.
+category: marketing
+labels: []
+company:
+  organization: DataForSEO OU
+  headquarters: Ukraine
+  founded: 2016
+  homepage: https://dataforseo.com/
+  privacyPolicy: https://dataforseo.com/privacy-policy
+  termsOfService: https://dataforseo.com/terms-of-service
+  statusPage: https://status.dataforseo.com/
+  linkedin: https://www.linkedin.com/company/dataforseo/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- DataForSEO

@@ -1,0 +1,43 @@
+id: cambly
+name: Cambly
+description: Cambly is a web-based platform that assists users in learning English by facilitating interactive
+  video chats with native English speakers worldwide. This application centers around a casual and supportive
+  setting where users can improve their conversational English skills. Aimed at helping individuals build
+  their linguistic capabilities and confidence, Cambly tailors its learning experience to suit each user's
+  needs and proficiency. The tool is available around the clock and accessible wherever there's an internet
+  connection, ensuring constant access to learning opportunities.
+category: education
+labels:
+- english learning
+- tutoring
+- education
+company:
+  organization: Cambly Inc.
+  headquarters: US
+  founded: 2013
+  homepage: https://www.cambly.com/
+  privacyPolicy: https://www.cambly.com/legal/privacy_policy/english
+  termsOfService: https://www.cambly.com/legal/user_agreement/english
+  statusPage: https://status.cambly.com/
+  linkedin: https://www.linkedin.com/company/cambly/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cambly.com
+oauthDisplayNames:
+- Cambly

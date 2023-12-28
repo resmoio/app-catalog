@@ -1,0 +1,38 @@
+id: datarobot-ai
+name: DataRobot AI
+description: DataRobot AI is a tool designed to incorporate advanced predictive models into applications
+  using familiar coding languages. Users are encouraged to learn from projects that have already been
+  built with DataRobot AI. The application aids in not only building but also improving the integration
+  of these models particularly for developers who are seeking to infuse predictive ability in their projects.
+category: content-management
+labels:
+- machine learning
+- ai
+- predictive modeling
+company:
+  organization: ''
+  homepage: https://www.datarobot.com/
+  privacyPolicy: https://www.datarobot.com/privacy/
+  securityPage: https://www.datarobot.com/trustcenter/
+  linkedin: https://www.linkedin.com/company/datarobot
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- datarobot.com
+oauthDisplayNames:
+- DataRobot AI

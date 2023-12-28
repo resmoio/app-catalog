@@ -1,0 +1,34 @@
+id: tweek
+name: Tweek.so
+description: Tweek is a free task management application that is designed to facilitate personal and collaborative
+  organization. Users can itemize their tasks and work on them alongside team members or family. The app
+  features a weekly calendar view and an associated reminder system, functioning as a tool for daily and
+  weekly planning. Tweek aims to enhance productivity by allowing quick and efficient planning and organization
+  of weekly tasks.
+category: productivity
+labels: []
+company:
+  organization: ''
+  homepage: https://tweek.so
+  privacyPolicy: https://tweek.so/s/privacy.pdf
+  termsOfService: https://tweek.so/s/privacy.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Tweek.so

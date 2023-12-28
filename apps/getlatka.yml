@@ -1,0 +1,38 @@
+id: getlatka
+name: GetLatka
+description: GetLatka is a comprehensive database that compiles key financial information about software-as-a-service
+  (SaaS) companies. By mining data from varied sources, including interviews and surveys, the platform
+  offers a wealth of metrics. These include revenue stats, customer counts, churn rates, customer acquisition
+  costs, average contract values, and payback periods. This information aids investors, entrepreneurs,
+  and other interested parties in making educated decisions about the SaaS companies.
+category: business-intelligence
+labels:
+- saas metrics
+- statistics
+- valuations
+company:
+  organization: GetLatka
+  headquarters: US
+  founded: 2015
+  homepage: https://getlatka.com/
+  linkedin: https://www.linkedin.com/company/getlatka/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GetLatka

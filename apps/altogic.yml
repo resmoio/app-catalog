@@ -1,0 +1,39 @@
+id: altogic
+name: Altogic
+description: Altogic is a platform that simplifies the process of creating, launching, and maintaining
+  scalable web services. It aims to elevate users' web infrastructure while reducing the complications
+  often associated with traditional backend management. As a backend service platform, Altogic is committed
+  to assisting users in effortlessly constructing and managing their backend apps while providing room
+  for expansion as necessary.
+category: others
+labels: []
+company:
+  organization: Altogic
+  headquarters: US
+  founded: 2020
+  homepage: https://www.altogic.com/
+  privacyPolicy: https://www.altogic.com/privacy
+  termsOfService: https://www.altogic.com/terms
+  securityPage: https://www.altogic.com/privacy
+  linkedin: https://www.linkedin.com/company/altogic/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- altogic.com
+oauthDisplayNames:
+- Altogic

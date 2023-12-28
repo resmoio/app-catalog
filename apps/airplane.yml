@@ -1,0 +1,40 @@
+id: airplane
+name: Airplane
+description: Airplane is a digital tool that focuses on assisting developers in the creation of internal
+  user interfaces and workflow automation. It simplifies the process of constructing in-house tools, making
+  it more efficient and less time-consuming for developers. The emphasis is on making complex tasks manageable
+  and eliminating unnecessary complications.
+category: development-tools
+labels:
+- productivity
+- workflow
+- internal
+company:
+  organization: ''
+  homepage: https://www.airplane.dev
+  privacyPolicy: https://docs.airplane.dev/security-and-legal/privacy-policy
+  termsOfService: https://docs.airplane.dev/security-and-legal/terms-of-use
+  securityPage: https://docs.airplane.dev/security-and-legal/security
+  statusPage: https://www.airplane-status.com/
+  linkedin: https://www.linkedin.com/company/airplanedev
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.airplane.dev
+oauthDisplayNames:
+- Airplane

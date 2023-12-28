@@ -1,0 +1,38 @@
+id: pry-financials
+name: Pry Financials
+description: Pry Financials is a platform equipped to deal with all aspects of financial administration
+  that traditionally needed Excel. It offers facilities for financial forecasting, headcount planning,
+  and KPI dashboards. The service provides a comprehensive alternative to conventional methods, integrating
+  all major pro forma financial tasks into one accessible interface. Therefore, it gives users a practical
+  and convenient way to manage their financial tasks without needing to switch between different applications
+  or platforms.
+category: account-and-finance
+labels:
+- financial planning
+- reporting
+- analysis
+company:
+  organization: ''
+  homepage: https://pry.co
+  privacyPolicy: https://pry.co/privacy-policy/
+  termsOfService: https://pry.co/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Pry Financials

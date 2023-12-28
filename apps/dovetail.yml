@@ -1,0 +1,44 @@
+id: dovetail
+name: Dovetail
+description: Dovetail is a software platform developed by an Australian company, designed to facilitate
+  the tagging, transcription and analysis of interviews, survey feedback, and responses. It is primarily
+  intended for researchers needing to glean insights from their data. In addition to its main purpose,
+  Dovetail can also be used as dental practice management software. This versatile platform caters to
+  businesses and teams, offering a quick and flexible way to convert data into valuable insights, regardless
+  of the research methodology employed.
+category: customer-support
+labels:
+- qualitative data
+- insights
+- analysis
+company:
+  organization: Dovetail
+  headquarters: US
+  founded: 2010
+  homepage: https://dovetail.com/
+  privacyPolicy: https://dovetail.com/help/privacy-policy/
+  termsOfService: https://dovetail.com/help/user-terms-of-service/
+  statusPage: https://status.dovetailapp.com/
+  securityPage: https://trust.dovetail.com/
+  linkedin: https://www.linkedin.com/company/heydovetail/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- dovetailapp.com
+oauthDisplayNames:
+- Dovetail

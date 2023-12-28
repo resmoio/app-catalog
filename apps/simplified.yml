@@ -1,0 +1,44 @@
+id: simplified
+name: Simplified
+description: Simplified is an application that provides resources for modern marketing teams, offering
+  a collection of functionalities like graphic design, video editing, copywriting, and social media management.
+  This platform not only allows for collaboration among team members but also ensures brand consistency
+  across various channels. It incorporates artificial intelligence to adapt content efficiently, ultimately
+  saving users' time. The app includes a vast media library with free images, videos, and audio clips,
+  as well as thousands of design templates. It also features a content calendar for scheduling and publishing
+  social media posts, and it supports content writing in over 30 languages. Despite its numerous capabilities,
+  Simplified is designed to be easy to use.
+category: productivity
+labels:
+- marketing automation
+- social media
+- content
+company:
+  organization: Simplified
+  headquarters: US
+  founded: 2020
+  homepage: https://simplified.com
+  privacyPolicy: https://simplified.com/privacy
+  termsOfService: https://simplified.com/termsofservice
+  linkedin: https://www.linkedin.com/company/sosimplified/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- simplified.com
+oauthDisplayNames:
+- Simplified

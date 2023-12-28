@@ -1,0 +1,35 @@
+id: seodity
+name: Seodity
+description: Seodity is a software application focused on improving organic website traffic. It accomplishes
+  this by offering a variety of analytical tools, such as those meant for enhancing technical SEO and
+  assessing competitive landscape. Another key feature is the tracking of backlinks, giving users a comprehensive
+  understanding of their site's online presence. The app includes a Rank Tracker, permitting consistent
+  surveillance of rankings across the web. These combined functionalities are intended to increase understanding
+  of a website's performance over time.
+category: web-analytics
+labels: []
+company:
+  organization: ''
+  homepage: https://seodity.com
+  privacyPolicy: https://seodity.com/privacy-policy
+  termsOfService: https://seodity.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Seodity

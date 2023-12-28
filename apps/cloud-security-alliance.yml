@@ -1,0 +1,45 @@
+id: cloud-security-alliance
+name: Cloud Security Alliance
+description: The Cloud Security Alliance (CSA) is a non-profit global organization established in 2008.
+  Its primary focus is propagating secure practices for cloud computing environments. To achieve this,
+  CSA engages with industry professionals and organizations globally to undertake research, education,
+  and certification programs specific to cloud security. This initiative helps in handling distinctive
+  security obstacles that cloud computing entails, striving to provide a safe and reliable cloud ecosystem.
+  CSA hence stands as a prominent entity in the industry, offering significant resources, training, and
+  cloud security-specific guidance.
+category: security
+labels:
+- cloud security
+- compliance
+- best practices
+company:
+  organization: ''
+  headquarters: US
+  founded: 2008
+  homepage: https://cloudsecurityalliance.org/
+  privacyPolicy: https://cloudsecurityalliance.org/legal/privacy-notice/
+  termsOfService: https://cloudsecurityalliance.org/legal/website-terms-and-conditions/
+  statusPage: https://status.cloudsecurityalliance.org/
+  linkedin: https://www.linkedin.com/company/cloud-security-alliance/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+  - cloudsecurityalliance.auth0.com
+  - cloudsecurityalliance.org
+oauthDisplayNames:
+- Cloud Security Alliance

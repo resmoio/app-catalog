@@ -1,0 +1,34 @@
+id: pkiaasio
+name: PKIaaS.IO
+description: PKIaaS.io is a service that specializes in providing public key infrastructure (PKI) as a
+  service. It's designed for people who need to deploy a comprehensive PKI, offering necessary features
+  and services such as Certificate Revocation List (CRL), Online Certificate Status Protocol (OCSP), Simple
+  Certificate Enrollment Protocol (SCEP), and Timestamping. All these tools are offered in a cloud-based,
+  managed environment, making PKI implementation more manageable and accessible for users.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://pkiaas.io
+  privacyPolicy: http://pkiaas.io/privacy-policy
+  termsOfService: http://pkiaas.io/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- PKIaaS.IO

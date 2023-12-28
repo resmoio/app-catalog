@@ -1,0 +1,42 @@
+id: credly
+name: Credly
+description: Credly is a digital platform designed for organizations to issue, manage, and verify digital
+  badges and credentials that represent individuals' skills and achievements. It facilitates the standardized
+  display of professional accomplishments, providing a way for individuals to showcase their competencies
+  and for organizations to align their training with industry needs. Its tools enable the tracking and
+  sharing of credentials to support career advancement.
+category: education
+labels:
+- digital badges
+- skills
+- credentials
+company:
+  organization: Credly
+  headquarters: US
+  founded: 2012
+  homepage: https://info.credly.com/
+  privacyPolicy: https://info.credly.com/data-security-privacy
+  termsOfService: https://info.credly.com/legal
+  securityPage: https://info.credly.com/data-security-privacy
+  linkedin: https://www.linkedin.com/company/credly/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- credly.com
+oauthDisplayNames:
+- Credly

@@ -1,0 +1,38 @@
+id: gpt-for-sheets-and-docs
+name: GPT for Sheets and Docs
+description: GPT for Sheets and Docs is a functional add-on designed to streamline work processes. With
+  it, users can clean lists, simplify formats, summarize details, group data, and manage large operations
+  in Sheets and Excel. The tool also connects well with Google Docs, making it an accessible aid for managing
+  extensive written content. By integrating OpenAI's GPT technology into this app, users can better prepare
+  and analyze data, thus improving their overall efficiency.
+category: marketing
+labels: []
+company:
+  organization: Talarian S.à.r.l.
+  headquarters: FR
+  founded: 2015
+  homepage: https://gptforwork.com/
+  privacyPolicy: https://talarian.io/privacy-policy
+  termsOfService: https://storage.googleapis.com/talarian-assets/gpt-for-sheets/GPT_for_Sheets_and_Docs_TOS.pdf
+  securityPage: https://security.talarian.io/
+  linkedin: https://www.linkedin.com/company/talarian/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GPT for Sheets and Docs

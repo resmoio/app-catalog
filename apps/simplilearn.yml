@@ -1,0 +1,34 @@
+id: simplilearn
+name: Simplilearn
+description: Simplilearn is an online learning platform that serves a global user base. It assists professionals
+  in gaining necessary skills suitable for the digital economy. Simplilearn offers a variety of online
+  bootcamp courses, professional graduate programs, master's programs, and live training sessions. The
+  aim is to promote upskilling in various industries.
+category: education
+labels: []
+company:
+  organization: Blackstone Group
+  headquarters: US
+  founded: 1985
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- simplilearn.com
+oauthDisplayNames:
+- Simplilearn

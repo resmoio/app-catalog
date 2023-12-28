@@ -1,0 +1,43 @@
+id: tackle
+name: Tackle
+description: Tackle.io is a platform that simplifies the management of cloud marketplaces. It assists
+  with listing and selling on these platforms, reducing the need for complex technical efforts and helping
+  software vendors concentrate on improving their marketing and sales approaches. In addition, Tackle.io
+  functions as a subscription service that supports software providers in generating income efficiently.
+  It also provides data on buyer intent in the Cloud Marketplace, simplifies transactions, and facilitates
+  efficient scaling of revenue by facilitating connections in the cloud.
+category: enterprise-it-services
+labels:
+- cloud marketplaces
+- self-serve
+- solutions
+company:
+  organization: Tackle
+  headquarters: US
+  founded: 2016
+  homepage: https://tackle.io/
+  privacyPolicy: https://tackle.io/website-privacy-policy/
+  termsOfService: https://tackle.io/terms-conditions/
+  securityPage: https://trust.tackle.io/
+  linkedin: https://www.linkedin.com/company/tackle-io/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tackle.io
+oauthDisplayNames:
+- Tackle

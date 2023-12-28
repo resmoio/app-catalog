@@ -1,0 +1,49 @@
+id: trello
+name: Trello
+description: Trello is an online tool designed for managing projects and fostering teamwork. It uses components
+  like boards, lists, and cards to make the organization and tracking of tasks less complicated, while
+  providing visual assistance. Trello offers a user-friendly interface for managing workflows, designating
+  tasks, and maintaining unity within a team or between individuals. This makes it suitable for both personal
+  projects and work-related endeavors. The app encourages shared understanding of any project, making
+  it a favored tool for visual collaboration.
+category: project-management
+labels:
+- boards
+- lists
+- productivity
+company:
+  organization: Atlassian
+  headquarters: AU
+  founded: 2002
+  homepage: https://trello.com/
+  privacyPolicy: https://www.atlassian.com/legal/privacy-policy#what-this-policy-covers
+  termsOfService: https://www.atlassian.com/legal/cloud-terms-of-service
+  statusPage: https://trello.status.atlassian.com/
+  securityPage: https://trello.com/legal/security
+  linkedin: https://www.linkedin.com/company/trello/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- trello.com
+oauthDisplayNames:
+- Trello
+- gmail-trello
+appRelations:
+  byName:
+    evernote:
+    - Evernote

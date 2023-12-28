@@ -1,0 +1,38 @@
+id: contactout
+name: ContactOut
+description: ContactOut is a user-friendly application designed to assist users in locating direct email
+  addresses and phone numbers from LinkedIn profiles. By providing this information, it establishes a
+  more direct means of communication for recruiters, sales professionals, and others. These individuals
+  can then use this tool to find and reach out to potential candidates or leads outside of the LinkedIn
+  platform. Despite its utility, it's worth noting that ContactOut doesn't substitute for an individual's
+  own outreach or networking efforts.
+category: sales
+labels: []
+company:
+  organization: ContactOut
+  headquarters: US
+  founded: 2015
+  homepage: https://contactout.com/
+  privacyPolicy: https://contactout.com/privacy_policy
+  termsOfService: https://contactout.com/terms
+  linkedin: https://www.linkedin.com/company/contactout/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ContactOut

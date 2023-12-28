@@ -1,0 +1,38 @@
+id: calamari
+name: Calamari
+description: Calamari is a people management tool designed to assist teams by facilitating tasks such
+  as leave management, attendance tracking, and handling HR documents. This user-friendly tool can be
+  rapidly implemented into existing systems. Its features cater particularly well to remote or distributed
+  teams aiming to streamline their workflow. Calamari aims to alleviate the burden of HR-related tasks,
+  thereby allowing teams to concentrate on their primary objectives.
+category: hr
+labels: []
+company:
+  organization: CHROBRUS
+  headquarters: PL
+  founded: 2014
+  homepage: https://calamari.io
+  privacyPolicy: https://calamari.io/privacy-policy
+  termsOfService: https://calamari.io/terms-of-use
+  linkedin: https://pl.linkedin.com/company/calamarihr
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- calamari.io
+oauthDisplayNames:
+- Calamari

@@ -1,0 +1,42 @@
+id: patreon
+name: Patreon
+description: Patreon is a membership-based platform that empowers creators by facilitating a direct income
+  stream from their patrons, or subscribers. The platform is designed to support a variety of creators,
+  including artists, writers, and musicians, by offering them a way to share exclusive content and interact
+  within a built community. It serves as a digital forum where creators can connect with their audience,
+  share their passion, and grow their creative business at the same time.
+category: e-commerce
+labels:
+- membership
+- crowdfunding
+- creators
+company:
+  organization: Patreon
+  headquarters: US
+  founded: 2013
+  homepage: https://www.patreon.com/
+  privacyPolicy: https://privacy.patreon.com/policies
+  termsOfService: https://www.patreon.com/policy/legal
+  securityPage: https://www.patreon.com/policy/security
+  linkedin: https://www.linkedin.com/company/patreon
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- patreon.com
+oauthDisplayNames:
+- Patreon

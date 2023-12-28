@@ -1,0 +1,39 @@
+id: teamgantt
+name: TeamGantt
+description: TeamGantt is an online tool that allows users to create Gantt charts quickly and easily.
+  Users can schedule tasks using a simple drag-and-drop functionality, eliminating the need for downloads
+  or special training. Momentarily, it enables users to develop an understanding of their project timelines
+  more efficiently. While the duplicate description emphasizes its free usage, it's important to remember
+  such conditions could change, it's always prudent to check the current status.
+category: project-management
+labels:
+- gantt charts
+- project planning
+- scheduling
+company:
+  organization: TeamGantt
+  headquarters: US
+  founded: 2009
+  homepage: https://www.teamgantt.com
+  privacyPolicy: https://www.teamgantt.com/privacy-policy
+  termsOfService: https://www.teamgantt.com/terms
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TeamGantt

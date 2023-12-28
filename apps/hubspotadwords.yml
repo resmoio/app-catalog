@@ -1,0 +1,44 @@
+id: hubspotadwords
+name: HubSpot AdWords Integration
+description: HubSpot's AdWords Integration is a tool designed to link businesses' Google Ads campaigns
+  with HubSpot's inbound marketing capabilities. By doing this, it enables users to more accurately gauge
+  which advertisements are generating leads and conversions, thereby allowing them to measure their advertising
+  campaign's return on investment directly within HubSpot. This system assists in the creation and improvement
+  of personalized marketing campaigns across platforms like Google Ads and Instagram, leveraging customer
+  relationship management data. The tool simplifies the process, resulting in potentially better campaign
+  outcomes.
+category: marketing
+labels:
+- google ads
+- crm
+- marketing
+company:
+  organization: HubSpot
+  headquarters: US
+  founded: 2006
+  homepage: https://www.hubspot.com/products/marketing/ads
+  privacyPolicy: https://legal.hubspot.com/privacy-policy
+  termsOfService: https://legal.hubspot.com/terms-of-service
+  statusPage: https://status.hubspot.com/
+  securityPage: https://legal.hubspot.com/security
+  linkedin: https://www.linkedin.com/company/hubspot/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- HubSpot AdWords Integration

@@ -1,0 +1,42 @@
+id: medium
+name: Medium
+description: Medium is a social publishing platform where users can share and discuss different ideas
+  on important subjects. It functions as a network bringing together writers, bloggers, and readers to
+  engage in in-depth discussions and explore a range of perspectives. Medium provides an open platform,
+  inviting both established and newly emerging voices to share their writings on various topics. Overarching,
+  Medium facilitates a space allowing dynamic thinking to be discovered and shared.
+category: content-sharing
+labels:
+- blogging
+- publishing
+- stories
+company:
+  organization: Medium
+  headquarters: US
+  founded: 2011
+  homepage: https://medium.com/
+  privacyPolicy: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
+  termsOfService: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f
+  statusPage: https://medium.statuspage.io/
+  linkedin: https://www.linkedin.com/company/medium-com/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- medium.com
+oauthDisplayNames:
+- Medium

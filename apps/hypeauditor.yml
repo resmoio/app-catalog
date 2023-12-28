@@ -1,0 +1,41 @@
+id: hypeauditor
+name: HypeAuditor
+description: HypeAuditor is a digital tool that offers analytical data related to influencer marketing.
+  It enables brands, agencies, and other platforms to examine the audience reach, engagement levels,
+  and credibility of influencers on various social media sites. The goal is to maximize the impact of
+  collaborations with influencers. Furthermore, HypeAuditor allows users to identify suitable influencers,
+  understand the market trends, and monitor the performance of influencer campaigns all powered
+  by artificial intelligence.
+category: social-media
+labels:
+- influencer marketing
+- instagram
+- analytics
+company:
+  organization: HypeAuditor
+  headquarters: US
+  founded: 2017
+  homepage: https://hypeauditor.com/
+  privacyPolicy: https://hypeauditor.com/privacy/
+  termsOfService: https://hypeauditor.com/terms/
+  linkedin: https://www.linkedin.com/company/hypeauditor/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- HypeAuditor

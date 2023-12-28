@@ -1,0 +1,33 @@
+id: jam-dev
+name: jam.dev
+description: jam.dev is a tool designed to assist developers as they collaborate on bug reporting. It
+  offers the convenience of instant bug replays and diagnostics. It gathers all necessary data for each
+  bug, like console logs, network requests, and device information, and presents them in a single link.
+  This application is built with the goal of enhancing the efficiency of engineering teams by streamlining
+  the process of fixing bugs.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- jam.dev
+oauthDisplayNames:
+- Jam.dev

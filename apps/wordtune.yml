@@ -1,0 +1,36 @@
+id: wordtune
+name: Wordtune
+description: Wordtune is a tool that uses artificial intelligence to aid in writing. It aims to assist
+  users in refining their written content by suggesting modifications that enhance clarity, tone, and
+  style. The tool provides immediate suggestions for rewriting sentences and paragraphs, with a focus
+  on improving readability and effectively communicating the intended message. Beyond offering fixes
+  for grammar and spelling, Wordtune guides users from writers and students to professionals
+  in expressing their thoughts through words. It is especially beneficial for those aiming to improve
+  the quality of their written communication.
+category: productivity
+labels: []
+company:
+  organization: AI21 Labs
+  headquarters: IL
+  founded: 2017
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wordtune.com
+oauthDisplayNames: []

@@ -1,0 +1,40 @@
+id: ethena
+name: Ethena
+description: Ethena is a software solution designed to simplify the process of adding authentication and
+  authorization to various applications, including web, mobile, and older systems. This platform provides
+  a set of tools aimed at facilitating compliance and aiding in the creation of a more efficient workplace.
+  The tools are user-friendly and serve both administrators and employees, helping organizations meet
+  necessary regulatory requirements without distracting from their primary business activities.
+category: others
+labels:
+- sso
+- authentication
+- authorization
+company:
+  organization: Ethena
+  homepage: https://goethena.com
+  privacyPolicy: https://goethena.com/privacy
+  termsOfService: https://goethena.com/terms
+  statusPage: https://status.goethena.com
+  securityPage: https://goethena.com/security
+  linkedin: https://www.linkedin.com/company/ethena/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Ethena

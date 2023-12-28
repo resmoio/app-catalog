@@ -1,0 +1,41 @@
+id: tidycal
+name: TidyCal
+description: TidyCal is a user-friendly scheduling app that simplifies the coordination of appointments
+  by enabling users to share a link for others to select a suitable meeting time. This app interfaces
+  effortlessly with up to 10 calendars and collaborates well with other platforms such as Zoom, Google
+  Meet, Zapier, Google Calendar, and Office 365 for an improved scheduling process. Notably, it stands
+  out for its ability to manage both free and paid bookings with efficiency. Currently, TidyCal is in
+  use by over 80,000 people for its streamlined process that enhances productivity.
+category: online-meetings
+labels:
+- scheduling
+- availability
+- calendar
+company:
+  organization: Sumo Group Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://tidycal.com
+  privacyPolicy: https://tidycal.com/privacy-policy
+  termsOfService: https://tidycal.com/tos
+  linkedin: https://www.linkedin.com/products/appsumo-originals-tidycal/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TidyCal

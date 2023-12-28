@@ -1,0 +1,43 @@
+id: pagerduty
+name: Pagerduty
+description: PagerDuty is a platform that assists IT and DevOps teams by identifying and managing incidents
+  in systems and applications. It collaborates with multiple monitoring tools in order to swiftly manage
+  critical issues, consequently diminishing downtime and increasing service reliability. It allows the
+  user to initiate, view, acknowledge, and resolve incidents directly, thereby improving visibility and
+  agility. The application is designed to incorporate both machine data and human intelligence for a comprehensive
+  operation analysis. This is not a promotional trial-based product or service.
+category: monitoring
+labels:
+- on-call management
+- alerting
+- devops
+company:
+  organization: PagerDuty
+  headquarters: US
+  founded: 2009
+  homepage: https://www.pagerduty.com/
+  privacyPolicy: https://www.pagerduty.com/privacy-policy/
+  termsOfService: https://www.pagerduty.com/website-terms-of-use/
+  statusPage: https://status.pagerduty.com/
+  securityPage: https://www.pagerduty.com/security/
+  linkedin: https://www.linkedin.com/company/pagerduty/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- pagerduty.com
+oauthDisplayNames: []

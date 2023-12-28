@@ -1,0 +1,42 @@
+id: smartcat
+name: Smartcat
+description: Smartcat is an application that helps businesses overcome language barriers and communicate
+  efficiently in various worldwide markets. It uses advanced artificial intelligence to simplify translation
+  procedures, boost precision, and speed up content localization. Serving as a unified platform, Smartcat
+  brings together businesses and translators for seamless ongoing translation services.
+category: marketing
+labels:
+- translation
+- localization
+- automation
+company:
+  organization: Smartcat Platform
+  headquarters: US
+  founded: 2016
+  homepage: https://www.smartcat.com/
+  privacyPolicy: https://www.smartcat.com/legal/privacy-policy/
+  termsOfService: https://www.smartcat.com/legal/terms/
+  statusPage: https://status.smartcat.com/
+  securityPage: https://www.smartcat.com/security/
+  linkedin: https://www.linkedin.com/company/smartcatai
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- smartcat.com
+oauthDisplayNames:
+- Smartcat

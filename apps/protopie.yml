@@ -1,0 +1,42 @@
+id: protopie
+name: ProtoPie
+description: ProtoPie is a software application that assists businesses in streamlining the design process
+  for their digital products. The tool simplifies the creation of interactive prototypes across various
+  platforms such as mobile, desktop, web, and IoT devices. By improving prototyping workflows, ProtoPie
+  allows businesses to promptly validate and release their products. Its ease-of-use makes it suitable
+  for designers to construct realistic prototypes that mimic the function of the actual digital product.
+category: design
+labels:
+- prototyping
+- ui
+- ux
+company:
+  organization: ProtoPie
+  headquarters: KR
+  founded: 2014
+  homepage: https://www.protopie.io
+  privacyPolicy: https://www.protopie.io/legal/privacy-policy
+  termsOfService: https://www.protopie.io/legal/terms-of-service
+  securityPage: https://www.protopie.io/learn/docs/security/overview
+  linkedin: https://www.linkedin.com/company/protopie/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- protopie.io
+oauthDisplayNames:
+- ProtoPie

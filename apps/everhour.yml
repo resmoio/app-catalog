@@ -1,0 +1,41 @@
+id: everhour
+name: Everhour
+description: Everhour is a time tracking application that incorporates invoicing, budgeting, and expense
+  tracking capabilities. It is compatible with various other platforms such as Asana, Notion, Trello,
+  Jira, Monday, Todoist, ClickUp, and Basecamp. It not only allows users to keep track of project budgets
+  and schedule team hours, but it also aids in viewing employee workload. Additionally, Everhour facilitates
+  easier management of client invoicing and payroll. It offers a 14-day trial period which enables users
+  to explore all its features without requiring any payment information.
+category: project-management
+labels:
+- time tracking
+- invoices
+- expenses
+company:
+  organization: Everhour
+  headquarters: CY
+  founded: 2015
+  homepage: https://everhour.com
+  privacyPolicy: https://everhour.com/policy
+  termsOfService: https://everhour.com/terms
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- everhour.com
+oauthDisplayNames:
+- Everhour

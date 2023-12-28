@@ -1,0 +1,44 @@
+id: cloudflare
+name: Cloudflare
+description: Cloudflare is a worldwide service that offers multiple functionalities aimed at improving
+  the efficiency and safety of websites. This platform primarily focuses on the provision of content delivery
+  network (CDN) services, mitigation against Distributed Denial of Service (DDoS) attacks, internet security,
+  and distributed domain name server services. Through these services, Cloudflare helps websites to load
+  faster, perform better, and strengthens their defense against potential online threats. Although Cloudflare
+  primarily markets itself as a web performance and security company, it also provides additional services
+  designed to optimize and secure online platforms.
+category: cloud
+labels:
+- cdn
+- dns
+- ddos protection
+company:
+  organization: CloudFlare
+  headquarters: US
+  founded: 2009
+  homepage: https://www.cloudflare.com/
+  privacyPolicy: https://www.cloudflare.com/privacypolicy/
+  termsOfService: https://www.cloudflare.com/website-terms/
+  statusPage: https://www.cloudflarestatus.com/
+  securityPage: https://www.cloudflare.com/security/
+  linkedin: https://www.linkedin.com/company/cloudflare/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- cloudflare.com
+oauthDisplayNames: []

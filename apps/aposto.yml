@@ -1,0 +1,42 @@
+id: aposto
+name: Aposto! Desktop
+description: Aposto! Desktop is a digital media application developed by Aposto, a digital media company.
+  The company is dedicated to developing digital media brands and online communities in line with current
+  societal sentiments. It works with talented creators and organizations to introduce publishing platforms
+  pertinent to newsletters and podcasts. Aposto! Desktop's primary goal is to generate captivating and
+  relevant content that connects with users, mirroring contemporary digital trends. The application offers
+  independent, satisfying, and reliable publications, aiming to provide a fresh start to the user's mind.
+category: news-and-entertainment
+labels:
+- media
+- content
+- publishing
+company:
+  organization: Aposto Technology and Media, Inc.
+  headquarters: US
+  founded: 2019
+  homepage: https://aposto.com/
+  privacyPolicy: https://about.aposto.com/en/legal/privacy
+  termsOfService: https://about.aposto.com/en/legal/terms
+  linkedin: https://www.linkedin.com/company/apostoinc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- aposto.com
+oauthDisplayNames:
+- Aposto! Desktop

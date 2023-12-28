@@ -1,0 +1,32 @@
+id: simpleMdm
+name: SimpleMDM
+description: SimpleMDM is a tool aimed at helping companies monitor, manage, and protect their Apple devices,
+  including iPhones, iPads, and Macs. It provides functionalities like device sign-up, setting adjustments,
+  app distribution, and enforcing security measures. The platform allows IT professionals to remotely
+  adjust device settings, distribute software, and maintain data safety across all mobile devices within
+  the company.
+category: security
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- simplemdm.com
+oauthDisplayNames: []

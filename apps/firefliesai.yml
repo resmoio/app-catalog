@@ -1,0 +1,44 @@
+id: firefliesai
+name: Fireflies.ai
+description: Fireflies.ai is a software tool designed to facilitate and enhance meetings. Through artificial
+  intelligence, it accurately transcribes thus documenting meetings and analyzes the information shared.
+  The software can generate meeting summaries, making communication among team members more efficient.
+  It works with numerous platforms such as Zoom, Google Meet, Microsoft Teams, and Webex, making it a
+  versatile choice for companies and teams seeking to improve meeting management and collaboration. It
+  avoids manual note-taking and thus saving time by automating this process.
+category: productivity
+labels:
+- meeting assistant
+- transcription
+- action items
+company:
+  organization: Fireflies.AI Corp
+  headquarters: US
+  founded: 2016
+  homepage: https://fireflies.ai/
+  privacyPolicy: https://fireflies.ai/privacy_policy.pdf
+  termsOfService: https://fireflies.ai/terms-of-service.pdf
+  statusPage: https://status.fireflies.ai/
+  securityPage: https://fireflies.ai/security
+  linkedin: https://www.linkedin.com/company/fireflies-inc/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- fireflies.ai
+oauthDisplayNames:
+- Fireflies.ai

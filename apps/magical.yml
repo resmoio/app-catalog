@@ -1,0 +1,43 @@
+id: magical
+name: Magical
+description: Magical is an efficiency-enhancing tool powered by artificial intelligence. It simplifies
+  tasks by automating repeated actions via Open AI tools like ChatGPT and GPT4. Users can utilize this
+  tool on mobile, desktop, or online platforms. Essential capabilities of Magical include rapid creation
+  of messages, streamlined data entry, and easy content expansion. The application is particularly useful
+  to professionals in sales, customer service, recruitment, healthcare, education, operations, and small
+  businesses, among others. It can also be beneficial to individual users. Additionally, Magical integrates
+  smoothly with an array of apps, for example, Salesforce, Gmail, and LinkedIn. The app permits the optional
+  connection of websites to spreadsheets or forms.
+category: productivity
+labels:
+- automation
+- ai assistant
+- productivity
+company:
+  organization: HeyAutofill Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://www.getmagical.com/beta/use-cases
+  privacyPolicy: https://www.getmagical.com/privacy-policy
+  termsOfService: https://www.getmagical.com/terms-of-service
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- getmagical.com
+oauthDisplayNames:
+- Magical

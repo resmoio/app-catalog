@@ -1,0 +1,41 @@
+id: detectify
+name: Detectify
+description: Detectify is a software service that helps to ensure the security of web applications. It
+  does this by tracking and analyzing the growing potential areas where attacks could happen, through
+  a process known as Surface Monitoring and Application Scanning. Designed to continually monitor external
+  threats, Detectify provides a comprehensive approach to managing security risks online. Its features
+  are intended to afford complete insight and control over your web application's vulnerability to external
+  attacks.
+category: security
+labels:
+- web security
+- vulnerability scanner
+- penetration testing
+company:
+  organization: Detectify
+  headquarters: SE
+  founded: 2012
+  homepage: https://detectify.com
+  privacyPolicy: https://detectify.com/privacy-policy
+  termsOfService: https://detectify.com/terms-of-use
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- detectify.com
+oauthDisplayNames:
+- Detectify

@@ -1,0 +1,33 @@
+id: rytr
+name: Rytr
+description: Rytr is a writing assistant powered by artificial intelligence. It's designed to generate
+  high-quality written content quickly and affordably. By streamlining the writing process, Rytr can enhance
+  productivity and efficiency for those who regularly engage in content creation.
+category: productivity
+labels: []
+company:
+  organization: Copysmith
+  headquarters: US
+  founded: 2020
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- rytr.me
+oauthDisplayNames:
+- Rytr

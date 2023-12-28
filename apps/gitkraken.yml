@@ -1,0 +1,38 @@
+id: gitkraken
+name: GitKraken
+description: GitKraken is a useful tool for developers and teams that simplifies interactions with Git.
+  It provides a user-friendly graphical interface, command line interface (CLI), and supports integration
+  with Jira - a project management tool. Additionally, it offers GitLens for Visual Studio Code, which
+  enhances code exploration and understanding. It merges these different resources into one platform,
+  streamlining project development and management.
+category: development-tools
+labels:
+- git tools
+- git gui
+- gitlens
+company:
+  organization: ''
+  homepage: https://www.gitkraken.com
+  privacyPolicy: https://www.gitkraken.com/privacy
+  termsOfService: https://www.gitkraken.com/privacy
+  linkedin: https://www.linkedin.com/company/gitkraken
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GitKraken

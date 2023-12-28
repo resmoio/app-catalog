@@ -1,0 +1,36 @@
+id: teamwork-com
+name: Teamwork.com
+description: Teamwork.com is a reliable platform for managing projects, specially designed for client-focused
+  tasks. Users can handle all their project details from one organized location, effectively assisting
+  them in completing tasks on time and within the allocated budget. Its key function is to streamline
+  project implementation for more efficient completion.
+category: project-management
+labels:
+- project management
+- collaboration
+- agile
+company:
+  organization: ''
+  homepage: https://www.teamwork.com
+  privacyPolicy: https://www.teamwork.com/legal/privacy-policy/
+  termsOfService: https://www.teamwork.com/legal/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Teamwork.com

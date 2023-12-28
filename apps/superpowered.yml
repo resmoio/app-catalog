@@ -1,0 +1,42 @@
+id: superpowered
+name: Superpowered
+description: Superpowered is a software application designed to simplify the process of scheduling and
+  accessing meetings. It provides an overview of daily schedules and enables easy entry into meetings,
+  eliminating the need to browse through calendars. Additionally, Superpowered incorporates an AI feature
+  that acts as a notetaker during meetings. It effectively transcribes the information without the assistance
+  of bots and offers detailed notes afterward. With this tool, users are equipped with the convenience
+  of organized scheduling and the benefit of an automatic notetaking system.
+category: online-meetings
+labels:
+- audio/video sdk
+- rtc
+- voice chat
+company:
+  organization: Superpowered Labs Inc.
+  headquarters: CA
+  founded: 2020
+  homepage: https://superpowered.me/
+  privacyPolicy: https://superpowered.notion.site/Superpowered-Privacy-Policy-2a30820a790f4b0b9024e3fc10a7a4af
+  termsOfService: https://superpowered.notion.site/Superpowered-Terms-of-Service-cf564af02de345749849ec9164956622
+  securityPage: https://security.superpowered.me/
+  linkedin: https://www.linkedin.com/company/superpoweredapp/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Superpowered

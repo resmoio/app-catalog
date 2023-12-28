@@ -1,0 +1,39 @@
+id: getimgai
+name: getimg.ai
+description: Getimg.ai is a software application equipped with multiple AI-powered tools that let users
+  create or modify images and artwork. Using this application, users can perform tasks like generating
+  original images in various scales, enhancing photos with modifications, extending the scope of images,
+  or even fabricating customized AI models. From designing an original piece to expanding the limits of
+  existing graphics or photos, users can utilize the diverse features of getimg.ai to explore and cultivate
+  their artistic potential in the world of AI.
+category: generative-ai
+labels:
+- ai image generation
+- logo
+- book covers
+company:
+  organization: ''
+  homepage: https://getimg.ai
+  privacyPolicy: https://getimg.ai/legal/privacy-policy
+  termsOfService: https://getimg.ai/legal/terms-of-service
+  statusPage: https://status.getimg.ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- getimg.ai

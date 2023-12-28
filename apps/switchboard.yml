@@ -1,0 +1,37 @@
+id: switchboard
+name: Switchboard
+description: Switchboard is a digital platform designed to enhance collaboration among remote and hybrid
+  teams. It provides an online workspace where users can share, organize, and save their work. It allows
+  integration with various other applications already in use by the team, aiming to streamline projects
+  and meetings in a centralized location. The intention is that collaborative efforts on Switchboard should
+  feel as efficient and effective as in-person teamwork.
+category: others
+labels:
+- virtual office
+- communication
+- collaboration
+company:
+  organization: ''
+  homepage: https://www.switchboard.app/
+  privacyPolicy: https://my.switchboard.app/privacy.pdf
+  termsOfService: https://my.switchboard.app/privacy.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Switchboard

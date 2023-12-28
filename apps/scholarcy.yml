@@ -1,0 +1,36 @@
+id: scholarcy
+name: Scholarcy
+description: Scholarcy is a web-based application that assists with creating concise summaries of lengthy
+  articles. It accomplishes this by automatically turning detailed content into summary flashcards, which
+  allows users to understand and absorb key points quickly. Users can take advantage of the service by
+  creating an account at no cost.
+category: education
+labels:
+- summarizer
+- flashcards
+- learning
+company:
+  organization: ''
+  homepage: https://www.scholarcy.com/
+  privacyPolicy: https://www.scholarcy.com/privacy-policy/
+  termsOfService: https://www.scholarcy.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Scholarcy

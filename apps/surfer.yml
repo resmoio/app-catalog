@@ -1,0 +1,36 @@
+id: surfer
+name: Surfer
+description: The Surfer app is a tool designed to assist users in creating search engine optimized (SEO)
+  content. In just 20 minutes, one can research, audit, write, and fine-tune articles using Surfer. It
+  aims to provide an all-in-one solution for creating content strategies that lead to tangible outcomes;
+  benefiting those who wish to increase their organic internet traffic.
+category: web-analytics
+labels:
+- content creation
+- seo optimization
+- analytics
+company:
+  organization: ''
+  homepage: https://surferseo.com
+  privacyPolicy: https://surferseo.com/privacy-policy/
+  termsOfService: https://surferseo.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Surfer

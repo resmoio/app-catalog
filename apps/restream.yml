@@ -1,0 +1,41 @@
+id: restream
+name: Restream
+description: Restream is a live streaming service that lets users share video content on multiple platforms
+  such as YouTube, Twitch, and Facebook, all at the same time. It takes away the complexity of needing
+  different encoding setups which simplifies the broadcasting process. This way, those who create content
+  have an easier time reaching their viewers across different platforms. Restream doesn't just allow live
+  streaming, it also has a feature that aids in the creation of visually appealing videos.
+category: content-sharing
+labels:
+- live streaming
+- multi-platform
+- broadcasting
+company:
+  organization: Restream
+  headquarters: US
+  founded: 2015
+  homepage: https://restream.io/
+  privacyPolicy: https://restream.io/privacy-policy
+  termsOfService: https://restream.io/terms-of-service
+  statusPage: https://status.restream.io/
+  linkedin: https://www.linkedin.com/company/restreamio/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Restream

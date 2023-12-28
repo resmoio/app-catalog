@@ -1,0 +1,44 @@
+id: collavate
+name: Collavate
+description: Collavate is a document and workflow management tool that simplifies work processes within
+  businesses and teams. It supports document sharing and real-time collaborative editing, offers customizable
+  workflows, and maintains security and document integrity through automated approval processes and version
+  control. This tool can be integrated with other systems, increasing its usefulness and efficiency within
+  modern work environments. Aside from being a networking app, Collavate also enhances team communication
+  and productivity. It functions also as an addition to Google workspace tools, like Google Docs, integrating
+  seamlessly with Google Drive for document management.
+category: productivity
+labels:
+- document management
+- workflow
+- collaboration
+company:
+  organization: Collavate
+  headquarters: US
+  founded: 2013
+  homepage: https://www.collavate.com
+  privacyPolicy: https://collavate.com/security-policies/?privacy#PrivacyPolicy
+  termsOfService: https://collavate.com/security-policies/?terms
+  securityPage: https://collavate.com/security-policies/?privacy
+  linkedin: https://www.linkedin.com/company/collavate-inc-/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- collavate.com
+oauthDisplayNames:
+- Collavate

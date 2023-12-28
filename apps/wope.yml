@@ -1,0 +1,43 @@
+id: wope
+name: Wope
+description: Wope is a tool that aims to facilitate the monitoring of search engine rankings for businesses
+  and individuals. Its features enable users to track the positions of keywords across various search
+  engines, examine keyword visibility, scrutinize competitor standings, and gather insights about their
+  search engine optimization (SEO) initiatives. It offers real-time data and interpretable reports to
+  aid users in enhancing their online visibility, driving organic website visits, and improving their
+  digital marketing tactics. Additionally, Wope includes automatic keyword tagging, keyword suggestions,
+  and intelligent traffic estimation tools. It also provides a no-obligation 14-day trial for new users
+  to explore its capabilities.
+category: marketing
+labels:
+- rank tracking
+- seo analytics
+- serp monitoring
+company:
+  organization: Wope Inc.
+  headquarters: EE
+  founded: 2019
+  homepage: https://wope.com/
+  privacyPolicy: https://wope.com/privacy-policy/
+  termsOfService: https://wope.com/terms-of-services/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wope.com
+oauthDisplayNames:
+- Wope

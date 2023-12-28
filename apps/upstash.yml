@@ -1,0 +1,42 @@
+id: upstash
+name: Upstash
+description: Upstash is a solution that simplifies data management. It's specifically designed for serverless
+  uses and supports both Redis and Kafka interfaces. Its primary function is to handle complex data procedures,
+  freeing users to focus on key tasks. A notable feature of Upstash is its "pay as you go" pricing model,
+  where users are billed based on their precise usage, helping to keep costs optimized.
+category: storage-and-database
+labels:
+- redis hosting
+- serverless database
+- caching
+company:
+  organization: Upstash
+  headquarters: US
+  founded: 2021
+  homepage: https://upstash.com/
+  privacyPolicy: https://upstash.com/trust/privacy.pdf
+  termsOfService: https://upstash.com/trust/terms.pdf
+  statusPage: https://status.upstash.com/
+  securityPage: https://upstash.com/docs/redis/features/security
+  linkedin: https://www.linkedin.com/company/upstash/about/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- upstash.com
+oauthDisplayNames:
+- Upstash

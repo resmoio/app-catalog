@@ -1,0 +1,43 @@
+id: instapage
+name: instapage
+description: Instapage is a sophisticated landing page service that helps users to efficiently create,
+  improve, and evaluate landing pages. It employs modern technology like AI for designing content and
+  provides built-in analysis tools. Furthermore, it offers an integrated platform for ad mapping and content
+  experimentation. Designed to increase marketing effectiveness and lower expenses, Instapage aids in
+  converting online visits into customers. It's especially useful for scalable marketing campaigns as
+  it allows personalization according to specific campaigns.
+category: content-management
+labels:
+- landing pages
+- marketing
+- optimization
+company:
+  organization: Postclick
+  headquarters: US
+  founded: 2012
+  homepage: https://www.instapage.com
+  privacyPolicy: https://instapage.com/privacy-policy/
+  termsOfService: https://instapage.com/terms-of-service/
+  securityPage: https://security.instapage.com/
+  linkedin: https://www.linkedin.com/company/instapage/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- instapage.com
+oauthDisplayNames:
+- instapage

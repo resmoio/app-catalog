@@ -1,0 +1,42 @@
+id: google-ads-editor
+name: Google Ads Editor
+description: Google Ads Editor is a desktop application designed to simplify the handling and enhancement
+  of Google Ads campaigns. It allows users to adjust their advertisements, keywords, and settings in bulk
+  whilst offline, then upload these changes to their Google Ads account at their convenience. The intuitive
+  interface combined with advanced functions make this application a useful tool for those managing Google
+  Ads campaigns.
+category: marketing
+labels:
+- google ads
+- bulk editing
+- automation
+company:
+  organization: Google LLC
+  headquarters: US
+  founded: 2006
+  homepage: https://ads.google.com/home/tools/ads-editor/
+  privacyPolicy: https://policies.google.com/privacy
+  termsOfService: https://policies.google.com/terms
+  securityPage: https://cloud.google.com/security/compliance/offerings
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+registrationEmails:
+- ads-account-noreply@google.com
+oauthDisplayNames:
+- Google Ads Editor

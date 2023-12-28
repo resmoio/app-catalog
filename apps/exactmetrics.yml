@@ -1,0 +1,38 @@
+id: exactmetrics
+name: ExactMetrics
+description: ExactMetrics is a vital tool for WordPress users interested in the detailed workings of
+  their website. With this application, users can efficiently set up Google Analytics and gain access
+  to reports directly within their WordPress interface. Currently, the software is trusted and employed
+  by over a million sites worldwide due to its seamless integration with Google''s data analysis platform,
+  offering insights about the site''s performance. As a premium Google Analytics plugin for WordPress,
+  ExactMetrics offers heightened functionality to improve site management practices.
+category: web-analytics
+labels:
+- google analytics
+- wordpress
+- analytics
+company:
+  organization: ''
+  homepage: https://exactmetrics.com/
+  privacyPolicy: https://exactmetrics.com/privacy-policy/
+  termsOfService: https://exactmetrics.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ExactMetrics

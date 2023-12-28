@@ -1,0 +1,36 @@
+id: uberduck
+name: Uberduck
+description: Uberduck is a platform that simplifies voice automation by utilizing AI-derived vocal capabilities.
+  It supports text-to-speech conversion, helping users transform written content into spoken words with
+  natural-sounding voices. The application also contains a feature for creating personalized voice clones.
+  Moreover, it provides API documentation, assisting users in effectively using the platform's functionalities.
+  Whether for generating speech from text or creating music with unique voices, Uberduck offers various
+  possibilities in a user-friendly manner.
+category: productivity
+labels: []
+company:
+  organization: Uberduck
+  headquarters: US
+  founded: 2021
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- uberduck.ai
+oauthDisplayNames:
+- Uberduck

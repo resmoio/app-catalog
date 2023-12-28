@@ -1,0 +1,37 @@
+id: photoshop
+name: Photoshop
+description: Photoshop is a photo editing application that allows users to blend, refine, and alter images.
+  It provides a platform to transform photographs and create distinctive content with the assistance of
+  artificial intelligence features. Users have access to a variety of tutorials to enhance their editing
+  skills, as well as 100GB of cloud storage and a selection of fonts. There is an option to test the software
+  without charge for a limited period.
+category: design
+labels:
+- photo editing
+- graphics
+- design
+company:
+  organization: ''
+  homepage: https://www.photoshop.com/
+  privacyPolicy: https://www.adobe.com/privacy/policy-linkfree.html
+  termsOfService: https://www.adobe.com/privacy/policy-linkfree.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Photoshop

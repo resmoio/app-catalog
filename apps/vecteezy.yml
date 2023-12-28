@@ -1,0 +1,33 @@
+id: vecteezy
+name: Vecteezy
+description: Vecteezy is a digital platform that offers both free and paid stock photographs, videos,
+  and graphics through its vast database. Its resources cater to the needs of content creators, marketers,
+  and designers worldwide.
+category: productivity
+labels: []
+company:
+  organization: Vecteezy
+  headquarters: US
+  founded: 2007
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vecteezy.com
+oauthDisplayNames:
+- Vecteezy

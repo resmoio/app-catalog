@@ -1,0 +1,37 @@
+id: datapad
+name: Datapad
+description: Datapad is a simple KPI tracking application that allows users to monitor key performance
+  indicators in one centralized location. It is designed for ease of use across entire teams without the
+  need for coding or development skills. The application supports fostering a data-driven culture within
+  small businesses by providing straightforward dashboard functionality.
+category: content-management
+labels:
+- business intelligence
+- data
+- dashboards
+company:
+  organization: ''
+  homepage: https://www.datapad.io
+  privacyPolicy: https://www.datapad.io/privacy-policy
+  termsOfService: https://www.datapad.io/terms-of-service
+  securityPage: https://www.datapad.io/data-security
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Datapad

@@ -1,0 +1,39 @@
+id: strava
+name: Strava
+description: Strava is a user-friendly application that enables people to track and enhance their fitness
+  levels. Using this platform, one can easily log activities such as running, cycling, and hiking, making
+  it straightforward to keep tabs on their advancement. The app is designed to enable users to share their
+  activities and compare data, fostering a dynamic community of health and fitness enthusiasts. It serves
+  as an online portal able not just to record but also support engagement through competition among members,
+  connecting a diverse range of active individuals globally.
+category: others
+labels: []
+company:
+  organization: Strava
+  headquarters: US
+  founded: 2009
+  homepage: https://www.strava.com/
+  privacyPolicy: https://strava.com/privacy
+  termsOfService: https://strava.com/terms
+  linkedin: https://www.linkedin.com/company/strava-inc.
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- strava.com
+oauthDisplayNames:
+- Strava

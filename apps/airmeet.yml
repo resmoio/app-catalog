@@ -1,0 +1,40 @@
+id: airmeet
+name: Airmeet
+description: Airmeet is a comprehensive software that facilitates both virtual and hybrid events, such
+  as conferences, meetups, and workshops. It offers a variety of interactive experiences for attendees,
+  including virtual social lounges for networking purposes. Beyond virtual-only gatherings, Airmeet also
+  supports the coordination of hybrid events, allowing for both onsite and remote participation. It is
+  customizable to fit the specific needs and themes of various events. A demonstration of how to use the
+  platform can be requested.
+category: hosting-services
+labels: []
+company:
+  organization: Airmeet
+  headquarters: IN
+  founded: 2019
+  homepage: https://www.airmeet.com/
+  privacyPolicy: https://www.airmeet.com/hub/Privacy-Policy/
+  termsOfService: https://www.airmeet.com/hub/terms-of-use/
+  statusPage: https://status.airmeet.com/
+  linkedin: https://www.linkedin.com/company/airmeetcom/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- airmeet.com
+oauthDisplayNames:
+- Airmeet

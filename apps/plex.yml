@@ -1,0 +1,39 @@
+id: plex
+name: Plex
+description: Plex is a media streaming and organization platform. It gathers users' preferred movies,
+  TV shows, music, photos, and more, providing a unified viewing experience. It offers a vast collection
+  of free movies and TV shows. It acts as an amalgamation point for various forms of entertainment, even
+  content stored on different devices. Additionally, it offers over 50,000 free titles.
+category: news-and-entertainment
+labels:
+- media server
+- streaming
+- home theater
+company:
+  organization: Plex
+  headquarters: US
+  founded: 2009
+  homepage: https://www.plex.tv/
+  privacyPolicy: https://www.plex.tv/about/privacy-legal/
+  termsOfService: https://www.plex.tv/about/privacy-legal/plex-terms-of-service/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- plex.tv
+oauthDisplayNames:
+- Plex

@@ -1,0 +1,39 @@
+id: contractsafe
+name: ContractSafe
+description: ContractSafe is a cloud-based application used to efficiently manage contracts. Utilizing
+  the reliable and user-friendly platform of AWS, it offers secure solutions for the smooth handling of
+  various contract-related processes. The software, known for its ease-of-use, aims to alleviate difficulties
+  commonly associated with contract management. A free trial of the software is available for interested
+  users seeking to explore its functionalities.
+category: security
+labels: []
+company:
+  organization: ContractSafe
+  headquarters: US
+  founded: 2015
+  homepage: https://www.contractsafe.com/
+  privacyPolicy: https://www.contractsafe.com/privacy
+  termsOfService: https://www.contractsafe.com/terms-of-use
+  securityPage: https://www.contractsafe.com/security
+  linkedin: https://www.linkedin.com/company/contractsafe/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- contractsafe.com
+oauthDisplayNames:
+- ContractSafe

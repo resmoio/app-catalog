@@ -1,0 +1,40 @@
+id: uploadcare
+name: Uploadcare
+description: Uploadcare is a tool designed to assist with the uploading, processing, and delivery of files.
+  It is simple to use and caters to developers' needs effectively. It suits modern web apps and can also
+  be utilized for mobile applications. This solution is built with an understanding of engineering needs
+  and offers significant utility straight from installation, without the need for additional setup or
+  customization.
+category: storage-and-database
+labels:
+- file uploading
+- media management
+- cdn
+company:
+  organization: Uploadcare
+  headquarters: US
+  founded: 2011
+  homepage: https://uploadcare.com
+  privacyPolicy: https://uploadcare.com/about/privacy_policy
+  termsOfService: https://uploadcare.com/about/terms/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- uploadcare.com
+oauthDisplayNames:
+- Uploadcare

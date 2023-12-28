@@ -1,0 +1,41 @@
+id: rocketbook
+name: Rocketbook
+description: Rocketbook is a unique notebook app that allows users to write notes on 32 reusable pages
+  that can be easily wiped clean with a damp towel when using compatible Pilot FriXion pens. Users can
+  upload their notes to various cloud storage platforms such as Google Docs, Dropbox, iCloud, and Evernote.
+  This environmentally responsible app facilitates note organization by linking with preferred cloud services.
+  Rocketbook introduces a digital twist to traditional notetaking by offering a notebook that can be used
+  in perpetuity, enhancing productivity while fostering environmental consciousness.
+category: productivity
+labels:
+- reusable notebook
+- organization
+- scan
+company:
+  organization: Societe BIC
+  headquarters: FR
+  founded: 1945
+  homepage: https://getrocketbook.com
+  privacyPolicy: https://getrocketbook.com/pages/privacy-policy
+  termsOfService: https://getrocketbook.com/pages/terms-of-service
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- getrocketbook.com
+oauthDisplayNames:
+- Rocketbook

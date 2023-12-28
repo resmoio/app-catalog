@@ -1,0 +1,34 @@
+id: pipedout
+name: PipedOut
+description: PipedOut is a service aimed at optimizing the management and utilization of SEO data. Specifically,
+  it collects SEO data, transfers it into your data storage system, and assists in deriving maximum benefits
+  from it. Thus, PipedOut can be seen as a support tool for integrating and making effective use of SEO
+  data in your overall data management strategy.
+category: others
+labels:
+- seo analytics
+- ppc analytics
+- bigquery
+company:
+  organization: ''
+  homepage: https://pipedout.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- PipedOut

@@ -1,0 +1,41 @@
+id: checkly
+name: Checkly
+description: Checkly is a platform designed to test and monitor web applications and APIs. It is particularly
+  useful for contemporary development and operations (DevOps) teams. The platform tracks the performance,
+  uptime, and accuracy of applications. By connecting with continuous integration and delivery workflows,
+  Checkly offers developers regular updates and alerts about their applications' performance and stability.
+  Its special feature includes the ability for developers to program, test, and implement synthetic monitoring
+  on a large scale. Overall, it is a dependable and swift tool for monitoring as code workflow requirements.
+category: monitoring
+labels: []
+company:
+  organization: Checkly
+  headquarters: DE
+  founded: 2018
+  homepage: https://www.checklyhq.com/
+  privacyPolicy: https://www.checklyhq.com/privacy/
+  termsOfService: https://www.checklyhq.com/terms/
+  statusPage: https://is.checkly.online/
+  securityPage: https://www.checklyhq.com/security/
+  linkedin: https://www.linkedin.com/company/checkly/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- checklyhq.com
+oauthDisplayNames:
+- Checkly

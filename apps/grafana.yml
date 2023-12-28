@@ -1,0 +1,38 @@
+id: grafana
+name: Grafana Labs
+description: Grafana Labs provides an open-source platform that is primarily used for monitoring and analytics
+  of databases. It offers tools for observing and tracking patterns in data, valuable for many types of
+  institutions and businesses. This service simplifies the process of understanding large amounts of information
+  by making it more visual and easier to interpret. Making use of Grafana Labs' platform can lead to more
+  informed decision-making and improved operational efficiency.
+category: monitoring
+labels:
+- monitoring
+- metrics
+- analytics
+company:
+  organization: ''
+  homepage: https://grafana.com
+  privacyPolicy: https://grafana.com/terms#privacy
+  termsOfService: https://grafana.com/terms#privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- grafana.com
+oauthDisplayNames:
+- Grafana Labs

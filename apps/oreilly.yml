@@ -1,0 +1,38 @@
+id: oreilly
+name: O'Reilly Media
+description: O'Reilly Media is a learning company that provides individuals, teams, and businesses with expert-created 
+  and curated information covering various technology and business-related topics. It offers books, online courses, 
+  conferences, and learning resources to help professionals stay updated and advance in their fields.
+category: education
+labels:
+- online courses
+- video tutorials
+- education
+company:
+  organization: O'Reilly Media
+  headquarters: US
+  founded: 1978
+  homepage: https://www.oreilly.com/
+  privacyPolicy: https://www.oreilly.com/privacy.html
+  termsOfService: https://www.oreilly.com/terms/
+  linkedin: https://www.linkedin.com/company/oreilly-media
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+  - oreilly.com
+oauthDisplayNames: []

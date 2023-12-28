@@ -1,0 +1,40 @@
+id: anyword
+name: Anyword
+description: Anyword is an artificial intelligence-based platform primarily used by marketers to develop
+  content that is consistent with their brand and supports business growth. The application is recognized
+  by many leading corporations including Amazon and Alibaba for its ability to analyze vast amounts of
+  marketing data and provide output that aids in strategic decision-making across multiple channels. With
+  the ability to regularly monitor and enhance the users' content, Anyword on average improves business
+  outcomes by thirty percent. Despite being one of the more sophisticated AI models, it does lack the
+  capability to predict what may specifically work for a particular brand or audience.
+category: marketing
+labels: []
+company:
+  organization: Keywee Inc.
+  headquarters: US
+  founded: 2013
+  homepage: https://anyword.com/
+  privacyPolicy: https://anyword.com/privacy-policy
+  termsOfService: https://anyword.com/terms-saas-api
+  linkedin: https://www.linkedin.com/company/getanyword/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- anyword.com
+oauthDisplayNames:
+- Anyword

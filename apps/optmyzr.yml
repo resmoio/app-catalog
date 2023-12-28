@@ -1,0 +1,40 @@
+id: optmyzr
+name: Optmyzr
+description: Optmyzr is a platform focused on managing Pay-Per-Click (PPC) initiatives particularly for
+  Google Ads. The platform incorporates automated suggestions, thorough reports, and efficient scripts
+  to assist its users in improving their PPC strategies. It serves to expedite optimization processes
+  and help users derive the utmost value from their advertising expenditure. Overall, Optmyzr is designed
+  to streamline and enhance the management of PPC campaigns.
+category: marketing
+labels:
+- google ads
+- ppc optimization
+- automation
+company:
+  organization: Optmyzr
+  headquarters: US
+  founded: 2013
+  homepage: https://www.optmyzr.com/
+  privacyPolicy: https://www.optmyzr.com/information/privacy-policy/
+  termsOfService: https://www.optmyzr.com/information/terms-of-use/
+  linkedin: https://www.linkedin.com/company/optmyzr/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Optmyzr

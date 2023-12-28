@@ -1,0 +1,42 @@
+id: alison
+name: Alison
+description: Alison is an online platform for self-driven learning that offers an extensive selection
+  of over 4,000 free courses. The courses range across various fields and are designed to bolster career
+  development and personal growth. Upon completion, learners earn certificates demonstrating their acquired
+  skills and knowledge. With its plentiful resources and tools, Alison helps individuals manage their
+  education and career progression paths efficiently. In addition to imparting knowledge, this platform
+  strives to improve skill sets and build confidence among its community of 6 million graduates. Its main
+  mission is supporting learners to upskill through online education and training.
+category: education
+labels:
+- online courses
+- education
+- training
+company:
+  organization: Capernaum Ltd,
+  headquarters: IE
+  founded: 2007
+  homepage: https://alison.com/
+  privacyPolicy: https://alison.com/about/terms-of-use?privacy-policy%22
+  termsOfService: https://alison.com/about/terms-of-use
+  linkedin: https://www.linkedin.com/company/alison-learning/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Alison

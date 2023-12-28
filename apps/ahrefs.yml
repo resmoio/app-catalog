@@ -1,0 +1,44 @@
+id: ahrefs
+name: Ahrefs
+description: Ahrefs is a user-friendly software focusing on search engine optimization (SEO). It offers
+  tools and resources designed to enhance the visibility of websites on search engines. Its range of functions
+  includes analyzing backlinks, researching keywords, comparing with competitors, and conducting website
+  audits. This combination of tools can be utilized by both seasoned marketing professionals and individuals
+  new to SEO. A particularly useful aspect of Ahrefs is its capacity to provide data-driven insights to
+  help businesses improve their online presence and increase their search traffic. All these features
+  come without the prerequisite of prior SEO expertise.
+category: web-analytics
+labels:
+- seo
+- backlinks
+- analytics
+company:
+  organization: Ahrefs
+  headquarters: SG
+  founded: 2010
+  homepage: https://ahrefs.com/
+  privacyPolicy: https://ahrefs.com/privacy-policy
+  termsOfService: https://ahrefs.com/terms
+  securityPage: https://ahrefs.com/legal/security-measures
+  linkedin: https://www.linkedin.com/company/ahrefs/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ahrefs.com
+oauthDisplayNames:
+- Ahrefs

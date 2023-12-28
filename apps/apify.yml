@@ -1,0 +1,43 @@
+id: apify
+name: Apify
+description: Apify is a platform designed to simplify web scraping and automation tasks. It furnishes
+  users with the ability to gather data from websites and transform those websites into APIs. This platform
+  also manages web workflows and facilitates the creation, operation, and expansion of web scrapers. Moreover,
+  Apify allows users to seamlessly convert any website into a data source. With over 1,500 pre-made tools
+  created by its community, open-source libraries, or the option to request personalized solutions, Apify
+  offers multiple avenues to assist businesses and developers in implementing web scraping and data extraction
+  tasks.
+category: development-tools
+labels:
+- web scraping
+- data extraction
+- automation
+company:
+  organization: Apify
+  headquarters: IN
+  founded: 2015
+  homepage: https://apify.com/
+  privacyPolicy: https://apify.com/privacy-policy
+  termsOfService: https://apify.com/terms-of-use
+  statusPage: https://status.apify.com/
+  linkedin: https://www.linkedin.com/company/apifytech/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Apify

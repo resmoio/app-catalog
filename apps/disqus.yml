@@ -1,0 +1,36 @@
+id: disqus
+name: Disqus.com
+description: Disqus.com is a platform primarily used by publishers to better connect with their audiences
+  by building and enhancing their on-site community. This tool enables publishers not only to engage their
+  audiences more effectively, but also to understand them and support their growth. Many publishers prefer
+  Disqus for these purposes due to its comprehensive features and intuitive interface.
+category: forums
+labels:
+- comments
+- forums
+- engagement
+company:
+  organization: ''
+  homepage: https://disqus.com/
+  privacyPolicy: https://disqus.com/privacy-policy/
+  termsOfService: https://help.disqus.com/en/articles/1717102-terms-of-service
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Disqus.com

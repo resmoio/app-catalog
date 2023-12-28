@@ -1,0 +1,42 @@
+id: dailydev
+name: daily.dev
+description: daily.dev is a platform built for web developers to stay informed and updated on trends in
+  the industry. It provides a carefully curated and personalized feed of articles and tutorials sourced
+  from wide-ranging online sites. It also offers a unique feature allowing developers to form professional
+  networks where they can collaborate and share information. They can create groups for enhanced interaction
+  with like-minded individuals, facilitating discussions and knowledge sharing on the latest industry
+  trends. The community-oriented nature of daily.dev helps developers grow both individually and collectively
+  within their professional spheres.
+category: news-and-entertainment
+labels:
+- web development
+- news
+- community
+company:
+  organization: daily.dev
+  headquarters: IL
+  founded: 2020
+  homepage: https://daily.dev/
+  privacyPolicy: https://daily.dev/privacy
+  termsOfService: https://daily.dev/tos
+  linkedin: https://www.linkedin.com/company/dailydotdev/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- daily.dev

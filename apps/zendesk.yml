@@ -1,0 +1,44 @@
+id: zendesk
+name: Zendesk
+description: Zendesk is a global firm established in 2007 that specializes in creating various customer
+  service products to enhance company-customer relationships. Co-founded by Mikkel Svane, Morten Primdahl,
+  and Alexander Aghassipour, Zendesk supplies a range of solutions covering support services, chat features,
+  and call centers, facilitating effective communication with clients through multiple channels. The platform
+  is customizable to individual business needs and supports interaction with customers through a variety
+  of mediums, including text, mobile, phone, email, live chat, and social media.
+category: customer-support
+labels:
+- customer service
+- help desk
+- ticketing
+company:
+  organization: Zendesk
+  headquarters: US
+  founded: 2007
+  homepage: https://www.zendesk.com/
+  privacyPolicy: https://www.zendesk.com/company/agreements-and-terms/privacy-notice/
+  termsOfService: https://www.zendesk.com/company/agreements-and-terms/terms-of-use/
+  statusPage: https://status.zendesk.com/
+  securityPage: https://www.zendesk.com/trust-center/
+  linkedin: https://www.linkedin.com/company/zendesk/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- zendesk.com
+oauthDisplayNames:
+- Zendesk

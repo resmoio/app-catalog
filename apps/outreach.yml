@@ -1,0 +1,36 @@
+id: outreach
+name: Outreach
+description: Outreach is a platform developed to simplify and improve the process of sales engagement.
+  Its main function is to aid sales teams in organizing their communication with customers by providing
+  capabilities such as email tracking, automated responses, customized messaging, and analytical feedback.
+  The platform allows people in sales roles to efficiently manage potential customers, foster strong relationships,
+  and enhance sales results by improving their communication strategies. Furthermore, Outreach stands
+  as a rapidly-growing platform in the sales engagement field, enabling companies to significantly boost
+  their productivity and engage with customers in a more effective and informed manner.
+category: sales
+labels: []
+company:
+  organization: Outreach
+  headquarters: US
+  founded: 2014
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- outreach.io
+oauthDisplayNames: []

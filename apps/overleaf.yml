@@ -1,0 +1,44 @@
+id: overleaf
+name: Overleaf
+description: Overleaf is an online editor designed for creation and collaboration on scientific and technical
+  documents. Using the LaTeX document preparation system, it simplifies the writing and review process,
+  making it more efficient and user-friendly. This program allows different authors to work together seamlessly
+  on a single project. The cloud-based nature of Overleaf provides accessibility and convenience, keeping
+  all progress and versions under one platform. Moreover, it offers numerous LaTeX templates and requires
+  no installation. Overleaf aims at promoting transparency and openness in scientific and academic research.
+category: productivity
+labels:
+- latex editor
+- academic writing
+- collaboration
+company:
+  organization: Overleaf
+  headquarters: GB
+  founded: 2011
+  homepage: https://www.overleaf.com/
+  privacyPolicy: https://www.overleaf.com/legal#Privacy
+  termsOfService: https://www.overleaf.com/legal#Terms
+  statusPage: https://status.overleaf.com/
+  securityPage: https://www.overleaf.com/legal#Security
+  linkedin: https://www.linkedin.com/company/overleaf/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- overleaf.com
+oauthDisplayNames:
+- Overleaf

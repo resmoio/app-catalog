@@ -1,0 +1,42 @@
+id: leadiq
+name: LeadIQ
+description: LeadIQ is a platform designed to support businesses in improving their sales pipeline through
+  smart prospecting methods. The application helps companies identify potential leads and engage with
+  them effectively, leading to the expansion of sales opportunities. LeadIQ simplifies the process of
+  managing leads and prospecting sales, providing businesses with a chance to succeed in reaching out
+  to potential clients. It also offers tools for B2B sales prospecting, such as locating prospect data
+  and tracking buying signals, which helps in tailoring outreach for outbound prospecting.
+category: sales
+labels:
+- sales intelligence
+- prospecting
+- outreach
+company:
+  organization: LeadIQ
+  headquarters: US
+  founded: 2015
+  homepage: https://leadiq.com
+  privacyPolicy: https://leadiq.com/legal/privacy-policy
+  termsOfService: https://leadiq.com/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/leadiq-inc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- leadiq.com
+oauthDisplayNames:
+- LeadIQ

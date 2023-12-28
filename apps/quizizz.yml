@@ -1,0 +1,35 @@
+id: quizizz
+name: Quizizz
+description: Quizizz is an educational platform designed to facilitate learning through interactive quizzes
+  and lessons. It provides tailored content, assessment tools, and practice exercises to cater to individual
+  learning needs. This platform allows students to engage actively in their learning process, providing
+  a unique, gamified approach to education. Any learner can benefit from its inclusive instruction strategy,
+  making it a versatile tool in the educational landscape.
+category: education
+labels: []
+company:
+  organization: Quizizz
+  headquarters: US
+  founded: 2015
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- quizizz.com
+oauthDisplayNames:
+- Quizizz

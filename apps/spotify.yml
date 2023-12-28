@@ -1,0 +1,42 @@
+id: spotify
+name: Spotify
+description: Spotify is a digital music service that enables users to stream a variety of audio content.
+  This includes songs, podcasts, and audiobooks from a range of genres and artists. Users can discover
+  new music, listen to their favorites, and create personal playlists. The service is accessible from
+  either a web platform or a user-friendly app. Spotify offers access to millions of songs, but access
+  to certain content may be restricted depending on the policies of record labels or artists. The service
+  is aimed at making music accessible to everyone.
+category: news-and-entertainment
+labels:
+- music streaming
+- playlists
+- podcasts
+company:
+  organization: Spotify
+  headquarters: SE
+  founded: 2006
+  homepage: https://open.spotify.com/
+  privacyPolicy: https://www.spotify.com/in-en/legal/privacy-policy/
+  termsOfService: https://www.spotify.com/in-en/legal/end-user-agreement/
+  linkedin: https://www.linkedin.com/company/spotify/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- spotify.com
+oauthDisplayNames:
+- Spotify

@@ -1,0 +1,35 @@
+id: serverless
+name: Serverless
+description: Serverless is a tool designed to streamline the creation and monitoring of auto-scaling applications.
+  It's compatible with various platforms such as AWS Lambda, API Gateway, and DynamoDB. By providing a
+  framework and a monitoring dashboard, Serverless makes it simpler to develop applications that need
+  minimal maintenance, even on multiple managed services. Its aim is to remove any friction often experienced
+  in creating serverless applications.
+category: development-tools
+labels:
+- serverless development
+- aws lambda
+- api gateway
+company:
+  organization: ''
+  homepage: https://www.serverless.com
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Serverless

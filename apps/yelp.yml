@@ -1,0 +1,43 @@
+id: yelp
+name: Yelp
+description: Yelp is an online directory and review platform that allows individuals to rate and share
+  their experiences with local businesses. This service, established in 2004 by Jeremy Stoppelman and
+  Russel Simmons, provides a medium for people to discover a range of businesses in their area
+  from dining spots to medical professionals based on user reviews and ratings. The aim of Yelp is
+  to connect people with local businesses according to their needs and preferences, thus helping them
+  uncover diverse opportunities within their own neighborhoods.
+category: others
+labels:
+- reviews
+- local businesses
+- recommendations
+company:
+  organization: Yelp
+  headquarters: US
+  founded: 2004
+  homepage: https://www.yelp.com/
+  privacyPolicy: https://terms.yelp.com/privacy/
+  termsOfService: https://terms.yelp.com/tos/en_us/20200101_en_us/
+  securityPage: https://trust.yelp.com/
+  linkedin: https://www.linkedin.com/company/yelp-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- yelp.com
+oauthDisplayNames:
+- Yelp

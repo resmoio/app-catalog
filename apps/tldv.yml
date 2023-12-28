@@ -1,0 +1,41 @@
+id: tldv
+name: tl;dv
+description: Tl;dv is a service designed to work with video conferencing platforms such as Zoom and Google
+  Meet, recording meetings and using AI to transcribe and highlight key moments. The aim is to enable
+  users to easily reference the most critical parts of their meetings without needing to replay the full
+  recording. This tool is particularly useful for those who want to save time by quickly accessing summarized
+  content from their online discussions.
+category: content-sharing
+labels:
+- video analytics
+- meeting insights
+- action items
+company:
+  organization: tl;dv
+  headquarters: DE
+  founded: 2020
+  homepage: https://tldv.io/
+  privacyPolicy: https://tldv.io/privacy/
+  termsOfService: https://tldv.io/terms/
+  securityPage: https://tldv.io/security-commitment/
+  linkedin: https://www.linkedin.com/company/tl-dv/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- tl;dv

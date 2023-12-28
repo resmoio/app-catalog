@@ -1,0 +1,39 @@
+id: tactiq-io
+name: Tactiq.io
+description: Tactiq.io is a Chrome extension that offers real-time transcription services for meetings
+  held on Google Meet, Zoom, and Microsoft Teams. It provides a straightforward way to capture spoken
+  content, allowing users to save and emphasize key points from their conversations. Team members can
+  readily access transcripts to revisit important discussions and follow up on decisions made. The app
+  also includes features to create summaries, list action items, and suggest agendas for future meetings
+  based on the conversation. With its focus on simplicity and collaboration, Tactiq.io aims to ensure
+  that no critical information is overlooked in meeting environments.
+category: content-management
+labels: []
+company:
+  organization: Tactiq.io
+  headquarters: AU
+  founded: 2020
+  homepage: https://tactiq.io/
+  privacyPolicy: https://tactiq.io/privacy/privacy
+  termsOfService: https://tactiq.io/privacy/terms
+  linkedin: https://www.linkedin.com/company/tactiqhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Tactiq.io

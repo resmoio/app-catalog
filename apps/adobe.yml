@@ -1,0 +1,44 @@
+id: adobe
+name: Adobe
+description: Adobe is a global software company that offers a range of creative and marketing solutions.
+  It provides software applications such as Photoshop, Illustrator, InDesign, and Premiere Pro, which
+  are primarily utilized by professionals in design, photography, and media fields. These tools facilitate
+  tasks like graphic design, photo editing, desktop publishing, and video editing. Adobe also offers digital
+  marketing and document management solutions, and strives to enhance digital experiences by assisting
+  users to develop, distribute, and optimize their content and applications.
+category: design
+labels:
+- design
+- photo editing
+- creative
+company:
+  organization: Adobe
+  headquarters: US
+  founded: 1982
+  homepage: https://www.adobe.com/
+  statusPage: https://status.adobe.com/
+  privacyPolicy: https://www.adobe.com/privacy.html
+  termsOfService: https://www.adobe.com/legal/terms.html
+  securityPage: https://www.adobe.com/trust.html
+  linkedin: https://www.linkedin.com/company/adobe/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+  - adobe.com
+oauthDisplayNames:
+  - Adobe

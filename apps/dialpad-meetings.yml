@@ -1,0 +1,45 @@
+id: dialpad-meetings
+name: Dialpad Meetings
+description: Dialpad Meetings is a component of Dialpad, a cloud-based platform aimed at facilitating
+  corporate communication. This service offers a blend of voice, video, and messaging solutions which
+  include VoIP calls, video conferencing and team messaging. Teams of different sizes can expect smooth
+  and efficient communication, enabled by the platform's integration with other business apps. Dialpad
+  Meetings, specifically, provides a video conferencing tool useful for both internal team meetings and
+  client interactions, accessible from any location. Though free, users should be aware that this service
+  has received varied feedback from both customers and industry specialists.
+category: online-meetings
+labels:
+- video conferencing
+- voip
+- cloud communications
+company:
+  organization: Dialpad
+  headquarters: US
+  founded: 2011
+  homepage: https://www.dialpad.com/ai-meetings/
+  privacyPolicy: https://www.dialpad.com/legal/#privacy
+  termsOfService: https://www.dialpad.com/legal/
+  statusPage: https://dialpad.statuspage.io/
+  securityPage: https://www.dialpad.com/trust/
+  linkedin: https://www.linkedin.com/company/dialpad/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dialpad.com
+oauthDisplayNames:
+- Dialpad Meetings

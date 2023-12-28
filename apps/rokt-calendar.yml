@@ -1,0 +1,33 @@
+id: rokt-calendar
+name: Rokt Calendar
+description: Rokt Calendar is a software application designed to assist with customer engagement. It achieves
+  this through personalized communications set to reach customers at their most active times. This application
+  not only boosts connections with customers but also helps users assess the effectiveness of their outreach
+  attempts. The software is especially beneficial for marketing purposes.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://rokt.com/rokt-calendar
+  privacyPolicy: https://rokt.com/rokt-calendar-privacy-policy
+  termsOfService: https://rokt.com/rokt-calendar-privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Rokt Calendar

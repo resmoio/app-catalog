@@ -1,0 +1,43 @@
+id: tinybird
+name: tinybird.co
+description: Tinybird is a data analytics platform designed to process and analyze large amounts of data
+  in real-time. It offers a tool for developers and data teams to build data-focused applications at scale
+  by using SQL, with an emphasis on speed and performance. Tinybird is able to accommodate a high volume
+  of data by ingesting millions of rows per second. It serves analytical queries swiftly and simultaneously
+  over any quantity of data, and it does so through SQL-based API endpoints, promoting efficient data
+  operations.
+category: data-analytics
+labels:
+- big data pipeline
+- analytics
+- warehouse
+company:
+  organization: tinybird.co
+  headquarters: US
+  founded: 2019
+  homepage: https://www.tinybird.co/
+  privacyPolicy: https://www.tinybird.co/privacy
+  termsOfService: https://www.tinybird.co/terms-and-conditions
+  securityPage: https://trust.tinybird.co/
+  linkedin: https://www.linkedin.com/company/tinybird-co/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tinybird.co
+oauthDisplayNames:
+- tinybird.co

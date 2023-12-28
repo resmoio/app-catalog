@@ -1,0 +1,43 @@
+id: toggl
+name: Toggl
+description: Toggl is an application designed to help individuals and collaborative teams track their
+  work hours efficiently across different projects. It's particularly useful for freelancers, graphic
+  designers, and consultants. The application features a user-friendly interface and offers comprehensive
+  reporting tools. Users can gain insights into their productivity and manage their time more effectively.
+  It supports remote-working environments, making it an ideal choice for those who work from different
+  locations.
+category: productivity
+labels:
+- time tracking
+- reporting
+- productivity
+company:
+  organization: Toggl
+  headquarters: EE
+  founded: 2006
+  homepage: https://toggl.com/
+  privacyPolicy: https://toggl.com/track/legal/privacy/
+  termsOfService: https://toggl.com/track/legal/terms/
+  statusPage: https://togglstatus.com/
+  linkedin: https://www.linkedin.com/company/toggl/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- toggl.com
+oauthDisplayNames:
+- Toggl

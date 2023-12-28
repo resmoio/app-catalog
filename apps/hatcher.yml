@@ -1,0 +1,35 @@
+id: hatcher
+name: Hatcher
+description: Hatcher is a software application that uses advanced techniques such as deep learning and
+  process automation to help investors set up and manage their investment portfolios. This app, known
+  for its award-winning Funds As A Service Technology platform, facilitates increased scalability of portfolios.
+  Moreover, it enables its users to enjoy index-style returns. The use of artificial intelligence, machine
+  learning, and automated processes ensures efficient portfolio creation and growth.
+category: others
+labels:
+- investing
+- portfolio management
+- automation
+company:
+  organization: ''
+  homepage: https://www.hatcher.com
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Hatcher

@@ -1,0 +1,40 @@
+id: clutch
+name: Clutch
+description: Clutch is a platform designed to aid businesses in making informed decisions. It supplies
+  reviews, ratings, and insights about various service providers, based on authentic client feedback and
+  performance metrics. The platform is particularly useful for businesses searching for IT, marketing,
+  and other professional services. By providing detailed information, Clutch assists businesses in choosing
+  suitable service providers and establishing productive partnerships.
+category: business-intelligence
+labels:
+- reviews
+- ratings
+- services
+company:
+  organization: Clutch
+  headquarters: US
+  founded: 2013
+  privacyPolicy: https://clutch.co/privacy
+  termsOfService: https://clutch.co/terms
+  linkedin: https://www.linkedin.com/company/clutch-co/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- clutch.co
+oauthDisplayNames:
+- Clutch

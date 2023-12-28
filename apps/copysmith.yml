@@ -1,0 +1,43 @@
+id: copysmith
+name: Copysmith
+description: Copysmith AI is a content generation platform that employs artificial intelligence to quickly
+  produce high-quality written content. This tool is suitable for businesses and content creators who
+  need help with writing a variety of material such as marketing text, product descriptions, blog entries,
+  social media posts and more. Copysmith AI also offers specific solutions for different team sizes, including
+  Describely for e-commerce, Frase for agencies, and Rytr for freelancers. It promotes both productivity
+  and creativity by allowing users to easily generate tailored and engaging content.
+category: content-management
+labels:
+- content creation
+- copywriting
+- ai
+company:
+  organization: Copysmith
+  headquarters: US
+  founded: 2020
+  homepage: https://copysmith.ai
+  privacyPolicy: https://copysmith.ai/privacy/
+  termsOfService: https://copysmith.ai/terms-of-service/
+  statusPage: https://status.copysmith.ai/
+  linkedin: https://www.linkedin.com/company/copysmith/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- copysmith.ai
+oauthDisplayNames:
+- Copysmith

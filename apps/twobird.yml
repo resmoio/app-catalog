@@ -1,0 +1,38 @@
+id: twobird
+name: Twobird
+description: Twobird is a multifunctional tool designed to streamline various tasks within a single inbox.
+  It facilitates simple functions, such as writing emails and creating notes. Simultaneously, it allows
+  users to schedule reminders and assign tasks. This integration of different everyday tools makes Twobird
+  a go-to solution for managing tasks without the need for multiple platforms. Thus, Twobird stands as
+  a one-stop solution for individuals seeking to unify their to-do lists with their email inbox.
+category: mail
+labels:
+- email
+- notes
+- productivity
+company:
+  organization: Ginger Labs
+  homepage: https://www.twobird.com/
+  privacyPolicy: https://www.twobird.com/privacy
+  termsOfService: https://www.twobird.com/privacy
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- twobird.com
+oauthDisplayNames:
+- Twobird

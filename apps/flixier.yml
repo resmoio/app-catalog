@@ -1,0 +1,35 @@
+id: flixier
+name: Flixier
+description: Flixier is an intuitive online tool that enables users to create well-designed videos. It
+  allows the incorporation of elements such as video clips, text, transitions, and sound with no account
+  creation necessary. Notable for its speed, the app can finalize and render videos in just a minute.
+  This service does not involve any complex processes or unfamiliar terms, making it user-friendly for
+  anyone interested in video editing.
+category: content-sharing
+labels:
+- online video editor
+- media maker
+- templates
+company:
+  organization: ''
+  homepage: https://flixier.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Flixier

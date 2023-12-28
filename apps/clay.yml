@@ -1,0 +1,40 @@
+id: clay
+name: Clay
+description: Clay is a simplified digital rolodex, specifically designed for iPhone, Mac, and web use.
+  This tool organizes and stores contacts from a user's personalized and professional networks. Additionally,
+  Clay encourages the user to engage more meaningfully with these contacts. This app takes the privacy
+  of its users seriously, ensuring data protection. It automates the process of contact management, making
+  it an uncomplicated and user-friendly product.
+category: education
+labels:
+- contacts
+- crm
+- productivity
+company:
+  organization: Clay
+  headquarters: US
+  founded: 2019
+  homepage: https://clay.earth/
+  privacyPolicy: https://library.clay.earth/security-and-privacy
+  linkedin: https://www.linkedin.com/company/clayhq
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- clay.earth
+oauthDisplayNames:
+- Clay

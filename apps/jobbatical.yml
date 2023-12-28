@@ -1,0 +1,41 @@
+id: jobbatical
+name: Jobbatical
+description: Jobbatical is a platform that helps companies worldwide to find skilled professionals, mainly
+  in the tech and business fields. The app focuses on areas where high-demand skills are hard to find
+  locally and provides international job placements. It also simplifies employee relocation and the visa
+  process through automation. This feature facilitates quicker and cost-effective overseas employee transfers
+  by minimizing manual data entry and providing a smooth experience for both employers and employees.
+category: hr
+labels:
+- global employment
+- remote jobs
+- relocation
+company:
+  organization: Jobbatical
+  headquarters: FI
+  founded: 2004
+  homepage: https://www.jobbatical.com/
+  privacyPolicy: https://www.jobbatical.com/privacy-notice
+  termsOfService: https://www.jobbatical.com/terms-conditions
+  securityPage: https://www.jobbatical.com/information-and-security
+  linkedin: https://www.linkedin.com/company/jobbatical-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Jobbatical

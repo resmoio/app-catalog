@@ -1,0 +1,40 @@
+id: kapwing
+name: Kapwing
+description: Kapwing is an online video editor that allows users to create and modify videos, GIFs, and
+  images efficiently and without difficulty. It provides a vast array of tools and templates, making it
+  ideal for anyone looking to generate appealing visual content. It is highly collaborative, enabling
+  millions of creators worldwide to develop and expand their content on a variety of channels. Its user-friendly
+  interface is appreciated for its ease of use.
+category: design
+labels:
+- video creation
+- editing
+- memes
+company:
+  organization: Kapwing Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://www.kapwing.com/
+  privacyPolicy: https://www.kapwing.com/policies/privacy
+  termsOfService: https://www.kapwing.com/policies/terms-of-service
+  linkedin: https://www.linkedin.com/company/kapwing/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Kapwing

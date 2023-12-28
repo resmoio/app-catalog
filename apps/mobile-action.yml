@@ -1,0 +1,43 @@
+id: mobile-action
+name: Mobile Action
+description: Mobile Action is a tool designed for app developers and marketers to gather information and
+  analysis on their applications. It enables users to monitor app performance, enhance keyword optimization,
+  and keep an eye on competitors' activities within app stores. The platform focuses on delivering relevant
+  data aimed at supporting users in making informed decisions to increase their app visibility and number
+  of downloads. It is a widely-utilized resource across the global app development and marketing community,
+  contributing to their strategies in a competitive marketplace.
+category: marketing
+labels:
+- asO analytics
+- app store optimization
+- marketing
+company:
+  organization: Mobile Action Inc.
+  headquarters: US
+  founded: 2013
+  homepage: https://www.mobileaction.co/
+  privacyPolicy: https://www.mobileaction.co/privacy-policy/
+  termsOfService: https://www.mobileaction.co/terms-of-service/
+  statusPage: https://status.mobileaction.co/
+  securityPage: https://www.mobileaction.co/security/
+  linkedin: https://www.linkedin.com/company/mobile-action/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Mobile Action

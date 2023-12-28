@@ -1,0 +1,43 @@
+id: invideo
+name: InVideo
+description: InVideo is a straightforward video creation tool that uses artificial intelligence to automate
+  the video creation process. It offers various templates suitable for different scenarios like Instagram
+  reels, product promotions, wedding invites, and more. It is specially designed to be user-friendly,
+  making the process of creating and editing videos straightforward and enjoyable. Ideal for content creators,
+  YouTubers, and marketers, InVideo provides a simple method for transforming initial concepts into completed
+  videos. Overall, it's a unique video tool that leverages AI to make video creation more accessible to
+  all.
+category: design
+labels:
+- video maker
+- editing
+- templates
+company:
+  organization: InVideo
+  headquarters: SG
+  founded: 2017
+  homepage: https://invideo.io
+  privacyPolicy: https://invideo.io/privacy-policy/
+  termsOfService: https://invideo.io/terms-and-conditions/
+  linkedin: https://www.linkedin.com/company/invideoio/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- invideo.io
+oauthDisplayNames:
+- InVideo

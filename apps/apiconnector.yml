@@ -1,0 +1,38 @@
+id: apiconnector
+name: API Connector
+description: API Connector is a practical application that helps users gather data from numerous APIs
+  directly to Google Sheets. It eliminates the need for significant coding and manual data entry, making
+  data collection, review, and reporting more accessible and efficient.
+category: development-tools
+labels:
+- api
+- integration
+- google sheets
+company:
+  organization: Mixed Analytics
+  headquarters: US
+  founded: 2012
+  homepage: https://mixedanalytics.com/
+  privacyPolicy: https://mixedanalytics.com/privacy-policy/
+  termsOfService: https://mixedanalytics.com/terms-and-conditions/
+  linkedin: https://www.linkedin.com/company/mixed-analytics/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- API Connector

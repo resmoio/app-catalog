@@ -1,0 +1,42 @@
+id: angellist
+name: AngelList
+description: AngelList is a user-friendly platform that supports the growth of startups, venture firms,
+  investors, and fund managers. By creating a space where these entities can connect, it stimulates innovation
+  and fosters development in the entrepreneurial community. AngelList accomplishes this by uniting capital,
+  creativity, and hard work. It functions as a key resource for finding and supporting new, promising
+  startups. Ultimately, AngelList is known for facilitating the collaboration of multiple major facets
+  of the entrepreneurial ecosystem.
+category: others
+labels:
+- startups
+- fundraising
+- investors
+company:
+  organization: AL Advisors Management Inc.
+  headquarters: US
+  founded: 2010
+  homepage: https://angellist.com
+  privacyPolicy: https://venture.angellist.com/privacy
+  termsOfService: https://venture.angellist.com/terms
+  securityPage: https://stack.angellist.com/security
+  linkedin: https://www.linkedin.com/company/angellist/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- AngelList

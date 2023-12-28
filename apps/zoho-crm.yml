@@ -1,0 +1,41 @@
+id: zoho-crm
+name: Zoho CRM
+description: Zoho CRM is a software that aids companies in managing their customer relationships in an
+  effective manner. Its set of tools assist in organizing sales processes, fostering customer engagement,
+  and promoting business development. It deals with a wide range of tasks such as keeping track of potential
+  customers, automating sales, and analyzing data. Zoho CRM offers a comprehensive perspective of customer
+  interactions which facilitates businesses in making calculated decisions and crafting personalized
+  experiences. This customer relationship management solution, a part of Zoho's cloud software
+  suite, is utilized by over 100 million users spanning businesses of all sizes.
+category: crm
+labels: []
+company:
+  organization: Zoho
+  headquarters: IN
+  founded: 1996
+  homepage: https://www.zoho.com/
+  privacyPolicy: https://www.zoho.com/privacy.html
+  termsOfService: https://www.zoho.com/en-in/terms.html
+  securityPage: https://www.zoho.com/security.html?ireft=nhome&src=home1-footer
+  linkedin: https://www.linkedin.com/company/zohocorp/?ireft=nhome&src=home1-footer
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- crm.zoho.com
+oauthDisplayNames:
+- Zoho CRM

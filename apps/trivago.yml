@@ -1,0 +1,36 @@
+id: trivago
+name: Trivago
+description: Trivago is a web-based platform for searching hotels. It takes prices from different hotels
+  across many booking sites globally and offers comparisons, enabling users to find the best deals. This
+  tool aids in time-saving and cost-cutting by providing a streamlined process for locating the best accommodation
+  option. Users can make informed decisions by accessing millions of reviews and photographs on Trivago's
+  platform.
+category: transportation-and-travel
+labels: []
+company:
+  organization: IAC
+  headquarters: US
+  founded: 1995
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- trivago.co.uk
+- trivago.com
+oauthDisplayNames:
+- trivago

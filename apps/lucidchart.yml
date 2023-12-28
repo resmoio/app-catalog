@@ -1,0 +1,42 @@
+id: lucidchart
+name: Lucidchart
+description: Lucidchart is a cloud-based diagramming tool that aids team collaboration. The app allows
+  users to generate various kinds of visual content, such as flowcharts, mockups, customer journey maps,
+  and UML diagrams, in real time. By creating a common visual language, it helps teams simplify complex
+  information and align their ideas. The cross-platform capability of Lucidchart also ensures broad accessibility
+  and smooth teamwork across various devices and operating systems.
+category: productivity
+labels:
+- diagrams
+- flowcharts
+- visualization
+company:
+  organization: Lucid Software
+  headquarters: US
+  founded: 2010
+  homepage: https://www.lucidchart.com/pages
+  privacyPolicy: https://lucid.co/privacy
+  termsOfService: https://lucidchart.com/pages/tos
+  securityPage: https://lucid.co/security
+  linkedin: https://www.linkedin.com/products/lucidsoftware-lucidchart/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- lucidchart.com
+oauthDisplayNames:
+- Lucidchart

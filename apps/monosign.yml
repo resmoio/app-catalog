@@ -1,0 +1,37 @@
+id: monosign
+name: MonoSign
+description: MonoSign is a comprehensive platform that provides identity and access management. It integrates
+  a range of features, including single sign-on, multi-factor authentication, and automated provisioning,
+  all within a single platform. Designed for ease of use, MonoSign serves as the choice for over 30 global
+  enterprises. By offering a one-stop solution for managing digital identities, it simplifies complexities
+  often involved in coordinating multiple security measures.
+category: identity-and-access
+labels:
+- iam
+- sso
+- mfa
+company:
+  organization: ''
+  homepage: https://monosign.com
+  privacyPolicy: https://monosign.com/en/privacy
+  termsOfService: https://monosign.com/en/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- MonoSign

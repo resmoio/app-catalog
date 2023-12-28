@@ -1,0 +1,34 @@
+id: stackoverflow
+name: Stack Overflow
+description: Stack Overflow is an online question-and-answer community primarily for individuals involved
+  in programming and software development. The platform allows users to ask and answer questions about
+  coding and a range of technical subjects. The community provides a space for problem-solving, learning,
+  and knowledge sharing among its members. This makes it an important tool for anyone in the programming
+  field who is seeking to overcome hurdles and improve their knowledge.
+category: development-tools
+labels: []
+company:
+  organization: Prosus
+  headquarters: NL
+  founded: 2019
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- stackoverflow.com
+oauthDisplayNames: []

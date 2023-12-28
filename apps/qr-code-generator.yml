@@ -1,0 +1,40 @@
+id: qr-code-generator
+name: QR Code Generator PRO
+description: The app "QR Code Generator PRO" allows users to create QR codes that are not only customizable
+  in terms of design, but also trackable. This gives users the ability to understand the performance of
+  their campaigns. More specifically, it lets them design QR codes for different purposes like redirecting
+  to URLs or sharing contact information through vCards. The design can incorporate their company's logo,
+  preferred colors, or frames. Once designed, these codes can be downloaded in high print quality. The
+  service is free to use.
+category: marketing
+labels:
+- qr codes
+- tracking
+- analytics
+company:
+  organization: Bitly
+  headquarters: DE
+  founded: 2009
+  homepage: https://www.qr-code-generator.com
+  privacyPolicy: https://www.qr-code-generator.com/company/privacy-policy/
+  termsOfService: https://www.qr-code-generator.com/company/terms/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- QR Code Generator PRO

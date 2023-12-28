@@ -1,0 +1,36 @@
+id: text2sql-ai
+name: Text2SQL.AI
+description: Text2SQL.AI is an application that uses artificial intelligence (AI) to convert natural language
+  into Structured Query Language (SQL) quickly and easily. Users simply input their questions or prompts
+  in plain English, and the app generates corresponding SQL queries, Excel formulas, or regex expressions.
+  Designed for efficiency and accuracy, it offers a practical tool for people who want to organize and
+  analyze data without needing advanced technical knowledge.
+category: generative-ai
+labels:
+- sql generator
+- queries
+- analytics
+company:
+  organization: ''
+  homepage: https://www.text2sql.ai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- text2sql.ai
+oauthDisplayNames:
+- Text2SQL.AI

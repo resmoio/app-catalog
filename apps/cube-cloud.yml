@@ -1,0 +1,39 @@
+id: cube-cloud
+name: Cube Cloud
+description: Cube Cloud is a software application designed by the creators of Cube for managing deployments.
+  This application prioritizes security and uptime, ensuring a safer and more consistent online environment
+  for its users. It facilitates the process of releasing software updates or changes to a network, offering
+  reliable operation and management without the need for excessive technical expertise.
+category: cloud
+labels:
+- database hosting
+- postgresql
+- mysql
+company:
+  organization: ''
+  homepage: https://cube.dev/
+  privacyPolicy: https://cube.dev/privacy-policy/
+  termsOfService: https://cube.dev/terms-of-use/
+  securityPage: https://trust.cube.dev/
+  linkedin: https://www.linkedin.com/company/cube-dev/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cubecloud.dev
+oauthDisplayNames:
+- Cube Cloud

@@ -1,0 +1,39 @@
+id: codat
+name: Codat
+description: Codat is a platform designed to combine financial and operational data from different sources
+  for businesses. It simplifies data sharing, automates certain tasks, and supports informed decision-making
+  by standardizing varied data. By focusing on user needs, Codat ensures that data integration is smooth
+  and secure, which allows businesses to prioritize growth and innovation. Codat's data connection tools
+  called APIs (Application Programming Interfaces) allow financial institutions to have access to their
+  customers' various financial systems, improving connectivity between banks, fintech, and their clients.
+category: data-analytics
+labels: []
+company:
+  organization: Codat Limited
+  headquarters: GB
+  founded: 2017
+  homepage: https://www.codat.io/
+  privacyPolicy: https://www.codat.io/privacy-policy/
+  termsOfService: https://www.codat.io/startupterms/
+  securityPage: https://www.codat.io/security/
+  linkedin: https://www.linkedin.com/company/codat-limited/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Codat

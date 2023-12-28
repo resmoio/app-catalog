@@ -1,0 +1,44 @@
+id: virtru
+name: Virtru
+description: Virtru is a data privacy platform that uses end-to-end encryption and grants access controls
+  for emails and files. It assists both individuals and organizations in safeguarding their sensitive
+  data, aiding in maintaining privacy and adhering to digital communication regulations. Primarily, Virtru
+  operates by encapsulating and securing emails and files, even as they are being shared. This platform
+  is equally functional in cloud-based systems, software services, customer relationship management platforms,
+  and various internal and external environments. Its core purpose is to ensure data protection specifically
+  across email and file sharing systems.
+category: security
+labels:
+- email encryption
+- data protection
+- privacy
+company:
+  organization: Virtru
+  headquarters: US
+  founded: 2012
+  homepage: https://www.virtru.com/
+  privacyPolicy: https://www.virtru.com/privacy-policy/
+  termsOfService: https://www.virtru.com/terms-of-service/
+  securityPage: https://trust.virtru.com/
+  linkedin: https://www.linkedin.com/company/virtru/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: false
+appDomains:
+- virtru.com
+oauthDisplayNames:
+- Virtru

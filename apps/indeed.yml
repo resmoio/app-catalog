@@ -1,0 +1,41 @@
+id: indeed
+name: Indeed
+description: Indeed is an international platform designed for job searching where users can hunt for employment
+  opportunities, post their resumes, and look up various companies. It collects job advertisements from
+  a wide array of sources, including job boards, business career websites, and newspaper classifieds.
+  This extensive range of sources makes Indeed one of the most thorough job search engines out there.
+category: hr
+labels:
+- job search
+- hiring
+- recruiting
+company:
+  organization: Indeed
+  headquarters: US
+  founded: 2004
+  homepage: https://www.indeed.com/
+  privacyPolicy: https://hrtechprivacy.com/brands/indeed#privacypolicy
+  termsOfService: https://www.indeed.com/legal?hl=en&from=gnav-homepage
+  securityPage: https://www.indeed.com/security
+  linkedin: https://www.linkedin.com/company/indeed-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- secure.indeed.com
+oauthDisplayNames:
+- Indeed

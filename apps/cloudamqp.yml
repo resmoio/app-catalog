@@ -1,0 +1,42 @@
+id: cloudamqp
+name: CloudAMQP
+description: CloudAMQP is a service that offers managed RabbitMQ servers located in the cloud. Its primary
+  function is to separate user applications by using highly efficient and accessible message queuing systems.
+  By choosing CloudAMQP, users reap the benefits of maintained RabbitMQ servers without concerning themselves
+  with the management.
+category: cloud
+labels:
+- messaging
+- queues
+- rabbitmq
+company:
+  organization: CloudAMQP
+  headquarters: SE
+  founded: 2012
+  homepage: https://www.cloudamqp.com/
+  privacyPolicy: https://www.cloudamqp.com/legal/privacy_policy.html
+  termsOfService: https://www.cloudamqp.com/legal/terms_of_service.html
+  securityPage: https://www.cloudamqp.com/legal/security_and_compliance.html
+  statusPage: https://status.cloudamqp.com/
+  linkedin: https://www.linkedin.com/showcase/cloudamqp
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- cloudamqp.com
+oauthDisplayNames:
+- CloudAMQP

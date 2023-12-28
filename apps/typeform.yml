@@ -1,0 +1,45 @@
+id: typeform
+name: Typeform
+description: Typeform is a web-based service that allows users to create forms, surveys, quizzes, and
+  other interactive elements without the need for coding. It focuses on a user-friendly interface, enabling
+  the design of conversational and tailored interactions, which can lead to higher response rates and
+  better data collection. The platform provides templates for various purposes including research, feedback,
+  and lead generation, facilitating companies in connecting with their audience and fostering growth.
+  It operates on a no-code principle, making it accessible for users to build and implement engaging tools
+  for their needs.
+category: marketing
+labels:
+- online forms
+- surveys
+- quizzes
+company:
+  organization: Typeform
+  headquarters: ES
+  founded: 2012
+  homepage: https://www.typeform.com/
+  privacyPolicy: https://admin.typeform.com/to/dwk6gt?typeform
+  termsOfService: https://admin.typeform.com/to/dwk6gt?typeform
+  statusPage: https://status.typeform.com/
+  securityPage: https://www.typeform.com/help/a/security-privacy-standards-at-typeform-9350912237844/
+  linkedin: https://www.linkedin.com/company/typeform-/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- typeform.com
+oauthDisplayNames:
+- Typeform

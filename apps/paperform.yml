@@ -1,0 +1,32 @@
+id: paperform
+name: Paperform
+description: Paperform is a digital tool designed for creating interactive forms, surveys, quizzes, and
+  landing pages online. Users can easily modify forms with its simple click-and-drag feature, include
+  payment options, automate procedures, and customize the user interaction. It is suitable for anyone
+  from individual users to businesses and organizations looking to gather information, collect feedback,
+  or interact with their audiences.
+category: productivity
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- paperform.co
+oauthDisplayNames: []

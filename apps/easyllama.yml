@@ -1,0 +1,37 @@
+id: easyllama
+name: EasyLlama
+description: EasyLlama provides a platform for sexual harassment compliance training. It is compatible
+  with state laws and is accessible round-the-clock on both computers and smart devices. It focuses on
+  real-life scenarios and includes quizzes to ensure understanding. The platform also features high-quality
+  videos, making learning easier. Moreover, the program is designed to integrate with HR tools, offering
+  a streamlined experience. The entire setup process can be initiated and completed in just five minutes.
+category: others
+labels:
+- hr training
+- compliance
+- harassment
+company:
+  organization: ''
+  homepage: https://www.easyllama.com/
+  privacyPolicy: https://www.easyllama.com/privacy
+  termsOfService: https://www.easyllama.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- EasyLlama

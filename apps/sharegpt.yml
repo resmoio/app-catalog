@@ -1,0 +1,34 @@
+id: sharegpt
+name: ShareGPT
+description: ShareGPT is a Chrome extension designed to enable users to easily share their ChatGPT conversations.
+  With a single click, the tool facilitates the distribution of chat interactions to others. This feature
+  is handy for those looking to quickly pass on their dialogue sessions from ChatGPT.
+category: others
+labels: []
+company:
+  organization: ShareGPT
+  headquarters: GB
+  founded: 2022
+  homepage: https://sharegpt.com/
+  privacyPolicy: https://sharegpt.com/privacy
+  termsOfService: https://sharegpt.com/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ShareGPT

@@ -1,0 +1,41 @@
+id: growth-book
+name: Growth Book
+description: GrowthBook is a platform that supports feature flagging and A/B testing, aspects critical
+  in the efficient release of code. Primarily, it lets businesses examine the effectiveness of their deployed
+  code through user-specific data. This open-source tool saves companies from building their own experimentation
+  platform from the start. Major corporations such as Uber, Pinterest, and Netflix commonly use similar
+  systems to GrowthBook. In essence, GrowthBook equips any business with a tailored and user-friendly
+  mechanism for feature flagging and A/B testing.
+category: development-tools
+labels:
+- feature flags
+- testing
+- experimentation
+company:
+  organization: GrowthBook Inc.
+  headquarters: US
+  homepage: https://www.growthbook.io
+  privacyPolicy: https://www.growthbook.io/privacy
+  termsOfService: https://www.growthbook.io/terms
+  securityPage: https://www.growthbook.io/security
+  linkedin: https://www.linkedin.com/company/growthbook/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Growth Book

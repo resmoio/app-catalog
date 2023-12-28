@@ -1,0 +1,42 @@
+id: workos
+name: WorkOS
+description: WorkOS is an application programming interface (API) solution. It enhances individual applications
+  by providing them with functionalities usually found in enterprise-level platforms. It offers pre-constructed
+  features and integrations that IT administrators find necessary. Users can easily adapt their applications
+  to meet the needs of their enterprise customers through WorkOS. This is accomplished through simple
+  coding steps which incorporate essential features into the app. It includes developer tools like single-sign-on,
+  passwordless authentication, directory synchronization, audit trail capabilities, and more.
+category: development-tools
+labels:
+- sso
+- authentication
+- authorization
+company:
+  organization: WorkOS Inc.
+  headquarters: US
+  founded: 2019
+  homepage: https://workos.com
+  privacyPolicy: https://workos.com/legal/privacy
+  termsOfService: https://workos.com/legal/terms-of-service
+  securityPage: https://workos.com/security
+  linkedin: https://www.linkedin.com/company/workos-inc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- WorkOS

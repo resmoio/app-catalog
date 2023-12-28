@@ -1,0 +1,43 @@
+id: smartsheet
+name: Smartsheet
+description: Smartsheet is a cloud-based tool that provides work management and collaboration utilities
+  to teams and organizations. It combines elements of spreadsheets with project management, file sharing,
+  and workflow automation functions, allowing businesses to manage their projects and tasks efficiently.
+  Its capabilities extend to planning, capturing, managing, automating, and reporting workflow on a large
+  scale, streamlining processes and improving overall performance outcomes. It's also beneficial for maintaining
+  visibility and connecting distributed teams on a single platform.
+category: project-management
+labels:
+- project management
+- collaboration
+- gantt charts
+company:
+  organization: Smartsheet
+  headquarters: US
+  founded: 2005
+  homepage: https://www.smartsheet.com/
+  privacyPolicy: https://www.smartsheet.com/legal/privacy
+  termsOfService: https://www.smartsheet.com/legal
+  statusPage: https://status.smartsheet.com/
+  securityPage: https://www.smartsheet.com/trust/security
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- smartsheet.com
+oauthDisplayNames:
+- Smartsheet

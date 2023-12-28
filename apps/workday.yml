@@ -1,0 +1,38 @@
+id: workday
+name: Workday
+description: Workday is a cloud-based application that serves as a comprehensive tool for managing human
+  resources and financial procedures. It enables organizations to oversee their staff, simplify HR protocols,
+  and ensure data-guided financial decisions. This platform accommodates functions such as employee payroll,
+  talent management, and financial planning, making it an optimal choice for businesses seeking to enhance
+  workforce operations and streamline their finances. A more in-depth understanding of app security and
+  data privacy can be obtained by referring to Workday's Natural Workspaces Innovation Service Description
+  and User Group on the Workday Community.
+category: hr
+labels: []
+company:
+  organization: Workday
+  headquarters: US
+  founded: 2005
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- workday.net
+appDomains:
+- workday.com
+oauthDisplayNames: []

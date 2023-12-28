@@ -1,0 +1,31 @@
+id: theorg
+name: The Org
+description: The Org is an application that offers users access to a comprehensive selection of public
+  organizational charts. With The Org, users can investigate and understand the structure of various organizations
+  across the globe. This platform has the largest collection of such charts available, making it ideal
+  for those who wish to study organizational structures in depth.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- theorg.com
+oauthDisplayNames: []

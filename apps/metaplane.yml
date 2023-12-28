@@ -1,0 +1,36 @@
+id: metaplane
+name: Metaplane
+description: Metaplane is a tool that allows businesses to analyze and understand customer behavior using
+  the data they've already collected. It processes existing data sets to offer insights into customer
+  preferences and trends, helping companies to make informed decisions based on their customers' activities
+  and needs.
+category: others
+labels:
+- data analytics
+- dashboards
+- sql
+company:
+  organization: ''
+  homepage: https://quantif.ai
+  privacyPolicy: https://quantif.ai/privacy
+  termsOfService: https://quantif.ai/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Metaplane

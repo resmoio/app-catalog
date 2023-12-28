@@ -1,0 +1,38 @@
+id: fuzzy-lookup
+name: Fuzzy
+description: Fuzzy is a software application that facilitates text similarity detection. It's effective
+  in areas such as searching for similar text or names within large datasets utilizing 'fuzzy' logic.
+  Less complex terms such as 'partial match' can be used to describe this process. The software integrates
+  well with Google Sheets and Excel, providing users with tutorials on how to conduct fuzzy lookups in
+  these platforms. With Fuzzy, you can compare text similarities on both Google Sheets and Excel, whether
+  you're using a Mac or other device types.
+category: others
+labels:
+- google sheets
+- excel lookup
+- match
+company:
+  organization: ''
+  homepage: https://fuzzylookup.com
+  privacyPolicy: https://fuzzylookup.com/privacypolicy/
+  termsOfService: https://fuzzylookup.com/termsandconditions/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Fuzzy

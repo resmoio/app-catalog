@@ -1,0 +1,37 @@
+id: vocal
+name: Vocal
+description: Vocal is a tool that enriches email communication with the addition of personal voice notes.
+  It permits users to append voice messages to their emails, which the recipients can listen to within
+  their inbox as MP3 files or link-accessible voice notes. It offers customization options and is compatible
+  with Gmail and Outlook, enabling users to enhance their emails with a more personal touch in a simple
+  and smooth manner.
+category: instant-personal-messaging
+labels:
+- audio community
+- podcast hosting
+- music
+company:
+  organization: Webbiger Ltd.
+  homepage: https://vocal.email
+  privacyPolicy: https://vocal.email/pp
+  termsOfService: https://vocal.email/tos
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Vocal

@@ -1,0 +1,43 @@
+id: docsend
+name: DocSend
+description: DocSend is a document sharing platform that prioritizes security and efficiency. This platform
+  enables its users to share critical business documents, establish data rooms, obtain electronic signatures,
+  and access real-time analytics for better understanding of engagement. It is predominantly used by startup
+  founders, investors, and business professionals. DocSend focuses on simplifying document management
+  and encouraging collaboration among teams. A key feature is its ability to alert users when documents
+  are opened and which pages are viewed by recipients. It also offers a user-friendly method for electronic
+  signatures.
+category: business-intelligence
+labels:
+- document sharing
+- analytics
+- sales
+company:
+  organization: Dropbox
+  headquarters: US
+  founded: 2007
+  homepage: https://www.docsend.com/
+  privacyPolicy: https://www.docsend.com/privacy-policy/
+  termsOfService: https://www.docsend.com/terms-of-service/
+  linkedin: https://www.linkedin.com/products/docsend/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- docsend.com
+oauthDisplayNames:
+- DocSend

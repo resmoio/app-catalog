@@ -1,0 +1,83 @@
+id: github
+name: GitHub
+description: GitHub is a web-based software development platform that facilitates effective collaboration
+  among developers. It offers tools for version control, enabling developers to manage, store, and monitor
+  changes to their coding projects. The platform's features support code review, project management, and
+  smooth integration with other utility tools. With GitHub, developers can effortlessly manage their Git
+  repositories, track bugs, and contribute to the open-source community. The platform aims to streamline
+  the entire software development process, from initial planning to the final product deployment. GitHub
+  is currently utilized by over 100 million developers worldwide.
+category: code-hosting
+labels:
+- version control
+- code hosting
+- collaboration
+company:
+  organization: Microsoft Corporation
+  headquarters: US
+  founded: 1975
+  homepage: https://github.com/
+  privacyPolicy: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+  termsOfService: https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
+  statusPage: https://www.githubstatus.com/
+  securityPage: https://github.com/security
+  linkedin: https://www.linkedin.com/company/github/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- github.com
+oauthDisplayNames: []
+appRelations:
+  byName:
+    resmo:
+    - resmo-app
+    gitbook:
+    - gitbook-com
+    sentry:
+    - sentry-io
+  byRegex:
+    actioner:
+    - api.actioner.com
+    snyk:
+    - api.snyk.io
+    allo:
+    - allo.io
+    datadog:
+    - app.datadoghq.com
+    gitkraken:
+    - app.gitkraken.com
+    terraformcloud:
+    - app.terraform.io
+    circleci:
+    - circleci.com
+    codeclimatevelocity:
+    - codeclimate.com
+    crowdin:
+    - crowdin.com
+    gitlab:
+    - gitlab.com
+    gitbook:
+    - hooks.gitbook.com
+    slack:
+    - hooks.slack.com
+    docker:
+    - hub.docker.com
+    aws:
+    - .*.amazonaws.com
+    atlassian:
+    - .*.atlassian.net

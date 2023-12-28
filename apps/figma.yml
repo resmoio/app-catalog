@@ -1,0 +1,43 @@
+id: figma
+name: Figma
+description: Figma is a web-based tool primarily used by designers for creating and sharing user interface
+  designs and interactive prototypes. It provides a platform where multiple team members can simultaneously
+  and collaboratively work on design projects in real-time. This tool helps streamline the design process
+  by encompassing design creation, testing, development, and feedback collection all in one place. Figma
+  is widely recognized for its ability to help teams create and roll out superior designs more efficiently.
+category: design
+labels:
+- design
+- prototyping
+- collaboration
+company:
+  organization: Figma
+  headquarters: US
+  founded: 2012
+  homepage: https://www.figma.com/
+  privacyPolicy: https://www.figma.com/privacy/
+  termsOfService: https://www.figma.com/tos/
+  statusPage: https://status.figma.com/
+  securityPage: https://www.figma.com/security/
+  linkedin: https://www.linkedin.com/company/figma/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- figma.com
+oauthDisplayNames:
+- Figma

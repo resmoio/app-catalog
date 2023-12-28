@@ -1,0 +1,42 @@
+id: clerk
+name: Clerk
+description: Clerk is an application focused on user management, designed to allow developers to prioritize
+  their main business goals. Clerk offers a wide-ranging user interface and uncomplicated APIs for prompt
+  authentication integration. It emphasizes the principle that one single well-designed component should
+  hold more value than a thousand APIs, promoting compatibility across any stack. Furthermore, the application
+  supports the sending and receiving of text messages within Microsoft Teams. It's specifically built
+  to work effectively with platforms like React, Next.js, Remix, and other modern web technologies.
+category: others
+labels:
+- authentication
+- security
+- nodejs
+company:
+  organization: Clerk
+  headquarters: US
+  founded: 2011
+  homepage: https://clerk.com/
+  privacyPolicy: https://clerk.com/privacy
+  termsOfService: https://clerk.com/terms
+  linkedin: https://www.linkedin.com/company/clerkinc/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dashboard.clerk.com
+oauthDisplayNames:
+- Clerk

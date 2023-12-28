@@ -1,0 +1,30 @@
+id: feedzio
+name: Feedz.io
+description: Feedz.io is a service designed for storing, replicating, and distributing private NuGet packages.
+  It supports an unlimited number of users and offers a clear pricing structure. The platform facilitates
+  the management of package hosting and distribution tasks.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://feedz.io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Feedz.io

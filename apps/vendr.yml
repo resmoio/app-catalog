@@ -1,0 +1,39 @@
+id: vendr
+name: Vendr
+description: Vendr is a platform designed to enhance the process of procuring and managing Software as
+  a Service (SaaS) applications. It utilizes automation and industry benchmarks to make purchasing operations
+  more efficient and cost-effective. Vendr also offers a large dataset of SaaS pricing and provides insights
+  for contract negotiations, making the process of buying or selling software much simpler and more confident.
+category: others
+labels:
+- procurement
+- sourcing
+- cost savings
+company:
+  organization: ''
+  homepage: https://www.vendr.com
+  privacyPolicy: https://www.vendr.com/legal/privacy-policy
+  termsOfService: https://www.vendr.com/legal/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- blissfully.com
+- vendr.com
+oauthDisplayNames:
+- Blissfully
+- Vendr

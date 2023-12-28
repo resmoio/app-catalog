@@ -1,0 +1,42 @@
+id: rememberthemilk
+name: Remember The Milk
+description: Remember The Milk is a task management application designed to help users keep track of their
+  responsibilities and deadlines. Users can create, manage, and organize their tasks from any location
+  across multiple devices thanks to its user-friendly interface. Primarily designed for Android devices,
+  this application incorporates a variety of features that streamline the management of tasks and time.
+category: productivity
+labels:
+- to-do list
+- tasks
+- productivity
+company:
+  organization: Remember The Milk
+  headquarters: US
+  founded: 2004
+  homepage: https://www.rememberthemilk.com/
+  privacyPolicy: https://www.rememberthemilk.com/help/privacy.rtm
+  termsOfService: https://www.rememberthemilk.com/help/terms.rtm
+  statusPage: https://status.rememberthemilk.com/
+  securityPage: https://www.rememberthemilk.com/help/security.rtm
+  linkedin: https://www.linkedin.com/company/rememberthemilk/about/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- rememberthemilk.com
+oauthDisplayNames:
+- Remember The Milk

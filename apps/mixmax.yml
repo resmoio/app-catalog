@@ -1,0 +1,45 @@
+id: mixmax
+name: Mixmax
+description: Mixmax is a platform designed to boost email productivity and automation. It integrates smoothly
+  with Gmail and offers features like improved email tracking, automated tasks, scheduled emailing, and
+  customer relationship management tools. The aim of Mixmax is to enhance workflow, make professional
+  communication more efficient, and raise email engagement. It is particularly useful for sales and customer
+  service teams, helping them in every stage of customer engagement to swiftly increase revenue. The platform
+  also enables users to effectively manage customer outreach and workflows, assisting them in attracting
+  more customers and finalizing more deals.
+category: sales
+labels:
+- email productivity
+- scheduling
+- tracking
+company:
+  organization: Mixmax
+  headquarters: US
+  founded: 2014
+  homepage: https://www.mixmax.com/
+  privacyPolicy: https://www.mixmax.com/legal/privacy-policy-archive
+  termsOfService: https://www.mixmax.com/legal/terms-of-service
+  statusPage: https://status.mixmax.com/
+  securityPage: https://www.mixmax.com/legal/security
+  linkedin: https://www.linkedin.com/company/mixmax-inc-/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- mixmax.com
+oauthDisplayNames:
+- Mixmax

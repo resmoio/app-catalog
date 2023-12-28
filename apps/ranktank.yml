@@ -1,0 +1,33 @@
+id: ranktank
+name: RankTank
+description: RankTank enables users to check the placement of their domain's keywords in search engine
+  results pages (SERPs) in real-time. It accomplishes this by syncing with any Google spreadsheet, removing
+  the need for users to manually track keyword rankings. Therefore, RankTank provides a simple and effective
+  way to monitor your domain's keyword performance.
+category: web-analytics
+labels: []
+company:
+  organization: ''
+  homepage: https://ranktank.net/
+  privacyPolicy: https://docs.ranktank.net/legal/privacy_policy
+  termsOfService: https://docs.ranktank.net/legal/privacy_policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- RankTank

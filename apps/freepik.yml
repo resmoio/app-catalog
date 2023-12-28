@@ -1,0 +1,42 @@
+id: freepik
+name: Freepik
+description: Freepik is an online platform that provides millions of free graphic resources, ranging from
+  vectors and videos to photos and Photoshop documents (PSDs). It includes a wide variety of content such
+  as vector art, logos, posters, and photographs which can be useful for creative projects. Users can
+  easily search and download the resources they require. It's worth noting, though, that to make the most
+  from this platform, knowledge in manipulating these graphic resources (like vectors and PSDs) may be
+  helpful.
+category: design
+labels:
+- graphic resources
+- images
+- vectors
+company:
+  organization: EQT AB
+  headquarters: SE
+  founded: 1994
+  homepage: https://www.freepik.com/
+  privacyPolicy: https://www.freepikcompany.com/privacy
+  termsOfService: https://www.freepikcompany.com/legal
+  linkedin: https://www.linkedin.com/company/freepik-corp/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- freepik.com
+oauthDisplayNames:
+- Freepik

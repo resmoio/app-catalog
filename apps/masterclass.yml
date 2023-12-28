@@ -1,0 +1,40 @@
+id: masterclass
+name: MasterClass
+description: MasterClass is an online learning platform featuring courses in a range of subjects including
+  cooking, arts, science, and entrepreneurship. These classes are conducted by well-known professionals
+  in their respective fields. The platform delivers high-quality video content that allows users to learn
+  various skills and knowledge directly from expert instructors.
+category: education
+labels:
+- online learning
+- celebrities
+- education
+company:
+  organization: MasterClass
+  headquarters: US
+  founded: 2015
+  homepage: https://www.masterclass.com/
+  privacyPolicy: https://privacy.masterclass.com/policies
+  termsOfService: https://www.masterclass.com/terms
+  securityPage: https://learn.masterclass.com/security
+  linkedin: https://www.linkedin.com/company/masterclassinc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- MasterClass

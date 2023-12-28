@@ -1,0 +1,38 @@
+id: bigmlcom
+name: BigML.com
+description: BigML.com is a platform that simplifies the process of implementing Machine
+  Learning. Its main purpose is to make Machine Learning accessible to everyone, regardless of their technical
+  expertise. It serves as a useful tool for businesses who wish to fully utilize Machine Learning, offering
+  a comprehensive platform for its application. The platform aims to transform how businesses operate,
+  ensuring users can effectively implement this technology to achieve successful results.
+category: data-analytics
+labels:
+- machine learning
+- ai
+- cloud
+company:
+  organization: ''
+  homepage: https://bigml.com
+  privacyPolicy: https://bigml.com/privacy
+  termsOfService: https://bigml.com/tos/
+  linkedin: https://www.linkedin.com/company/bigml-inc
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- BigML.com

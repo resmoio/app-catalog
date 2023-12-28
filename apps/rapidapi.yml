@@ -1,0 +1,38 @@
+id: rapidapi
+name: RapidAPI
+description: RapidAPI is a platform designed to help developers quickly and efficiently connect with a
+  multitude of APIs. It provides an organized marketplace for developers to locate, test, and link to
+  APIs, thereby simplifying the task of incorporating outside functions into their software. By bringing
+  an array of APIs into one centralized location, RapidAPI aims to streamline the complex process of software
+  and service integration.
+category: development-tools
+labels: []
+company:
+  organization: RapidAPI
+  headquarters: US
+  founded: 2015
+  homepage: https://rapidapi.com/
+  privacyPolicy: https://rapidapi.com/privacy/
+  termsOfService: https://rapidapi.com/terms/
+  securityPage: https://rapidapi.com/enterprise/security/
+  linkedin: https://www.linkedin.com/company/rapidapi/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- RapidAPI

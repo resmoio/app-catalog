@@ -1,0 +1,37 @@
+id: orchard
+name: Orchard
+description: Orchard is an artificial intelligence assistant that is aware of the context. It can provide
+  precise answers and insights by integrating web search results, files, and documents into its chat interface.
+  Therefore, users can get useful information and clarity from Orchard without having to navigate through
+  different storage and search locations. The goal is to streamline the user's search process and enhance
+  their productivity.
+category: others
+labels:
+- ai assistant
+- search
+- productivity
+company:
+  organization: ''
+  homepage: https://orchard.ink
+  privacyPolicy: https://orchard.ink/privacy_policy.html
+  termsOfService: https://orchard.ink/privacy_policy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Orchard

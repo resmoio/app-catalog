@@ -1,0 +1,39 @@
+id: trustifi
+name: Trustifi
+description: Trustifi is a software application that revolves around email security. It specializes in
+  encrypting emails to protect sensitive data and mitigate cyber threats. The program not only ensures
+  secure email transmission but also includes functionalities like providing tangible proof for sent emails,
+  defending against advanced cyber threats, and tracking email activity.
+category: security
+labels:
+- email security
+- encryption
+- compliance
+company:
+  organization: Trustifi
+  headquarters: US
+  founded: 2005
+  homepage: https://trustifi.com/
+  privacyPolicy: https://trustifi.com/privacy-policy/
+  termsOfService: https://trustifi.com/terms-and-conditions/
+  linkedin: https://www.linkedin.com/company/trustifi-corporation/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Trustifi

@@ -1,0 +1,36 @@
+id: encore
+name: Encore
+description: Encore is a tool that simplifies backend development by automating infrastructure operations.
+  It offers a smooth integration from the user's local system to their cloud. With Encore, developers
+  can enjoy a more streamlined and efficient workflow when working on backend development tasks. It aims
+  to reduce manual work and potentially improve productivity by handling infrastructure-related aspects.
+category: others
+labels:
+- infrastructure
+- devops
+- automation
+company:
+  organization: ''
+  homepage: https://encore.dev
+  privacyPolicy: https://encore.dev/legacy/privacy
+  termsOfService: https://encore.dev/legacy/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Encore

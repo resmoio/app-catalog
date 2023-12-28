@@ -1,0 +1,35 @@
+id: stadia
+name: Stadia
+description: The Stadia application, once a platform for online gaming, is no longer in service. Unfortunately,
+  individuals will now be unable to access or use its features as it has been discontinued. The creators
+  express their gratitude to those who utilized the app for gaming in the past.
+category: others
+labels:
+- game streaming
+- google
+- cloud
+company:
+  organization: ''
+  homepage: https://stadia.google.com
+  privacyPolicy: https://stadia.google.com/privacy
+  termsOfService: https://stadia.google.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Stadia

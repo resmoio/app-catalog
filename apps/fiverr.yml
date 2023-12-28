@@ -1,0 +1,42 @@
+id: fiverr
+name: Fiverr
+description: Fiverr is an internet-based platform where businesses can hire freelancers offering a variety
+  of digital services. These services span several categories, including, but not limited to, writing,
+  graphic design, programming, and marketing. The platform operates by allowing people to buy and sell
+  these services, with prices beginning at $5. Fiverr is designed to make it easy for users to find professional
+  freelance talent globally, browse through available services, and complete transactions smoothly.
+category: business-intelligence
+labels:
+- freelancers
+- services
+- marketplace
+company:
+  organization: Fiverr
+  headquarters: IL
+  founded: 2010
+  homepage: https://www.fiverr.com/
+  privacyPolicy: https://www.fiverr.com/privacy-policy?source=footer
+  termsOfService: https://www.fiverr.com/terms_of_service?source=footer
+  securityPage: https://www.fiverr.com/trust_safety
+  linkedin: https://www.linkedin.com/company/fiverr-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- fiverr.com
+oauthDisplayNames:
+- Fiverr

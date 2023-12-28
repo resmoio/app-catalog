@@ -1,0 +1,37 @@
+id: lex
+name: Lex
+description: Lex is a software application designed to assist users in improving their writing skills.
+  It provides features that guide users in creating well-structured, clear, and concise documents. The
+  application is equally beneficial for both beginners learning basic fundamentals of writing and experienced
+  writers seeking to polish their craft. It focuses on fostering creativity and enhancing the user's ability
+  to communicate effectively through written words.
+category: others
+labels:
+- writing assistant
+- productivity
+- ai
+company:
+  organization: ''
+  homepage: https://lex.page
+  privacyPolicy: https://lex.page/legal
+  termsOfService: https://lex.page/legal
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Lex

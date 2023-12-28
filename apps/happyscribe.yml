@@ -1,0 +1,42 @@
+id: happyscribe
+name: Happy Scribe
+description: Happy Scribe is a digital service that transforms audio and video files into written texts.
+  With the aid of advanced automated speech recognition, it delivers transcription and subtitling services
+  to a myriad of professionals, like journalists, researchers, and podcasters. It acts as a handy tool
+  for transcribing a range of recorded content like interviews and meetings. Happy Scribe's service boasts
+  an 85-99% accuracy rate, supports over 120 languages, and is compatible with 45+ file formats.
+category: content-management
+labels:
+- audio transcription
+- video subtitles
+- automation
+company:
+  organization: Happy Scribe
+  headquarters: ES
+  founded: 2017
+  homepage: https://www.happyscribe.com/
+  privacyPolicy: https://www.happyscribe.com/privacy
+  termsOfService: https://www.happyscribe.com/terms
+  statusPage: https://status.happyscribe.com/
+  securityPage: https://www.happyscribe.com/security
+  linkedin: https://www.linkedin.com/company/happyscribe/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Happy Scribe

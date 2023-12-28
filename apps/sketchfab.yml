@@ -1,0 +1,40 @@
+id: sketchfab
+name: Sketchfab
+description: Sketchfab is a widely used platform for creating and exploring 3D content. It boasts a sizable
+  user base of over a million creators, making it the biggest of its kind. Users can publish, share, and
+  find 3D models across various platforms such as web, mobile, augmented reality (AR), and virtual reality
+  (VR). Sketchfab is known for being exceptionally user-friendly, which strengthens its reputation as
+  an outstanding web-based 3D viewer.
+category: design
+labels:
+- 3d models
+- ar
+- vr
+company:
+  organization: Epic Games
+  headquarters: US
+  founded: 1991
+  homepage: https://sketchfab.com
+  privacyPolicy: https://sketchfab.com/privacy
+  termsOfService: https://sketchfab.com/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- sketchfab.com
+oauthDisplayNames:
+- Sketchfab

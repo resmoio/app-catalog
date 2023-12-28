@@ -1,0 +1,42 @@
+id: jamf
+name: Jamf
+description: Jamf is a software that helps organizations manage Apple devices such as Macs, iPads, iPhones,
+  and Apple TVs. It includes capabilities for device deployment, administration, app distribution, and
+  security. By working directly with Apple devices, it aims to effectively link users to resources and
+  guard the organization against cyber threats. These features make it a comprehensive tool for businesses
+  using Apple's ecosystem, helping to achieve streamlined experiences for both regular users and IT professionals.
+category: others
+labels:
+- apple device management
+- macos
+- ios
+company:
+  organization: Jamf
+  headquarters: US
+  founded: 2002
+  homepage: https://www.jamf.com/
+  privacyPolicy: https://www.jamf.com/trust-center/privacy/
+  termsOfService: https://www.jamf.com/terms-of-use/
+  statusPage: https://status.jamf.com/
+  securityPage: https://www.jamf.com/trust-center/
+  linkedin: https://www.linkedin.com/company/jamf-software/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- id.jamf.com
+oauthDisplayNames: []

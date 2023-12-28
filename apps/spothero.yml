@@ -1,0 +1,35 @@
+id: spothero
+name: SpotHero
+description: SpotHero is a handy application that helps users locate, reserve and save on parking in garages,
+  lots or valets in their vicinity. The app is useful whether users are searching for parking near their
+  home, office, an airport, or special events.
+category: transportation-and-travel
+labels:
+- parking
+- reservations
+- mobile
+company:
+  organization: ''
+  homepage: https://spothero.com
+  privacyPolicy: https://spothero.com/privacy-policy
+  termsOfService: https://spothero.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SpotHero

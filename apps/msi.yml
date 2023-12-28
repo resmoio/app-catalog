@@ -1,0 +1,31 @@
+id: msi
+name: MSI
+description: MSI, or Micro-Star International, is a renowned technology company that has established itself as a prominent 
+  manufacturer and provider of a diverse range of computer hardware products. With a history spanning several decades, 
+  MSI is recognized for its commitment to innovation and excellence in the tech industry.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- msi.com
+oauthDisplayNames:
+- MSI

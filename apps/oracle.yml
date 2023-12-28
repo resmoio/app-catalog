@@ -1,0 +1,38 @@
+id: oracle
+name: Oracle
+description: Oracle is an established multinational technology company. It offers a wide array of products
+  and services that are vital in the corporate world, such as database management systems, cloud services,
+  and business software suites. Organizations mainly use Oracle's services to effectively manage and store
+  their data, simplify various business processes, and make decisions based on comprehensive data analysis.
+  Furthermore, Oracle has made significant contributions to technological advancement, most notably the
+  development of the SQL database query language. Stated simply, Oracle provides integrated cloud application
+  and platform services, offering various solutions to address enterprise information technology needs.
+category: enterprise-it-services
+labels: []
+company:
+  organization: Oracle
+  headquarters: US
+  founded: 1977
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- oci.oraclecloud.com
+appDomains:
+- oracle.com
+oauthDisplayNames: []

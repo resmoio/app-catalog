@@ -1,0 +1,40 @@
+id: mongodbatlas
+name: MongoDB Atlas
+description: MongoDB Atlas is a cloud-based database service developed by MongoDB. It delivers the functionality
+  of the MongoDB database without the need for users to manage infrastructure. It includes robust operational
+  and security practices built into the system. Essentially, MongoDB Atlas is a central part of the developer
+  data platform that aims to simplify data-related development and increase its speed. Despite offering
+  a multi-cloud database service, it steers clear of overly complicated processes.
+category: storage-and-database
+labels: []
+company:
+  organization: MongoDB
+  headquarters: US
+  founded: 2016
+  homepage: https://www.mongodb.com/atlas/database
+  privacyPolicy: https://www.mongodb.com/legal/privacy-policy
+  termsOfService: https://www.mongodb.com/legal/terms-of-use
+  statusPage: https://status.cloud.mongodb.com/
+  securityPage: https://www.mongodb.com/products/platform/trust
+  linkedin: https://www.linkedin.com/company/mongodbinc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- mongodb.com
+oauthDisplayNames:
+- MongoDB Inc.

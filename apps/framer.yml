@@ -1,0 +1,41 @@
+id: framer
+name: Framer
+description: Framer is a user-friendly tool that allows you to design and publish interactive websites
+  without needing to code. It provides functionalities to incorporate animations and interactions, and
+  enables you to tailor your website for different viewing platforms. Apart from this, it also offers
+  an advanced Content Management System (CMS) for website scaling and localization features. The application's
+  use extends to creating high-fidelity prototypes for systems like iOS, Android, and desktop interfaces.
+  Framer is not just a design tool, but also a platform for prototyping and collaboration.
+category: design
+labels:
+- website builder
+- design
+- prototyping
+company:
+  organization: Framer
+  headquarters: NL
+  founded: 2013
+  homepage: https://www.framer.com
+  privacyPolicy: https://www.framer.com/support/accounts/privacy-statement
+  termsOfService: https://www.framer.com/support/accounts/terms-of-service
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- framer.com
+oauthDisplayNames:
+- Framer

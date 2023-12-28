@@ -1,0 +1,42 @@
+id: duo
+name: Duo
+description: Duo is a software application focused on cybersecurity, offering services such as multi-factor
+  authentication (MFA) and single sign-on solution. The app aims at ensuring user authenticity by seeking
+  additional verification through a secondary device or security key, apart from the usual username and
+  password. This two-factor authentication (2FA) increases the security of user data by adding an extra
+  layer, making it difficult for unauthorized individuals to provide both factors required for access.
+category: security
+labels:
+- mfa
+- authentication
+- access
+company:
+  organization: Cisco
+  headquarters: US
+  founded: 2010
+  homepage: https://duo.com/
+  privacyPolicy: https://duo.com/legal/cisco-online-privacy-statement
+  termsOfService: https://duo.com/legal/terms
+  statusPage: https://status.duo.com/
+  securityPage: https://duo.com/support/security-and-reliability
+  linkedin: https://www.linkedin.com/company/duo-security/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- admin.duosecurity.com
+oauthDisplayNames: []

@@ -1,0 +1,41 @@
+id: commandbar
+name: CommandBar
+description: CommandBar is a software tool that serves as a centralized platform for quick access to commands
+  and shortcuts within various applications. It simplifies the user interface by eliminating the need
+  for multiple complex menus, allowing users to customize their experience to better suit their workflows.
+  The tool facilitates multitasking and enhances efficiency for users and businesses by offering AI-powered
+  assistance, including in-app help, natural language search capabilities, and subtle guidance features.
+  CommandBar prioritizes improving productivity through a more streamlined digital experience.
+category: productivity
+labels:
+- productivity
+- shortcuts
+- automation
+company:
+  organization: ''
+  headquarters: US
+  homepage: https://commandbar.com
+  privacyPolicy: https://www.commandbar.com/privacy
+  termsOfService: https://www.commandbar.com/terms
+  securityPage: https://security.commandbar.com/
+  linkedin: https://www.linkedin.com/company/commandbar/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- CommandBar

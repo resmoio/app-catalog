@@ -1,0 +1,38 @@
+id: zyro
+name: Zyro Auth App
+description: Zyro is an application that facilitates the creation of professional websites and online
+  stores for both individuals and businesses. The tool offers speed and simplicity, enabling users to
+  select from hundreds of customizable templates to build their website or virtual storefront. With Zyro,
+  a website can be operational in just a matter of minutes.
+category: e-commerce
+labels:
+- website builder
+- ecommerce
+- hosting
+company:
+  organization: Hostinger International Ltd.
+  headquarters: LT
+  homepage: https://zyro.com
+  privacyPolicy: https://zyro.com/privacy-policy
+  termsOfService: https://zyro.com/terms-of-service
+  linkedin: https://www.linkedin.com/company/zyrocom/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Zyro Auth App

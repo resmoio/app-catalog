@@ -1,0 +1,39 @@
+id: stytch
+name: Stytch Dashboard
+description: Stytch Dashboard is an authentication platform that aims to enhance conversion, security,
+  and user experience. It offers easy-to-implement software development kits (SDKs) and application programming
+  interfaces (APIs) that enable users to start using the platform in a short amount of time. The platform
+  is designed with developers in mind, providing identity-based solutions ranging from user authentication
+  to fraud protection. Its powerful identity platform is scalable, accommodating the needs of a product
+  as it grows and develops.
+category: identity-and-access
+labels:
+- authentication
+- security
+- api
+company:
+  organization: ''
+  homepage: https://stytch.com
+  privacyPolicy: https://stytch.com/legal/privacy-policy
+  termsOfService: https://stytch.com/legal/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- stytch.com
+oauthDisplayNames:
+- Stytch Dashboard

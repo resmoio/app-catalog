@@ -1,0 +1,41 @@
+id: taskade
+name: Taskade
+description: Taskade is an AI-driven productivity tool designed for individual users and teams. It helps
+  manage tasks, notes, and mind maps, supporting real-time collaboration within a singular platform. The
+  app boasts features such as automated workflows and interlinked data, all working toward making task
+  management faster and more efficient. Furthermore, Taskade can be accessed across all device types,
+  promoting accessibility and flexibility in use. Utilizing artificial intelligence to support its features,
+  Taskade is a resourceful tool for managing productivity in today's digital workspace.
+category: project-management
+labels:
+- collaboration
+- tasks
+- productivity
+company:
+  organization: Taskade
+  headquarters: US
+  founded: 2017
+  homepage: https://www.taskade.com
+  privacyPolicy: https://www.taskade.com/privacy
+  termsOfService: https://www.taskade.com/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- taskade.com
+oauthDisplayNames:
+- Taskade

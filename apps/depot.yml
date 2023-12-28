@@ -1,0 +1,36 @@
+id: depot
+name: Depot
+description: Depot is an application designed to construct Docker images promptly. It aims to provide
+  a platform that expedites the Docker image building process, ensuring efficiency and productivity in
+  the workflow.
+category: others
+labels:
+- docker
+- containers
+- ci/cd
+company:
+  organization: ''
+  homepage: https://depot.dev
+  privacyPolicy: https://depot.dev/privacy-policy
+  termsOfService: https://depot.dev/terms-of-service
+  linkedin: https://www.linkedin.com/company/depot-technologies
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Depot

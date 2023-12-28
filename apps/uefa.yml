@@ -1,0 +1,37 @@
+id: uefa
+name: UEFA
+description: The UEFA app serves as the official digital platform for the Union of European Football
+  Associations, which governs association football in Europe and parts of Asia. This app provides the
+  latest news, game highlights, data, and stats related to European football. It features information
+  on various well-known football competitions like the UEFA Champions League, the UEFA Women's
+  Champions League, the UEFA Europa League, and more. Additionally, the app offers insights into UEFA's
+  operations, including its financial policies, support for grassroots football, and the UEFA HatTrick
+  funding scheme.
+category: news-and-entertainment
+labels: []
+company:
+  organization: UEFA
+  headquarters: CH
+  founded: 1954
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- uefa.com
+oauthDisplayNames:
+- UEFA

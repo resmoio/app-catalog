@@ -1,0 +1,35 @@
+id: headspace
+name: Headspace
+description: Headspace is an app that focuses on supporting mental well-being through the practices of
+  mindfulness and meditation. It provides a range of guided meditations, mindful exercises, and sleep
+  narratives, all designed to promote relaxation, lower stress, and improve concentration. Users can use
+  the app to establish daily meditation routines, encouraging a healthier, more balanced state of mind.
+  Despite its technical functionality and the variety of resources it encompasses, Headspace remains straightforward
+  and user-friendly, even to those new to meditation and mindfulness.
+category: others
+labels: []
+company:
+  organization: Headspace
+  headquarters: US
+  founded: 2010
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- headspace.com
+oauthDisplayNames: []

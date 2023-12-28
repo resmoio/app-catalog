@@ -1,0 +1,37 @@
+id: zing-data
+name: Zing Data
+description: Zing Data is an application that simplifies data interpretation for the user, making it accessible
+  within moments. It prioritizes a mobile-first approach, ensuring easy access to data on various mobile
+  and web platforms. The app includes features like visual querying and the ability to pose questions
+  in natural language. It empowers any member of an organization with the tools to obtain data-based answers
+  quickly, enhancing overall data comprehension within the organization.
+category: others
+labels:
+- business intelligence
+- data publishing
+- collaboration
+company:
+  organization: ''
+  homepage: https://www.getzingdata.com
+  privacyPolicy: https://getzingdata.com/privacy/
+  termsOfService: https://getzingdata.com/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Zing Data

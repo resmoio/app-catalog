@@ -1,0 +1,37 @@
+id: prezi
+name: Prezi
+description: Prezi is a suite of software tools providing solutions for creating engaging visual content,
+  videos, and presentations. It consists of three main components - Prezi Video, Prezi Design, and Prezi
+  Present. Prezi Video combines presenters with their visuals in both live and recorded videos, cultivating
+  strong connections. Prezi Design supports the creation of interactive charts, reports, maps, and infographics
+  without complex procedures. Prezi Present focuses on flexibility and detail, enabling presenters to
+  maneuver through their content, emphasizing important elements. Prezi's purpose is to breathe life into
+  ideas using motion, zoom, and spatial relationships.
+category: productivity
+labels: []
+company:
+  organization: Prezi INC.
+  headquarters: US
+  founded: 2008
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- prezi.com
+oauthDisplayNames:
+- Prezi

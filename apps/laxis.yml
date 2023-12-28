@@ -1,0 +1,41 @@
+id: laxis
+name: Laxis - Your AI Meeting Assistant
+description: Laxis is an AI-assisted tool that helps users manage and make the most out of their meetings.
+  It prepares them for discussions by automating customer research, provides real-time insights during
+  the meeting, and facilitates post-meeting tasks such as summarizing customer requirements and producing
+  follow-ups. Additionally, Laxis includes a transcription feature that accurately captures meeting conversations,
+  aiding sales, marketing, and service professionals in understanding customer interactions to improve
+  their performance and outcomes.
+category: productivity
+labels:
+- revenue intelligence
+- sales
+- meetings
+company:
+  organization: Laxis Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://www.laxis.com/
+  privacyPolicy: https://www.laxis.com/privacy
+  termsOfService: https://www.laxis.com/terms
+  linkedin: https://www.linkedin.com/company/laxis-tech/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Laxis - Your AI Meeting Assistant

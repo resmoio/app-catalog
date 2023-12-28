@@ -1,0 +1,43 @@
+id: hotjar
+name: Hotjar
+description: Hotjar is a service used for analyzing user behavior and gathering feedback. It provides
+  insight into how individuals use websites, making it a useful tool for businesses of varying sizes.
+  Hotjar helps in understanding users' behavior patterns, their anticipated needs, and their navigation
+  experiences. One key feature of this system is the ability to observe users' clicks and abandonment
+  points, somewhat emulating a direct observation of a user browsing the website. It should be noted that
+  Hotjar offers a free initial access to their services.
+category: web-analytics
+labels:
+- analytics
+- heatmaps
+- surveys
+company:
+  organization: Contentsquare
+  headquarters: FR
+  founded: 2012
+  homepage: https://www.hotjar.com/
+  privacyPolicy: https://www.hotjar.com/legal/policies/privacy/
+  termsOfService: https://www.hotjar.com/legal/policies/terms-of-service/
+  securityPage: https://help.hotjar.com/hc/en-us/categories/360003405813
+  linkedin: https://www.linkedin.com/company/hotjar/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- hotjar.com
+oauthDisplayNames:
+- Hotjar

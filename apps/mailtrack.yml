@@ -1,0 +1,42 @@
+id: mailtrack
+name: Mailtrack
+description: Mailtrack is a software tool that provides email tracking for Gmail users. It has a user
+  base of over 2 million people. It enables users to keep a check on the delivery and opening status of
+  their sent emails. Beyond tracking emails, Mailtrack also incorporates additional functionalities such
+  as conducting campaigns, merging email content, and analyzing PDF documents, all within the Gmail interface.
+  Essentially, the key premise of Mailtrack involves bringing the double-check feature, commonly found
+  in mobile messaging, over to the world of email.
+category: marketing
+labels:
+- email tracking
+- analytics
+- gmail
+company:
+  organization: Mail Track
+  headquarters: ES
+  founded: 2013
+  homepage: https://mailtrack.io
+  privacyPolicy: https://mailtrack.io/en/privacy
+  termsOfService: https://mailtrack.io/en/terms
+  linkedin: https://www.linkedin.com/company/mailtrack/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mailtrack.io
+oauthDisplayNames:
+- Mailtrack

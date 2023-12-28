@@ -1,0 +1,41 @@
+id: azuredevops
+name: Azure DevOps
+description: Azure DevOps is a suite of development tools offered by Microsoft, intended to facilitate
+  a variety of tasks including version control, agile planning, and collaboration. The goal of these tools
+  is to help developers in organising their work, improving collaboration on code development and simplifying
+  the deployment of applications. Once known as Visual Studio Team Services, this collection of services
+  provides multiple capabilities such as agile tools and continuous integration/continuous delivery.
+category: code-hosting
+labels:
+- devops
+- ci/cd
+- microsoft
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 1975
+  homepage: https://azure.microsoft.com/en-us/products/devops
+  privacyPolicy: https://privacy.microsoft.com/en-us/privacystatement
+  termsOfService: https://azure.microsoft.com/en-us/support/legal/
+  statusPage: https://azure.status.microsoft/en-us/status
+  securityPage: https://learn.microsoft.com/en-us/azure/compliance/
+  linkedin: https://www.linkedin.com/company/msnazure/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

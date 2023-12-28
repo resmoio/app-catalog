@@ -1,0 +1,37 @@
+id: spike
+name: Spike
+description: Spike is a unified platform designed to simplify team collaboration. It brings together different
+  communication tools such as chat, emails, and virtual meetings, as well as collaborative documents in
+  one place. The objective is to provide a single location for teams to connect, chat, and collaborate,
+  hence enhancing communication clarity. This organization of different tools aims to ease the collaboration
+  process, making it more efficient and effective.
+category: chat
+labels:
+- chat
+- email
+- collaboration
+company:
+  organization: ''
+  homepage: https://www.spikenow.com
+  privacyPolicy: https://www.spikenow.com/privacy-policy/
+  termsOfService: https://www.spikenow.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Spike

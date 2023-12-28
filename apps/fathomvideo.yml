@@ -1,0 +1,42 @@
+id: fathomvideo
+name: fathom.video
+description: The Fathom Video app is a platform for video analytics, designed to help those who create
+  and market content to learn more about how their videos are performing. The app collects in-depth data
+  on viewer behavior and engagement, assisting users in refining their video strategies. It offers an
+  easy-to-use interface with broad-ranging information, facilitating informed decisions for improved video
+  content and audience engagement. Furthermore, Fathom has features to assist with meetings, recording
+  and transcribing key moments, and automatically sending call summaries to the user's Customer Relationship
+  Management system.
+category: marketing
+labels:
+- video analytics
+- youtube
+- engagement
+company:
+  organization: Fathom Video Inc.
+  headquarters: US
+  homepage: https://fathom.video/
+  privacyPolicy: https://fathom.video/privacy
+  termsOfService: https://fathom.video/terms
+  statusPage: https://status.fathom.video/
+  securityPage: https://security.fathom.video/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- fathom.video

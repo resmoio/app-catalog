@@ -1,0 +1,39 @@
+id: mockflow
+name: MockFlow
+description: MockFlow is an online application designed to support the collaborative development of user
+  interface mockups for both software and websites. It offers wireframe tools and a suite of UX features
+  that allow teams to design and discuss their projects in real time. The platform is also equipped with
+  a digital whiteboard, enabling brainstorming sessions for user interface designs. Essentially, MockFlow
+  serves as a comprehensive tool for remote interface designing.
+category: design
+labels:
+- prototyping
+- wireframing
+- collaboration
+company:
+  organization: MockFlow
+  founded: 2008
+  homepage: https://mockflow.com
+  privacyPolicy: https://mockflow.com/privacy_policy
+  termsOfService: https://mockflow.com/privacy_policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mockflow.com
+oauthDisplayNames:
+- MockFlow

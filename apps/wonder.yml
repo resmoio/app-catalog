@@ -1,0 +1,34 @@
+id: wonder
+name: Wonder
+description: Wonder is a digital platform designed for businesses, professionals, and individuals who
+  seek detailed research reports and analysis on different topics. It functions by connecting its users
+  to a group of researchers who conduct exhaustive investigations on their inquiries, thereby offering
+  valuable insights. As a versatile tool, it allows users to seek in-depth and precise information on
+  a broad spectrum of subjects. Besides, it also provides a virtual meeting space for user interactions.
+category: others
+labels: []
+company:
+  organization: Wonder
+  headquarters: DE
+  founded: 2020
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wonder.me
+oauthDisplayNames: []

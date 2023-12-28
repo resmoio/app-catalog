@@ -1,0 +1,44 @@
+id: linkedin
+name: LinkedIn
+description: LinkedIn is a digital platform that lets people establish a professional online presence,
+  akin to an internet-based resume. It enables users to create a network of professional relationships,
+  seek employment opportunities, and stay informed about events and updates in their industry. With over
+  750 million users, LinkedIn is a tool for managing one's professional identity and exploiting opportunities
+  that can arise from having a broad professional network and access to industry insights.
+category: social-media
+labels:
+- professional network
+- jobs
+- connections
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 1975
+  homepage: https://www.linkedin.com/
+  privacyPolicy: https://www.linkedin.com/legal/privacy-policy
+  termsOfService: https://www.linkedin.com/legal/user-agreement
+  statusPage: https://www.linkedin-status.com/
+  securityPage: https://security.linkedin.com/
+  linkedin: https://www.linkedin.com/company/linkedin/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- linkedin.com
+oauthDisplayNames:
+- LinkedIn
+- LinkedIn Microsoft Graph Connector

@@ -1,0 +1,43 @@
+id: speechify
+name: Speechify
+description: Speechify is a text-to-speech application that transforms written content into audio. It
+  uses advanced technology to read any text, from books to documents, aloud. This software is particularly
+  beneficial for users with reading challenges like dyslexia or visual impairment. Available on both mobile
+  and desktop platforms, Speechify has garnered wide recognition with numerous downloads across Chrome,
+  iOS, and Android systems. It grants all users the ease of hearing internet content on any device. While
+  it's a paid service, users can experience Speechify's capabilities through a free trial.
+category: news-and-entertainment
+labels:
+- text to speech
+- accessibility
+- audio
+company:
+  organization: Speechify
+  headquarters: US
+  founded: 2017
+  homepage: https://speechify.com/
+  privacyPolicy: https://speechify.com/privacy
+  termsOfService: https://speechify.com/terms
+  statusPage: https://speechify.instatus.com/
+  securityPage: https://speechify.com/blog/speechify-soc2-compliant
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- speechify.com
+oauthDisplayNames:
+- Speechify

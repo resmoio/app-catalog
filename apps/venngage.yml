@@ -1,0 +1,39 @@
+id: venngage
+name: Venngage
+description: Venngage is a web-based tool that enables users to create infographics using a selection
+  of over 10,000 templates suitable for different industries. It provides a simple drag-and-drop interface,
+  along with a variety of icons, images, and chart options to enhance visual representations. Users can
+  transform data and reports into engaging visual formats with ease, even without previous design experience.
+  The service is utilized by more than 5 million people for creating professional infographics.
+category: design
+labels:
+- infographic maker
+- design
+- visualization
+company:
+  organization: Venngage Inc.
+  headquarters: CA
+  founded: 2012
+  homepage: https://venngage.com
+  privacyPolicy: https://help.venngage.com/hc/en-us/articles/11017596288525-Privacy-Policy-2-0
+  termsOfService: https://help.venngage.com/hc/en-us/articles/11017601872781-Terms-of-Service-2-4
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Venngage

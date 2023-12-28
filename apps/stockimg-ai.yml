@@ -1,0 +1,34 @@
+id: stockimg-ai
+name: Stockimg AI
+description: Stockimg AI is an application designed for teams that facilitates the creation of various
+  visual content such as logos, book covers, and posters using artificial intelligence. It simplifies
+  the generation process, offering an easy-to-use platform for producing AI-assisted imagery. Regardless
+  of the project's scope, Stockimg AI provides assistance, making it an efficient tool for diverse creative
+  needs.
+category: design
+labels: []
+company:
+  organization: ''
+  homepage: https://stockimg.ai
+  privacyPolicy: https://stockimg.ai/#/privacy-policy
+  termsOfService: https://stockimg.ai/#/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Stockimg AI

@@ -1,0 +1,36 @@
+id: writingmate-ai
+name: WritingMate.ai
+description: WritingMate.ai incorporates ChatGPT and GPT-4 Copilot capabilities, making it an artificial
+  intelligence-fortified tool designed for improving the efficiency of writing tasks. This application
+  is especially valuable when generating engaging content for various platforms, such as blogs, emails,
+  and social media. It even extends its functionality to workspace tools such as Slides, Docs, Sheets,
+  and Gmail. The advanced capabilities of GPT-4 can be utilized through the Chrome extension of WritingMate.ai,
+  further enhancing the productivity of the writing process.
+category: generative-ai
+labels:
+- ai writing assistant
+- blog posts
+- seo
+company:
+  organization: ''
+  homepage: https://writingmate.ai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- WritingMate.ai

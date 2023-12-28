@@ -1,0 +1,43 @@
+id: userguiding
+name: UserGuiding
+description: UserGuiding is a software that helps businesses create interactive guides and introductions
+  for their products, without the need for programming knowledge. The tool focuses on improving user adoption
+  by aiding companies in fashioning engaging experiences for their clients. The aim is to enhance users'
+  understanding of the product and, in turn, retain their interest and loyalty. UserGuiding is straightforward
+  to use and has been chosen by over 7,000 companies. It also offers the option of a free trial for prospective
+  users to check its suitability before investing.
+category: customer-support
+labels:
+- product tours
+- user onboarding
+- adoption
+company:
+  organization: UserGuiding
+  headquarters: US
+  founded: 2017
+  homepage: https://userguiding.com/
+  privacyPolicy: https://userguiding.com/privacy-policy/
+  termsOfService: https://userguiding.com/terms-of-service/
+  statusPage: https://status.userguiding.com/
+  securityPage: https://userguiding.com/information-security-policy/
+  linkedin: https://www.linkedin.com/company/userguiding/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- UserGuiding

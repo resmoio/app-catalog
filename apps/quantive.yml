@@ -1,0 +1,44 @@
+id: quantive
+name: Quantive
+description: Quantive is a software platform designed to help businesses effectively align their objectives
+  and improve team engagement by using the Objectives and Key Results (OKR) method. It provides comprehensive
+  analytics and performance management tools, linking an organization's daily operations directly to its
+  essential goals. The platform is globally recognized for its ability to efficiently carry out strategic
+  plans by leveraging OKR principles.
+category: business-intelligence
+labels:
+- okrs
+- goals
+- analytics
+company:
+  organization: Quantive
+  headquarters: US
+  founded: 2015
+  homepage: https://quantive.com/
+  privacyPolicy: https://help.quantive.com/en/articles/633973-privacy-policy
+  termsOfService: https://quantive.com/terms-of-service
+  statusPage: https://status.quantive.com/
+  securityPage: https://quantive.com/products/privacy-security
+  linkedin: https://www.linkedin.com/company/quantive-inc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- quantive.com
+oauthDisplayNames:
+- Quantive
+- gtmhub

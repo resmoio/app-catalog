@@ -1,0 +1,36 @@
+id: ryte
+name: Ryte
+description: Ryte is a software that assists in website analysis, optimization, and monitoring. Its features
+  aim to enhance website usability, improve search engine optimization (SEO) activity to foster higher
+  traffic, and boost conversion rates. As a widely recognized tool in the industry, it provides resources
+  for continuous site optimization and tracking, making it easier for users to monitor their site's performance.
+category: web-analytics
+labels:
+- seo tools
+- website analyzer
+- optimization
+company:
+  organization: ''
+  homepage: https://ryte.com/
+  privacyPolicy: https://ryte.com/about/privacy/
+  termsOfService: https://ryte.com/about/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Ryte

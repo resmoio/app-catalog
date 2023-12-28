@@ -1,0 +1,36 @@
+id: stake
+name: Stake
+description: Stake is an investment platform that permits global access to the U.S stock market. By focusing
+  primarily on U.S stocks, it gives users the ability to trade without any commission charges. In essence,
+  Stake provides people the opportunity to participate freely in the U.S. financial market from anywhere
+  in the world.
+category: others
+labels:
+- stock trading
+- investing
+- fractional shares
+company:
+  organization: ''
+  homepage: https://stake.com
+  privacyPolicy: https://stake.com/policies/privacy
+  termsOfService: https://stake.com/policies/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Stake

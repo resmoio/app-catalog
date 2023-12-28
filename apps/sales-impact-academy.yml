@@ -1,0 +1,41 @@
+id: sales-impact-academy
+name: Sales Impact Academy
+description: Sales Impact Academy is a learning platform, primarily designed for rapidly expanding technology
+  companies. This application provides a continuous learning solution, facilitating live learning sessions.
+  It aims to equip its users, specifically those working in the technology sales sector, with knowledge,
+  strategies, and necessary skills. These tools help the users thrive in the dynamic and fast-paced environment
+  of technology sales.
+category: education
+labels:
+- sales training
+- learning
+- enablement
+company:
+  organization: Sales Impact Academy Ltd.
+  headquarters: US
+  founded: 2019
+  homepage: https://salesimpact.io
+  privacyPolicy: https://www.salesimpact.io/privacy-policy/
+  termsOfService: https://www.salesimpact.io/wp-content/uploads/2023/02/SIA-Terms-Conditions-v3.2023.pdf
+  securityPage: https://app.drata.com/trust/9cb42296-0c38-11ee-865f-029d78a187d9
+  linkedin: https://www.linkedin.com/company/sales-impact-academy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sales Impact Academy

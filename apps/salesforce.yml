@@ -1,0 +1,47 @@
+id: salesforce
+name: Salesforce
+description: Salesforce is a cloud-based Customer Relationship Management (CRM) tool designed to optimize
+  business operations in areas of sales, marketing, and customer service. The app features a user-friendly
+  interface and incorporates artificial intelligence to facilitate enhanced productivity. Salesforce is
+  utilized by businesses of varying sizes, and it provides a unified platform to manage customer relations
+  and streamline operations. The software also includes powerful analytics for detailed insights. However,
+  this description is not intended to market the product or offer a trial.
+category: crm
+labels:
+- crm
+- sales
+- service
+company:
+  organization: Salesforce.com
+  headquarters: US
+  founded: 1999
+  homepage: https://www.salesforce.com/
+  privacyPolicy: https://www.salesforce.com/company/privacy/
+  termsOfService: https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/
+  statusPage: https://status.salesforce.com/current/incidents
+  securityPage: https://security.salesforce.com/
+  linkedin: https://www.linkedin.com/company/salesforce/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- salesforce.com
+- exacttarget.com
+oauthDisplayNames:
+- Data connector for Salesforce
+- Salesforce
+- Salesforce.com

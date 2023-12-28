@@ -1,0 +1,37 @@
+id: meet-for-slack
+name: Meet for Slack
+description: Meet for Slack is an app that allows users to set up, initiate, and share Google Meet sessions
+  directly through Slack. This simplifies the process of conducting virtual meetings, eliminating the
+  need for leaving the Slack platform or dealing with intricate steps. Thus, Meet for Slack enhances the
+  efficiency of communication for teams, especially those relying heavily on digital collaboration.
+category: online-meetings
+labels:
+- google meet
+- calendar
+- slack
+company:
+  organization: ''
+  homepage: https://meetforslack.com/
+  privacyPolicy: https://meetforslack.com/#privacy-policy
+  termsOfService: https://meetforslack.com/#privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- /meet for Slack
+- Meet for Slack

@@ -1,0 +1,35 @@
+id: qatalog
+name: Qatalog
+description: Qatalog is a workplace search application that utilizes real-time artificial intelligence
+  (AI) in its functioning. Unlike other market solutions, it doesn't require data indexing. This makes
+  it unique in its capacity. The application's primary features include AI-powered search and an extensive
+  system for managing enterprise knowledge. These lead to efficient and smarter searches within the workspace,
+  providing users with accurate and timely information. This means the key functionalities of Qatalog
+  revolve around supporting efficient knowledge management within enterprises.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://qatalog.com
+  privacyPolicy: https://qatalog.com/privacypolicy
+  termsOfService: https://qatalog.com/privacypolicy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Qatalog

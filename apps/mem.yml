@@ -1,0 +1,42 @@
+id: mem
+name: Mem
+description: Mem AI is a user-friendly note-taking application that primarily focuses on improving how
+  information is collected and stored. It allows users to seamlessly gather and structure data from different
+  sources. Within the platform, users can create personalized notes, arrange data in a structured manner,
+  delay notifications to view later, and highlight notes for future reference. Mem AI also functions as
+  a knowledge assistant where users can ask questions and generate content based on the notes they've
+  taken.
+category: productivity
+labels:
+- notes
+- tasks
+- productivity
+company:
+  organization: Mem Labs Inc.
+  headquarters: US
+  founded: 2019
+  homepage: https://get.mem.ai/
+  privacyPolicy: https://get.mem.ai/privacy-policy
+  termsOfService: https://get.mem.ai/terms-of-service
+  securityPage: https://get.mem.ai/security
+  linkedin: https://www.linkedin.com/company/memdotai/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Mem

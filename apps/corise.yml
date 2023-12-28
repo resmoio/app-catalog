@@ -1,0 +1,40 @@
+id: corise
+name: Corise
+description: Corise, also known as Uplimit, is an educational application that provides live, small group
+  courses in the fields of machine learning and data science. The courses are offered by leading experts
+  and tailored to meet the needs of both students and working professionals, acting as an effective tool
+  for professional development. Through its focus on providing a supportive community and accountability,
+  Corise aims to bolster participants' skills in their chosen fields.
+category: education
+labels:
+- online courses
+- data science
+- machine learning
+company:
+  organization: Veda Education Inc.
+  headquarters: US
+  founded: 2021
+  homepage: https://corise.com/
+  privacyPolicy: https://corise.com/about/privacy
+  termsOfService: https://corise.com/about/terms
+  linkedin: https://www.linkedin.com/company/uplimit-education/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Corise

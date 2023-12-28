@@ -1,0 +1,36 @@
+id: forvo
+name: Forvo
+description: Forvo is an extensive online pronunciation dictionary featuring over 2.5 million words. All
+  pronunciations are provided by native speakers, covering numerous languages worldwide. The platform
+  serves as a reference for individuals seeking to hear how words are pronounced by those who speak the
+  language fluently.
+category: education
+labels: []
+company:
+  organization: Forvo
+  headquarters: ES
+  founded: 2008
+  homepage: https://forvo.com
+  privacyPolicy: https://forvo.com/privacy/
+  termsOfService: https://forvo.com/privacy/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- forvo.com
+oauthDisplayNames:
+- Forvo

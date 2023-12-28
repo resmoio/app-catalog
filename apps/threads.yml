@@ -1,0 +1,39 @@
+id: threads
+name: Threads
+description: Threads is a web-based tool, designed to facilitate smooth communication in a virtual environment.
+  It provides a dedicated platform where users can share ideas, insights, and feedback through messaging.
+  The app is suitable for various forums, enabling users to collaborate effortlessly and stay connected.
+  In addition, Threads helps in reducing interruptions and promotes efficiency in the exchange of information.
+  It is a beneficial tool for those who prefer organized collaboration and wants to remain informed as
+  their company continues to grow.
+category: instant-personal-messaging
+labels: []
+company:
+  organization: Magicwebsolutions
+  headquarters: GB
+  founded: 2011
+  homepage: https://threads.com/
+  privacyPolicy: https://threads.com/privacy
+  termsOfService: https://threads.com/terms
+  linkedin: https://www.linkedin.com/company/threadsgroupinc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- threads.com
+oauthDisplayNames:
+- Threads

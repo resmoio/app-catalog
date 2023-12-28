@@ -1,0 +1,36 @@
+id: screenshotone
+name: ScreenshotOne
+description: ScreenshotOne is an application that offers a dependable screenshot API service. It is designed
+  to manage the volume of millions of screenshots every month without any significant obstacles. This
+  app emphasizes reliability and speed, aiming to deliver a consistent and user-friendly experience for
+  users who need to handle large quantities of screenshots each month.
+category: others
+labels:
+- screenshots
+- screenshot api
+- automation
+company:
+  organization: ''
+  homepage: https://screenshotone.com
+  privacyPolicy: https://screenshotone.com/privacy-policy/
+  termsOfService: https://screenshotone.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ScreenshotOne

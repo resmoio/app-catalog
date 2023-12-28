@@ -1,0 +1,44 @@
+id: kami
+name: Kami
+description: Kami is a web application that offers an easy way to view, edit, and make notes on PDF files
+  directly from the browser. It's primarily used in education, particularly in remote learning, to allow
+  teachers and students to work jointly on tasks and provide feedback. This tool helps to maintain student
+  engagement by providing accessible annotation tools. At the same time, it helps teachers streamline
+  their instruction and assessment process. Overall, Kami is a digital learning platform designed to make
+  learning an enjoyable and productive activity.
+category: education
+labels:
+- annotation
+- collaboration
+- education
+company:
+  organization: Kami
+  headquarters: NZ
+  founded: 2012
+  homepage: https://www.kamiapp.com/
+  privacyPolicy: https://www.kamiapp.com/privacy-policy/
+  termsOfService: https://www.kamiapp.com/terms-of-service/
+  statusPage: https://status.kamihq.com/
+  securityPage: https://www.kamiapp.com/wp-content/uploads/2023/05/Kami-Security-and-Data-Protection-Measures.pdf
+  linkedin: https://www.linkedin.com/company/usekamiapp/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- kamiapp.com
+oauthDisplayNames:
+- Kami

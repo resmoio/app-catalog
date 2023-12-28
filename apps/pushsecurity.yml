@@ -1,0 +1,41 @@
+id: pushsecurity
+name: Push Security
+description: Push Security is an internet-based security platform. This program is helpful in locating
+  and managing unidentified or unauthorized software as a service (SaaS) applications within a structured
+  system, effectively addressing potential security issues for companies that predominantly utilize cloud
+  technology. In essence, Push Security works primarily towards ensuring the digital and cloud security
+  of businesses.
+category: security
+labels:
+- shadow it
+- saas management
+- security
+company:
+  organization: Push Security
+  headquarters: GB
+  founded: 2020
+  homepage: https://pushsecurity.com/
+  privacyPolicy: https://pushsecurity.com/legal/privacy/
+  termsOfService: https://pushsecurity.com/legal/terms/
+  securityPage: https://trust.pushsecurity.com/
+  linkedin: https://www.linkedin.com/company/push-security/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Push Security

@@ -1,0 +1,42 @@
+id: secureframe
+name: Secureframe
+description: Secureframe is a tool for companies seeking to achieve and uphold compliance certifications
+  such as SOC 2 and ISO 27001 in an effective manner. It connects to well-known cloud services and tools
+  to automatically gather compliance evidence. Secureframe also includes a user-friendly dashboard, simplifying
+  the audit process. The platform aims to help businesses decrease risk, foster confidence in customer
+  relationships, and facilitate growth all while leveraging automation and expert knowledge.
+category: security
+labels:
+- compliance
+- certification
+- security
+company:
+  organization: Secureframe
+  headquarters: US
+  founded: 2020
+  homepage: https://secureframe.com/
+  privacyPolicy: https://secureframe.com/privacy
+  termsOfService: https://secureframe.com/terms
+  statusPage: https://status.secureframe.com/
+  securityPage: https://secureframe.com/security
+  linkedin: https://www.linkedin.com/company/secureframe/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Secureframe

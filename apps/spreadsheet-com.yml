@@ -1,0 +1,42 @@
+id: spreadsheet-com
+name: Spreadsheet.com
+description: Spreadsheet.com is an online platform that blends traditional spreadsheet features with project
+  management functions. As a cloud-based service, it enables users to create and share customizable solutions
+  for managing work tasks. The platform incorporates features like Gantt charts, calendars, and Kanban
+  boards, simplifying data organization and enhancing workflow. Additionally, Spreadsheet.com offers no-code
+  app building capabilities, reducing the technical skills required for app development. This integration
+  of spreadsheet, database, and project management capabilities make it a versatile tool for various tasks
+  like Customer Relationship Management (CRM). Note that this service can be used for free initially.
+category: productivity
+labels:
+- spreadsheets
+- databases
+- automation
+company:
+  organization: Spreadsheet.com
+  headquarters: US
+  founded: 2017
+  homepage: https://www.spreadsheet.com
+  privacyPolicy: https://www.spreadsheet.com/privacy-policy
+  termsOfService: https://www.spreadsheet.com/terms-of-use
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- spreadsheet.com
+oauthDisplayNames:
+- Spreadsheet.com

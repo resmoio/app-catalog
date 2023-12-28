@@ -1,0 +1,43 @@
+id: wix
+name: Wix
+description: Wix is a web-based platform facilitating the creation of websites using simple drag-and-drop
+  tools. It offers customizable templates which eliminate the necessity for coding knowledge. This platform
+  helps individuals and businesses set up their online presence with ease. Wix also supports millions
+  of users globally in managing cloud data services. Through Wix, users can establish, design, and expand
+  their online platforms as per their needs and desires.
+category: design
+labels:
+- website builder
+- hosting
+- ecommerce
+company:
+  organization: Wix
+  headquarters: IL
+  founded: 2006
+  homepage: https://www.wix.com/
+  privacyPolicy: https://www.wix.com/about/privacy
+  termsOfService: https://www.wix.com/about/terms-of-use
+  statusPage: https://status.wix.com/
+  securityPage: https://www.wix.com/manage/privacy-security-hub
+  linkedin: https://www.linkedin.com/company/wix-com/?trk=biz-companies-cym
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- wix.com
+oauthDisplayNames:
+- Wix

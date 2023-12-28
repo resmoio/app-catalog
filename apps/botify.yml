@@ -1,0 +1,44 @@
+id: botify
+name: Botify
+description: Botify is a platform designed for enterprise SEO needs. It provides insights and analyzes
+  data to improve the search engine visibility and organic traffic of large websites. It examines the
+  entire process of SEO, from examining the website's structure to tracking user behavior, to optimize
+  search engine rankings. Botify is designed as a unified suite of applications that assist enterprise
+  users in each phase of improving organic search results. Furthermore, it empowers users to discover
+  potential opportunities hidden within their websites, which might not be readily visible to search engines.
+category: seo
+labels:
+- seo
+- analytics
+- crawler
+company:
+  organization: Botify
+  headquarters: US
+  founded: 2012
+  homepage: https://www.botify.com/
+  privacyPolicy: https://www.botify.com/privacy-and-terms
+  termsOfService: https://www.botify.com/privacy-and-terms
+  statusPage: https://status.botify.com/
+  securityPage: https://www.botify.com/data-and-compliance
+  linkedin: https://www.linkedin.com/company/botify/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- botify.com
+oauthDisplayNames:
+- Botify

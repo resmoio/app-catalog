@@ -1,0 +1,42 @@
+id: superhuman
+name: Superhuman
+description: Superhuman is an email service that focuses on speed and productivity. It offers a streamlined
+  interface and keyboard shortcuts, along with additional features to aid users in managing their emails
+  more efficiently. Aimed at both individuals and teams, Superhuman is more than just an email platform.
+  It provides social insights and integrates them into the user's workflow. Ultimately, Superhuman aims
+  to simplify the process of email handling, making it quicker and less cumbersome. It is designed to
+  save its users time, potentially giving back several hours per week.
+category: mail
+labels:
+- email
+- calendar
+- productivity
+company:
+  organization: Superhuman
+  headquarters: US
+  founded: 2014
+  homepage: https://superhuman.com/
+  privacyPolicy: https://superhuman.com/privacy
+  termsOfService: https://superhuman.com/terms
+  linkedin: https://www.linkedin.com/company/superhuman-co/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- superhuman.com
+oauthDisplayNames:
+- Superhuman

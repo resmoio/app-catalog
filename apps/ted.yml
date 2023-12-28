@@ -1,0 +1,40 @@
+id: ted
+name: TED
+description: The TED app provides access to videos of talks from experts in various fields like education,
+  business, science, technology, and creativity. These talks, known as TED Talks, are presented in over
+  100 languages with subtitles. The TED app follows the mission of TED conferences, a global organization
+  known for sharing and spreading valuable ideas. This free to use app also allows users to download talks
+  for offline viewing.
+category: news-and-entertainment
+labels:
+- talks
+- ideas
+- education
+company:
+  organization: TED
+  headquarters: US
+  founded: 1984
+  homepage: https://www.ted.com/
+  privacyPolicy: https://www.ted.com/privacy
+  termsOfService: https://www.ted.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ted.com
+oauthDisplayNames:
+- TED

@@ -1,0 +1,39 @@
+id: night-survivors
+name: Night Survivors
+description: Night Survivor is a game that places users within a post-apocalyptic world where survival
+  is paramount. In this setting, users encounter numerous challenges within a gloomy environment, requiring
+  them to navigate through perilous landscapes, gather necessary resources, and devise strategies to overcome
+  formidable adversaries. The key objective for the users is to manage their survival against the odds.
+category: news-and-entertainment
+labels:
+- gaming
+- survival
+- action
+company:
+  organization: Masomo Limited
+  headquarters: GB
+  founded: 2015
+  homepage: https://masomo.com/
+  privacyPolicy: https://masomo.com/privacy-policy.html
+  termsOfService: https://masomo.com/terms-of-service.html
+  linkedin: https://www.linkedin.com/company/masomo/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Night Survivors

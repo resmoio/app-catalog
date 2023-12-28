@@ -1,0 +1,37 @@
+id: know-your-team
+name: Know Your Team
+description: Know Your Team is an online platform built on research-backed principles to support new managers
+  in their leadership development. This platform offers various learning opportunities like bite-sized
+  lessons, live masterclasses, and quick-reference cheatsheets. It's an on-demand resource designed to
+  help individuals become effective leaders. This tool is especially beneficial for first-time leaders
+  across organizations, aiming to enhance their management capabilities.
+category: hr
+labels:
+- leadership training
+- management
+- development
+company:
+  organization: ''
+  homepage: https://knowyourteam.com/
+  privacyPolicy: https://knowyourteam.com/m/privacy
+  termsOfService: https://knowyourteam.com/m/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Know Your Team

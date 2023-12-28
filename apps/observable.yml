@@ -1,0 +1,43 @@
+id: observable
+name: Observable
+description: Observable is a platform that simplifies the process for those who regularly work with large
+  amounts of data, such as developers, data scientists, journalists, and educators. The app helps these
+  users handle complex data sets, allowing them to create various types of data visualizations - from
+  basic charts to interactive maps and graphs. To make the experience convenient for users, Observable
+  incorporates easy-to-use interfaces with the flexibility to incorporate custom JavaScript code. This
+  combination accelerates the users' capacity to understand their data better, leading to informed conclusions
+  and decisions.
+category: business-intelligence
+labels:
+- data visualization
+- javascript
+- charts
+company:
+  organization: Observable
+  headquarters: US
+  founded: 2016
+  homepage: https://beta.observablehq.com/
+  privacyPolicy: https://observablehq.com/@observablehq/privacy-policy
+  termsOfService: https://observablehq.com/@observablehq/terms-of-service
+  linkedin: https://www.linkedin.com/company/observable/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- observablehq.com
+oauthDisplayNames:
+- Observable

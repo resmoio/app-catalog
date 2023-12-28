@@ -1,0 +1,38 @@
+id: scrapedo
+name: Scrape.do
+description: Scrape.do is a software solution that eliminates the need for users to manually create IP
+  rotation rules or subscribe to several services. This application frees up time and resources by taking
+  care of these tasks automatically. Users can use Scrape.do to manage and rotate their IP addresses,
+  assisting with web scraping projects. Importantly, its billing approach is user-friendly; it only charges
+  for successful requests. The software also positions itself as a quality alternative to traditional
+  scraping APIs and rotating proxy services.
+category: others
+labels:
+- web scraping
+- rotating proxies
+- automation
+company:
+  organization: ''
+  homepage: https://scrape.do
+  privacyPolicy: https://scrape.do/privacy-policy/
+  termsOfService: https://scrape.do/terms-of-use/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Scrape.do

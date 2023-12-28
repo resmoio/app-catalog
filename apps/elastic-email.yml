@@ -1,0 +1,45 @@
+id: elastic-email
+name: Elastic Email
+description: Elastic Email is a platform designed to simplify email marketing for businesses. It allows
+  users to manage their email campaigns, ensuring reliable communication with their targeted audiences.
+  The platform provides features for creating personalized templates and automated workflows to produce
+  engaging content. Additionally, it offers services for audience segmentation and tracking campaign performance.
+  Elastic Email also includes an efficient system for delivering emails and detailed analytics to improve
+  marketing strategies. Users can sign up for free to gain access to these essential email marketing and
+  delivery tools.
+category: marketing
+labels:
+- email marketing
+- deliverability
+- templates
+company:
+  organization: Elastic Email Inc.
+  headquarters: CA
+  founded: 2010
+  homepage: https://elasticemail.com
+  privacyPolicy: https://elasticemail.com/resources/usage-policies/privacy-policy
+  termsOfService: https://elasticemail.com/resources/usage-policies
+  statusPage: https://status.elasticemail.com/
+  securityPage: https://elasticemail.com/resources/usage-policies/security
+  linkedin: https://www.linkedin.com/company/elasticemail/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- elasticemail.com
+oauthDisplayNames:
+- Elastic Email

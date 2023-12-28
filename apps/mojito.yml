@@ -1,0 +1,42 @@
+id: mojito
+name: Mojito Inc
+description: Mojito is a service that facilitates the creation of individualized NFT marketplaces. It
+  aims to make blockchain technology more accessible to the general public by simplifying its integration.
+  This is achieved through innovative tech design and user-friendly interfaces. Mojito is highly regarded
+  among top-tier brands for its advanced web tools and infrastructure, making it a popular choice for
+  agencies seeking to enhance their commerce and customer engagement efforts. The service benefits from
+  the backing and experience of notable professionals and venture capitalists in the field. The company
+  is a product of the Serotonin Product Studio.
+category: others
+labels:
+- nft marketplace
+- tokenization
+- web3
+company:
+  organization: Mojito Inc
+  headquarters: US
+  founded: 2021
+  homepage: https://www.getmojito.com/
+  privacyPolicy: https://www.getmojito.com/privacy-and-cookies-policy
+  termsOfService: https://www.getmojito.com/terms
+  linkedin: https://www.linkedin.com/company/mojitoinc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Mojito Inc

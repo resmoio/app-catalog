@@ -1,0 +1,45 @@
+id: colab
+name: Google Colaboratory
+description: Google Colaboratory, colloquially known as Colab, is a cost-free, cloud-based platform by
+  Google. It was primarily designed to allow its users to write and run Python code collaboratively. Inside
+  Colab, computing environments, known as 'Runtimes', provide the required computational resources to
+  run the code. They also execute machine learning models and perform data analysis tasks. This platform
+  doesn't necessitate setting up physical development environments, which lets users utilize Google's
+  infrastructure for their computing needs. Users can opt for either CPU or GPU runtimes depending on
+  their respective requirements. Due to its versatile range of functions, Colab is used widely amongst
+  data scientists, researchers, and developers for coding experiments and running machine learning tests.
+  It further allows integration of Python executable code with charts, images, and text into a single
+  document, saved in Google Drive.
+category: development-tools
+labels:
+- google colab
+- jupyter notebooks
+- ml
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: https://colab.research.google.com
+  privacyPolicy: https://policies.google.com/privacy?hl=en
+  termsOfService: https://policies.google.com/terms?hl=en
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- colab.research.google.com
+oauthDisplayNames:
+- Google Colaboratory

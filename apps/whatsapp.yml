@@ -1,0 +1,41 @@
+id: whatsapp
+name: WhatsApp Messenger
+description: WhatsApp Messenger is an application that facilitates communication in various forms. It
+  is available at no cost and can be used across multiple platforms. It is currently under the supervision
+  of Meta. Individuals using this app can exchange text or voice messages, participate in voice and video
+  calls, and share different types of media files such as images and documents.
+category: chat
+labels:
+- messaging
+- chat
+- video calling
+company:
+  organization: Meta
+  headquarters: US
+  founded: 2009
+  homepage: https://www.whatsapp.com/
+  privacyPolicy: https://www.whatsapp.com/legal/privacy-policy
+  termsOfService: https://www.whatsapp.com/legal/terms-of-service
+  statusPage: https://metastatus.com/whatsapp-business-api
+  securityPage: https://business.whatsapp.com/trust-and-safety
+  linkedin: https://www.linkedin.com/company/whatsapp./
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- WhatsApp Messenger

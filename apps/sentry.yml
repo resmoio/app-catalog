@@ -1,0 +1,46 @@
+id: sentry
+name: Sentry
+description: Sentry is a software tool that logs and tracks application errors, helping developers identify
+  and rectify issues promptly. This enhances the stability and dependability of their software. As an
+  application monitoring platform, Sentry allows developers to view performance issues, correct errors
+  more swiftly, and refine the quality of their code. The software supports both self-hosted and cloud-based
+  application monitoring, enabling software teams to monitor performance, track errors, and continuously
+  learn and improve.
+category: monitoring
+labels:
+- error tracking
+- monitoring
+- debugging
+company:
+  organization: Sentry.io
+  headquarters: US
+  founded: 2012
+  homepage: https://sentry.io/welcome/
+  privacyPolicy: https://sentry.io/privacy/?original_referrer=https%3A%2F%2Fsentry.io%2Fwelcome%2F
+  termsOfService: https://sentry.io/terms/?original_referrer=https%3A%2F%2Fsentry.io%2Fpricing%2F%3Foriginal_referrer%3Dhttps%253A%252F%252Fsentry.io%252Fwelcome%252F
+  statusPage: https://status.sentry.io/
+  securityPage: https://sentry.io/security/?original_referrer=https%3A%2F%2Fsentry.io%2Fpricing%2F%3Foriginal_referrer%3Dhttps%253A%252F%252Fsentry.io%252Fwelcome%252F
+  linkedin: https://www.linkedin.com/company/getsentry/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+relatedDomains:
+- md.getsentry.com
+appDomains:
+- sentry.io
+oauthDisplayNames:
+- Sentry

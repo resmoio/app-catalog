@@ -1,0 +1,43 @@
+id: cultureamp
+name: Culture Amp
+description: Culture Amp is a platform that aids organizations in enhancing their understanding of their
+  workforce through the collection and analysis of employee feedback. It includes tools such as surveys
+  and feedback analysis to delve deeper into an organization's culture, providing valuable insights and
+  practical suggestions. These resources can assist companies in fostering a welcoming and positive work
+  atmosphere, which can result in increased productivity and more satisfied employees. Culture Amp additionally
+  integrates with Microsoft Teams, allowing employees to both give feedback and gain insights. As a comprehensive
+  platform, it encompasses performance and employee engagement tools, offering an intuitive experience
+  for users.
+category: hr
+labels:
+- engagement
+- feedback
+- surveys
+company:
+  organization: Culture Amp
+  headquarters: AU
+  founded: 2009
+  homepage: https://www.cultureamp.com/
+  privacyPolicy: https://www.cultureamp.com/privacy-policy
+  termsOfService: https://www.cultureamp.com/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cultureamp.com
+oauthDisplayNames:
+- Culture Amp

@@ -1,0 +1,40 @@
+id: jetbrains
+name: JetBrains Account
+description: The JetBrains Account is a system developed by JetBrains, a company that creates advanced
+  software tools. These tools are geared towards assisting in software development. Their product suite
+  includes IntelliJ IDEA, a prominent tool used in Java development, and they are also the originators
+  of the Kotlin programming language. Thus, JetBrains provides vital resources that cater to both individual
+  software developers and teamwork-based projects. Their focus is on the creation of smart, intuitive
+  tools to enhance the software development process.
+category: development-tools
+labels:
+- ide
+- developer tools
+- programming
+company:
+  organization: ''
+  homepage: https://jetbrains.com
+  privacyPolicy: https://www.jetbrains.com/privacy-security/
+  termsOfService: https://www.jetbrains.com/privacy-security/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- jetbrains.com
+oauthDisplayNames:
+- JetBrains Account
+- JetBrains Single Sign-on (Hub)

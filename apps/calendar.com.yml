@@ -1,0 +1,40 @@
+id: calendar.com
+name: Calendar.com
+description: Calendar.com is a comprehensive scheduling platform designed for both individual and team
+  use. This platform facilitates efficient time management and organization, offering tools for effortless
+  scheduling and facilitating seamless collaboration. The user interface is designed to be easily navigable,
+  and the system includes customizable settings to meet a variety of needs. Noteworthy features include
+  integration with other productivity tools and intelligent scheduling capabilities. Whether one's needs
+  are personal or professional, Calendar.com provides an effective solution for coordinating appointments
+  and managing time.
+category: productivity
+labels: []
+company:
+  organization: Calendar.com Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://calendar.com
+  privacyPolicy: https://www.calendar.com/privacy/
+  termsOfService: https://www.calendar.com/terms/
+  securityPage: https://www.calendar.com/security/
+  linkedin: https://www.linkedin.com/company/calendar/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Calendar.com

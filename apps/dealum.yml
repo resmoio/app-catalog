@@ -1,0 +1,42 @@
+id: dealum
+name: Dealum
+description: Dealum is an internet-based platform designed to simplify business-to-business transactions.
+  It provides a central location where companies can communicate with suppliers, manufacturers and service
+  providers to negotiate and conclude deals. The platform''s easy-to-use interface allows users to post
+  inquiries, collect quotes, and discuss terms, making the process of procurement straightforward and
+  efficient. In addition, Dealum promotes transparency and cooperation within business transactions, which
+  can enhance a company''s procurement strategy. The platform can also help businesses better manage their
+  applications and encourage more interaction with investors for smoother co-investment opportunities.
+category: sales
+labels:
+- b2b
+- procurement
+- marketplace
+company:
+  organization: Dealum OU
+  headquarters: EE
+  founded: 2017
+  homepage: https://dealum.com/
+  privacyPolicy: https://app.dealum.com/privacy.html
+  termsOfService: https://app.dealum.com/terms.html
+  linkedin: https://www.linkedin.com/company/dealum/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Dealum

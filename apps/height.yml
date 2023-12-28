@@ -1,0 +1,42 @@
+id: height
+name: Height
+description: Height is an application for managing software projects. It provides assistance by keeping
+  track of various tasks and facilitating real-time communication between team members. With adaptable
+  workflows, it can suit varying project management needs, covering everything from short-term sprints
+  and long-term milestones to releases and setting priorities. Please note, Height is currently not openly
+  available, but there is the option to join a waiting list.
+category: project-management
+labels:
+- agile project management
+- tasks
+- sprints
+company:
+  organization: HeightHQ, Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://height.app
+  privacyPolicy: https://height.app/terms
+  termsOfService: https://height.app/terms
+  statusPage: https://height.statuspage.io/
+  linkedin: https://www.linkedin.com/company/heightapp/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- height.app
+oauthDisplayNames:
+- Height

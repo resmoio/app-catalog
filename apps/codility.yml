@@ -1,0 +1,38 @@
+id: codility
+name: Codility
+description: Codility is an internet-based platform aimed at assessing and enhancing coding abilities.
+  It provides coding tasks and automated assessments to assist businesses in gauging the technical skills
+  of prospective employees. By utilizing a large collection of coding challenges and automatic assessment
+  tools, Codility aids in recognizing proficient individuals, contributing to the formation of an effective
+  technical team. For technology recruiters and hiring managers, Codility offers a convenient and rapid
+  method of engaging with, recruiting, and training proficient engineers.
+category: development-tools
+labels: []
+company:
+  organization: Codility
+  headquarters: US
+  founded: 2009
+  homepage: https://www.codility.com/
+  termsOfService: https://www.codility.com/terms-of-service/
+  privacyPolicy: https://www.codility.com/data-privacy-notice/
+  linkedin: https://www.linkedin.com/company/codility/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- codility.com
+oauthDisplayNames: []

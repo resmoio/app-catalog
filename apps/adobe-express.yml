@@ -1,0 +1,42 @@
+id: adobe-express
+name: Adobe Express
+description: Adobe Express is a versatile tool developed by Adobe Spark that aids in creating striking
+  visual stories, impactful graphics, and brief videos. It also enables efficient designing of logos and
+  other content. As a comprehensive tool for designing, photo editing, and video creation, it simplifies
+  content creation. Users can quickly and effortlessly create remarkable social content, videos, logos,
+  and more. Adobe Express also allows integration with Microsoft Teams for seamless sharing of generated
+  content.
+category: design
+labels: []
+company:
+  organization: Adobe
+  headquarters: US
+  founded: 1982
+  homepage: https://www.adobe.com/express/
+  statusPage: https://status.adobe.com/
+  privacyPolicy: https://www.adobe.com/privacy.html
+  termsOfService: https://www.adobe.com/legal/terms.html
+  securityPage: https://www.adobe.com/trust.html
+  linkedin: https://www.linkedin.com/company/adobe/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- adobe.com/express
+- express.adobe.com
+oauthDisplayNames:
+- Adobe Express

@@ -1,0 +1,37 @@
+id: yandex
+name: Yandex
+description: Yandex is a technology company from Russia that offers internet-based services. They run
+  the largest search engine in Russia and provide various other services like online storage. Built with
+  machine learning, their products are designed to help both consumers and businesses navigate the digital
+  and physical world more efficiently. Established in 1997, Yandex has been delivering locally relevant
+  search and information services, leading on-demand transportation services, navigation products, and
+  various mobile applications. Their services reach millions of users globally, and with 17 offices worldwide,
+  they have been publicly traded on NASDAQ since 2011.
+category: news-and-entertainment
+labels: []
+company:
+  organization: Yandex
+  headquarters: RU
+  founded: 1997
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- yandex.com
+oauthDisplayNames:
+- Yandex

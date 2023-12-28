@@ -1,0 +1,32 @@
+id: mulesoft-anypoint
+name: MuleSoft Anypoint Platform
+description: MuleSoft Anypoint Platform is a system that helps connect different applications, data, and
+  devices within both physical and online settings. It is equipped with instruments to design, build,
+  and handle APIs, as well as organize data flow and integrations. The platform includes features such
+  as API design, API analytics, and data mapping. By simplifying complex integrations, it makes it easier
+  for organizations to establish cohesive, interconnected experiences with their applications and services.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- anypoint.mulesoft.com
+oauthDisplayNames: []

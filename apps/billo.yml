@@ -1,0 +1,39 @@
+id: billo
+name: Billo
+description: Billo is an app that enables users to create a variety of short videos. Users have the freedom
+  to develop personalized content such as custom video ads, demonstrations, reviews, testimonies, and
+  product showcases. It's designed to help businesses extend their marketing reach and optimize return
+  on investment. Billo has a diverse community of creators who develop unique user-generated content.
+  It has served 17,000+ clients and continues to help brands discover winning creative strategies.
+category: others
+labels:
+- marketing
+- video
+- ugc
+company:
+  organization: ''
+  homepage: https://billo.app
+  privacyPolicy: https://billo.app/privacy-policy
+  termsOfService: https://billo.app/terms-of-service/
+  linkedin: https://lt.linkedin.com/company/billo
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- billo.app
+oauthDisplayNames:
+- Billo

@@ -1,0 +1,37 @@
+id: bentocloud
+name: BentoCloud
+description: BentoCloud is a platform that helps individuals build and operate applications that utilize
+  artificial intelligence (AI). It provides resources that manage the deployment of various models including
+  BentoML and OpenLLM. These resources aim to optimize performance, scalability, and cost-efficiency.
+  In simpler terms, BentoCloud makes the process of creating and using AI applications more manageable
+  and effective.
+category: cloud
+labels:
+- ai
+- mlops
+- infrastructure
+company:
+  organization: ''
+  homepage: https://www.bentoml.com/bento-cloud/
+  privacyPolicy: https://docs.google.com/document/d/1PlhrX5HTWNzICGBo2cUlIzF359gCV8hK/edit
+  linkedin: https://www.linkedin.com/company/bentoml/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- BentoCloud

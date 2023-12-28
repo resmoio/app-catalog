@@ -1,0 +1,39 @@
+id: feedly
+name: feedly
+description: Feedly is a service primarily designed to assist users in tracking, analyzing, and sharing
+  insights from various sources. Its function caters not only to businesses, looking to stay informed
+  about their competitors and industry trends, but also to individuals with a keen interest in staying
+  updated. The application leverages a set of machine learning models, referred to as Feedly AI, to gather
+  and analyze data from millions of sources. The real-time functionality allows users to promptly gather,
+  decipher, and share actionable insights. Feedly also enables connection with various websites and sources
+  based on the users' interests.
+category: news-and-entertainment
+labels: []
+company:
+  organization: feedly
+  headquarters: US
+  founded: 2006
+  homepage: https://feedly.com
+  privacyPolicy: https://feedly.com/i/legal/privacy
+  termsOfService: https://feedly.com/i/legal/terms
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- feedly.com
+oauthDisplayNames:
+- feedly

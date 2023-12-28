@@ -1,0 +1,44 @@
+id: warmly
+name: Warmly
+description: Warmly is an artificial intelligence-based platform designed to assist revenue teams in early
+  identification of market opportunities, leading to quicker progression. This platform tracks potential
+  buying intent signals across websites, outbound communications, and Client Relationship Management systems.
+  It offers insights that help teams achieve their pipeline goals and connect with potential clients efficiently.
+  Warmly facilitates effective determination of which accounts to prioritize, understanding the buyer
+  journey stages, and planning the most effective steps to expedite the pipeline. This app aims to enhance
+  the capabilities of your tech stack autonomously, without advocating for instant conversion of website
+  visitors.
+category: others
+labels:
+- sales intelligence
+- intent data
+- triggers
+company:
+  organization: Warmly
+  headquarters: US
+  founded: 2018
+  homepage: https://warmly.ai/
+  privacyPolicy: https://warmly.ai/p/privacy-policy
+  termsOfService: https://warmly.ai/p/terms-of-service
+  securityPage: https://security.warmly.ai/
+  linkedin: https://www.linkedin.com/company/warmly-ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Warmly

@@ -1,0 +1,42 @@
+id: vimeo
+name: Vimeo
+description: Vimeo is a video-sharing platform that lets users upload, view, and share high-quality videos.
+  The distinguishing feature of this platform is the absence of advertisements, offering a smoother viewing
+  experience. Vimeo additionally provides a range of tools for those involved in film-making, broadcasting,
+  and video content creation. These tools help in hosting, distributing, and monetizing content. It's
+  also equipped with features that facilitate video hosting, creation, live streaming, marketing, and
+  communication, making it a comprehensive tool for businesses that use video content.
+category: content-sharing
+labels:
+- video hosting
+- streaming
+- sharing
+company:
+  organization: Vimeo
+  headquarters: US
+  founded: 2004
+  homepage: https://vimeo.com/
+  privacyPolicy: https://vimeo.com/privacy
+  termsOfService: https://vimeo.com/terms
+  linkedin: https://www.linkedin.com/company/vimeo/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vimeo.com
+oauthDisplayNames:
+- Vimeo

@@ -1,0 +1,32 @@
+id: kommunity
+name: Kommunity
+description: Kommunity is an online platform designed to help users create and manage online communities.
+  It offers features that enable the creation of discussion spaces, social networks, and collaboration
+  areas. In these spaces, community members can share, discuss, and connect over shared interests. Kommunity
+  also facilitates user profile management, activity monitoring, and group organization. It serves as
+  a useful tool for organizations and individuals aiming to develop and maintain vibrant online communities.
+category: social-media
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- kommunity.com
+oauthDisplayNames: []

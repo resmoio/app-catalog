@@ -1,0 +1,39 @@
+id: yesware
+name: Yesware
+description: Yesware is a tool designed to assist sales teams in effectively managing their email communication.
+  It simplifies the process of reaching out to prospects, scheduling meetings, and conducting follow-ups
+  through email. This software suits sales professionals looking for a streamlined approach to enhance
+  their email-driven revenue without the complexity of larger platforms.
+category: mail
+labels:
+- sales engagement
+- email tracking
+- analytics
+company:
+  organization: Yesware
+  headquarters: US
+  founded: 2010
+  homepage: https://www.yesware.com
+  privacyPolicy: https://www.yesware.com/privacy/
+  termsOfService: https://www.yesware.com/privacy/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- yesware.com
+oauthDisplayNames:
+- Yesware

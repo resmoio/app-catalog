@@ -1,0 +1,41 @@
+id: rows
+name: Rows
+description: Rows, formerly known as dashdash, is a platform that enables users to create enhanced spreadsheets
+  that can be converted into web applications. It integrates with various web services, including Google
+  Maps and LinkedIn, to allow comprehensive data analysis and workflow automation. With a user-friendly
+  design and sharing features, Rows aims to improve team efficiency by reinventing traditional spreadsheet
+  functionality.
+category: data-analytics
+labels:
+- spreadsheets
+- automation
+- analytics
+company:
+  organization: Rows
+  headquarters: DE
+  founded: 2016
+  homepage: https://rows.com/
+  privacyPolicy: https://rows.com/privacy
+  termsOfService: https://rows.com/terms
+  securityPage: https://rows.com/docs/how-do-you-manage-security
+  linkedin: https://www.linkedin.com/company/rowshq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Rows

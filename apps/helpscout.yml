@@ -1,0 +1,44 @@
+id: helpscout
+name: Help Scout
+description: Help Scout is a software designed to help businesses offer quality customer service in an
+  easy and efficient manner. It includes tools for team-based email management, a knowledge base, and
+  automation abilities that are aimed at improving customer engagements and simplifying support procedures.
+  The software consolidates these handy tools - shared inbox, a help center, and live chat features -
+  providing growing businesses with a unified platform for handling customer communications. With scalability
+  in mind, Help Scout stands as a comprehensive solution to delivering top-tier customer support.
+category: customer-support
+labels:
+- help desk
+- shared inbox
+- live chat
+company:
+  organization: Help Scout
+  headquarters: US
+  founded: 2011
+  homepage: https://www.helpscout.com/
+  privacyPolicy: https://www.helpscout.com/company/legal/privacy/
+  termsOfService: https://www.helpscout.com/company/legal/terms-of-service/
+  statusPage: https://status.helpscout.com/
+  securityPage: https://www.helpscout.com/company/legal/security/
+  linkedin: https://www.linkedin.com/company/help-scout/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- helpscout.net
+oauthDisplayNames:
+- Help Scout

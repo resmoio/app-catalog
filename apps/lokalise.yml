@@ -1,0 +1,44 @@
+id: lokalise
+name: Lokalise
+description: Lokalise is a translation management system built to streamline the localization process
+  for teams. Primarily targeted at agile teams, it offers mobile SDKs, APIs, and command-line tools for
+  developers to assist in localization. It also provides project automation and text recognition features
+  for ease of use. Lokalise's cloud-based platform is recognized for its user-friendly interface and efficient
+  operation. It is designed to simplify localization workflow through automation, aiming to make the process
+  less complicated for its users.
+category: marketing
+labels:
+- localization
+- translation
+- api
+company:
+  organization: Lokalise
+  headquarters: US
+  founded: 2017
+  homepage: https://lokalise.com/
+  privacyPolicy: https://lokalise.com/privacy-policy
+  termsOfService: https://lokalise.com/terms
+  statusPage: https://status.lokalise.com/
+  securityPage: https://lokalise.com/product/security
+  linkedin: https://www.linkedin.com/company/lokalise/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- lokalise.com
+oauthDisplayNames:
+- Lokalise

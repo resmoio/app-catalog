@@ -1,0 +1,42 @@
+id: basedash
+name: Basedash
+description: Basedash is a platform that allows users to easily link and interact with any SQL database.
+  It simplifies data management, providing tools to view, edit, and share data queries. Additionally,
+  it can connect with diverse APIs, such as Stripe, to facilitate comprehensive data management. A central
+  feature of Basedash is its ability to automatically manage tasks upon database connection, such as creating
+  dashboards, charts, and conducting CRUD operations, making it accessible even to those without significant
+  technical skill.
+category: data-analytics
+labels:
+- databases
+- api
+- google sheets
+company:
+  organization: Basedash
+  headquarters: CA
+  founded: 2020
+  homepage: https://www.basedash.com/
+  privacyPolicy: https://www.basedash.com/privacy-policy
+  termsOfService: https://www.basedash.com/terms-of-service
+  statusPage: https://status.basedash.com/
+  linkedin: https://www.linkedin.com/company/basedash/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Basedash

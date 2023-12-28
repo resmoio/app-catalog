@@ -1,0 +1,34 @@
+id: funnelfly
+name: Funnelfly
+description: Funnelfly is a software tool designed by Harmony Venture Labs, a group specializing in supporting
+  startup companies. The team, which comprises individuals with expertise in innovation, design, marketing,
+  and operations, focuses on fostering rapid growth in new businesses. Funnelfly contributes to these
+  efforts by providing startups with a platform that aids in their launch and expansion.
+category: marketing
+labels:
+- startups
+- product development
+- growth
+company:
+  organization: ''
+  homepage: https://funnelfly.com
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Funnelfly

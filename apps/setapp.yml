@@ -1,0 +1,41 @@
+id: setapp
+name: Setapp
+description: Setapp, developed by MacPaw, provides a variety of tools for Mac and iPhone users designed
+  to optimize daily tasks and improve efficiency. The app acts as a centralized location, compiling a
+  range of diverse software options that cater to different needs. With an emphasis on making tasks simpler,
+  Setapp offers users comprehensive access to these tools through a subscription service. This collection
+  of apps is designed to be powerful yet user-friendly, streamlining the experience for both Mac and iOS
+  users.
+category: productivity
+labels:
+- mac apps
+- productivity tools
+- bundle
+company:
+  organization: Setapp Limited
+  headquarters: IE
+  founded: 2016
+  homepage: https://setapp.com
+  privacyPolicy: https://setapp.com/privacy-policy
+  termsOfService: https://setapp.com/terms-of-use
+  linkedin: https://www.linkedin.com/company/setappltd/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Setapp

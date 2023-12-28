@@ -1,0 +1,45 @@
+id: supermetrics
+name: Supermetrics
+description: Supermetrics is a platform designed to assist digital marketers in centralizing their performance
+  metrics for easier analysis and reporting. It works with diverse platforms including Google Analytics,
+  Google Ads, Facebook, and more, facilitating direct data extraction into tools like Excel and Google
+  Sheets. By allowing users to gather data from over 70 marketing and sales platforms, the application
+  simplifies the process of data collation. The main advantage of Supermetrics is its integrated approach,
+  which can break down data silos and offer users a more comprehensive view of their performance metrics
+  across various platforms.
+category: web-analytics
+labels:
+- reporting
+- data imports
+- analytics
+company:
+  organization: Supermetrics
+  headquarters: FI
+  founded: 2013
+  homepage: https://supermetrics.com/
+  privacyPolicy: https://supermetrics.com/privacy-policy
+  termsOfService: https://supermetrics.com/terms-of-service
+  statusPage: https://status.supermetrics.com/
+  securityPage: https://supermetrics.com/security
+  linkedin: https://www.linkedin.com/company/supermetrics/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- supermetrics.com
+oauthDisplayNames:
+- Supermetrics

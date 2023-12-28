@@ -1,0 +1,40 @@
+id: donut
+name: Donut
+description: Donut is a tool that integrates with Slack to facilitate better connections within teams.
+  It creates opportunities for spontaneous virtual coffee breaks, promotes peer-to-peer learning, and
+  encourages discussions on diversity, equity, and inclusion (DEI). By doing so, it aims to enhance team
+  engagement and understanding of the organization. Essentially, the purpose of Donut is to strengthen
+  team dynamics and foster a better company culture through casual interactions and meaningful conversations.
+category: productivity
+labels:
+- employee engagement
+- networking
+- slack
+company:
+  organization: Donut
+  headquarters: US
+  founded: 2016
+  homepage: https://www.donut.com
+  privacyPolicy: https://www.donut.com/privacy/
+  termsOfService: https://www.donut.com/terms/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- donut.com
+oauthDisplayNames:
+- Donut

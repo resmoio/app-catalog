@@ -1,0 +1,38 @@
+id: locofyai
+name: locofy.ai
+description: Locofy.ai is a platform that aids in the swift launch of digital projects. It turns design
+  concepts into ready-for-use code smoothly, enabling both designers and engineers to work more efficiently.
+  This streamlined conversion process can enhance the speed of product releases significantly. The aim
+  of Locofy.ai is to automate the transition from design to code, reducing time and effort in the process.
+category: design
+labels:
+- design to code
+- wireframes
+- automation
+company:
+  organization: Locofy Pte Ltd.
+  headquarters: Singapore
+  founded: 2021
+  homepage: https://locofy.ai
+  privacyPolicy: https://static.locofy.ai/locofy-privacy-policy.pdf
+  termsOfService: https://static.locofy.ai/Terms%20&%20Conditions.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- locofy.ai

@@ -1,0 +1,37 @@
+id: dubverse
+name: Dubverse
+description: Dubverse is a platform that utilizes artificial intelligence to facilitate the dubbing of
+  online videos. The tool supports up to 30 different languages and is known for offering quick results.
+  Designed to help users easily dub videos, it removes the need for manual effort typically associated
+  with this process. To summarize, Dubverse is an efficient tool for anyone in need of fast, varied language
+  dubbing services for online video content.
+category: others
+labels:
+- video dubbing
+- voiceover
+- ai
+company:
+  organization: ''
+  homepage: https://dubverse.ai/
+  privacyPolicy: https://dubverse.ai/privacy-policy/
+  termsOfService: https://dubverse.ai/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Dubverse

@@ -1,0 +1,36 @@
+id: diagram
+name: Diagram
+description: Diagram is a design application that uses artificial intelligence to enhance your creative
+  process. Its tools, powered by advanced technology, aid in generating unique design elements. Individuals
+  looking to express their creativity can find this application quite useful as it can assist in bringing
+  their ideas to life in a visually appealing manner.
+category: design
+labels:
+- visualization
+- wireframing
+- design
+company:
+  organization: ''
+  homepage: https://diagram.com
+  privacyPolicy: https://diagram.com/privacy
+  termsOfService: https://diagram.com/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Diagram

@@ -1,0 +1,42 @@
+id: uizard
+name: Uizard
+description: Uizard is a software that uses artificial intelligence to convert basic wireframes into functional
+  prototypes and front-end code. This process allows users to quickly transform their ideas into usable
+  digital interfaces. The platform is particularly helpful for those who may not have a strong background
+  in coding or design since it simplifies the creation of mobile apps, websites, and user interfaces.
+  The main distinguishing feature of Uizard is its AI-powered technology which streamlines the design
+  and development process, making it both efficient and accessible to people without specialized skills.
+category: design
+labels:
+- website prototyping
+- wireframing
+- design
+company:
+  organization: Uizard
+  headquarters: DK
+  founded: 2018
+  homepage: https://uizard.io/
+  privacyPolicy: https://uizard.io/privacy/
+  termsOfService: https://uizard.io/terms-of-service/
+  linkedin: https://www.linkedin.com/company/uizard/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- uizard.io
+oauthDisplayNames:
+- Uizard

@@ -1,0 +1,40 @@
+id: workato
+name: Workato
+description: Workato is an enterprise automation platform designed to enhance organizational operations
+  by facilitating faster and smarter workflows. Not just an integration platform as a service (iPaaS),
+  Workato additionally offers intelligent automation, making it useful for both business and IT sectors.
+  It emphasizes the importance of maintaining governance and security while improving work efficiency.
+  The platform supports thousands of applications, underscoring its versatility and comprehensive applicability.
+category: productivity
+labels:
+- workflow automation
+- rpa
+- integrations
+company:
+  organization: Workato
+  headquarters: US
+  founded: 2013
+  homepage: https://workato.com
+  privacyPolicy: https://www.workato.com/legal/privacy-policy
+  termsOfService: https://www.workato.com/legal/terms-of-service
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- workato.com
+oauthDisplayNames:
+- Workato

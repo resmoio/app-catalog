@@ -1,0 +1,41 @@
+id: headway
+name: Headway
+description: Headway is a tool that allows users to efficiently inform their customers about product updates.
+  It offers customization options, allowing the updates to reflect the company's branding. Additionally,
+  these updates can be hosted on the company's domain for easy access. To facilitate communication, Headway
+  integrates with Slack and Twitter, ensuring that all stakeholders, including teams and customers, are
+  updated on any product changes. It also supports collaboration by permitting multiple team members to
+  post updates. This tool includes a scheduling feature, permitting users to plan announcements ahead
+  of time, thus helping them manage their time better.
+category: marketing
+labels:
+- changelogs
+- release notes
+- engagement
+company:
+  organization: Headway App Inc.
+  headquarters: US
+  homepage: https://headwayapp.co
+  privacyPolicy: https://headwayapp.co/privacy
+  termsOfService: https://headwayapp.co/terms
+  securityPage: https://headwayapp.co/security
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Headway

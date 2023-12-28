@@ -1,0 +1,37 @@
+id: founderpass
+name: FounderPass
+description: FounderPass is a platform tailored specifically for founders and startups. It provides access
+  to a wide range of software, tools, and subscriptions, with considerable discounts potentially saving
+  users over one million dollars. The platform houses hundreds of deals that are readily available upon
+  joining, which is free of charge. While geared toward founders and startups, any user seeking to optimize
+  their digital resources may find value in the offered discounts.
+category: others
+labels:
+- startup discounts
+- deals
+- tools
+company:
+  organization: ''
+  homepage: https://www.founderpass.com
+  privacyPolicy: https://www.founderpass.com/privacy-policy
+  termsOfService: https://www.founderpass.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- FounderPass

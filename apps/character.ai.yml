@@ -1,0 +1,38 @@
+id: character.ai
+name: character.ai
+description: Character.ai is a software that supports open-ended conversation creation between users and
+  their designed characters. This technology aims to realize aspects of science fiction by facilitating
+  interactive communication and cooperative tasks with computers. Utilizing artificial intelligence, this
+  conversational application enables users to engage with their imaginative avatars, enhancing digital
+  interactions with personal creations on screen.
+category: productivity
+labels: []
+company:
+  organization: Character.ai
+  headquarters: US
+  founded: 2021
+  homepage: https://beta.character.ai/
+  privacyPolicy: https://beta.character.ai/privacy
+  termsOfService: https://beta.character.ai/tos
+  linkedin: https://www.linkedin.com/company/character-ai
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- character.ai
+oauthDisplayNames:
+- Character.AI

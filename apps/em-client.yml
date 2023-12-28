@@ -1,0 +1,35 @@
+id: em-client
+name: EM Client
+description: EM Client is a desktop application available for Windows and macOS users. It facilitates
+  communication by providing tools for sending and receiving emails. In addition, it allows users to manage
+  their calendars, tasks, contacts, and notes all in one place. It is primarily used as an email client,
+  but its other features also aid in organizing different aspects of a user's life or work. To use it,
+  one has to install the software on their desktop.
+category: mail
+labels: []
+company:
+  organization: EM Client
+  headquarters: US
+  founded: 2007
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- emclient.com
+oauthDisplayNames:
+- eM Client

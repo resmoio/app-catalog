@@ -1,0 +1,65 @@
+id: bitbucket
+name: Bitbucket
+description: Bitbucket is an online service owned by Atlassian that hosts version control repositories.
+  It is designed for managing and storing source code and development projects that are regulated through  Mercurial
+  or Git. The service provides useful features such as pull requests, branch permissions, and in-line
+  commenting, which make collaboration on code easier. Bitbucket also integrates well with other Atlassian
+  products. Furthermore, Bitbucket Cloud, a component of the service, is specifically devised to enhance
+  operating compatibility for teams using Jira through its Git-based code and CI/CD tool.
+category: code-hosting
+labels:
+- version control
+- git
+- atlassian
+company:
+  organization: Atlassian
+  headquarters: US
+  founded: 2008
+  homepage: https://bitbucket.org/product/
+  privacyPolicy: https://www.atlassian.com/legal/privacy-policy
+  termsOfService: https://www.atlassian.com/legal/cloud-terms-of-service
+  statusPage: https://status.atlassian.com/
+  securityPage: https://www.atlassian.com/trust
+  linkedin: https://www.linkedin.com/products/atlassian-bitbucket/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- bitbucket.org
+registrationEmails:
+- noreply@atlassian.com
+oauthDisplayNames: []
+appRelations:
+  byRegex:
+    sentry:
+    - sentry.io
+    actioner:
+    - api.actioner.com
+    snyk:
+    - api.snyk.io
+    vercel:
+    - api.vercel.com
+    serverless:
+    - .*.cloud.serverless.com
+    azuredevops:
+    - dev.azure.com
+    slack:
+    - hooks.slack.com
+    azure:
+    - .*.scm.azurewebsites.net
+    aws:
+    - .*.amazonaws.com

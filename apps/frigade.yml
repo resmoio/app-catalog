@@ -1,0 +1,38 @@
+id: frigade
+name: Frigade
+description: Frigade is a tool that allows users to create high-quality product onboarding processes more
+  efficiently. The application is built with React Components, which are designed in an aesthetically
+  pleasing manner. It is integrated with a powerful API and platform, which further enhances its utility
+  and performance. The users can use the Frigade API and SDK to improve and speed up their product onboarding
+  procedures.
+category: others
+labels:
+- product onboarding
+- guides
+- analytics
+company:
+  organization: ''
+  homepage: https://frigade.com
+  privacyPolicy: https://frigade.com/privacy
+  termsOfService: https://frigade.com/privacy
+  linkedin: https://linkedin.com/company/frigade
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Frigade

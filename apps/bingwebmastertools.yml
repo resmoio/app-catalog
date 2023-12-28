@@ -1,0 +1,38 @@
+id: bingwebmastertools
+name: Bing Webmaster Tools
+description: Bing Webmaster Tools is a complimentary service offered by Microsoft's Bing that enables
+  site owners to maintain and observe their website's performance on the Bing search index. This service
+  provides a set of tools that assist in identifying website problems, understanding the source and dynamics
+  of search traffic, submitting site navigation guides (sitemaps), and providing insights into factors
+  influencing site visitation.
+category: web-analytics
+labels:
+- seo
+- bing
+- webmaster
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 2009
+  homepage: https://www.bing.com/webmasters/about
+  statusPage: https://portal.office.com/servicestatus
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- Bing Webmaster Tools

@@ -1,0 +1,40 @@
+id: linked-helper
+name: Linked Helper
+description: Linked Helper is a tool that automates various processes on LinkedIn, intended to streamline
+  business outreach. It's designed to aid businesses in finding and interacting with prospective clients
+  across different industries on LinkedIn. The tool can execute tasks like mass-messaging and automatic
+  connection requests to help businesses identify and engage with potential clients more effectively.
+  It can also enable actions like profile exporting, automatic endorsing, and group invites. The primary
+  purpose of Linked Helper is to help turn these potential clients into regular customers.
+category: sales
+labels:
+- linkedin automation
+- outreach
+- leads
+company:
+  organization: Linked Helper LLC
+  headquarters: US
+  founded: 2016
+  homepage: https://www.linkedhelper.com/
+  privacyPolicy: https://www.linkedhelper.com/privacy.pdf
+  termsOfService: https://www.linkedhelper.com/privacy.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Linked Helper

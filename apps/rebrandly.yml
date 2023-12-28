@@ -1,0 +1,35 @@
+id: rebrandly
+name: Rebrandly
+description: Rebrandly is a simple yet effective app designed for managing and shortening web URLs. It's
+  widely recognized for its branded link management capability. This tool primarily assists users in transforming
+  lengthy links into shorter, custom domain URLs. Additionally, it includes a powerful software that aids
+  in tracking and studying the performance of these short URLs, offering valuable insights about their
+  usage. Notably, Rebrandly is available for usage free of cost.
+category: marketing
+labels: []
+company:
+  organization: Rebrandly
+  headquarters: IE
+  founded: 2015
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- rebrandly.com
+oauthDisplayNames:
+- Rebrandly

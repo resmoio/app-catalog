@@ -1,0 +1,39 @@
+id: wondershare
+name: Wondershare Account
+description: Wondershare Account is an application developed by the international technology company,
+  Wondershare. This company designs software solutions that can be used on various platforms. Wondershare
+  Account provides a selection of tools including video editing, data recovery, and PDF editing, among
+  others. Some of the most widely-used software from Wondershare includes Filmora and Dr.Fone. The application
+  aims to boost creativity and productivity by providing efficient technological solutions.
+category: others
+labels:
+- media software
+- utilities
+- mobile
+company:
+  organization: Wondershare Recoverit
+  headquarters: CN
+  founded: 2003
+  homepage: https://www.wondershare.com/
+  privacyPolicy: https://www.wondershare.com/privacy.html?_ga=2.190666987.1150699600.1632109678-846562844.1629965981
+  termsOfService: wondershare.com/privacy.html?_ga=2.190666987.1150699600.1632109678-846562844.1629965981
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Wondershare Account

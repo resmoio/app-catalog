@@ -1,0 +1,38 @@
+id: sahibinden
+name: sahibinden
+description: Sahibinden is an online classifieds and e-commerce application originating from Turkey. Established
+  in 2000, it accommodates a variety of categories such as real estate, vehicles, jobs, and services.
+  It has firmly established itself as a leading online marketplace in Turkey, offering users from diverse
+  backgrounds the opportunity to buy and sell goods and services smoothly and conveniently.
+category: e-commerce
+labels:
+- online marketplace
+- classifieds
+- turkey
+company:
+  organization: sahibinden
+  headquarters: TR
+  founded: 2000
+  homepage: https://www.sahibinden.com/
+  privacyPolicy: https://www.sahibinden.com/sozlesmeler/
+  termsOfService: https://www.sahibinden.com/sozlesmeler/kullanim-kosullari-35
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- sahibinden

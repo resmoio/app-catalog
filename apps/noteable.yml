@@ -1,0 +1,37 @@
+id: noteable
+name: Noteable
+description: Noteable is an application that provides a collaborative platform for data visualization
+  and manipulation. It combines the capabilities of SQL, Python, R, along with no-code data visualization
+  tools in a user-friendly data notebook format inspired by Jupyter notebooks. The application simplifies
+  complex processes such as Exploratory Data Analysis (EDA) and Extract, Transform, Load (ETL) operations,
+  making them accessible and manageable for multiple users within the same workspace.
+category: productivity
+labels:
+- spreadsheets
+- r
+- python
+company:
+  organization: ''
+  homepage: https://noteable.io
+  privacyPolicy: https://noteable.io/wp-content/uploads/2022/08/Privacy-Policy.pdf
+  termsOfService: https://noteable.io/wp-content/uploads/2022/08/Privacy-Policy.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Noteable

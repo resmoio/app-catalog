@@ -1,0 +1,35 @@
+id: pdf2go
+name: pdf2go.com
+description: PDF2Go is an online tool that offers users the ability to edit, merge, and secure PDF files.
+  It serves as both a PDF editor and a converter without requiring any software installation. Users can
+  access these services directly through the web.
+category: productivity
+labels:
+- pdf converter
+- editor
+- ocr
+company:
+  organization: ''
+  homepage: https://www.pdf2go.com
+  privacyPolicy: https://www.pdf2go.com/privacy
+  termsOfService: https://www.pdf2go.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- pdf2go.com

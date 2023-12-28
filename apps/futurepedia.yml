@@ -1,0 +1,37 @@
+id: futurepedia
+name: Futurepedia
+description: Futurepedia is a comprehensive directory where users can explore over 5000 Artificial Intelligence
+  (AI) tools spanning various categories such as copywriting, image creation, and video editing. The app
+  includes features that allow users to search for specific tools and filter them based on categories,
+  price, and other characteristics. This ensures that the users find the right AI resources to meet their
+  unique requirements.
+category: others
+labels:
+- ai directory
+- tools
+- use cases
+company:
+  organization: ''
+  homepage: https://futurepedia.io
+  privacyPolicy: https://www.futurepedia.io/privacy-policy
+  termsOfService: https://www.futurepedia.io/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Futurepedia

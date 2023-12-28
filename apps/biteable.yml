@@ -1,0 +1,40 @@
+id: biteable
+name: Biteable
+description: Biteable is an online video making tool that lets users produce short, engaging videos and
+  animations easily. It provides a platform for creating professional-quality content that aligns with
+  the user's brand identity. Whether you are a beginner or an expert, Biteable can help you generate
+  useful visual materials in just minutes.
+category: design
+labels:
+- video
+- marketing
+- templates
+company:
+  organization: Biteable
+  headquarters: AU
+  founded: 2014
+  homepage: https://biteable.com
+  privacyPolicy: https://biteable.com/privacy-policy/
+  termsOfService: https://biteable.com/terms-of-service/
+  linkedin: https://www.linkedin.com/company/biteable/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- biteable.com
+oauthDisplayNames:
+- Biteable

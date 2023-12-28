@@ -1,0 +1,44 @@
+id: canva
+name: Canva
+description: Canva is an online platform specifically designed for creating different types of visual
+  content. This can include things like social media graphics, posters, presentations, and much more.
+  It uses an intuitive drag-and-drop interface and provides users with a large selection of templates,
+  images, and fonts. This makes it an accessible tool for both professional designers and those without
+  a background in design. Canva is also noteworthy for its user-friendly nature, which makes the process
+  of online designing and publishing easier for everyone.
+category: design
+labels:
+- graphic design
+- templates
+- publishing
+company:
+  organization: Canva
+  headquarters: AU
+  founded: 2012
+  homepage: https://www.canva.com/
+  privacyPolicy: https://www.canva.com/policies/privacy-policy/
+  termsOfService: https://www.canva.com/policies/terms-of-use/
+  statusPage: https://www.canvastatus.com/
+  securityPage: https://www.canva.com/security/
+  linkedin: https://www.linkedin.com/company/canva/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- canva.com
+oauthDisplayNames:
+- Canva

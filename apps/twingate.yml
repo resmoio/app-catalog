@@ -1,0 +1,41 @@
+id: twingate
+name: Twingate
+description: Twingate is a contemporary tool for remote access that simplifies and elevates the security
+  of accessing corporate applications and resources. Unlike the conventional VPN, Twingate makes the Zero
+  Trust Network Access highly deployable and straightforward to use while continually ensuring the security
+  of company resources. It specifically focuses on enhancing security, scalability, and user experience
+  to provide seamless access.
+category: security
+labels:
+- zero trust network access
+- remote access
+- security
+company:
+  organization: Twingate
+  headquarters: US
+  founded: 2019
+  homepage: https://www.twingate.com/
+  privacyPolicy: https://www.twingate.com/privacy
+  termsOfService: https://www.twingate.com/terms
+  securityPage: https://www.twingate.com/docs/security-policies
+  linkedin: https://www.linkedin.com/company/twingate/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Twingate

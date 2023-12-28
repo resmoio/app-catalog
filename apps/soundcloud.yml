@@ -1,0 +1,42 @@
+id: soundcloud
+name: SoundCloud
+description: SoundCloud is an international music streaming service where artists can upload and share
+  their work with listeners globally. It's a welcoming platform for both well-known and budding artists,
+  fostering direct connections with fans across various music genres and types of audio content. Users
+  can create, share, and listen to music, with a library that spans over 320 million tracks. Moreover,
+  SoundCloud forms the largest online community of musicians, bands, DJs, and audio creators worldwide.
+category: news-and-entertainment
+labels:
+- music streaming
+- audio sharing
+- podcasts
+company:
+  organization: SoundCloud
+  headquarters: DE
+  founded: 2007
+  homepage: https://soundcloud.com/
+  privacyPolicy: https://soundcloud.com/pages/privacy
+  termsOfService: https://soundcloud.com/terms-of-use
+  statusPage: https://help.soundcloud.com/hc/en-us/articles/4413524848667-SoundCloud-Status
+  linkedin: https://www.linkedin.com/company/soundcloud/s
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- soundcloud.com
+oauthDisplayNames:
+- SoundCloud

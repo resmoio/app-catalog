@@ -1,0 +1,40 @@
+id: sikayetvar
+name: Şikayetvar
+description: The app, Sikayetvar, serves as an effective platform in Turkey for consumers to share their
+  experiences, both positive and negative, about different companies, products, or services. As the app's
+  primary function is to facilitate communication between customers and companies, it assists in problem-solving
+  and enhances service quality. In addition to posting their own experiences, users also have the opportunity
+  to gain insights from the reviews and comments posted by other customers.
+category: others
+labels:
+- consumer complaints
+- customer feedback
+- turkey
+company:
+  organization: Şikayetvar
+  headquarters: TR
+  founded: 2001
+  homepage: https://www.sikayetvar.com/
+  privacyPolicy: https://www.sikayetvar.com/gizlilik-politikasi
+  termsOfService: https://www.sikayetvar.com/uyelik-sozlesmesi
+  linkedin: https://www.linkedin.com/company/sikayetvar/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Şikayetvar

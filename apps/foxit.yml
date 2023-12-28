@@ -1,0 +1,33 @@
+id: foxit
+name: Foxit
+description: Foxit is a software tool designed to handle PDF files effectively and securely.
+  It offers several features including editing and electronic signature tools. Developed with business
+  operations in mind, Foxit provides cost-effective and prompt solutions for managing PDF documents.
+category: productivity
+labels:
+- pdf editor
+- reader
+- esignatures
+company:
+  organization: ''
+  homepage: https://www.foxitsoftware.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Foxit

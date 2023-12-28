@@ -1,0 +1,42 @@
+id: campsite
+name: Campsite
+description: Campsite is a biotechnology company that concentrates on creating advanced and sustainable
+  solutions for diverse sectors. The company is managed by a seasoned team of scientists and researchers
+  who endeavor to develop influential products that confront environmental issues and enhance human well-being.
+  The product ranges span from bio-based materials to solutions for renewable energy. These technologically
+  savvy solutions are fostering an eco-friendly and long-lasting future. Additionally, Campsite offers
+  a cloud-based camp management software solution, providing an integrated system for managing camp operations.
+category: others
+labels:
+- sustainability
+- technology
+- innovation
+company:
+  organization: CampSite
+  headquarters: US
+  founded: 2012
+  homepage: https://campsite.bio/
+  privacyPolicy: https://campsite.bio/privacy
+  termsOfService: https://campsite.bio/terms
+  linkedin: https://www.linkedin.com/company/campsitebio/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- campsite.bio
+oauthDisplayNames:
+- Campsite

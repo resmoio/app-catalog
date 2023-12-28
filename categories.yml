@@ -1,0 +1,143 @@
+- id: accounting-and-finance
+  category: Accounting and Finance
+  description: Tools for bookkeeping, invoicing, and expense tracking.
+
+- id: advertising
+  category: Advertising
+  description: Platforms for targeted marketing campaigns and brand promotion.
+
+- id: business-intelligence
+  category: Business Intelligence
+  description: Platforms for data analysis and informed decision-making.
+
+- id: custom
+  category: Custom
+  description: Tailor-made solutions catering to specific needs and preferences.
+
+- id: crm
+  category: CRM
+  description: Tools for managing customer interactions and relationships efficiently.
+
+- id: chat
+  category: Chat
+  description: Real-time communication platforms for team collaboration and discussions.
+
+- id: cloud-computing-platform
+  category: Cloud Computing Platform
+  description: Scalable cloud services for application hosting and management.
+
+- id: code-hosting
+  category: Code Hosting
+  description: Online spaces to collaborate on and store code repositories.
+
+- id: content-management
+  category: Content Management
+  description: Systems for creating, organizing, and publishing digital content.
+
+- id: content-sharing
+  category: Content Sharing
+  description: Platforms for easy distribution and sharing of digital content.
+
+- id: customer-support
+  category: Customer Support
+  description: Tools for assisting and resolving customer issues.
+
+- id: data-analytics
+  category: Data Analytics
+  description: Tools to analyze data and extract valuable insights.
+
+- id: design
+  category: Design
+  description: Software for creating visual designs and graphics.
+
+- id: development-tools
+  category: Development Tools
+  description: Tools for aiding software development and coding processes.
+
+- id: e-commerce
+  category: E-commerce
+  description: Online platforms for buying and selling products.
+
+- id: education
+  category: Education
+  description: Digital platforms for learning and educational resources.
+
+- id: enterprise-it-services
+  category: Enterprise IT Services
+  description: Services optimizing and managing enterprise-level IT needs.
+
+- id: forums
+  category: Forums
+  description: Online platforms for discussions and knowledge sharing.
+
+- id: hosting-services
+  category: Hosting Services
+  description: Platforms providing web hosting solutions.
+
+- id: human-resources-tooling
+  category: Human Resources (HR) Tooling
+  description: Tools for human resources management and operations.
+
+- id: identity-and-access
+  category: Identity and Access
+  description: Solutions for secure user identity and access management.
+
+- id: instant-personal-messaging
+  category: Instant Personal Messaging
+  description: Applications for real-time private communication.
+
+- id: mail
+  category: Mail
+  description: Platforms for electronic communication and messaging.
+
+- id: marketing
+  category: Marketing
+  description: Tools for promoting products and services.
+
+- id: monitoring
+  category: Monitoring
+  description: Systems tracking and analyzing performance metrics.
+
+- id: news-and-entertainment
+  category: News and Entertainment
+  description: Platforms for news and entertainment content consumption.
+
+- id: online-meetings
+  category: Online Meetings
+  description: Virtual platforms for remote meetings and collaboration.
+
+- id: productivity
+  category: Productivity
+  description: Enhance efficiency and task management.
+
+- id: project-management
+  category: Project Management
+  description: Software for managing projects and tasks.
+
+- id: sales
+  category: Sales
+  description: Tools for managing and optimizing sales processes.
+
+- id: security
+  category: Security
+  description: Protect systems, data, and information from threats.
+
+- id: seo
+  category: SEO
+  description: Tools for improving online visibility through search engine optimization.
+
+- id: social-media
+  category: Social Media
+  description: Platforms for social interaction and marketing.
+
+- id: storage-and-database
+  category: Storage and Database
+  description: Systems for storing and managing data.
+
+- id: transportation-and-travel
+  category: Transportation and Travel
+  description: Services for travel and transportation arrangements.
+
+- id: web-analytics
+  category: Web Analytics
+  description: Tools to analyze website performance and user behavior.

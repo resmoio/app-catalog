@@ -1,0 +1,37 @@
+id: aisera
+name: Aisera
+description: Aisera is a platform that uses artificial intelligence to manage services related to IT and
+  customer support. It processes natural language and uses this ability to automatically respond to popular
+  questions, solve service requests, and assist with tasks. It aims to improve the effectiveness of IT
+  support teams and customer service by providing self-service choices and smart automation for quick
+  problem-solving. Aisera is ideal for organizations that intend to enhance their service desk operations
+  and offer expedient and efficient support to users.
+category: customer-support
+labels: []
+company:
+  organization: ''
+  homepage: https://aisera.com/
+  privacyPolicy: https://aisera.com/wp-content/uploads/2022/03/AISERA-Web-Privacy-Policy-2019-02-01-v0.pdf
+  securityPage: https://trust.aisera.com/
+  statusPage: https://status.aisera.com/
+  linkedin: https://www.linkedin.com/company/aisera
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- aisera.cloud
+oauthDisplayNames: []

@@ -1,0 +1,42 @@
+id: applebusinessmanager
+name: Apple Business Manager
+description: Apple Business Manager is a platform that helps organizations manage Apple devices and applications.
+  It gives IT administrators a central location to control and set up devices, distribute applications,
+  and enforce security policies. Administrators can also create and manage Apple IDs for employees, facilitating
+  access to resources and services. In addition to supporting iPhone, iPad, Mac, and Apple TV, Apple Business
+  Manager enables device enrollment and distribution of apps, books, and software from a single interface.
+  It's useful in supporting IT teams in securing corporate data, managing device configurations, and distributing
+  content.
+category: enterprise-it-services
+labels: []
+company:
+  organization: Apple Inc.
+  headquarters: US
+  founded: 1976
+  homepage: https://www.apple.com/business/enterprise/it/
+  privacyPolicy: https://www.apple.com/privacy/
+  termsOfService: https://business.apple.com/
+  linkedin: https://www.linkedin.com/company/apple/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- email.apple.com
+appDomains:
+- business.apple.com
+oauthDisplayNames:
+- Apple Business Manager

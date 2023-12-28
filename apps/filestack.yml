@@ -1,0 +1,42 @@
+id: filestack
+name: Filestack
+description: Filestack is a platform that aids in managing digital files. Its robust APIs and tools simplify
+  processes such as uploading, storing, transforming, and distributing files. The platform can accommodate
+  varying types of media, including images, videos, documents, and more. By refining file management workflows
+  and improving user experiences, Filestack can also boost developmental work. Primarily, it operates
+  as a Software-as-a-Service solution, helping software developers handle different forms of media.
+category: storage-and-database
+labels:
+- file management
+- upload
+- api
+company:
+  organization: Partners Group
+  headquarters: CH
+  founded: 1996
+  homepage: https://www.filestack.com/
+  privacyPolicy: https://www.filestack.com/privacy/
+  termsOfService: https://www.filestack.com/terms/
+  statusPage: https://status.filestack.com/
+  linkedin: https://www.linkedin.com/company/filestack/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- filestack.com
+oauthDisplayNames:
+- Filestack

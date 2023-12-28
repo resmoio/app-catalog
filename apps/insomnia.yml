@@ -1,0 +1,40 @@
+id: insomnia
+name: Insomnia
+description: Insomnia is a robust API client and design platform crafted to streamline the process of creating, testing, 
+  and managing REST, GraphQL, and SOAP APIs. With its user-friendly interface and powerful features, Insomnia serves as 
+  an invaluable tool for developers and teams seeking an intuitive way to design, debug, and share APIs.
+  The platform offers a comprehensive suite of functionalities, enabling users to effortlessly craft API requests, organize 
+  workspaces, and visualize API responses in a clean and organized manner. Its flexible and extensible environment 
+  facilitates the simulation of complex API workflows, making testing and debugging APIs a seamless experience.
+category: development-tools
+labels:
+- api development
+- testing
+- collaboration
+company:
+  organization: Kong Inc.
+  headquarters: US
+  founded: 2015
+  homepage: https://insomnia.rest/
+  privacyPolicy: https://insomnia.rest/privacy
+  termsOfService: https://insomnia.rest/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.insomnia.rest
+oauthDisplayNames: []

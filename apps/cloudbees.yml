@@ -1,0 +1,42 @@
+id: cloudbees
+name: CloudBees
+description: CloudBees is a service that provides solutions for continuous integration and continuous
+  delivery (CI/CD). It primarily assists software development teams by simplifying their application building,
+  testing, and deployment processes. The main component of this service is an open-source automation server
+  named Jenkins, which is widely accepted and used globally for its efficiency. CloudBees also provides
+  tools and services that enhance CI/CD pipelines, expedite software delivery, and foster better collaboration
+  between development and operations teams. In short, this platform finds a balance between governance
+  and freedom for developers while focusing on risk reduction, software delivery optimization, and fostering
+  innovation.
+category: development-tools
+labels: []
+company:
+  organization: CloudBees
+  headquarters: US
+  founded: 2010
+  homepage: https://www.cloudbees.com/
+  privacyPolicy: https://www.cloudbees.com/company/privacy-policy
+  termsOfService: https://www.cloudbees.com/company/terms-of-service
+  statusPage: https://www.cloudbeesstatus.com/
+  linkedin: https://www.linkedin.com/company/cloudbees/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cloudbees.com
+oauthDisplayNames:
+- CloudBees

@@ -1,0 +1,37 @@
+id: capital
+name: Capital
+description: Capital is an app that allows users to manage their finances in one place conveniently. The
+  app's key features include the ability to gather funds, keep them securely, use them whenever needed,
+  and transfer them to different accounts or individuals. The unified platform of Capital aims to streamline
+  financial activities, making them more efficient and user-friendly.
+category: others
+labels:
+- accounting
+- finance
+- spend management
+company:
+  organization: ''
+  homepage: https://capital.xyz
+  privacyPolicy: https://capital.xyz/policies/privacy
+  termsOfService: https://capital.xyz/policies/terms
+  linkedin: https://www.linkedin.com/company/capitalxyz
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Capital

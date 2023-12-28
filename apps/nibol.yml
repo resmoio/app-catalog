@@ -1,0 +1,42 @@
+id: nibol
+name: Nibol
+description: Nibol is an application that facilitates flexible working arrangements by merging tools for
+  office management and workspace booking. Suitable for both traditional office settings and co-working
+  spaces, it allows individuals to select their preferred work environment. With Nibol, users can easily
+  reserve desks or meeting rooms, as well as gain access to shared workspaces. The app adapts to modern
+  work dynamics, thereby simplifying the transition to a hybrid work model.
+category: others
+labels:
+- workspace booking
+- office management
+- hybrid work
+company:
+  organization: Nibol
+  headquarters: IT
+  founded: 2019
+  homepage: https://www.nibol.com/en
+  privacyPolicy: https://nibol.notion.site/Privacy-Cookie-policy-IT-bd36d834aaed4810a4f9e503580dae56
+  termsOfService: https://nibol.notion.site/Nibol-Terms-Conditions-6c738644c7bf4a05b26eac4e47d14998
+  statusPage: https://status.nibol.com/
+  securityPage: https://www.nibol.com/en/security
+  linkedin: https://www.linkedin.com/company/nibol/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Nibol

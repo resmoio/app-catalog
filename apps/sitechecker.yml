@@ -1,0 +1,40 @@
+id: sitechecker
+name: Sitechecker
+description: Sitechecker is a useful resource for optimizing websites and enhancing their visibility in
+  search results. This application is beneficial for a variety of individuals and professions including
+  website owners, marketing agencies, SEO specialists, and product managers. It provides a user-friendly
+  platform to monitor and enhance a website's performance. Sitechecker also includes a comprehensive SEO
+  analysis that enables users to evaluate their website against over 100 parameters, pinpoint potential
+  problems, and work towards resolving them to improve their SEO score.
+category: marketing
+labels:
+- seo audit
+- site analysis
+- optimization
+company:
+  organization: Boosta Inc OÜ.
+  headquarters: EE
+  homepage: https://sitechecker.pro
+  privacyPolicy: https://sitechecker.pro/privacy-policy/
+  termsOfService: https://sitechecker.pro/terms-and-conditions/
+  linkedin: https://www.linkedin.com/company/sitechecker-pro
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sitechecker

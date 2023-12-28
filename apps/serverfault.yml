@@ -1,0 +1,31 @@
+id: serverfault
+name: Server Fault
+description: Server Fault is a question-and-answer platform designed for IT professionals and system administrators.
+  It offers a space for these individuals to pose questions, exchange expertise, and find solutions related
+  to topics such as server management, networking, and security. The service encourages the sharing of
+  knowledge and provides support for tackling technical issues within the IT community.
+category: forums
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- serverfault.com
+oauthDisplayNames: []

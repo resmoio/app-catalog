@@ -1,0 +1,44 @@
+id: kaggle
+name: Kaggle
+description: Kaggle, owned by Google LLC, is an online platform focused on providing services for predictive
+  modeling, analytics competitions, and data science activities. It enables users to locate and publish
+  data sets, construct models in a web-based environment, and collaborate with peer data scientists. Kaggle
+  offers a robust platform for machine learning and data analysis competitions, along with valuable tools
+  for data science practices. It has established itself as a leading platform within the data science
+  community worldwide.
+category: education
+labels:
+- data science
+- machine learning
+- analytics
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: https://www.kaggle.com/
+  privacyPolicy: https://www.kaggle.com/privacy
+  termsOfService: https://www.kaggle.com/terms
+  statusPage: https://www.google.com/appsstatus/dashboard/
+  securityPage: https://safety.google/security-privacy/
+  linkedin: https://www.linkedin.com/company/kaggle/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- kaggle.com
+oauthDisplayNames:
+- Kaggle

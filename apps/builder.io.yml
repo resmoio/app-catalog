@@ -1,0 +1,43 @@
+id: builder.io
+name: Builder.io
+description: Builder.io is a content management platform that simplifies content creation for users of
+  various backgrounds, including developers, marketers, and designers. It enables the construction of
+  personalized web pages, landing pages, and emails via a user-friendly, drag-and-drop interface 
+  no coding skills necessary. The platform includes a vast collection of components and interfaces well
+  with mainstream tech stacks. Whether one wishes to create a small website or a comprehensive application,
+  Builder.io facilitates content design, collaboration, and optimization. Users can further tailor digital
+  experiences to suit any technical infrastructure through visual customization options.
+category: content-management
+labels:
+- cms
+- landing pages
+- headless
+company:
+  organization: Builder.io Inc.
+  headquarters: US
+  founded: 2017
+  homepage: https://builder.io
+  privacyPolicy: https://builder.io/docs/privacy
+  termsOfService: https://builder.io/docs/privacy
+  securityPage: https://www.builder.io/c/security
+  linkedin: https://www.linkedin.com/company/builder-io/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Builder.io

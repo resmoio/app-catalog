@@ -1,0 +1,45 @@
+id: cloudapp
+name: CloudApp
+description: CloudApp, formerly known as Zight, is a tool used for work-related communication that emphasizes
+  visual elements. It facilitates swift sharing of videos, GIFs, and screenshots, streamlining the sharing
+  and management of visual content. CloudApp offers an integrated screen recording option compatible with
+  Mac, Windows, Chrome, and iOS platforms. It can be employed by various professionals, such as product
+  designers, product managers, development teams, and those in sales or customer support, to enhance communication
+  and increase efficiency in their workflows.
+category: productivity
+labels:
+- screenshots
+- screen recording
+- sharing
+company:
+  organization: CloudApp Inc.
+  headquarters: US
+  founded: 2010
+  homepage: https://zight.com/
+  privacyPolicy: https://zight.com/legal/privacy-policy/
+  termsOfService: https://getcloudapp.com/terms
+  statusPage: https://status.getcloudapp.com/
+  securityPage: https://support.zight.com/hc/en-us/sections/203977847-Security-and-Privacy
+  linkedin: linkedin.com/company/getcloudapp/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- getcloudapp.com
+- zight.com
+oauthDisplayNames:
+- CloudApp

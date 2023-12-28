@@ -1,0 +1,41 @@
+id: dubble
+name: Dubble
+description: Dubble is an application that streamlines the creation of interactive guides, tutorials,
+  and onboarding materials for users. It allows for easy editing and sharing of content, ensuring documentation
+  can change as processes do. Dubble's features include video support, clear text descriptions, screenshots,
+  and multiple recording capabilities. This application records the user's actions, transforming them
+  into a step-by-step guide, resulting in a more efficient documentation process. It is particularly beneficial
+  for various teams seeking to streamline their tasks.
+category: project-management
+labels:
+- onboarding
+- knowledge base
+- documentation
+company:
+  organization: Dubble Software Inc.
+  headquarters: US
+  founded: 2022
+  homepage: https://dubble.so
+  privacyPolicy: https://dubble.so/terms-of-service
+  termsOfService: https://dubble.so/privacy-policy
+  linkedin: https://www.linkedin.com/company/dubble-software/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Dubble

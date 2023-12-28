@@ -1,0 +1,37 @@
+id: comparably
+name: Comparably - Sign In
+description: Comparably is an application that provides a platform for individuals to view and compare
+  user-generated content such as employee reviews, consumer ratings, and salary information. It serves
+  as a resource for accessing these details to give you relevant insights based on different parameters.
+  Please note that you need to sign in to access the app's features.
+category: hr
+labels:
+- company culture
+- compensation
+- reviews
+company:
+  organization: ''
+  homepage: https://www.comparably.com
+  privacyPolicy: https://www.comparably.com/info/privacy-policy
+  termsOfService: https://www.comparably.com/info/terms-of-service
+  linkedin: https://www.linkedin.com/company/comparably
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Comparably - Sign In

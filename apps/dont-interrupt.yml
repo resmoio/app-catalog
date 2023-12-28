@@ -1,0 +1,37 @@
+id: dont-interrupt
+name: Don't Interrupt
+description: \"Don''t Interrupt\" is an application aimed at minimizing distractions. The user can define
+  specific work hours, during which they would not like to be disturbed, and the app will automatically
+  update their status and presence accordingly. The app also has the ability to sync with Google Calendars,
+  further enhancing its function to act in accordance with the user''s schedule. Thus, it facilitates
+  a controlled environment, thereby allowing users to focus on their tasks without unnecessary interruptions.
+category: productivity
+labels:
+- calendar
+- focus time
+- automation
+company:
+  organization: ''
+  homepage: https://dontinterrupt.app/
+  privacyPolicy: https://dontinterrupt.app/privacy
+  termsOfService: https://dontinterrupt.app/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Don't Interrupt

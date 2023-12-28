@@ -1,0 +1,32 @@
+id: esignatures
+name: eSignatures.io
+description: eSignatures.io is a digital tool that allows users to add secure, legally recognized electronic
+  signatures to documents. This tool removes the requirement for physical signatures and actual paperwork,
+  simplifying the process of signing formal contracts or agreements. With eSignatures.io, users can decrease
+  unnecessary paperwork, increase process efficiency, and meet compliance requirements through a seamless
+  signing experience.
+category: productivity
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- esignatures.io
+oauthDisplayNames: []

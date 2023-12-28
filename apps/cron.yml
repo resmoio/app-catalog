@@ -1,0 +1,43 @@
+id: cron
+name: Cron
+description: Cron Calendar is a scheduling tool designed to manage and automate recurring tasks. Users
+  can create cron jobs\u2014repetitive tasks that run at specific times\u2014using the app's easy-to-navigate
+  interface. Its primary aim is to ensure tasks are carried out with precision and efficiency, thus
+  simplifying scheduling for people like developers and system administrators. This efficiency allows
+  individuals to concentrate on more important facets of their work or projects.
+category: productivity
+labels:
+- scheduling
+- calendar
+- automation
+company:
+  organization: Notion Labs Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://cron.com/
+  privacyPolicy: https://www.notion.so/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091
+  termsOfService: https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac
+  statusPage: https://status.notion.so/
+  securityPage: https://www.notion.so/security
+  linkedin: https://www.linkedin.com/company/cronhq/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- calendar.cron.com
+oauthDisplayNames:
+- Cron

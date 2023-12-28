@@ -1,0 +1,42 @@
+id: intuit
+name: Intuit
+description: Intuit is a business management tool primarily catering to small and medium-sized enterprises,
+  financial institutions, and accounting professionals. It helps in the organization and efficient management
+  of business operations. The application, currently, is utilized by over seven million businesses. Notable
+  features in their suite include TurboTax, QuickBooks, Mint, Credit Karma, and Mailchimp. Although the
+  app is primarily used for business purposes, it also offers financial management solutions for individual
+  consumers, helping them manage their financials confidently. It comes with a free trial option, facilitating
+  an easy setup.
+category: account-and-finance
+labels:
+- small business accounting
+- quickbooks
+- invoicing
+company:
+  organization: Intuit
+  headquarters: US
+  founded: 1983
+  homepage: https://www.intuit.com
+  privacyPolicy: https://www.intuit.com/privacy/statement/
+  termsOfService: https://accounts.intuit.com/terms-of-service
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- intuit.com
+oauthDisplayNames:
+- Intuit

@@ -1,0 +1,35 @@
+id: agoda
+name: Agoda
+description: Agoda is an online service that specializes in hotel reservations. It features a 'best price'
+  promise, implying a commitment to providing the most affordable rates available.
+category: transportation-and-travel
+labels: []
+company:
+  organization: Booking Holdings
+  headquarters: US
+  founded: 1997
+  homepage: https://www.agoda.com/
+  privacyPolicy: https://www.agoda.com/info/privacy.html
+  termsOfServices: https://www.agoda.com/info/termsofuse.html
+  linkedin: https://www.linkedin.com/company/agoda/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- agoda.com
+oauthDisplayNames:
+- Agoda

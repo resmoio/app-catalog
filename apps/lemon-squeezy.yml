@@ -1,0 +1,38 @@
+id: lemon-squeezy
+name: Lemon Squeezy
+description: Lemon Squeezy is a handy tool designed to simplify the process of selling digital products
+  and Software-as-a-Service (SaaS) applications. This application operates as your merchant of record,
+  effectively managing any concerns related to tax compliance on your behalf. The main goal of Lemon Squeezy
+  is to help users increase their revenue without the hassle of dealing with complex financial regulations.
+  Their service covers not only tax compliance but also includes helpful features related to payments
+  and subscriptions for SaaS.
+category: others
+labels:
+- ecommerce
+- digital products
+- subscriptions
+company:
+  organization: ''
+  homepage: https://www.lemonsqueezy.com
+  privacyPolicy: https://www.lemonsqueezy.com/privacy
+  termsOfService: https://www.lemonsqueezy.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Lemon Squeezy

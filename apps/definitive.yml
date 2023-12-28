@@ -1,0 +1,37 @@
+id: definitive
+name: Definitive
+description: Definitive is an application that enables companies to better understand and manage their
+  data. It utilizes an Artificial Intelligence (AI) assistant to help convert vast amounts of data into
+  simple and straightforward visuals. It's customizable, making it possible for businesses to adapt it
+  to their specific needs. That way, it becomes a helpful tool that assists in making data-driven decisions
+  and strategies.
+category: others
+labels:
+- ai assistant
+- conversational search
+- analytics
+company:
+  organization: ''
+  homepage: https://definitive.io
+  privacyPolicy: https://app.termly.io/document/privacy-policy/c92b1b22-af82-4675-b151-79d17a7599fe
+  termsOfService: https://app.termly.io/document/terms-and-conditions/28dab622-cfea-44c3-b740-8dc9c78a6b6d
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Definitive

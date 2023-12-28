@@ -1,0 +1,38 @@
+id: codesignal
+name: CodeSignal
+description: CodeSignal is an application that specializes in conducting technical interviews and providing
+  assessment solutions. It primarily aids in the hiring process using its detailed "job simulation" technology.
+  This service is empowered by cutting-edge tech to help both companies and job seekers by streamlining
+  the recruitment phase and ensuring a comprehensive evaluation of candidate skills.
+category: education
+labels:
+- assessments
+- technical interviewing
+- recruiting
+company:
+  organization: ''
+  homepage: https://codesignal.com
+  privacyPolicy: https://codesignal.com/privacy
+  termsOfService: https://codesignal.com/terms
+  securityPage: https://codesignal.com/security-compliance/
+  linkedin: https://www.linkedin.com/company/codesignal/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- CodeSignal

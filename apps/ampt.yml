@@ -1,0 +1,43 @@
+id: ampt
+name: Ampt
+description: Ampt is a dependable platform designed for developers to efficiently build, deploy, and expand
+  Node.js applications. This is achieved without having to grapple with complicated configurations or
+  infrastructure management. Through Ampt, developers can set up Cloud Node.js environments on AWS, which
+  are secure, fully managed, and entirely self-contained. These environments come with all the necessary
+  resources to seamlessly deploy and extend modern applications. The platform is compatible with various
+  IDEs, tools, and frameworks, enabling developers to create Node.js apps using their preferred development
+  surroundings.
+category: development-tools
+labels:
+- devops
+- nodejs
+- aws
+company:
+  organization: Ampt Web Services Inc.
+  headquarters: US
+  founded: 2022
+  homepage: https://getampt.com
+  privacyPolicy: https://getampt.com/legal/privacy-policy
+  termsOfService: https://getampt.com/legal/terms-of-service
+  linkedin: https://www.linkedin.com/company/getampt/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+  - ampt.us.auth0.com
+oauthDisplayNames:
+- Ampt

@@ -1,0 +1,43 @@
+id: paypal
+name: PayPal
+description: PayPal is an international online payment system that allows individuals and businesses securely
+  conduct electronic transactions without revealing their financial information. Users can transfer funds,
+  buy goods, and use a variety of financial services. This service is accessible worldwide and is proven
+  to be a beneficial alternative for traditional transactions, enabling money transfer to family and friends
+  and facilitating mobile payments.
+category: others
+labels:
+- online payments
+- ecommerce
+- p2p
+company:
+  organization: eBay
+  headquarters: US
+  founded: 1998
+  homepage: https://www.paypal.com/
+  privacyPolicy: https://www.paypal.com/in/webapps/mpp/ua/privacy-full
+  termsOfService: https://www.paypal.com/in/webapps/mpp/ua/useragreement-full
+  statusPage: https://www.paypal-status.com/product/production
+  securityPage: https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security
+  linkedin: https://www.linkedin.com/company/paypal/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- paypal.com
+oauthDisplayNames:
+- PayPal

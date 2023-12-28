@@ -1,0 +1,44 @@
+id: adguard
+name: AdGuard
+description: AdGuard is a software application that offers a solution to block advertisements, trackers,
+  and harmful websites across various web browsers and apps. It aims to improve user privacy, speed up
+  page loading, and create a cleaner browsing atmosphere by filtering out unneeded content. Additionally,
+  AdGuard ensures online security measures, user privacy, and ad-blocker features. Its notable functions
+  include steering clear of irritating advertisements, resisting online tracking, and shielding the user's
+  computer from potential malware threats, all aimed at making one's web surfing safer, quicker, and devoid
+  of ads.
+category: security
+labels:
+- security
+- privacy
+- ad blocking
+company:
+  organization: Adguard
+  headquarters: CY
+  founded: 1999
+  homepage: https://adguard.com/en/welcome.html
+  statusPage: https://status.adguard.com/
+  privacyPolicy: https://adguard.com/en/privacy.html
+  termsOfService: https://adguard.com/en/privacy.html
+  linkedin: https://www.linkedin.com/company/adguard/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- adguard.com
+oauthDisplayNames:
+- AdGuard

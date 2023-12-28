@@ -1,0 +1,42 @@
+id: browserstack
+name: BrowserStack
+description: BrowserStack is a web and mobile app testing tool that uses cloud technology, allowing developers
+  to try out their sites and apps across a diverse range of browsers, operating systems, and devices.
+  It provides instant exposure to various combinations of browsers and devices, helping to ensure that
+  websites and apps function consistently and effectively, no matter the environment accessed by the user.
+  This service can also sync with Microsoft Teams, adding another layer of convenience. With a vast selection
+  spanning over 3000 browsers and both iOS and Android devices, developers can confidently create apps
+  and websites that perform reliably.
+category: development-tools
+labels: []
+company:
+  organization: BrowserStack
+  headquarters: IN
+  founded: 2011
+  homepage: https://www.browserstack.com/
+  privacyPolicy: https://www.browserstack.com/privacy
+  termsOfService: https://www.browserstack.com/terms
+  statusPage: https://status.browserstack.com/
+  securityPage: https://www.browserstack.com/security
+  linkedin: https://www.linkedin.com/company/browserstack/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- browserstack.com
+oauthDisplayNames:
+- BrowserStack

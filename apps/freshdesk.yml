@@ -1,0 +1,41 @@
+id: freshdesk
+name: Freshdesk
+description: Freshdesk is a cloud-based application meant to facilitate customer support. It allows users
+  to provide assistance to customers through a variety of channels such as phone, email, and social media
+  platforms like Facebook and Twitter. This tool also supports the creation of branded community forums.
+  Freshdesk aims to create a space for meaningful and effective dialogues between businesses and customers
+  across different means of communication. A trial period is offered for first-time users.
+category: customer-support
+labels:
+- customer support
+- help desk
+- live chat
+company:
+  organization: Freshdesk
+  headquarters: US
+  founded: 2010
+  homepage: https://freshdesk.com
+  privacyPolicy: https://freshdesk.com/privacy
+  termsOfService: https://freshdesk.com/terms
+  linkedin: https://linkedin.com/company/freshworks-inc
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- freshdesk.com
+oauthDisplayNames:
+- Freshdesk

@@ -1,0 +1,41 @@
+id: g2a
+name: G2A.COM
+description: G2A is an international online platform where users can purchase a variety of digital items
+  such as video games, software, gaming merchandise, game keys, in-game items, and gift cards. The platform
+  creates a global marketplace by connecting buyers and sellers, focusing on providing convenience for
+  gamers who are looking for their favorite content at competitive prices. Furthermore, G2A promotes digital
+  entertainment by offering a vast range of digital products.
+category: others
+labels:
+- gaming marketplace
+- cd keys
+- items
+company:
+  organization: G2A.COM Limited
+  headquarters: NL
+  founded: 2010
+  homepage: https://g2a.com
+  privacyPolicy: https://www.g2a.com/privacy-policy
+  termsOfService: https://www.g2a.com/terms-and-conditions
+  securityPage: https://www.g2a.co/security/
+  linkedin: https://www.linkedin.com/company/g2a-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- G2A.COM

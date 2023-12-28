@@ -1,0 +1,40 @@
+id: leadsbridge
+name: LeadsBridge
+description: LeadsBridge is a software application that helps companies manage their marketing and advertising
+  tools more efficiently. With over 370 integrations with Customer Relationship Management (CRM) and Email
+  software, it aims to minimize inconsistencies in these tools. Additionally, as an Integration Platform
+  as a Service (iPaaS), LeadsBridge assists companies in enhancing their omnichannel strategy by managing
+  their business data.
+category: marketing
+labels:
+- marketing
+- advertising
+- integrations
+company:
+  organization: ActiveProspect
+  headquarters: US
+  founded: 2004
+  homepage: https://leadsbridge.com
+  privacyPolicy: https://leadsbridge.com/privacy/
+  termsOfService: https://leadsbridge.com/tos/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- leadsbridge.com
+oauthDisplayNames:
+- LeadsBridge

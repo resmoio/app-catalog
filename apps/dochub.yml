@@ -1,0 +1,39 @@
+id: dochub
+name: DocHub - PDF Sign&Edit
+description: DocHub - PDF Sign & Edit is a web-based application that allows for the online signing of
+  PDF documents. It also offers the ability to request electronic signatures and send out reusable PDF
+  templates. This application can be easily accessed through any web browser and conveniently integrates
+  with Google and Gmail. It is free and quick to sign up and use. The app does not allow only to sign
+  documents, but also to edit PDFs right in your browser.
+category: content-sharing
+labels:
+- pdf editor
+- esignature
+- document management
+company:
+  organization: ''
+  homepage: https://dochub.com
+  privacyPolicy: https://dochub.com/site/privacy
+  termsOfService: https://dochub.com/site/terms
+  securityPage: https://dochub.com/site/security
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dochub.com
+oauthDisplayNames:
+- DocHub - PDF Sign & Edit

@@ -1,0 +1,42 @@
+id: jupiterone
+name: JupiterOne
+description: JupiterOne is a cybersecurity management platform primarily aimed at providing cloud-based
+  security and compliance solutions. It facilitates a holistic view of a business's cyber environment,
+  effectively managing security operations as well as aiding in the automation of governance, risk, and
+  compliance processes. The platform also offers continuous analysis of cyber assets, thus enabling a
+  comprehensive understanding of the entire security landscape. Significant features include visualization
+  of relationships between different elements, identification of potential vulnerabilities, and the ability
+  to take remedial action, thereby enhancing the organization's overall security posture.
+category: security
+labels: []
+company:
+  organization: Jupiterone
+  headquarters: US
+  founded: 2018
+  homepage: https://www.jupiterone.com/
+  privacyPolicy: https://www.jupiterone.com/privacy-policy
+  termsOfService: https://www.jupiterone.com/terms
+  statusPage: https://status.us.jupiterone.io/
+  securityPage: https://www.jupiterone.com/trust-and-transparency
+  linkedin: https://www.linkedin.com/company/jupiterone/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- jupiterone.com
+oauthDisplayNames:
+- JupiterOne

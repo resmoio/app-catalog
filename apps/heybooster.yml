@@ -1,0 +1,36 @@
+id: heybooster
+name: heybooster
+description: Heybooster is a tool accessible to eCommerce managers that has several functions. This application
+  assists users by pointing out any problems they may encounter, identifying ways to increase revenue,
+  and suggesting methods on how to decrease costs. To do this, heybooster sends timely alerts and provides
+  users with customized insights gleaned from their marketing data thus aiding in decision-making.
+category: others
+labels:
+- user generated content
+- video
+- ads
+company:
+  organization: ''
+  homepage: https://www.heybooster.ai
+  privacyPolicy: https://www.heybooster.ai/privacy-policy/
+  termsOfService: https://www.heybooster.ai/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- heybooster

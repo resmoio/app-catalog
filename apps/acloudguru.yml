@@ -1,0 +1,38 @@
+id: acloudguru
+name: A Cloud Guru
+description: A Cloud Guru is an online education platform focused on cloud computing. It provides a wide
+  range of courses spanning multiple platforms including AWS, Azure, and Google Cloud. The platform's
+  objective is to impart crucial knowledge and skills that individuals need to adapt to the rapidly changing
+  field of cloud technology. It accommodates all levels of learning, from beginners to advanced professionals,
+  through engaging course content and practical exercises. Essentially, A Cloud Guru operates as a supportive
+  learning environment for those interested in mastering cloud computing.
+category: education
+labels:
+- cloud training
+- online education
+- education
+company:
+  organization: A Cloud Guru
+  headquarters: US
+  founded: 2015
+  homepage: https://www.pluralsight.com/cloud-guru
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- acloud.guru
+oauthDisplayNames: []

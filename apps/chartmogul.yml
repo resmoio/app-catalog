@@ -1,0 +1,41 @@
+id: chartmogul
+name: ChartMogul
+description: ChartMogul is a software that offers analytics and revenue recognition capabilities to subscription-based
+  businesses across the globe. It's designed to aid in understanding subscription data that can guide
+  businesses in their decision-making processes. The user-friendly interface and robust reporting tools
+  allow businesses to comprehend their performance, enhance their revenue channels, and stimulate growth.
+  Despite its powerful features, ChartMogul retains simplicity in managing your subscription business,
+  promoting efficiency and improved insights.
+category: business-intelligence
+labels: []
+company:
+  organization: ChartMogul
+  headquarters: DE
+  founded: 2014
+  homepage: https://chartmogul.com/
+  privacyPolicy: https://chartmogul.com/privacy/
+  termsOfService: https://chartmogul.com/terms/
+  statusPage: https://status.chartmogul.com/
+  securityPage: https://chartmogul.com/security/
+  linkedin: https://www.linkedin.com/company/chartmogul/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- chartmogul.com
+oauthDisplayNames:
+- ChartMogul

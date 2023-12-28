@@ -1,0 +1,42 @@
+id: kiwicom
+name: Kiwi.com
+description: Kiwi.com is a web-based travel agency that helps users plan their travel by providing options
+  for flights and ground transportation services from over 800 airlines. It simplifies the process of
+  finding and booking transportation at competitive rates. It features an easy-to-use search engine and
+  an interactive map, allowing users to discover new destinations and budget-friendly flights. Additionally,
+  the platform ensures efficient journey planning and offers round-the-clock customer support. Kiwi.com
+  also provides a guarantee to its customers, reinforcing its commitment towards excellent service.
+category: transportation-and-travel
+labels:
+- travel booking
+- flights
+- transportation
+company:
+  organization: Kiwi.com s.r.o.
+  headquarters: CZ
+  founded: 2011
+  homepage: https://kiwi.com
+  privacyPolicy: https://www.kiwi.com/en/pages/content/privacy
+  termsOfService: https://www.kiwi.com/en/pages/content/terms
+  securityPage: https://www.kiwi.com/en/pages/security
+  linkedin: https://www.linkedin.com/company/kiwi.com/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Kiwi.com

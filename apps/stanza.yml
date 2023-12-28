@@ -1,0 +1,41 @@
+id: stanza
+name: Stanza
+description: Stanza is an online service that simplifies event tracking and sharing.
+  Users identify their interests and the service automatically updates their calendars to ensure they
+  are informed of relevant events. The tool also enables users to create their own event calendars and
+  share them with others. Available for a nominal monthly fee, Stanza strives to make sure users never
+  miss important events. This service is particularly beneficial for sports fans who want to stay updated
+  on their teams' schedules.
+category: others
+labels:
+- calendar
+- scheduling
+- coordination
+company:
+  organization: Stanza
+  headquarters: US
+  founded: 2012
+  homepage: https://stanza.co
+  privacyPolicy: https://www.stanza.co/privacy
+  termsOfService: https://www.stanza.co/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- stanza.co
+oauthDisplayNames:
+- Stanza

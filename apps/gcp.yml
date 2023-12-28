@@ -1,0 +1,44 @@
+id: gcp
+name: Google Cloud Platform
+description: Google Cloud Platform, commonly known as GCP, is a collection of cloud computing services
+  provided by Google. It offers diverse services such as computing power, data storage, and data analytics.
+  These services are based on the same framework that Google relies on for its user-focused products,
+  such as Google Search and YouTube. Additionally, GCP is designed to be modular and flexible, enabling
+  users to develop anything from uncomplicated websites to intricate applications. It also offers solutions
+  for data management, hybrid and multi-cloud operations, as well as artificial intelligence and machine
+  learning capabilities.
+category: cloud
+labels: []
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: https://cloud.google.com/
+  privacyPolicy: https://cloud.google.com/terms/cloud-privacy-notice
+  termsOfService: https://cloud.google.com/terms/
+  statusPage: https://status.cloud.google.com/
+  securityPage: https://cloud.google.com/security/
+  linkedin: https://www.linkedin.com/company/google/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- console.cloud.google.com
+registrationEmails:
+- CloudPlatform-noreply@google.com
+- cloud-noreply@google.com
+oauthDisplayNames: []

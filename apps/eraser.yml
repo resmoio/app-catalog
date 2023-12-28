@@ -1,0 +1,37 @@
+id: eraser
+name: Eraser
+description: Eraser is a collaborative tool for creating diagrams and documents, primarily aimed at engineers.
+  Users can work together to compile visual documentation, making it an all-encompassing resource for
+  technical ideation. Rather than juggling multiple tools, teams can streamline their process using Eraser.
+  It particularly benefits engineering teams seeking a unified platform for diagramming and documenting
+  designs.
+category: development-tools
+labels:
+- diagrams
+- collaboration
+- documentation
+company:
+  organization: ''
+  homepage: https://www.tryeraser.com/home
+  privacyPolicy: https://tryeraser.com/privacy
+  termsOfService: https://tryeraser.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Eraser

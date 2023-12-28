@@ -1,0 +1,37 @@
+id: bubbles
+name: Bubbles
+description: Bubbles is a collaboration tool designed to help teams communicate more flexibly. It provides
+  options for screen sharing, text, video, and audio messaging that allow team members to exchange ideas
+  without the need for scheduled meetings. The app includes features for sharing feedback through annotated
+  screen recordings tied to specific points in time. Its aim is to enable individuals to discuss and work
+  together more efficiently, on their schedules.
+category: productivity
+labels: []
+company:
+  organization: VanGoux Inc.
+  headquarters: US
+  homepage: https://www.usebubbles.com/
+  privacyPolicy: https://www.usebubbles.com/privacy
+  termsOfService: https://www.usebubbles.com/terms
+  securityPage: https://www.usebubbles.com/security
+  linkedin: https://www.linkedin.com/company/usebubbles/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Bubbles

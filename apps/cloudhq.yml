@@ -1,0 +1,44 @@
+id: cloudhq
+name: cloudHQ
+description: CloudHQ is a cloud service that simplifies data management by integrating and synchronizing
+  data across various cloud platforms. It ensures all files, emails, and other data are consistently updated,
+  available on any platform, and effectively backed up for security. This tool is highly adaptable, compatible
+  with multiple services such as Office 365, Salesforce, Google apps, Dropbox, Amazon web services, and
+  Egnyte. Its primary feature is enhancing data accessibility, which in turn improves operational efficiency.
+  Moreover, CloudHQ offers a secure migration solution, facilitating swift and secure transition from
+  one platform to another, such as from Box to Office 365.
+category: cloud
+labels:
+- file sync
+- backup
+- integrations
+company:
+  organization: Pricing Jobs
+  headquarters: US
+  founded: 2011
+  homepage: https://www.cloudhq.net/g_suite
+  privacyPolicy: https://www.cloudhq.net/privacy
+  termsOfService: https://www.cloudhq.net/terms
+  securityPage: https://www.cloudhq.net/security
+  linkedin: https://www.linkedin.com/company/cloudhq
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- cloudhq.net
+oauthDisplayNames:
+- cloudHQ

@@ -1,0 +1,31 @@
+id: onedrive
+name: OneDrive
+description: OneDrive is an online storage solution developed by Microsoft. As part of Microsoft's cloud
+  ecosystem, Microsoft 365, it offers integration with various applications such as Word, Excel, and PowerPoint.
+  It enables users to store their data online securely across different devices. OneDrive also allows
+  users to work collaboratively and simultaneously on shared files while ensuring their data is backed
+  up continuously, adding an extra layer of security to their stored content.
+category: storage-and-database
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

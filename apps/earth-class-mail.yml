@@ -1,0 +1,44 @@
+id: earth-class-mail
+name: Earth Class Mail
+description: Earth Class Mail is a service that converts physical mail into digital format, making it
+  accessible and manageable from any location through an online portal. Users can receive mail at real
+  street addresses, view digital images of their mail items, and decide how they wish to handle them -
+  whether to open, scan, shred, or forward them. This tool is particularly beneficial for remote businesses,
+  frequent travellers, and those who prefer a straightforward, contact-free system to manage their mail.
+  It enhances organization, accessibility, and convenience, allowing users to access their mail and other
+  paper-based documents securely in the cloud, as well as search and take action on them.
+category: mail
+labels:
+- virtual mailroom
+- mail forwarding
+- scanning
+company:
+  organization: LegalZoom, Inc.
+  headquarters: US
+  founded: 2004
+  homepage: https://www.earthclassmail.com/
+  privacyPolicy: https://www.earthclassmail.com/privacy
+  termsOfService: https://www.earthclassmail.com/terms-of-service
+  securityPage: https://www.earthclassmail.com/company/security
+  linkedin: https://www.linkedin.com/company/earth-class-mail/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- earthclassmail.com
+oauthDisplayNames:
+- Earth Class Mail

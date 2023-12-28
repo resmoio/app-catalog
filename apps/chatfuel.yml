@@ -1,0 +1,38 @@
+id: chatfuel
+name: Chatfuel
+description: Chatfuel is a partner of WhatsApp's official API. It provides a unified platform that incorporates
+  ChatGPT, assisting sales, customer support, and marketing teams in their daily operations within WhatsApp.
+  It supports the diverse requirements of businesses, providing a more streamlined and efficient means
+  of communication.
+category: chat
+labels:
+- chatbots
+- whatsapp
+- marketing
+company:
+  organization: ''
+  homepage: https://chatfuel.com
+  privacyPolicy: https://chatfuel.com/PrivacyPolicy.pdf
+  termsOfService: https://chatfuel.com/PrivacyPolicy.pdf
+  statusPage: https://status.chatfuel.com/
+  linkedin: https://www.linkedin.com/company/chatfuel/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Chatfuel

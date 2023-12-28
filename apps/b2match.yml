@@ -1,0 +1,42 @@
+id: b2match
+name: b2match
+description: B2Match is a tool for business networking designed to enhance attendee experience at various
+  events and conferences worldwide. It assists organizers in creating streamlined, customized platforms
+  where participants can easily connect and set up meetings. The key function of B2Match is to support
+  users in identifying suitable business partners, enhancing their ability to network, and cultivating
+  valuable business connections. This app works well across different fields, making it a reliable asset
+  for various industry event organizers. It accommodates in-person, virtual, and hybrid events, incorporating
+  an AI recommendation function to aid participants in connecting effectively.
+category: business-intelligence
+labels:
+- events
+- networking
+- matchmaking
+company:
+  organization: B2Match GmbH
+  headquarters: AT
+  founded: 2013
+  homepage: https://www.b2match.com/
+  privacyPolicy: https://www.b2match.com/privacy-policy
+  termsOfService: https://www.b2match.com/terms-of-use-organizers
+  linkedin: https://www.linkedin.com/company/b2match/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- b2match

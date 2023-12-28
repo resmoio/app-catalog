@@ -1,0 +1,40 @@
+id: blazemeter
+name: BlazeMeter
+description: BlazeMeter is a comprehensive platform for continuous testing. It prepares applications for
+  usage on any device under any conditions, all from a single location. There's no need to switch out
+  of your Integrated Development Environment (IDE) while using it. Serving as a JMeter and performance
+  testing platform, it's specifically designed to meet the needs of DevOps.
+category: development-tools
+labels:
+- testing
+- monitoring
+- performance
+company:
+  organization: Perforce
+  headquarters: US
+  founded: 1995
+  homepage: https://blazemeter.com
+  privacyPolicy: https://www.perforce.com/privacy-policy
+  termsOfService: https://www.perforce.com/sites/default/files/pdfs/BlazeMeter-Software-as-a-Service-Agreement_October-29-2021.pdf
+  linkedin: https://www.linkedin.com/company/blazemeter/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- blazemeter.com
+oauthDisplayNames:
+- BlazeMeter

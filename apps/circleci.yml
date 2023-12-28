@@ -1,0 +1,38 @@
+id: circleci
+name: CircleCI
+description: CircleCI is a platform that simplifies and speeds up the process of software development
+  and deployment. It offers automated tools for software developers to quickly and reliably introduce
+  code changes. Included among these tools are automated testing and parallel workflows that enhance efficiency,
+  as well as compatibility with widely-used version control systems. In essence, CircleCI is geared towards
+  making the software development lifecycle smoother and more straightforward.
+category: development-tools
+labels: []
+company:
+  organization: CircleCI
+  headquarters: US
+  founded: 2011
+  homepage: https://circleci.com/
+  privacyPolicy: https://circleci.com/legal/privacy/
+  termsOfService: https://circleci.com/legal/terms-of-use/
+  securityPage: https://circleci.com/security/
+  linkedin: https://www.linkedin.com/company/circleci
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: false
+appDomains:
+- circleci.com
+oauthDisplayNames: []

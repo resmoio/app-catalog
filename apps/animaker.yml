@@ -1,0 +1,39 @@
+id: animaker
+name: Animaker
+description: Animaker is a simple-to-use online application that lets users create videos with animation.
+  Its operation is based on do-it-yourself principles, making professional-quality animated videos accessible
+  to everyone. Being a cloud-based tool, it supports the creation of animated content right from the user's
+  web browser. The growth rate of Animaker indicates its increasing popularity among content creators
+  and video makers.
+category: productivity
+labels: []
+company:
+  organization: Animaker Inc.
+  headquarters: US
+  founded: 2015
+  homepage: https://www.animaker.com/
+  termsOfUse: https://www.animaker.com/terms-policy
+  privacyPolicy: https://www.animaker.com/terms-policy
+  securityPage: https://www.animaker.com/security-policy
+  linkedin: https://www.linkedin.com/company/animaker
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- animaker.com
+oauthDisplayNames:
+- Animaker

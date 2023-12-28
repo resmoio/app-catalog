@@ -1,0 +1,43 @@
+id: pritunl
+name: Pritunl
+description: Pritunl is a software that allows businesses to set up virtual private networks (VPNs) over
+  a variety of datacenters and provide remote access to users. It simplifies managing the network by integrating
+  with Amazon Web Services' user interface to assist with configuring VPNs and automatically managing
+  IP routing tables. As an open-source software, it offers the added benefit of being available for free.
+  Overall, the software eases the remote access process and makes networking tasks more efficient.
+category: security
+labels:
+- vpn
+- access management
+- infrastructure
+company:
+  organization: Pritunl
+  headquarters: US
+  founded: 2013
+  homepage: https://pritunl.com/
+  privacyPolicy: https://pritunl.com/privacy
+  termsOfService: https://pritunl.com/terms
+  statusPage: https://status.pritunl.com/
+  securityPage: https://pritunl.com/security
+  linkedin: https://www.linkedin.com/company/pritunl/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pritunl.com
+oauthDisplayNames:
+- Pritunl

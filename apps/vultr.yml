@@ -1,0 +1,32 @@
+id: vultr
+name: Vultr.com
+description: Vultr is a service offering different solutions related to cloud computing, such as the provision
+  of virtual private servers, storage, and networking options. It is a platform that allows one to set
+  up and administer virtual servers in different locations worldwide. It is predominantly used by developers,
+  companies, and private individuals to operate applications, websites, and services in a way that is
+  both scalable and economical.
+category: cloud
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- my.vultr.com
+oauthDisplayNames: []

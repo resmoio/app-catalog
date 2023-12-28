@@ -1,0 +1,41 @@
+id: luma
+name: Luma
+description: Luma is a platform designed to assist creators and businesses in organizing and managing
+  virtual events. This includes a variety of handy tools such as a system for scheduling, options for
+  communication via email, and facilities for ticketing. The primary aim is to provide an easier way for
+  content producers to engage with their audiences while also generating revenue. Furthermore, Luma features
+  inviting event pages, helping users to create noteworthy gatherings.
+category: marketing
+labels:
+- virtual events
+- webinars
+- monetization
+company:
+  organization: Luma
+  headquarters: US
+  founded: 2020
+  homepage: https://lu.ma/
+  privacyPolicy: https://lu.ma/privacy-policy
+  termsOfService: https://lu.ma/terms
+  securityPage: https://lu.ma/security
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lu.ma
+oauthDisplayNames:
+- Luma

@@ -1,0 +1,35 @@
+id: tempo
+name: Tempo
+description: Tempo is an email client designed to enhance focus. It's currently accessible on Mac devices
+  and has an iOS version in its beta stage of development. Its primary purpose is to streamline and simplify
+  email management, reducing distractions and promoting productivity.
+category: productivity
+labels:
+- email
+- calendar
+- focus
+company:
+  organization: ''
+  homepage: https://www.yourtempo.co/
+  privacyPolicy: https://www.yourtempo.co/legal#privacy_policy
+  termsOfService: https://www.yourtempo.co/legal#privacy_policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Tempo

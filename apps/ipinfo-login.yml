@@ -1,0 +1,40 @@
+id: ipinfo-login
+name: IPinfo Login
+description: IPinfo.io is a service that delivers accurate IP address data. Hailed for its reliability,
+  ipinfo.io takes charge of over 40 billion API requests each month, which underlines its high level of
+  trust among users. The platform enjoys the trust of more than 400,000 users, involving both individual
+  developers and businesses. Although it's a service renowned for its accuracy, it remains accessible
+  by offering free accounts, making IP address data more readily available.
+category: others
+labels:
+- ip lookup
+- ip data
+- geolocation
+company:
+  organization: IDB LLC
+  headquarters: US
+  founded: 2013
+  homepage: https://ipinfo.io
+  privacyPolicy: https://ipinfo.io/privacy-policy
+  termsOfService: https://ipinfo.io/terms-of-service
+  linkedin: https://www.linkedin.com/company/ipinfo/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- IPinfo Login

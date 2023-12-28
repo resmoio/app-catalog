@@ -1,0 +1,38 @@
+id: equals
+name: Equals
+description: Equals is a next-generation spreadsheet application that provides direct connections to multiple
+  databases and more than 25 commonly used SaaS tools, such as Snowflake, PostgreSQL, and Stripe. This
+  feature allows users to query, evaluate, and generate reports on live data from their chosen data sources.
+  Additionally, Equals includes version control and collaboration capabilities, which aids in team-based
+  projects. While a free trial is offered for 14 days, the terms of extended use are subject to the app's
+  pricing plan.
+category: others
+labels:
+- spreadsheets
+- databases
+- collaboration
+company:
+  organization: ''
+  homepage: https://equals.app
+  privacyPolicy: https://equals.app/policies/privacy-policy.pdf
+  termsOfService: https://equals.app/policies/privacy-policy.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Equals

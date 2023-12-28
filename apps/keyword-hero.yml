@@ -1,0 +1,37 @@
+id: keyword-hero
+name: Keyword Hero
+description: Keyword Hero is a SaaS solution designed to connect keywords from web traffic with user sessions
+  in Google Analytics. It effectively eliminates (not provided) data, providing clarity about what terms
+  users searched to find your website. This knowledge enables you to understand your audience better and
+  improve your online presence. The application manages these tasks by integrating seamlessly with Google
+  Analytics for a user-friendly experience.
+category: web-analytics
+labels:
+- google analytics
+- seo
+- keywords
+company:
+  organization: ''
+  homepage: https://keyword-hero.com
+  privacyPolicy: https://keyword-hero.com/privacy-policy
+  termsOfService: https://keyword-hero.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Keyword Hero

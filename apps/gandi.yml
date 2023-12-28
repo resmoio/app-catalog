@@ -1,0 +1,32 @@
+id: gandi
+name: Gandi
+description: Gandi is a software that combines domain name registration and cloud hosting services. It
+  enables both individuals and businesses to set up and handle their online presence. With its user-friendly
+  layout and emphasis on privacy and security, Gandi simplifies tasks such as domain name registration,
+  website hosting, and acquiring SSL certificates. The software also offers comprehensive tools for managing
+  online identities. It is particularly suited to those looking to streamline their online operations.
+category: cloud
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- gandi.net
+oauthDisplayNames: []

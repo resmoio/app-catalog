@@ -1,0 +1,39 @@
+id: conte.ai
+name: Conte.ai
+description: Conte.ai is a web-based application that simplifies managing social media accounts for businesses,
+  regardless of their size or industry. The user can easily coordinate various social media platforms
+  in a single location using Conte.ai. The software offers features for scheduled posting, communicating
+  with customers and numerous other functions that help in managing online operations of businesses.
+category: marketing
+labels:
+- social media management
+- marketing
+- analytics
+company:
+  organization: POSTOPLAN OU
+  headquarters: GB
+  founded: 2019
+  homepage: https://conte.ai
+  privacyPolicy: https://postoplan.contenive.com/en/privacy-policy
+  termsOfService: https://postoplan.contenive.com/en/terms-and-conditions
+  linkedin: https://www.linkedin.com/company/conte-ai/?originalSubdomain=uk
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Conte.ai

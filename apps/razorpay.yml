@@ -1,0 +1,35 @@
+id: razorpay
+name: Razorpay
+description: Razorpay is a digital application that allows users in India to receive payments through
+  various methods. The app simplifies online transactions by accepting net banking, credit and debit cards,
+  UPI, among other payment forms. It is designed to support the needs of businesses, making it easy to
+  instantly start receiving payments to operate efficiently. It is a reliable solution for online transactions
+  in India.
+category: e-commerce
+labels: []
+company:
+  organization: ''
+  homepage: https://razorpay.com/
+  privacyPolicy: https://razorpay.com/privacy/
+  termsOfService: https://razorpay.com/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Razorpay
+- RazorpayX

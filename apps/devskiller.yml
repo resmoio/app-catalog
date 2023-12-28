@@ -1,0 +1,34 @@
+id: devskiller
+name: DevSKiller
+description: DevSkiller is a software tool that aids in workforce management. Its core functions include
+  the facilitation of staffing processes, empowering team collaborations, and enhancing engineering performance.
+  The application utilizes advanced technology to provide solutions tailored toward the current trends
+  and future demands of the workforce.
+category: hr
+labels:
+- technical assessments
+- screening
+- recruiting
+company:
+  organization: ''
+  homepage: https://devskiller.com
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- DevSKiller

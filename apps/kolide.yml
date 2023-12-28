@@ -1,0 +1,34 @@
+id: kolide
+name: Kolide
+description: Kolide is a platform designed to bolster an organization's security measures. It specializes
+  in hunting out threats before they cause any harm and assisting with the resolution of potential security
+  concerns. It does this by keeping tabs on the security of endpoint devices, pinpointing weak spots,
+  and offering help to resolve these potential hazards. Kolide positions itself as a useful tool for IT
+  departments as it assists in keeping network devices secure and compliant, thereby contributing to a
+  stronger overall approach to cybersecurity.
+category: security
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- kolide.com
+oauthDisplayNames:
+- Kolide Cloud

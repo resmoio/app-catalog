@@ -1,0 +1,62 @@
+id: jumpcloud
+name: JumpCloud
+description: JumpCloud is an online directory service that allows businesses to safely manage and link
+  their users to their systems, applications, files, and networks with one set of credentials. Different
+  from traditional directory services, JumpCloud works with a range of vendors and manages both users
+  and devices across multiple platforms. Furthermore, it works with various network protocols, which simplifies
+  IT tasks and increases security in diverse digital situations. Devices of any type can get secure, uncomplicated
+  access to any resource, from any location. Also notable is JumpCloud's ability to unite device and identity
+  on a variety of systems, including Windows, Mac, and Linux.
+category: identity-and-access
+labels: []
+company:
+  organization: JumpCloud
+  headquarters: US
+  founded: 2012
+  homepage: https://jumpcloud.com/
+  privacyPolicy: https://jumpcloud.com/privacy
+  termsOfService: https://jumpcloud.com/legal
+  statusPage: https://status.jumpcloud.com/
+  securityPage: https://jumpcloud.com/security
+  linkedin: https://www.linkedin.com/company/jumpcloud/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- jumpcloud.com
+oauthDisplayNames:
+- JumpCloud
+appRelations:
+  byName:
+    atlassian:
+    - atlassian-cloud
+    - atlassiancloud
+    aws:
+    - aws-sso
+    - awsclientvpn
+    onepassword:
+    - 1password
+samlRelations:
+  atlassian:
+  - atlassiancloud
+  aws:
+  - aws-sso
+  - awsclientvpn
+  onepassword:
+  - 1password
+  gsuite:
+  - google

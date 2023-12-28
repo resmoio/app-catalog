@@ -1,0 +1,41 @@
+id: gamma
+name: Gamma
+description: Gamma is an application that uses artificial intelligence to help users create visually engaging
+  content like presentations, webpages, and documents. It's designed to save users time and effort by
+  automatically generating the design and formatting, so users can concentrate on the content of their
+  message. The advantage of Gamma is that you don't have to worry about the manual aspects of creating
+  visually appealing content. This automation lessens the load and enables you to directly focus on the
+  information you want to convey.
+category: security
+labels:
+- information security
+- data protection
+- encryption
+company:
+  organization: Gamma
+  headquarters: US
+  founded: 2020
+  homepage: https://gamma.app/
+  privacyPolicy: https://gamma.app/privacy
+  termsOfService: https://gamma.app/terms
+  linkedin: https://www.linkedin.com/company/gamma-app/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Gamma

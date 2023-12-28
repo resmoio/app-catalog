@@ -1,0 +1,34 @@
+id: dreamstudio
+name: Dreamstudio
+description: DreamStudio is a user-friendly application designed for creating images. It utilizes the
+  most recent version of the Stable Diffusion image generation model, reducing complexities and enhancing
+  the user experience. It can be used by users at all levels of expertise to produce striking visuals.
+category: productivity
+labels: []
+company:
+  organization: Stability AI
+  headquarters: GB
+  founded: 2019
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- beta.dreamstudio.ai
+- stabilityai.us.auth0.com
+oauthDisplayNames:
+- DreamStudio

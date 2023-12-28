@@ -1,0 +1,40 @@
+id: trendyol
+name: Trendyol
+description: Trendyol is a well-established e-commerce platform originating from Turkey. Since its establishment
+  in 2010, it has provided a platform for millions of consumers to connect with thousands of sellers and
+  brands. Trendyol covers an extensive range of products, spanning from fashion items to electronics.
+  The application serves as a useful tool for online shopping within the region, effectively becoming
+  a significant online marketplace in Turkey.
+category: e-commerce
+labels:
+- ecommerce marketplace
+- turkey
+- fashion
+company:
+  organization: Trendyol
+  headquarters: TR
+  founded: 2010
+  homepage: https://www.trendyol.com/
+  privacyPolicy: https://www.trendyol.com/kisisel_verilerin_korunmasi.html
+  termsOfService: https://www.trendyol.com/de/terms-of-use
+  linkedin: https://www.linkedin.com/company/trendyolgroup/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Trendyol

@@ -1,0 +1,44 @@
+id: udacity
+name: Udacity
+description: Udacity is an online learning platform that connects users to job opportunities by offering
+  a variety of industry-relevant courses. It collaborates with professionals in various fields to create
+  project-based courses that help users increase their job prospects. The platform provides courses in
+  different sectors, including artificial intelligence, machine learning, and robotics, allowing users
+  to learn and stay updated with the latest technologies. It offers additional courses in programming,
+  data science, digital marketing, and much more, catering to a wide range of professional needs. Users
+  can gain valuable technical skills through Udacity.
+category: education
+labels:
+- online education
+- courses
+- nanodegrees
+company:
+  organization: Udacity
+  headquarters: US
+  founded: 2011
+  homepage: https://www.udacity.com/
+  privacyPolicy: https://www.udacity.com/legal/en-us/privacy
+  termsOfService: https://www.udacity.com/legal/en-us/terms-of-use
+  statusPage: https://status.udacity.com/
+  linkedin: https://www.linkedin.com/school/udacity/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- udacity.com
+oauthDisplayNames:
+- Udacity

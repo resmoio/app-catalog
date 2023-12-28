@@ -1,0 +1,41 @@
+id: clockify
+name: Clockify
+description: Clockify is a software tool designed for keeping track of work hours on various projects.
+  It includes features for both individual use and team collaboration. Notably, it's utilized by freelancers,
+  small businesses, and large companies alike, which indicates its adaptability to different work scopes.
+  As both a free and paid service, it offers various features for managing projects effectively and analyzing
+  productivity levels. It is commonly recognized for being a user-friendly and comprehensive time tracker
+  and timesheet tool suitable for teams of all sizes.
+category: productivity
+labels: []
+company:
+  organization: clockify
+  headquarters: US
+  founded: 2017
+  homepage: https://clockify.me/
+  privacyPolicy: https://cake.com/privacy
+  termsOfService: https://clockify.me/terms
+  statusPage: https://clockify.me/help/system-status
+  securityPage: https://clockify.me/security
+  linkedin: https://www.linkedin.com/company/clockify/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- clockify.me
+oauthDisplayNames:
+- Clockify

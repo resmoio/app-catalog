@@ -1,0 +1,40 @@
+id: copymatic
+name: Copymatic
+description: Copymatic is an application that utilizes artificial intelligence to create concise, high-quality
+  content. It can generate a range of writings, from social media ads to blog posts and full landing pages,
+  in a quick, efficient manner. The AI function aims to produce unique and engaging copy that keeps reader
+  interest while maintaining a human-like quality in the writing. The simplicity and rapid output of the
+  software makes it a convenient tool for individuals and businesses needing content in a timely manner.
+category: content-management
+labels:
+- content creation
+- copywriting
+- ai
+company:
+  organization: Copymatic AI
+  headquarters: US
+  founded: 2021
+  homepage: https://copymatic.ai
+  privacyPolicy: https://copymatic.ai/privacy-policy/
+  termsOfService: https://copymatic.ai/terms-conditions/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- copymatic.ai
+oauthDisplayNames:
+- Copymatic

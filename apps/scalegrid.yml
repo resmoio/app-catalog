@@ -1,0 +1,36 @@
+id: scalegrid
+name: ScaleGrid
+description: ScaleGrid is an application that facilitates the deployment of database hosting for MongoDB,
+  Redis, MySQL, and PostgreSQL on various platforms such as AWS, Azure, GCP, DigitalOcean, and VMware.
+  The user-friendly interface allows users to easily manage their databases on any of these cloud services.
+  While the app does offer a free trial, subsequent usage may be subject to fees.
+category: others
+labels:
+- database hosting
+- mysql
+- mongodb
+company:
+  organization: ''
+  homepage: https://scalegrid.io
+  privacyPolicy: https://scalegrid.io/privacy-policy.html
+  termsOfService: https://scalegrid.io/privacy-policy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ScaleGrid

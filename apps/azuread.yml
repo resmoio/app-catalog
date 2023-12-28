@@ -1,0 +1,57 @@
+id: azuread
+name: Azure AD
+description: Azure Active Directory, also known as Azure AD, is a service provided by Microsoft that manages
+  identity and access in a cloud-based environment. It enables organizations to consolidate sign-on procedures
+  across multiple applications and manages user permissions and security. It also offers features to safeguard
+  data from unauthorized access.
+category: identity-and-access
+labels:
+- identity
+- authentication
+- microsoft
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 1975
+  homepage: https://azure.microsoft.com/en-us/products/active-directory
+  privacyPolicy: https://privacy.microsoft.com/en-us/privacystatement
+  termsOfService: https://azure.microsoft.com/en-us/support/legal/
+  statusPage: https://azure.status.microsoft/en-us/status
+  securityPage: https://learn.microsoft.com/en-us/azure/compliance/
+  linkedin: https://www.linkedin.com/company/msnazure/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []
+samlRelations:
+  atlassian:
+  - Atlassian Cloud
+  - Atlassian Cloud-test
+  aws:
+  - Amazon AWS
+  - AWS SSO
+  gsuite:
+  - G Suite
+  onepassword:
+  - 1password
+  twilio:
+  - Twilio Sendgrid
+  zendesk:
+  - Zendesk-SSO
+  sentry:
+  - x_sso_sentry

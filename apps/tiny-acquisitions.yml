@@ -1,0 +1,35 @@
+id: tiny-acquisitions
+name: Tiny Acquisitions
+description: Tiny Acquisitions is a platform that facilitates the transfer of small-scale projects. It
+  acts as a marketplace where users can explore, evaluate, and acquire these projects. The app is designed
+  to serve as a hub for top-quality micro projects.
+category: business-intelligence
+labels:
+- startup acquisitions
+- exits
+- mergers
+company:
+  organization: ''
+  homepage: https://tinyacquisitions.com/home
+  privacyPolicy: https://tinyacquisitions.com/legal?tabu003dprivacy
+  termsOfService: https://tinyacquisitions.com/legal?tabu003dprivacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Tiny Acquisitions

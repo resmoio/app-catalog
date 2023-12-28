@@ -1,0 +1,42 @@
+id: addevent.com
+name: AddEvent.com
+description: AddEvent.com is a straightforward application designed for business calendar management.
+  This service provides a simple widget that allows companies to manage their calendar more efficiently.
+  With its "Add to Calendar" feature, businesses can seamlessly schedule events, which can reach numerous
+  users globally. In essence, AddEvent.com seeks to transform the way companies interact with their audience
+  through organized scheduling.
+category: productivity
+labels:
+- marketing
+- calendars
+- events
+company:
+  organization: AddEvent Inc.
+  headquarters: US
+  founded: 2015
+  homepage: https://addevent.com
+  privacyPolicy: https://www.addevent.com/c/legal/privacy
+  termsOfService: https://www.addevent.com/c/legal/terms
+  securityPage: https://www.addevent.com/c/legal/security
+  linkedin: https://www.linkedin.com/company/addevent/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.addevent.com
+oauthDisplayNames:
+- AddEvent.com

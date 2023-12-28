@@ -1,0 +1,43 @@
+id: tugboat-logic
+name: Tugboat Logic
+description: Tugboat Logic is a tool that aims to ease the process of security and compliance for businesses.
+  It uses advanced technology to navigate through complex security regulations and standards, providing
+  a wide range of features that help manage the compliance journey. Additionally, Tugboat Logic fills
+  the expertise gap in the security industry by simplifying various security audits like SOC 2, PCI, and
+  ISO 27001. This makes it an effective tool for businesses seeking to streamline their security practices
+  and stay secure.
+category: security
+labels:
+- security assurance
+- audit prep
+- compliance
+company:
+  organization: OneTrust
+  headquarters: US
+  founded: 2016
+  homepage: https://tugboatlogic.com/
+  privacyPolicy: https://tugboatlogic.com/privacy-policy
+  termsOfService: https://tugboatlogic.com/terms-of-use/
+  linkedin: https://www.linkedin.com/company/onetrust/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- tugboatlogic.com
+oauthDisplayNames:
+- Tugboat Logic
+- Tugboat Logic

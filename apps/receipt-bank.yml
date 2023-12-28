@@ -1,0 +1,43 @@
+id: receipt-bank
+name: Receipt Bank
+description: Dext, formerly identified as Receipt Bank, serves as a valuable tool that simplifies
+  the often complicated tasks of expense tracking, data entry automation and fine-tuning financial operations.
+  This application allows businesses to capture, sort, and classify receipts and invoices without a hitch.
+  By providing enriched data and valuable insights, Dext lets businesses make well-informed decisions,
+  improve their tax reporting, and boost overall financial efficiency. It ultimately enhances productivity
+  and profitability for accountants, bookkeepers, and the businesses they advise.
+category: account-and-finance
+labels:
+- receipt capture
+- accounting
+- expenses
+company:
+  organization: Dext Software Limited
+  headquarters: GB
+  founded: 2010
+  homepage: https://www.receipt-bank.com
+  privacyPolicy: https://dext.com/en/privacy-policy
+  termsOfService: https://dext.com/en/terms-and-conditions
+  statusPage: http://status.dext.com/
+  securityPage: https://dext.com/en/products/security
+  linkedin: https://www.linkedin.com/company/hellodext
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Receipt Bank

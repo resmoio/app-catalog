@@ -1,0 +1,31 @@
+id: twitter
+name: Twitter
+description: Twitter is a widely-used social media platform that allows individuals to share concise messages,
+  commonly referred to as "tweets." Users can post texts, links, images, and videos in real-time, engage
+  with celebrities or companies, and connect with others worldwide. By employing hashtags and follows,
+  this platform also enables users to tailor their content feed to their interests, facilitating interaction
+  and information exchange on various topics.
+category: social-media
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

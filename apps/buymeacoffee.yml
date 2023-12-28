@@ -1,0 +1,43 @@
+id: buymeacoffee
+name: Buymeacoffee
+description: Buy Me a Coffee is an accessible tool for content creators and artists wishing to receive
+  acknowledgment and financial assistance from their followers. It allows users to create a tailored page
+  where fans can, by making a donation equated to ''buying a coffee'', show their appreciation. These
+  donations can be a one-time gesture or provide regular support. By offering a straightforward and manageable
+  user experience for both parties, Buy Me a Coffee serves as a bridge connecting creators with their
+  audience. This utility simplifies the process of content monetization for creators and artists, fostering
+  their growth and creativity.
+category: others
+labels:
+- support
+- donations
+- creators
+company:
+  organization: Publisherr Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://www.buymeacoffee.com/
+  privacyPolicy: https://www.buymeacoffee.com/privacy-policy
+  termsOfService: https://www.buymeacoffee.com/terms
+  statusPage: https://status.buymeacoffee.com/
+  linkedin: linkedin.com/company/buymecoffee/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Buymeacoffee

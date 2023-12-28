@@ -1,0 +1,36 @@
+id: flexclip
+name: FlexClip
+description: FlexClip is an online video editor designed for creating videos by adding text, music, animations,
+  and various effects. This tool is suitable for users with no prior experience in video editing. It provides
+  a straightforward interface that allows for the construction of both marketing and lifestyle videos
+  quickly.
+category: design
+labels: []
+company:
+  organization: PearlMountain
+  headquarters: HK
+  founded: 2006
+  homepage: https://www.flexclip.com/
+  privacyPolicy: https://www.flexclip.com/privacy.html
+  termsOfService: https://www.flexclip.com/privacy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- flexclip.com
+oauthDisplayNames:
+- FlexClip

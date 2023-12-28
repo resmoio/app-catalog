@@ -1,0 +1,32 @@
+id: dropshare
+name: Dropshare
+description: Dropshare is an application that offers a convenient solution for uploading a variety of
+  content. It supports uploads of screenshots, screen recordings, files, and even folders. The app is
+  available for both macOS and iOS platforms.
+category: content-sharing
+labels: []
+company:
+  organization: ''
+  homepage: https://dropshare.app
+  privacyPolicy: https://dropshare.app/privacy-policy/
+  termsOfService: https://dropshare.app/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Dropshare

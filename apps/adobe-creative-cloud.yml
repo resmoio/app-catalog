@@ -1,0 +1,39 @@
+id: adobeCreativeCloud
+name: Adobe Creative Cloud
+description: Adobe Creative Cloud is a subscription-based suite of software applications and services developed by Adobe Inc. 
+  that caters to various creative needs. It offers a comprehensive collection of tools used by professionals and enthusiasts 
+  in fields such as graphic design, photography, video editing, web development, and more.
+category: design
+labels:
+- design
+- photo editing
+- creative
+company:
+  organization: Adobe Inc.
+  headquarters: US
+  founded: 2007
+  homepage: https://www.adobe.com/tr/creativecloud.html
+  statusPage: https://status.adobe.com/
+  privacyPolicy: https://www.adobe.com/privacy.html
+  termsOfService: https://www.adobe.com/legal/terms.html
+  securityPage: https://www.adobe.com/trust.html
+  linkedin: https://www.linkedin.com/company/adobe/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

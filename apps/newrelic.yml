@@ -1,0 +1,44 @@
+id: newrelic
+name: New Relic
+description: New Relic is a software analytics tool designed to monitor and analyze the performance of
+  web and mobile applications. It offers real-time insights, assisting developers, operations teams, and
+  business stakeholders in understanding user behaviors and improving software performance. This platform
+  provides a comprehensive view of the software's health and assists in enhancing digital outcomes. New
+  Relic One and Quickstarts enable user-friendly instrumentation with minimal clicks, ensuring immediate
+  observability without necessitating a credit card for sign up.
+category: monitoring
+labels:
+- apm
+- monitoring
+- observability
+company:
+  organization: New Relic
+  headquarters: US
+  founded: 2008
+  homepage: https://newrelic.com/
+  privacyPolicy: https://newrelic.com/privacy
+  termsOfService: https://newrelic.com/terms
+  statusPage: https://status.newrelic.com/
+  securityPage: https://newrelic.com/security
+  linkedin: https://www.linkedin.com/company/new-relic-inc-/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- newrelic.com
+oauthDisplayNames:
+- New Relic

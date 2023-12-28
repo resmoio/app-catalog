@@ -1,0 +1,41 @@
+id: inkmonk
+name: Inkmonk
+description: Inkmonk is a platform that allows individuals and businesses to create a variety of printed
+  products. It is designed to be easy to use and provides numerous options for creating everything from
+  personalized items to business materials. It aims to simplify the process of designing and ordering
+  these products by providing an efficient and seamless experience. Inkmonk puts a high value on the quality
+  of its services, offering competitively priced digital and offset printing options in India. This includes
+  customized stationery for businesses and unique merchandise for events.
+category: design
+labels:
+- print on demand
+- merch
+- ecommerce
+company:
+  organization: Printo Document Services Pvt. Ltd.
+  headquarters: India
+  founded: 2013
+  homepage: https://inkmonk.com
+  privacyPolicy: https://inkmonk.com/privacy-policy
+  termsOfService: https://inkmonk.com/terms-and-conditions
+  linkedin: https://www.linkedin.com/company/inkmonk/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Inkmonk

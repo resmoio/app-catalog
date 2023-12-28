@@ -1,0 +1,45 @@
+id: segment
+name: segment.com
+description: Segment is a customer data platform that facilitates the collection, organization, and utilization
+  of first-party customer data for businesses. Its design enables the profitable assessment and utilization
+  of customer details, providing companies the ability to derive significant insights. This can foster
+  an improved understanding of customers and enable targeted business strategies. Segment also offers
+  features that assist in cleaning and activating your collected customer data. It is noteworthy that
+  Segment has been recognized as the leading Customer Data Platform for four consecutive years by the
+  International Data Corporation (2019-2022).
+category: marketing
+labels:
+- customer data platform
+- analytics
+- tagging
+company:
+  organization: Twilio Inc.
+  headquarters: US
+  founded: 2012
+  homepage: https://segment.com
+  privacyPolicy: https://www.twilio.com/legal/privacy/
+  termsOfService: https://www.twilio.com/legal/tos/
+  statusPage: https://status.segment.com/
+  securityPage: https://segment.com/security/
+  linkedin: https://www.linkedin.com/company/segment-io
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- segment.com
+oauthDisplayNames:
+- segment.com

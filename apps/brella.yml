@@ -1,0 +1,41 @@
+id: brella
+name: Brella
+description: Brella is a networking platform tailored for events and conferences that enables attendees
+  to arrange meetings, discover potential business connections, and plan individual meetings. The application
+  strives to improve the event experience by encouraging valuable interactions and allowing participants
+  to gain more from their attendance. It is recognized for its application across major conferences, where
+  it assists in providing enriching experiences and effective networking for both attendees and sponsors.
+category: online-meetings
+labels:
+- events
+- networking
+- scheduling
+company:
+  organization: Brella
+  headquarters: FI
+  founded: 2016
+  homepage: https://www.brella.io/
+  privacyPolicy: https://www.brella.io/privacy-notice
+  termsOfService: https://www.brella.io/terms-and-conditions
+  securityPage: https://www.brella.io/security-and-privacy
+  linkedin: https://www.linkedin.com/company/brellanetwork/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Brella

@@ -1,0 +1,35 @@
+id: ilovepdf
+name: iLovePDF
+description: iLovePDF is an online platform allowing users to handle PDF files with ease. It's a free
+  service that offers multiple tools for various PDF-related tasks. Users can merge multiple PDFs into
+  one, split a single PDF into several files, reduce the size of large PDF files, convert office documents
+  to PDF format, and convert PDF files to JPEG images. All these functions are readily accessible, making
+  it a comprehensive solution for those who regularly work with PDF files.
+category: productivity
+labels: []
+company:
+  organization: iLovePDF
+  headquarters: ES
+  founded: 2014
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- ilovepdf.com
+oauthDisplayNames:
+- iLovePDF

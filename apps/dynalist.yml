@@ -1,0 +1,39 @@
+id: dynalist
+name: Dynalist
+description: Dynalist is a tool designed to support businesses in outlining and developing their ideas.
+  It allows users to organize tasks into manageable lists, providing a structured method for tracking
+  their progress. Alongside each task, users can add comprehensive notes, creating a system that assists
+  in the planning and management of business activities.
+category: productivity
+labels:
+- outlining
+- notes
+- productivity
+company:
+  organization: Dynalist
+  founded: 2015
+  homepage: https://dynalist.io/
+  privacyPolicy: https://dynalist.io/privacy
+  termsOfService: https://dynalist.io/terms
+  statusPage: https://stats.uptimerobot.com/v8kBWiGZQ
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dynalist.io
+oauthDisplayNames:
+- Dynalist

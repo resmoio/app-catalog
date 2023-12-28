@@ -1,0 +1,41 @@
+id: techcrunch
+name: TechCrunch
+description: TechCrunch is a prominent digital platform specializing in technology-related content, including
+  news, product reviews, and startup profiles. Established in 2005 by Michael Arrington, the platform
+  has grown into a comprehensive source for information and insights concerning the technology industry.
+  TechCrunch also hosts global events and manages websites to track emerging trends and landscape of startups.
+  It provides coverage and analysis on topics such as venture capital funding and the Silicon Valley tech
+  scene.
+category: news-and-entertainment
+labels:
+- tech news
+- startups
+- media
+company:
+  organization: Yahoo
+  headquarters: US
+  founded: 2005
+  homepage: https://techcrunch.com/
+  privacyPolicy: https://legal.yahoo.com/us/en/yahoo/privacy/index.html
+  termsOfService: https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html
+  linkedin: https://www.linkedin.com/company/techcrunch/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TechCrunch

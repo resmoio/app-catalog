@@ -1,0 +1,38 @@
+id: amie
+name: Amie
+description: Amie is a productivity application that combines various features to enhance task management
+  and scheduling. Unlike standard tools, Amie merges to-do lists, personalized customer relationship management,
+  and a simple yet functional calendar into a single, unified platform. It therefore enables a user to
+  schedule time for tasks, events, and contact management, all in one place. Despite being a comprehensive
+  tool, its visual aesthetic lends an element of ease and enjoyment to the user experience. It is a free-to-try
+  application.
+category: productivity
+labels: []
+company:
+  organization: Amie
+  headquarters: DE
+  founded: 2020
+  homepage: https://www.amie.so/
+  privacyPolicy: https://www.amie.so/privacy
+  termsOfService: https://www.amie.so/terms
+  linkedin: https://www.linkedin.com/company/tryamie/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Amie

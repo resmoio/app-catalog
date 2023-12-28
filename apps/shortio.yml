@@ -1,0 +1,41 @@
+id: shortio
+name: Short.io
+description: Short.io is a link shortening service aimed at businesses aiming to maintain their branding
+  while simplifying long, complicated URLs. It allows businesses to create shortened URLs with their own
+  brand specifics. Besides making links more concise, Short.io also provides the opportunity for brand
+  exposure and user interaction. Businesses can also leverage its in-built analytics tool to gather insights
+  into link usage.
+category: marketing
+labels:
+- link shortener
+- branding
+- tracking
+company:
+  organization: Short.cm Inc.
+  headquarters: US
+  founded: 2016
+  homepage: https://short.io
+  privacyPolicy: https://short.io/privacy
+  termsOfService: https://short.io/terms
+  statusPage: https://status.short.io/
+  linkedin: https://www.linkedin.com/company/short.cm/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Short.io

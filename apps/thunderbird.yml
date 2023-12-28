@@ -1,0 +1,33 @@
+id: thunderbird
+name: Mozilla Thunderbird
+description: Mozilla Thunderbird is an accessible, open-source email client and communication platform.
+  It enables users to handle their emails, calendars, and contacts in one singular application while providing
+  a straightforward interface for various activities like sending and receiving emails, and organizing
+  them. It assists in handling multiple email accounts, offers spam filtering and allows customization
+  with add-ons. Its reliability and cost-free usage make it a popular choice among individuals and organizations
+  for managing emails and other communications.
+category: mail
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Mozilla Thunderbird Email

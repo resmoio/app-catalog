@@ -1,0 +1,36 @@
+id: charliehr
+name: CharlieHR
+description: CharlieHR is an application specially designed to streamline human resource tasks, automating
+  administrative duties to save time. The software aids organizations in creating productive teams that
+  contribute positively to the progression of the business. This digital tool serves to minimize the time
+  spent on administrative processes, enabling a more engaged and high-performing workforce.
+category: hr
+labels: []
+company:
+  organization: ''
+  homepage: https://charliehr.com
+  privacyPolicy: https://www.charliehr.com/privacy
+  termsOfService: https://www.charliehr.com/terms
+  securityPage: https://www.charliehr.com/hr-online/security/by-design
+  statusPage: https://www.charliehrstatus.com/
+  linkedin: https://uk.linkedin.com/company/charliehr
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- CharlieHR

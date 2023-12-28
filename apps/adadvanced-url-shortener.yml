@@ -1,0 +1,37 @@
+id: adadvanced-url-shortener
+name: Advanced URL Shortener
+description: The Advanced URL Shortener is a tool that assists users in reducing lengthy URLs within their
+  Google Sheets. It simplifies the process by enabling users to shorten multiple long web addresses all
+  at once. As a result, web addresses become easier to read and share. This add-on is fully integrated
+  within Google Sheets, eliminating complicated procedures and saving time. It enhances productivity by
+  allowing the users to manage their web addresses more efficiently.
+category: productivity
+labels:
+- productivity
+- urls
+- google sheets
+company:
+  organization: Digital Thoughts Inc.
+  homepage: https://www.digitalthoughts.science/sheets
+  privacyPolicy: https://www.digitalthoughts.science/legal/privacy-policy
+  termsOfService: https://www.digitalthoughts.science/legal/terms-of-service
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+  - Advanced URL Shortener

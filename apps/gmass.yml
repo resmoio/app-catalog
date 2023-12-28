@@ -1,0 +1,32 @@
+id: gmass
+name: GMass
+description: GMass is an easy-to-use browser extension that integrates with a user's Gmail account. It
+  is designed to help individuals and companies manage mass email campaigns by offering features like
+  scheduling and personalization tools. These features ensure that each recipient receives a customised
+  message without overwhelming the sender's workflow. In addition, this application is particularly useful
+  for small businesses that are aiming to reach a larger audience effectively.
+category: mail
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GMass

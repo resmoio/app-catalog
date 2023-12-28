@@ -1,0 +1,41 @@
+id: opentable
+name: OpenTable
+description: OpenTable is an online platform that allows users to make reservations at fine dining restaurants
+  in real time. It offers the convenience of reading reviews from other diners which can assist in decision-making.
+  Additionally, users have the opportunity to earn points with each booking, which can be redeemed for
+  free meals. This app simplifies the process of exploring dining options and securing a table at one's
+  preferred restaurant.
+category: transportation-and-travel
+labels:
+- restaurant reservations
+- booking
+- reviews
+company:
+  organization: Booking Holdings
+  headquarters: US
+  founded: 1997
+  homepage: https://www.opentable.com/
+  privacyPolicy: https://www.opentable.com/legal/privacy-policy
+  termsOfService: https://www.opentable.com/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/opentable/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- opentable.com
+oauthDisplayNames:
+- OpenTable

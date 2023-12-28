@@ -1,0 +1,42 @@
+id: resmo
+name: Resmo
+description: Resmo is an application designed to assist contemporary IT and security teams in maintaining
+  security for SaaS (Software As A Service) applications. It principally focuses on safeguarding users,
+  applications, and assets. The usage of Resmo provides more certainty when utilizing SaaS applications.
+  Thus, its main function is enhancing SaaS security, allowing teams to operate more efficiently and safely.
+category: security
+labels:
+- saas security
+- access control
+- compliance
+company:
+  organization: Resmo, Inc.
+  headquarters: US
+  founded: 2021
+  homepage: https://www.resmo.com
+  privacyPolicy: https://www.resmo.com/legal/privacy
+  termsOfService: https://www.resmo.com/legal/privacy
+  statusPage: https://resmo.statuspage.io/
+  securityPage: https://trust.resmo.com/
+  linkedin: https://tr.linkedin.com/company/resmoio/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- resmo.app
+oauthDisplayNames:
+- Resmo

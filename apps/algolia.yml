@@ -1,0 +1,45 @@
+id: algolia
+name: Algolia
+description: Algolia is a search and discovery platform that allows businesses to provide swift and pertinent
+  search results to their users. The platform is designed to facilitate developers in adding intricate
+  search features to various digital platforms, including websites and mobile apps, without any complications.
+  It utilizes real-time indexing to provide swift search results, enhancing user interaction and satisfaction.
+  This tool is beneficial for businesses aiming to enhance their search capabilities and offer superior
+  user experiences. The services provided by Algolia are powered by artificial intelligence, which assists
+  in generating search and discovery across various websites and apps.
+category: web-analytics
+labels:
+- search
+- indexing
+- analytics
+company:
+  organization: Algolia Inc.
+  headquarters: US
+  founded: 2012
+  homepage: https://www.algolia.com/
+  privacyPolicy: https://www.algolia.com/policies/privacy/
+  termsOfService: https://www.algolia.com/policies/terms/
+  statusPage: https://status.algolia.com/
+  securityPage: https://www.algolia.com/distributed-secure/security-compliance/
+  linkedin: https://www.linkedin.com/company/algolia/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- algolia.com
+oauthDisplayNames:
+- Algolia

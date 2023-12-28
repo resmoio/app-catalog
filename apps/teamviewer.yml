@@ -1,0 +1,44 @@
+id: teamviewer
+name: TeamViewer
+description: TeamViewer is a platform designed to provide remote access, supervision, and management of
+  a wide range of devices, from personal laptops and mobile phones to industrial machinery. It serves
+  as an all-in-one solution for remote assistance, collaboration, and internet-based desktop sharing.
+  The platform aids all sizes of businesses in digitizing vital processes via seamless connectivity. TeamViewer
+  is used by over 625,000 subscribers across various industries. It can also be used for personal purposes
+  without any charge.
+category: enterprise-it-services
+labels:
+- remote access
+- support
+- collaboration
+company:
+  organization: TeamViewer
+  headquarters: DE
+  founded: 2005
+  homepage: https://www.teamviewer.com/en-us/
+  privacyPolicy: https://www.teamviewer.com/en-us/privacy-notice/
+  termsOfService: https://www.teamviewer.com/en-us/eula/
+  statusPage: https://status.teamviewer.com/
+  securityPage: https://www.teamviewer.com/en-us/trust-center/industry-leading-security/
+  linkedin: https://www.linkedin.com/company/teamviewer/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- teamviewer.com
+oauthDisplayNames:
+- TeamViewer

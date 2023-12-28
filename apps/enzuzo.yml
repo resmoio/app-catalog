@@ -1,0 +1,37 @@
+id: enzuzo
+name: Enzuzo
+description: Enzuzo is a tool used by mobile app developers, agencies, ecommerce stores, and SaaS businesses
+  to construct data privacy software. Their software is designed to be both powerful and user-friendly.
+  It caters to various platforms including applications, websites, and other SaaS products. The intention
+  is to promote and simplify data privacy compliance. It's worth mentioning that there is an opportunity
+  for potential users to test Enzuzo at no cost.
+category: others
+labels:
+- data privacy
+- consent management
+- gdpr
+company:
+  organization: ''
+  homepage: https://www.enzuzo.com
+  privacyPolicy: https://www.enzuzo.com/privacy-policy
+  termsOfService: https://www.enzuzo.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Enzuzo

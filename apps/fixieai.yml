@@ -1,0 +1,31 @@
+id: fixieai
+name: Fixie.ai
+description: Fixie.ai is a platform designed for businesses of all sizes, offering services related to
+  conversational artificial intelligence. Its role is to simplify and transform how businesses communicate
+  and interact by incorporating AI into their procedures and conversations. This platform implies valuable
+  innovation, aiming to improve profitability and efficiency in the business context.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://fixie.ai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Fixie.ai

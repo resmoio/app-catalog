@@ -1,0 +1,43 @@
+id: torii
+name: Torii
+description: Torii is a platform designed to streamline the management of software-as-a-service (SaaS)
+  applications. By using automation, it identifies and organizes all active apps, which helps reduce expenses
+  and enhance the utilization of SaaS. This platform also implements data analytics to provide valuable
+  insights, allowing IT professionals to better understand and control their organization's SaaS usage
+  and costs. Notably, Torii has the capability to unveil a significant number of SaaS applications that
+  may not previously have been acknowledged within an organization.
+category: security
+labels:
+- saas management
+- optimization
+- cost
+company:
+  organization: Torii Technologies Ltd.
+  headquarters: US
+  founded: 2017
+  homepage: https://toriihq.com
+  privacyPolicy: https://toriihq.com/privacy
+  termsOfService: https://toriihq.com/terms
+  statusPage: https://toriihq.statuspage.io/
+  securityPage: https://www.toriihq.com/security
+  linkedin: https://www.linkedin.com/company/11298659/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- Torii

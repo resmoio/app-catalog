@@ -1,0 +1,43 @@
+id: canny
+name: Canny
+description: Canny is a user feedback management application. It provides an organized platform for businesses
+  to gather and prioritize feedback and feature requests from users. The application's main objective
+  is to help teams understand their customers' needs effectively and use that understanding to make informed
+  decisions regarding product development. With Canny, businesses can also keep users updated about product
+  changes and updates. Thus, it helps in effectively managing customer feedback and prioritizing the product
+  roadmap based on users' needs.
+category: customer-support
+labels:
+- product management
+- feedback
+- roadmapping
+company:
+  organization: Canny
+  headquarters: US
+  founded: 2017
+  homepage: https://canny.io/
+  privacyPolicy: https://canny.io/privacy
+  termsOfService: https://canny.io/terms
+  securityPage: https://canny.io/security
+  linkedin: https://www.linkedin.com/company/cannyhq/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- canny.io
+oauthDisplayNames:
+- Canny

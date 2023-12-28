@@ -1,0 +1,35 @@
+id: papercall
+name: PaperCall.io
+description: PaperCall.io is a platform designed to simplify the submission and review process for conference
+  talks and presentations. It offers a streamlined system for organizers and participants, making it easier
+  to manage and track submissions. The platform also facilitates valuable feedback between reviewers and
+  contributors, improving the quality of presentations and fostering professional development.
+category: others
+labels:
+- conference proposals
+- events
+- speaking
+company:
+  organization: ''
+  homepage: https://www.papercall.io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- papercall.io
+oauthDisplayNames:
+- PaperCall.io

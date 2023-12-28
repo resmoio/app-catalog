@@ -1,0 +1,35 @@
+id: evaboot
+name: Evaboot
+description: Evaboot is a tool designed to manage and enhance data obtained from Sales Navigator on LinkedIn.
+  Working primarily as a Chrome extension, Evaboot cleans, extracts, and enriches all Search Results on
+  Sales Navigator, helping users to simplify and optimize data on this professional networking platform.
+category: others
+labels:
+- linkedin
+- email finder
+- outreach
+company:
+  organization: ''
+  homepage: https://evaboot.com/
+  privacyPolicy: https://evaboot.com/privacy-policy
+  termsOfService: https://evaboot.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Evaboot

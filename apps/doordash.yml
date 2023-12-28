@@ -1,0 +1,31 @@
+id: doordash
+name: DoorDash
+description: DoorDash is a useful service that enables users to order a wide range of foods from local
+  restaurants. It offers the convenience of delivering these orders directly to the user's location, providing
+  a simple and straightforward method for individuals to enjoy meals from various cuisines without leaving
+  their homes.
+category: transportation-and-travel
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- doordash.com
+oauthDisplayNames: []

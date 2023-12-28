@@ -1,0 +1,38 @@
+id: merge
+name: Merge
+description: Merge is an app that simplifies the process of integrating various systems essential to a
+  business, such as HR, payroll, ticketing, accounting, Applicant Tracking Systems (ATS), Customer Relationship
+  Management (CRM), and SCIM. The app operates via a single Application Programming Interface (API), enabling
+  users to establish integration pathways more swiftly, typically within days rather than months. Merge's
+  main function is to streamline business processes, reducing the workload of maintaining multiple separate
+  software systems.
+category: others
+labels:
+- hr
+- payroll
+- directory
+company:
+  organization: ''
+  homepage: https://www.merge.dev/
+  privacyPolicy: https://www.merge.dev/privacy-policy/
+  termsOfService: https://www.merge.dev/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Merge

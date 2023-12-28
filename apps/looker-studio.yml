@@ -1,0 +1,40 @@
+id: looker-studio
+name: Looker Studio
+description: Looker Studio is a tool designed to help organizations understand their data more deeply.
+  It provides a user-friendly platform for creating interactive dashboards and reports, simplifying the
+  process of analyzing and visualizing data. The platform supports teamwork by allowing easy sharing of
+  data insights, which assists businesses in developing stronger data-based strategies and adapting to
+  market changes.
+category: business-intelligence
+labels:
+- bi
+- dashboards
+- data visualization
+company:
+  organization: Google LLC
+  headquarters: US
+  founded: 1998
+  homepage: https://lookerstudio.google.com/u/0/navigation/reporting
+  privacyPolicy: https://www.google.com/intl/en/privacy.html
+  termsOfService: https://www.google.com/accounts/TOS
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- lookerstudio.google.com
+oauthDisplayNames:
+- Looker Studio

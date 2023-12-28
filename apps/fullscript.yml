@@ -1,0 +1,36 @@
+id: fullscript
+name: Fullscript
+description: Fullscript is a digital platform used by thousands of people to maintain their health. This
+  resource offers personalized treatment planning, ongoing wellness support, and high-quality supplements.
+  Users can take advantage of these features to pursue a healthier lifestyle and potentially boost their
+  overall well-being.
+category: e-commerce
+labels:
+- health supplements
+- wellness
+- integrative care
+company:
+  organization: ''
+  homepage: https://fullscript.com
+  privacyPolicy: https://fullscript.com/privacy
+  termsOfService: https://fullscript.com/terms-of-service
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Fullscript

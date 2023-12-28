@@ -1,0 +1,34 @@
+id: seo-site-checkup
+name: SEO Site Checkup
+description: SEO Site Checkup is an application that provides various tools and resources for individuals
+  and companies interested in improving the visibility of their websites on search engines. This app is
+  particularly useful for website owners, small businesses, and SEO agencies. Users can access various
+  SEO tools, educational articles, and software that can assist in enhancing their website's SEO performance.
+category: monitoring
+labels: []
+company:
+  organization: SEO Site Checkup
+  headquarters: US
+  founded: 2010
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- seositecheckup.com
+oauthDisplayNames:
+- Seo Site Checkup

@@ -1,0 +1,46 @@
+id: deel
+name: Deel
+description: Deel is a human resources platform designed for managing international teams. It aids businesses
+  in various processes, from hiring and building a strong team culture to handling local payroll and staying
+  compliant with international laws. Users can leverage Deel's services to manage remote workers and independent
+  contractors in over 150 countries. The setup process for Deel is quick and user-friendly, promoting
+  efficient management of the global team, and ensuring compliance with local regulations. This application
+  supports all team members, regardless of their location, making it a comprehensive solution for global
+  HR needs.
+category: hr
+labels:
+- global payroll
+- compliance
+- hr
+company:
+  organization: Deel Inc.
+  headquarters: US
+  founded: 2019
+  homepage: https://www.deel.com/
+  privacyPolicy: https://www.deel.com/privacy#:~:text=We%20will%20keep%20your%20personal,we%20gave%20you%20fair%20treatment
+  termsOfService: https://www.deel.com/terms-of-service
+  statusPage: https://status.deel.com/
+  securityPage: https://www.deel.com/security
+  linkedin: https://www.linkedin.com/company/deel/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- letsdeel.com
+- deel.com
+oauthDisplayNames:
+- Deel

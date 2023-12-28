@@ -1,0 +1,36 @@
+id: plausible-analytics
+name: Plausible Analytics
+description: Plausible Analytics is a simplified, user-friendly version of Google Analytics. As an open-source
+  platform, it offers complete control over website data and holds user privacy to high regard. It's light
+  in terms of memory usage, which makes it an efficient alternative for users seeking a less complex tool
+  for their website analytics needs.
+category: web-analytics
+labels:
+- web analytics
+- privacy
+- open source
+company:
+  organization: ''
+  homepage: https://plausible.io
+  privacyPolicy: https://plausible.io/privacy
+  termsOfService: https://plausible.io/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Plausible Analytics

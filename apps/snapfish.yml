@@ -1,0 +1,34 @@
+id: snapfish
+name: Snapfish
+description: Snapfish is a platform that enables individuals to share photos and host digital prints.
+  Users can personalize various items like gifts, cards, and home decor by using their own photos. In
+  addition, they can design photo books and prints, allowing them to make unique, custom creations. This
+  service makes it simple to translate digital photo collections into tangible, personalized items.
+category: content-management
+labels: []
+company:
+  organization: HP
+  headquarters: US
+  founded: 1939
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- snapfish.com
+oauthDisplayNames:
+- Snapfish

@@ -1,0 +1,43 @@
+id: fotor
+name: Fotor
+description: Fotor is an accessible, user-friendly tool for editing photos and creating collages. It serves
+  a diverse range of end users, from photographers and bloggers to marketers and social media users. It
+  can be used on different platforms, including PCs (Mac & Windows), mobile devices (Android & iOS), and
+  the web. With this application, users can perform various editing tasks such as cropping, resizing,
+  adding effects and text, and designing collages. It incorporates advanced features like patented HDR
+  technologies, all available for free. Despite its advanced capabilities, Fotor remains easy to use making
+  it ideal for all skill levels.
+category: design
+labels:
+- photo editing
+- graphic design
+- templates
+company:
+  organization: Fotor
+  headquarters: CN
+  founded: 2009
+  homepage: https://www.fotor.com/
+  privacyPolicy: https://www.fotor.com/privacypolicy
+  termsOfService: https://www.fotor.com/termsofservice
+  linkedin: https://www.linkedin.com/company/fotor.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- fotor.com
+oauthDisplayNames:
+- Fotor

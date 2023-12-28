@@ -1,0 +1,42 @@
+id: serpapi
+name: SerpApi
+description: SerpApi is a data extraction tool used by developers to collect search results from prominent
+  search engines such as Google, Bing, and Yahoo. By enabling access to real-time search data via an API,
+  it allows for this information to be incorporated into users' own applications, tools, or platforms.
+  The application removes the need to understand the complexities of web scraping, managing tasks such
+  as handling proxies and solving captchas. Furthermore, it also interprets any rich structured data,
+  making it convenient and efficient for developers to use.
+category: seo
+labels:
+- google search results
+- seo
+- api
+company:
+  organization: SerpApi
+  headquarters: US
+  founded: 2017
+  homepage: https://serpapi.com/
+  privacyPolicy: https://serpapi.com/legal
+  termsOfService: https://serpapi.com/legal
+  statusPage: https://serpapi.com/status
+  linkedin: https://www.linkedin.com/company/serpapi/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SerpApi

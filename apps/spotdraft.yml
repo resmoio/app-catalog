@@ -1,0 +1,36 @@
+id: spotdraft
+name: SpotDraft
+description: SpotDraft is a contract management tool that's designed to accommodate teams of any size.
+  Its primary function is to modernize legal agreements via the usage of artificial intelligence. The
+  platform is comprehensive, providing solutions for all aspects of contract management. As it's built
+  from the ground up, it has the ability to work seamlessly with existing contract management processes.
+category: productivity
+labels:
+- contract management
+- legal agreements
+- automation
+company:
+  organization: ''
+  homepage: https://www.spotdraft.com
+  privacyPolicy: https://www.spotdraft.com/privacy
+  termsOfService: https://www.spotdraft.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SpotDraft

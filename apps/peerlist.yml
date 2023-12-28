@@ -1,0 +1,39 @@
+id: peerlist
+name: Peerlist
+description: Peerlist is a digital tool designed to help professionals manage and exhibit their career
+  history and skills. Its primary purpose is to gather all professional information that may otherwise
+  be scattered on various online platforms. This process enables easier access and understanding of a
+  person's professional background for colleagues and potential employers.
+category: hr
+labels:
+- professional profiles
+- resumes
+- recruiting
+company:
+  organization: Peerlist Inc.
+  headquarters: IN
+  founded: 2021
+  homepage: https://peerlist.io/
+  privacyPolicy: https://peerlist.io/legal/peerlist-privacy-policy.pdf
+  termsOfService: https://peerlist.io/legal/peerlist-terms-conditions.pdf
+  linkedin: https://www.linkedin.com/company/peerlist/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Peerlist

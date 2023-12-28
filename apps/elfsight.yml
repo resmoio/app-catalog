@@ -1,0 +1,36 @@
+id: elfsight
+name: Elfsight
+description: Elfsight is a digitally based service that provides over 80 types of website
+  widgets. It is used by more than a million website owners who seek to expand their online business operations.
+  The widgets offered by Elfsight are designed to encourage business growth and enhance the online presence
+  of a website.
+category: development-tools
+labels:
+- website plugins
+- widgets
+- marketing
+company:
+  organization: ''
+  homepage: https://elfsight.com
+  privacyPolicy: https://elfsight.com/privacy-policy/
+  termsOfService: https://elfsight.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Elfsight

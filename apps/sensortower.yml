@@ -1,0 +1,42 @@
+id: sensortower
+name: Sensor Tower
+description: Sensor Tower is an analysis tool for the mobile app market. It offers users detailed information
+  about mobile app performance, industry trends, and how different apps compare. This tool is useful for
+  developers, investors, marketing teams, and analysts working in the mobile app sector. Sensor Tower
+  provides a wide range of data, including app rankings, number of downloads, revenue, and user interaction
+  levels. With this information, users gain a clearer understanding of their position within the global
+  digital and mobile market.
+category: marketing
+labels:
+- app intelligence
+- analytics
+- market data
+company:
+  organization: Sensor Tower
+  headquarters: US
+  founded: 2013
+  homepage: https://sensortower.com/
+  privacyPolicy: https://sensortower.com/privacy
+  termsOfService: https://sensortower.com/tos
+  statusPage: https://uptime.com/statuspage/sensortower
+  securityPage: https://sensortower.com/security
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sensor Tower

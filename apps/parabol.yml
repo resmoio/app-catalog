@@ -1,0 +1,42 @@
+id: parabol
+name: Parabol
+description: Parabol is an application designed to improve team collaboration, especially for remote teams.
+  Its main function is to assist in conducting both real-time and asynchronous meetings by collecting
+  activity data from online collaborations, which it then converts into insightful reports. Not only does
+  Parabol simplify meeting procedures by rolling team notes and tasks into summaries, but it also offers
+  a perspective on leadership dynamics within the team. The app can integrate well with other platforms
+  like Jira, Confluence, Github, and Slack, and is both complimentary and open-source.
+category: productivity
+labels:
+- agile retrospectives
+- reflections
+- remote teams
+company:
+  organization: Parabol Inc.
+  headquarters: US
+  founded: 2015
+  homepage: https://www.parabol.co/
+  privacyPolicy: https://www.parabol.co/privacy
+  termsOfService: https://www.parabol.co/terms-of-service
+  statusPage: https://twitter.com/parabolstatus?lang=en
+  linkedin: https://www.linkedin.com/company/parabol/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Parabol

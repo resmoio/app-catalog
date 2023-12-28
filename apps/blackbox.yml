@@ -1,0 +1,43 @@
+id: blackbox
+name: Blackbox
+description: Blackbox is a software application developed to aid programmers in their tasks. It uses artificial
+  intelligence (AI) to instantly complete code, offer coding recommendations, and identify debugging suggestions.
+  Specifically designed to augment productivity, Blackbox smoothly blends with different developer tools
+  without disrupting existing workflows. The benefit of using Blackbox includes support in designing,
+  managing, and securing IT infrastructure and networks. It also features an AI Code Chat, enabling programmers
+  to significantly accelerate their development process by providing automated error detection and code
+  completion. Overall, Blackbox aims to optimize productivity and make coding workflows more efficient.
+category: productivity
+labels:
+- productivity
+- ai assistant
+- developer
+company:
+  organization: BLACKBOX
+  headquarters: US
+  founded: 1976
+  homepage: https://www.useblackbox.io/
+  privacyPolicy: https://www.useblackbox.io/privacy
+  termsOfService: https://www.useblackbox.io/terms
+  linkedin: https://www.linkedin.com/company/blackboxtech/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- useblackbox.io
+oauthDisplayNames:
+- Blackbox

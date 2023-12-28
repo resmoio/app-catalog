@@ -1,0 +1,40 @@
+id: scribd
+name: Scribd
+description: Scribd is a digital library that offers a subscription service for avid readers and learners.
+  It grants subscribers access to a wide array of e-books, audiobooks, magazine articles, and other documents.
+  These resources can be accessed and enjoyed on various devices. The service sets itself apart with its
+  offer of unlimited access for reading, an aspect that appears promising for its diverse user base. Please
+  note that the service offers a 30-days trial period that is free of charge.
+category: content-sharing
+labels:
+- audiobooks
+- ebooks
+- documents
+company:
+  organization: Scribd
+  headquarters: US
+  founded: 2007
+  homepage: https://www.scribd.com/
+  privacyPolicy: https://support.scribd.com/hc/en-us/articles/210129366-Privacy-policy
+  termsOfService: https://support.scribd.com/hc/en-us/articles/210129326-General-Terms-of-Use
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- scribd.com
+oauthDisplayNames:
+- Scribd

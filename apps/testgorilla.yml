@@ -1,0 +1,41 @@
+id: testgorilla
+name: TestGorilla
+description: TestGorilla is an online tool designed to aid companies in identifying qualified candidates
+  for employment. It provides a range of assessments, including coding challenges, personality evaluations,
+  and cognitive tests, to streamline the hiring process. This service aims to help employers make quick,
+  easy, and impartial hiring decisions by using skill-based screenings. TestGorilla offers various plans,
+  including a free option for users.
+category: hr
+labels:
+- pre-employment testing
+- assessments
+- recruiting
+company:
+  organization: TestGorilla
+  headquarters: NL
+  founded: 2020
+  homepage: https://www.testgorilla.com
+  privacyPolicy: https://www.testgorilla.com/privacy-policy/
+  termsOfService: https://www.testgorilla.com/terms/
+  securityPage: https://www.testgorilla.com/security-measures/
+  linkedin: https://www.linkedin.com/company/testgorilla/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TestGorilla

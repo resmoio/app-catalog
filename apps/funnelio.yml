@@ -1,0 +1,37 @@
+id: funnelio
+name: Funnel Connector
+description: Funnel Connector is a software solution aimed at simplifying management of marketing data.
+  As a data hub, it collects and organizes marketing information from various sources to promote data-driven
+  decisions and insights. The intention is to help users realize the full potential of their data, thus
+  improving their marketing strategies and outcomes. Through its focus on actionable insight, Funnel Connector
+  encourages a more effective use of data in marketing planning and implementation.
+category: marketing
+labels:
+- marketing analytics
+- attribution
+- reporting
+company:
+  organization: ''
+  homepage: https://funnel.io/
+  privacyPolicy: https://funnel.io/privacy
+  termsOfService: https://funnel.io/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Funnel Connector

@@ -1,0 +1,34 @@
+id: honey
+name: Honey
+description: Honey is a browser extension designed to assist with online shopping by searching for and
+  applying coupon codes during the checkout process. Users can benefit from potential savings and offers
+  that the extension locates without needing to manually search for deals themselves. Honey also offers
+  a rewards system, whereby users can accumulate points through their shopping activities.
+category: e-commerce
+labels: []
+company:
+  organization: eBay
+  headquarters: US
+  founded: 1995
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- joinhoney.com
+oauthDisplayNames:
+- Honey

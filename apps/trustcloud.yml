@@ -1,0 +1,43 @@
+id: trustcloud
+name: TrustCloud
+description: TrustCloud is a platform designed to boost trust and safety, particularly in online peer-to-peer
+  and marketplace relationships. It assesses online activities and transactions to assign a trustworthiness
+  score to users, aiming to facilitate confident engagements in online markets or sharing platforms. TrustCloud
+  uses advanced artificial intelligence to streamline compliance audits, automate risk evaluations, and
+  fill out security questionnaires efficiently, transforming governance, risk, and compliance (GRC) into
+  a productive element of businesses.
+category: others
+labels:
+- reputation management
+- credibility
+- sharing economy
+company:
+  organization: TrustCloud
+  headquarters: US
+  founded: 2009
+  homepage: https://www.trustcloud.ai/
+  privacyPolicy: https://www.trustcloud.ai/legal/privacy/
+  termsOfService: https://www.trustcloud.ai/legal/tos/
+  statusPage: https://status.trustcloud.ai/
+  securityPage: https://trust.trustcloud.ai/home
+  linkedin: https://www.linkedin.com/company/trustcloudai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TrustCloud

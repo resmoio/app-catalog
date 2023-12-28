@@ -1,0 +1,36 @@
+id: splunk-observability-cloud
+name: Splunk Observability Cloud
+description: Splunk Observability Cloud is a platform designed to provide a detailed overview of digital
+  environments. It simultaneously monitors the function and status of applications, services, and infrastructure
+  all in real time. Through a combined approach of application performance monitoring, infrastructure
+  monitoring, and log analysis, it gives complete visibility into system performance and health. It
+  also aids in recognizing unusual system behaviors and enhancing user's interaction with the system.
+  This platform integrates various features such as Application Performance Monitoring, Infrastructure
+  Monitoring, Log Observer, and Real-User Monitoring.
+category: monitoring
+labels: []
+company:
+  organization: Splunk
+  headquarters: US
+  founded: 2004
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- app.signalfx.com
+oauthDisplayNames: []

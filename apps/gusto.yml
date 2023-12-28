@@ -1,0 +1,42 @@
+id: gusto
+name: Gusto
+description: Gusto is a cloud-based platform that assists businesses in managing payroll, employee benefits,
+  and other human resources activities. It automates tasks like payroll processing and tax filing, as
+  well as time tracking and employee onboarding. This platform is geared towards easing administrative
+  duties and ensuring compliance for small and medium-sized businesses. Overall, Gusto offers a comprehensive
+  solution for payroll, benefits, and human resource management functions, all accessible via the cloud.
+category: hr
+labels:
+- payroll
+- benefits
+- hr
+company:
+  organization: Gusto
+  headquarters: US
+  founded: 2011
+  homepage: https://gusto.com/
+  privacyPolicy: https://gusto.com/about/privacy
+  termsOfService: https://gusto.com/about/terms
+  securityPage: https://gusto.com/security
+  linkedin: https://www.linkedin.com/company/gustohq/posts/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- gusto.com
+oauthDisplayNames:
+- Gusto

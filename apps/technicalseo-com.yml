@@ -1,0 +1,38 @@
+id: technicalseo-com
+name: TechnicalSEO.com
+description: TechnicalSEO.com is an application developed by Merkle, a reputable performance-marketing
+  agency. It is primarily designed to provide tools and insights related to Search Engine Optimization
+  (SEO). Using this application, users can gain a deeper understanding of SEO techniques and strategies,
+  which can help improve their website's visibility on search engines. Merkle, the creator of the application,
+  has a strong background in performance marketing, adding credibility and expertise to the resources
+  available on TechnicalSEO.com.
+category: web-analytics
+labels:
+- seo education
+- training
+- tips
+company:
+  organization: ''
+  homepage: https://technicalseo.com
+  privacyPolicy: https://www.merkleinc.com/cookie-notice
+  termsOfService: https://www.merkleinc.com/cookie-notice
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TechnicalSEO.com

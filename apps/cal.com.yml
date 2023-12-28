@@ -1,0 +1,42 @@
+id: cal.com
+name: Cal.com
+description: Cal.com is an open-source calendar platform that aims to make task scheduling and management
+  simpler. It features an user-friendly interface that can easily connect with other applications through
+  its open API. It offers customization options and diverse embedding choices to fit users' different
+  needs. Cal.com helps users to manage their scheduling processes effectively by offering a flexible design
+  and easy-to-use scheduling tools. Its ultimate goal is to create a cohesive and accessible scheduling
+  environment where everyone can connect and organize their tasks efficiently. Whether sending a meeting
+  link or building a whole marketplace, Cal.com facilitates human connections.
+category: productivity
+labels: []
+company:
+  organization: Cal.com Inc.
+  headquarters: US
+  founded: 2021
+  homepage: https://cal.com
+  privacyPolicy: https://cal.com/privacy
+  termsOfService: https://cal.com/terms
+  statusPage: https://status.cal.com/
+  securityPage: https://cal.com/security
+  linkedin: https://www.linkedin.com/company/cal-com/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- cal.com
+oauthDisplayNames:
+- Cal.com

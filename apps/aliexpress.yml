@@ -1,0 +1,42 @@
+id: aliexpress
+name: AliExpress
+description: AliExpress is an online retail platform run by the Alibaba Group, based in China. It enables
+  buyers from around the world to buy a broad range of products straight from Chinese wholesalers and
+  manufacturers. Providing a variety of options across numerous categories, this platform offers these
+  items at competitive prices. The service is designed to facilitate easy, high-quality online purchases
+  from China.
+category: e-commerce
+labels:
+- ecommerce
+- marketplace
+- china
+company:
+  organization: AliExpress
+  headquarters: CN
+  founded: 2010
+  homepage: https://www.aliexpress.com/
+  privacyPolicy: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407.html
+  termsOfService: https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress202204182115_66077.html?spm=a2g0o.home.0.0.59d210d0dq0K1M
+  linkedin: https://www.linkedin.com/company/aliexpress/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- aliexpress.com
+oauthDisplayNames:
+- AliExpress
+- Aliexpress iOS

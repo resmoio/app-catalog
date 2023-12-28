@@ -1,0 +1,44 @@
+id: cloudcraft
+name: Cloudcraft
+description: Cloudcraft is a visual tool designed for planning and designing cloud architectures. It allows
+  users to construct and visualize comprehensive diagrams of their cloud infrastructure. By integrating
+  directly with AWS, Cloudcraft provides an up-to-date view of the user's cloud environment. This helps
+  developers and system architects in understanding and improving their cloud infrastructures. Cloudcraft
+  features smart components for several AWS services like EC2, ELB, Lambda, RDS, DynamoDB, among others,
+  making it easy to create detailed architecture diagrams. Users can also securely connect their AWS accounts
+  to import their existing cloud inventory.
+category: cloud
+labels:
+- aws
+- azure
+- gcp
+company:
+  organization: Cloudcraft
+  founded: 2016
+  homepage: https://www.cloudcraft.co/
+  privacyPolicy: https://www.datadoghq.com/legal/privacy/
+  termsOfService: https://www.cloudcraft.co/terms
+  statusPage: https://status.cloudcraft.co/
+  securityPage: https://www.cloudcraft.co/security
+  linkedin: https://www.linkedin.com/company/cloudcraft-inc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cloudcraft.co
+oauthDisplayNames:
+- Cloudcraft

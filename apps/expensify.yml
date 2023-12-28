@@ -1,0 +1,40 @@
+id: expensify
+name: Expensify
+description: Expensify is a software platform established in 2008, designed to assist individuals and
+  companies with the management and reporting of expenses. It allows users to track and categorize spending,
+  handle receipts, and simplify the process of reimbursements. The service focuses on easing the tasks
+  associated with financial record-keeping for users.
+category: account-and-finance
+labels:
+- expense tracking
+- receipts
+- accounting
+company:
+  organization: Expensify
+  headquarters: US
+  founded: 2008
+  homepage: https://www.expensify.com/
+  privacyPolicy: https://use.expensify.com/privacy
+  termsOfService: https://use.expensify.com/terms
+  linkedin: https://www.linkedin.com/company/expensify/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- expensify.com
+oauthDisplayNames:
+- Expensify

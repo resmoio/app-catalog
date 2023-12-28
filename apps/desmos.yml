@@ -1,0 +1,37 @@
+id: desmos
+name: Desmos
+description: Desmos is a software application made specifically to create and distribute educational materials.
+  It serves as a tool for educators to develop resources and share them effectively. The functionality
+  of this software can greatly support learning and teaching experiences, making them more interactive
+  and engaging. Hand in hand with its user-friendly interface, Desmos offers a fluid and straightforward
+  way to boost the quality of education.
+category: education
+labels: []
+company:
+  organization: Desmos
+  headquarters: US
+  founded: 2011
+  homepage: https://www.desmos.com
+  privacyPolicy: https://www.desmos.com/privacy
+  termsOfService: https://www.desmos.com/terms
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- desmos.com
+oauthDisplayNames:
+- Desmos

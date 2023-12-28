@@ -1,0 +1,40 @@
+id: the-new-york-times
+name: The New York Times
+description: The New York Times app provides access to journalism that covers global news and events,
+  offering in-depth analysis, investigative reporting, and a range of perspectives on various topics including
+  politics, business, culture, and sports. It features content from a team of reporters, editors, and
+  photographers and delivers breaking news, opinions, photos, and videos. The service extends from its
+  traditional daily newspaper to its digital platform, sharing news from over 150 countries. The app aims
+  to keep readers informed on local and international developments across multiple fields such as technology,
+  science, health, arts, and sports.
+category: news-and-entertainment
+labels: []
+company:
+  organization: The New York Times
+  headquarters: US
+  founded: 1851
+  homepage: https://www.nytimes.com/
+  privacyPolicy: https://www.nytimes.com/privacy/privacy-policy
+  termsOfService: https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service
+  linkedin: https://www.linkedin.com/company/the-new-york-times/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- nytimes.com
+oauthDisplayNames:
+- The New York Times

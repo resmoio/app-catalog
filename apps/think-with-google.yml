@@ -1,0 +1,33 @@
+id: think-with-google
+name: Think with Google
+description: The app "Think with Google" is a web-based resource provided by Google. It offers detailed
+  insights into trends in digital marketing and consumer behavior. The tool is primarily aimed at marketing
+  professionals and businesses who want to stay updated on the latest practices in their industry. It
+  provides a variety of resources such as case studies, research reports, and marketing insights, all
+  designed to aid in making data-backed decisions. This information helps users refine their digital strategies
+  in a way that helps them engage their audience efficiently and effectively.
+category: marketing
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Think with Google

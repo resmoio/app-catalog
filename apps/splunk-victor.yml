@@ -1,0 +1,31 @@
+id: splunk-victor
+name: Splunk On-Call (formerly VictorOps)
+description: Splunk On-Call, previously VictorOps, is a platform intended to assist DevOps and IT teams
+  in handling incidents efficiently. It offers tools for sending alerts, collaborating on incidents, automating
+  responses, and reviewing incidents after the fact. Splunk On-Call facilitates communication and coordination
+  amidst incidents, aiming to speed up resolution times and decrease down times.
+category: monitoring
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- portal.victorops.com
+oauthDisplayNames: []

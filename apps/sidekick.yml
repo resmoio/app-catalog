@@ -1,0 +1,36 @@
+id: sidekick
+name: Sidekick
+description: Sidekick is a browser specifically created to enhance your work experience. It consolidates
+  various web tools within one platform, contributing to a more organized and clutter-free digital workspace.
+  Furthermore, Sidekick places a high priority on speed, privacy, and security for a smooth and reliable
+  user experience.
+category: others
+labels:
+- browser
+- productivity
+- work
+company:
+  organization: ''
+  homepage: https://meetsidekick.com
+  privacyPolicy: https://www.meetsidekick.com/
+  termsOfService: https://www.meetsidekick.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sidekick

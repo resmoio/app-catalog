@@ -1,0 +1,46 @@
+id: snyk
+name: Snyk
+description: Snyk is a security platform designed with developers in mind. Its main purpose is to allow
+  organizations to spot and fix potential vulnerabilities in their open-source libraries, containers,
+  and code repositories. The platform supports the concept of DevSecOps, incorporating security measures
+  directly into the development process. This process ensures that developers can create secure applications
+  without hindering efficiency. Snyk provides real-time updates, clear directions on remedy procedures,
+  and automated testing. These features help businesses strengthen their software against possible threats
+  throughout the software development lifecycle. Snyk supports multiple programming ecosystems and is
+  beneficial for businesses that have software development at their core.
+category: security
+labels:
+- open source security
+- vulnerabilities
+- devops
+company:
+  organization: Snyk
+  headquarters: US
+  founded: 2015
+  homepage: https://snyk.io/
+  privacyPolicy: https://snyk.io/policies/privacy/
+  termsOfService: https://snyk.io/policies/terms-of-service/
+  statusPage: https://status.snyk.io/
+  securityPage: https://snyk.io/security/
+  linkedin: https://www.linkedin.com/company/snyk/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- snyk.io
+oauthDisplayNames:
+- Snyk

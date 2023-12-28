@@ -1,0 +1,41 @@
+id: g2
+name: G2
+description: G2 is an application that allows users to compare different business software and services.
+  It relies heavily on user ratings and social data to generate its comparisons. Users can access reviews
+  for various software categories such as Customer Relationship Management (CRM), Enterprise Resource
+  Planning (ERP), Human Resources (HR), Computer-Aided Design (CAD), Product Data Management (PDM), and
+  marketing software.
+category: business-intelligence
+labels:
+- software reviews
+- saas
+- business tools
+company:
+  organization: ''
+  homepage: https://g2.com
+  privacyPolicy: https://legal.g2.com/privacy-policy
+  termsOfService: https://legal.g2.com/terms-of-use
+  securityPage: https://trust.g2.com/?_gl=1*14zr0r4*_ga*MjAyMDY5MDM1My4xNzAxMjAzODEw*_ga_MFZ5NDXZ5F*MTcwMTIwMzgxMC4xLjEuMTcwMTIwMzkyMi42MC4wLjA.*_gcl_au*MTA4MTc5OTc3NC4xNzAxMjAzODEw
+  linkedin: https://www.linkedin.com/company/g2dotcom
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- g2.com
+oauthDisplayNames:
+- G2
+- G2 Crowd

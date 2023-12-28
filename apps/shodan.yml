@@ -1,0 +1,41 @@
+id: shodan
+name: Shodan
+description: Shodan is a search engine specifically for the Internet of Things (IoT). It provides comprehensive
+  knowledge about the global online landscape, allowing organizations to keep track of network activities.
+  In addition, it also assists in evaluating risks associated with cyber activities taking place through
+  third parties. Besides its core security focus, Shodan can also provide market trends and insights.
+  The platform offers its service to internet-connected devices and a free account can be created to initiate
+  its use.
+category: business-intelligence
+labels:
+- network intelligence
+- iot
+- internet scanning
+company:
+  organization: Shodan
+  headquarters: US
+  founded: 2009
+  homepage: https://www.shodan.io
+  privacyPolicy: https://account.shodan.io/privacy
+  termsOfService: https://static.shodan.io/legal/terms.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- shodan.io
+oauthDisplayNames:
+- Shodan

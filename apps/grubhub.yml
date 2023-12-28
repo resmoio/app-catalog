@@ -1,0 +1,42 @@
+id: grubhub
+name: Grubhub
+description: Grubhub is an American-based online platform that provides ordering and delivery services
+  from a wide range of local restaurants. It was established in 2004 and operates within over 500 cities.
+  Grubhub's primary function is to simplify the process of ordering meals and having them delivered to
+  the user's location. Users are able to browse local restaurants, order their chosen meals, and arrange
+  for either delivery or takeout. It's important to note that Grubhub's services may not be available
+  in all countries.
+category: others
+labels:
+- food delivery
+- takeout
+- restaurants
+company:
+  organization: GrubHub
+  headquarters: US
+  founded: 2001
+  homepage: https://grubhub.com/
+  privacyPolicy: https://grubhub.com/legal/privacy-policy
+  termsOfService: https://grubhub.com/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/grubhub-seamless/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- grubhub.com
+oauthDisplayNames:
+- Grubhub

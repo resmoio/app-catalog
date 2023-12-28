@@ -1,0 +1,35 @@
+id: gitbook
+name: GitBook
+description: GitBook is a documentation platform that enables the creation, sharing, and publication of
+  high-standard documentation and books. Its main focus lies in the simplicity and ability to control
+  different versions of documents. This tool allows multiple individuals to collaboratively make changes
+  to and manage documents. It provides features like creation of content, tracking the history of versions,
+  and combining with development processes. GitBook works towards simplifying documentation, digital writing,
+  and publishing.
+category: development-tools
+labels: []
+company:
+  organization: Gitbook
+  headquarters: FR
+  founded: 2014
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- gitbook.com
+oauthDisplayNames: []

@@ -1,0 +1,33 @@
+id: zocdoc
+name: ZocDoc
+description: Zocdoc is an online platform that bridges the gap between healthcare providers and patients.
+  It allows individuals to locate and schedule appointments with health professionals in various fields,
+  simplifying the process of accessing medical care.
+category: others
+labels: []
+company:
+  organization: Zocdoc
+  headquarters: US
+  founded: 2007
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- zocdoc.com
+oauthDisplayNames:
+- Zocdoc

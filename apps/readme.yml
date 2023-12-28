@@ -1,0 +1,32 @@
+id: readme
+name: ReadMe
+description: ReadMe is a software that assists companies in producing, releasing, and maintaining API
+  documentation and developer portals. It provides resources to create complete API documentation containing
+  interactive examples and code snippets, along with features for collaboration. By simplifying API documents
+  and making them more accessible, ReadMe enables developers to more readily comprehend and incorporate
+  their services.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dash.readme.com
+oauthDisplayNames: []

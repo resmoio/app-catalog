@@ -1,0 +1,30 @@
+id: cloudflarezerotrust
+name: Cloudflare Zero Trust
+description: Cloudflare Zero Trust is a security application that uses a zero-trust system. It reinforces
+  cybersecurity through detailed identity checks, regulating access to data and continuous surveillance.
+  It is designed to enhance the security measures for data protection.
+category: security
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cloudflare.com
+oauthDisplayNames: []

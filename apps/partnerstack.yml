@@ -1,0 +1,44 @@
+id: partnerstack
+name: PartnerStack
+description: PartnerStack is a platform designed to aid companies in growing their business through strategic
+  partnerships. It offers tools for managing partner relationships, facilitating automation, and handling
+  payouts, which simplifies the process of managing various programs including affiliate, referral, and
+  reseller ones. With PartnerStack, companies can effectively reach out to, engage with, and scale their
+  partner networks, ranging from affiliates to reseller partners, allowing them a more efficient market
+  approach.
+category: business-intelligence
+labels:
+- partner management
+- marketplace
+- saas
+company:
+  organization: PartnerStack
+  headquarters: CA
+  founded: 2015
+  homepage: https://partnerstack.com/
+  privacyPolicy: https://partnerstack.com/policies#privacy-policy
+  termsOfService: https://partnerstack.com/policies#terms-of-service
+  statusPage: https://status.partnerstack.com/
+  securityPage: https://partnerstack.com/policies#security-practices
+  linkedin: https://www.linkedin.com/company/partnerstack/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- partnerstack.com
+oauthDisplayNames:
+- PartnerStack

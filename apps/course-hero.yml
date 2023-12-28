@@ -1,0 +1,37 @@
+id: course-hero
+name: Course Hero
+description: Course Hero is an Internet-based learning platform that provides study resources for students.
+  It contains a diverse collection of study materials curated by individuals around the globe and linked
+  to courses at various universities. The application also offers the option for students to obtain homework
+  assistance from tutors, helping them feel confident, prepared, and supported throughout their academic
+  journey.
+category: education
+labels: []
+company:
+  organization: Course Hero
+  headquarters: US
+  founded: 2006
+  homepage: https://www.coursehero.com/
+  privacyPolicy: https://www.coursehero.com/copyright/#/privacy-policy
+  termsOfService: https://www.coursehero.com/terms-of-use/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- coursehero.com
+oauthDisplayNames:
+- Course Hero

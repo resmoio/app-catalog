@@ -1,0 +1,43 @@
+id: clickup
+name: ClickUp
+description: ClickUp is a project management application designed to enhance team productivity and streamline
+  work processes. It offers a broad range of features including task management, time tracking, goal setting,
+  and collaborative tools. Configured for user-friendliness, the platform is customizable and it serves
+  to consolidate different work processes by providing a central hub for teams, tasks, and tools. This
+  integration assists in making operations more efficient, saving time across numerous projects and tasks.
+category: project-management
+labels:
+- project management
+- tasks
+- collaboration
+company:
+  organization: ClickUp
+  headquarters: US
+  founded: 2017
+  homepage: https://clickup.com/
+  privacyPolicy: https://clickup.com/privacy
+  termsOfService: https://clickup.com/terms
+  statusPage: https://status.clickup.com/
+  securityPage: https://clickup.com/security
+  linkedin: https://www.linkedin.com/company/clickup-app/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- clickup.com
+oauthDisplayNames:
+- ClickUp

@@ -1,0 +1,31 @@
+id: komodor
+name: Komodor
+description: Komodor.com Dashboard
+category: others
+labels:
+- monitoring
+- logging
+- troubleshooting
+company:
+  organization: ''
+  homepage: https://app.komodor.io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Komodor

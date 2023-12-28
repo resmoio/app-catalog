@@ -1,0 +1,41 @@
+id: datapane
+name: Datapane
+description: Datapane is a platform meant for data experts and teams, used for generating and collaborating
+  on data reports. It helps users convert intricate data into visually engaging and comprehensible presentations
+  including charts, graphs, and tables. These are easily shareable with teammates, clients, or other stakeholders.
+  Datapane's key feature is its interactive mode that lets viewers delve into and engage with data directly
+  within the presented report. It simplifies the process of constructing, sharing, and collaborating on
+  data-backed insights. Additionally, Datapane is an open-source framework that allows for creating interactive
+  reports using Python.
+category: data-analytics
+labels:
+- business intelligence
+- analytics
+- reporting
+company:
+  organization: Datapane Inc.
+  headquarters: GB
+  founded: 2015
+  privacyPolicy: https://datapane.com/privacy.pdf
+  termsOfService: https://datapane.com/terms.pdf
+  linkedin: https://www.linkedin.com/company/datapane/product/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Datapane

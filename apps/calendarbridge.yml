@@ -1,0 +1,39 @@
+id: calendarbridge
+name: CalendarBridge Inc
+description: CalendarBridge Inc. facilitates the integration of calendars for both businesses and individuals,
+  enhancing scheduling and collaboration efficiency. Its technology allows users to access various calendar
+  platforms and manage events, tasks, and appointments in one place. This enhances productivity and creates
+  a more organized workflow by allowing real-time alignment of multiple calendars, including Google Calendar
+  and Microsoft 365. CalendarBridge Inc. focuses on providing practical and reliable solutions for all
+  calendar management needs.
+category: productivity
+labels: []
+company:
+  organization: CalendarBridge Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://calendarbridge.com/
+  privacyPolicy: https://calendarbridge.com/terms-and-privacy/
+  termsOfService: https://calendarbridge.com/terms-and-privacy/
+  securityPage: https://help.calendarbridge.com/data-security-policy/
+  linkedin: https://www.linkedin.com/company/calendarbridge/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- CalendarBridge Inc

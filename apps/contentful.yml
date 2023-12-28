@@ -1,0 +1,45 @@
+id: contentful
+name: Contentful
+description: Contentful is a content management system (CMS) that functions differently from traditional
+  CMSs. Instead of providing a full suite of services, it focuses on being a backend content repository;
+  this gives developers access to APIs that they can use to manage, distribute, and integrate content
+  across different platforms and devices. It also gives them the freedom to utilize their favored tools
+  and frameworks to present and deploy content \u2013 a feature designed to enhance flexibility and
+  speed. Further, the application supports collaboration, innovation, and the delivery of impactful
+  experiences, especially in instances where content is critical to business performance.
+category: content-management
+labels:
+- headless cms
+- apis
+- content delivery
+company:
+  organization: Contentful
+  headquarters: DE
+  founded: 2013
+  homepage: https://www.contentful.com/
+  privacyPolicy: https://www.contentful.com/legal/privacy-at-contentful/privacy-notice/
+  termsOfService: https://www.contentful.com/legal/
+  statusPage: https://www.contentfulstatus.com/
+  securityPage: https://www.contentful.com/security/
+  linkedin: https://www.linkedin.com/company/contentful/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- contentful.com
+oauthDisplayNames:
+- Contentful

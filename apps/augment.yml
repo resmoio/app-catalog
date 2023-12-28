@@ -1,0 +1,41 @@
+id: augment
+name: Augment
+description: The Augment AI application is designed to help users improve productivity by understanding
+  and adapting to their work habits. The application uses sophisticated AI algorithms to analyze individual
+  work preferences and learn unique habits over time. As a result, it can predict behaviors and provide
+  suggestions to help users work more efficiently. The app can easily be integrated with commonly used
+  applications, making it an accessible tool that can be tailored to individual needs. Users are invited
+  to make requests to gain early access to the application.
+category: productivity
+labels:
+- productivity
+- ai assistant
+- automation
+company:
+  organization: Augment AI Corp.
+  headquarters: USA
+  founded: 2021
+  homepage: https://www.augment.co/
+  privacyPolicy: https://www.augment.co/privacy#:~:text=We%20make%20personal%20information%20into,Services%20and%20promote%20our%20business.
+  termsOfService: https://www.augment.com/terms-and-policies/
+  linkedin: https://www.linkedin.com/company/augmentco/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Augment

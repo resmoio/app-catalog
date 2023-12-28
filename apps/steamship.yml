@@ -1,0 +1,35 @@
+id: steamship
+name: Steamship
+description: Steamship is a tool that helps users manage artificial intelligence agents. It offers features
+  that enable the building and scaling of these agents. The program also allows for the monitoring of
+  the AI agents' performance, providing a tool for users to understand and oversee their operations regularly.
+category: transportation-and-travel
+labels:
+- conversational ai
+- automation
+- devops
+company:
+  organization: ''
+  homepage: https://www.steamship.com/
+  privacyPolicy: https://www.steamship.com/privacy-policy
+  termsOfService: https://www.steamship.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Steamship

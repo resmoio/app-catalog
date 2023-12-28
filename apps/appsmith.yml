@@ -1,0 +1,43 @@
+id: appsmith
+name: Appsmith
+description: Appsmith is an open-source platform designed to simplify the process of building internal
+  tools and dashboards. Users don't need extensive frontend development skills due to its user-friendly
+  drag-and-drop interface. It facilitates connections to numerous databases, APIs, and third-party services,
+  thereby expediting the creation of custom applications. Simply put, Appsmith makes the development of
+  internal tools quicker, doing away with the need to start coding from scratch or extensively search
+  for suitable libraries.
+category: development-tools
+labels:
+- low code
+- database
+- workflows
+company:
+  organization: Appsmith
+  headquarters: IN
+  founded: 2019
+  homepage: https://www.appsmith.com/
+  privacyPolicy: https://www.appsmith.com/privacy-policy
+  termsOfService: https://www.appsmith.com/terms-and-conditions
+  statusPage: https://status.appsmith.com/
+  securityPage: https://docs.appsmith.com/product/security
+  linkedin: https://www.linkedin.com/company/appsmith/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Appsmith

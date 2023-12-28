@@ -1,0 +1,44 @@
+id: harvest
+name: Harvest
+description: Harvest is a cloud-based software that offers tools for managing tasks like time tracking,
+  invoicing, and expense tracking. It's particularly useful for freelancers and small businesses who need
+  to monitor project hours, manage budgets, and schedule tasks effectively. Harvest's features include
+  comprehensive reporting, streamlined online invoicing, and efficient resource management. This allows
+  teams to handle project timelines and coordinate resources effortlessly. Overall, Harvest helps users
+  to administer and control the facets of their projects in one consolidated platform.
+category: account-and-finance
+labels:
+- time tracking
+- invoicing
+- expenses
+company:
+  organization: Harvest
+  headquarters: US
+  founded: 2006
+  homepage: https://www.getharvest.com/
+  privacyPolicy: https://www.getharvest.com/privacy-policy
+  termsOfService: https://www.getharvest.com/terms-of-service
+  statusPage: https://www.harveststatus.com/
+  securityPage: https://www.getharvest.com/security
+  linkedin: https://www.linkedin.com/company/harvest_2/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- getharvest.com
+oauthDisplayNames:
+- Harvest

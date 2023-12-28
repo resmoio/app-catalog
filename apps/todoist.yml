@@ -1,0 +1,44 @@
+id: todoist
+name: Todoist
+description: Todoist is a task management app that is designed to simplify the organization of tasks,
+  projects, and goals. The application offers user-friendly features like intuitive language input, recurring
+  tasks, and prioritizing options. It is utilized by over 30 million people, and it serves the needs of
+  both individual users and small teams. Although recognized as an effective tool globally, its main role
+  is to aid users in becoming more focused, organized, and relaxed by streamlining daily routines and
+  tasks.
+category: productivity
+labels:
+- task management
+- to-do lists
+- productivity
+company:
+  organization: DOIST
+  headquarters: US
+  founded: 2012
+  homepage: https://todoist.com/
+  privacyPolicy: https://doist.com/privacy
+  termsOfService: https://doist.com/terms-of-service
+  statusPage: https://status.todoist.net/
+  securityPage: https://todoist.com/security
+  linkedin: https://www.linkedin.com/company/doist/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- todoist.com
+oauthDisplayNames:
+- Todoist

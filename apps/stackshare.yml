@@ -1,0 +1,40 @@
+id: stackshare
+name: StackShare
+description: StackShare is an online platform aimed at assisting developers and tech teams. It serves
+  as a communal hub where users can uncover and compare the technology stacks being employed by other
+  companies. This creates an efficient way for them to decide which technologies would be appropriate
+  for their own workflows. A key feature of StackShare is that it provides technology stack intelligence,
+  which aids teams in making thoughtful and data-based technology choices.
+category: development-tools
+labels:
+- dev tools
+- software discovery
+- community
+company:
+  organization: StackShare
+  headquarters: US
+  founded: 2013
+  homepage: https://stackshare.io/
+  privacyPolicy: https://stackshare.io/privacy
+  termsOfService: https://stackshare.io/terms
+  linkedin: https://www.linkedin.com/company/stackshare/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- StackShare

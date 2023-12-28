@@ -1,0 +1,41 @@
+id: clockwise
+name: Clockwise
+description: Clockwise is a user-friendly calendar management system designed to harmonize team schedules
+  and streamline productivity. It uses artificial intelligence to optimize calendar arrangements, aiming
+  to increase focus time for all team members. This system has been adopted by over 10,000 organizations
+  and is proven to manage flexible meetings effectively. By providing a simple user interface, it allows
+  easy and accurate recording of work hours. Clockwise's main goal is to create added flexibility in the
+  day and encourage work focus. It's free to get started.
+category: productivity
+labels: []
+company:
+  organization: ClockWise
+  headquarters: NL
+  founded: 2016
+  homepage: https://www.getclockwise.com/
+  privacyPolicy: https://www.getclockwise.com/privacy
+  termsOfService: https://www.getclockwise.com/terms
+  statusPage: https://status.getclockwise.com/
+  securityPage: https://www.getclockwise.com/security
+  linkedin: https://www.linkedin.com/company/clockwise-inc./
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- clockwise.com
+oauthDisplayNames:
+- Clockwise

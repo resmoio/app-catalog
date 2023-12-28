@@ -1,0 +1,44 @@
+id: whimisical
+name: Whimsical
+description: Whimsical is a workspace application designed to facilitate visual collaboration among team
+  members. Users can create mind maps, flowcharts, wireframes, and sticky notes, making it suitable for
+  brainstorming, planning projects, or generating visual documentation. This application functions as
+  a combined hub where features of whiteboards and documents are integrated in a single location. Built
+  with a focus on clarity and efficiency, Whimsical aims to streamline the collaborative process within
+  both professional and creative settings.
+category: design
+labels:
+- flowcharts
+- diagrams
+- collaboration
+company:
+  organization: Whimsical
+  headquarters: US
+  founded: 2017
+  homepage: https://whimsical.com/
+  privacyPolicy: https://whimsical.com/privacy
+  termsOfService: https://whimsical.com/terms
+  statusPage: https://status.whimsical.com/
+  securityPage: https://whimsical.com/security
+  linkedin: https://www.linkedin.com/company/whimsical/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- whimsical.com
+oauthDisplayNames:
+- Whimsical

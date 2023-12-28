@@ -1,0 +1,39 @@
+id: kosy
+name: Kosy
+description: Kosy Office is a multipurpose virtual office designed to facilitate easy communication and
+  collaboration for remote teams. The application provides uninterrupted audio, video, and text channels,
+  promoting a sense of unity and positive company culture despite geographical distances. It also serves
+  as an event-hosting platform where remote teams can meet and collaborate within the same virtual workspace.
+  It's tailored to encourage efficient teamwork and build a sense of community among its users.
+category: productivity
+labels:
+- virtual office
+- remote work
+- productivity
+company:
+  organization: Kosy Software Ltd
+  headquarters: GB
+  founded: 2021
+  homepage: https://www.kosyoffice.com/
+  privacyPolicy: https://www.kosyoffice.com/privacy
+  termsOfService: https://www.kosyoffice.com/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Kosy

@@ -1,0 +1,36 @@
+id: scalar
+name: Scalar
+description: Scalar is an application designed to maximize the effectiveness of business meetings. It
+  aims to prevent meetings from overwhelming or controlling the company's workflow. As a tool, Scalar
+  assists companies in conducting productive and time-efficient meetings, leaving room for other valuable
+  company activities.
+category: others
+labels:
+- meeting management
+- collaboration
+- focus
+company:
+  organization: ''
+  homepage: https://www.scalaros.com
+  privacyPolicy: https://www.scalaros.com/privacy-policy
+  termsOfService: https://www.scalaros.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Scalar

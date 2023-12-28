@@ -1,0 +1,37 @@
+id: twist
+name: Twist
+description: Twist is a digital application designed to streamline communication among teams, regardless
+  of geographical or time-zone differences. Recognized by Fast Company as a significant concept, Twist
+  offers an organized platform for managing work-related communication. The tool is especially useful
+  for teams that operate flexibly, providing a more efficient method to collaborate and coordinate tasks.
+category: chat
+labels:
+- async communication
+- collaboration
+- chat
+company:
+  organization: ''
+  homepage: https://twist.com/
+  privacyPolicy: https://twist.com/privacy
+  termsOfService: https://twist.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- twist.com
+oauthDisplayNames:
+- Twist

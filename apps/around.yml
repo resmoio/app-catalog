@@ -1,0 +1,41 @@
+id: around
+name: Around
+description: Around is a video collaboration tool that helps remote and hybrid teams work together effectively.
+  It offers a simple interface and is well-suited for various types of meetings, from one-on-one discussions
+  to larger group sessions. The app includes innovations that aim to enhance the virtual meeting experience.
+  It is focused on enabling teams to connect, share ideas, and celebrate achievements with ease.
+category: online-meetings
+labels:
+- video calling
+- meetings
+- productivity
+company:
+  organization: Teamport Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://www.around.co/
+  privacyPolicy: https://www.around.co/privacy/
+  termsOfService: https://www.around.co/terms/
+  securityPage: https://www.around.co/security
+  linkedin: https://www.linkedin.com/company/aroundhq
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- around.co
+oauthDisplayNames:
+- Around

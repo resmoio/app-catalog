@@ -1,0 +1,34 @@
+id: mighty-networks
+name: Mighty Networks
+description: Mighty Networks is an online platform designed for creators and brands to establish and manage
+  their own communities. It offers tools to create courses, organize memberships, and allows users the
+  option to upgrade to personalized branded applications. This platform provides a space where users can
+  control and grow their community engagement.
+category: content-sharing
+labels: []
+company:
+  organization: Mighty Networks
+  headquarters: US
+  founded: 2017
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mightynetworks.com
+oauthDisplayNames:
+- Mighty Networks

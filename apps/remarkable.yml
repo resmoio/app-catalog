@@ -1,0 +1,41 @@
+id: remarkable
+name: reMarkable Integrations
+description: The app, reMarkable Integrations, replaces conventional notebooks and printed documents,
+  aiming for a more sustainable and efficient note-taking process. It merges the easy-to-use physicality
+  of paper with the practicality of digital advances. This app represents a significant option for individuals
+  who want a simplified and environmentally-friendly approach to managing documents and recording notes,
+  functioning virtually as a tablet that mimics the feel of paper.
+category: others
+labels:
+- digital paper
+- note taking
+- productivity
+company:
+  organization: reMarkable AS
+  headquarters: Norway
+  founded: 2013
+  homepage: https://remarkable.com
+  privacyPolicy: https://support.remarkable.com/s/article/reMarkable-s-privacy-policy
+  termsOfService: https://support.remarkable.com/s/topic/0TO7Q000000sz6TWAQ/hardware-tcs
+  linkedin: https://www.linkedin.com/company/remarkable-as/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- reMarkable Integrations
+- reMarkable Google integration

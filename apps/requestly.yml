@@ -1,0 +1,41 @@
+id: requestly
+name: Requestly
+description: Requestly is a tool for web developers aiming at streamlining the process of website construction,
+  testing, and bug-fixing. It allows users to modify and intercept HTTP requests similar to tools like
+  Charles Proxy and Postman but is easily operable in the browser. Users have the ability to mock server
+  configurations, modify API responses, share recording sessions, alter headers and set up redirects.
+  This open-source software also enables the creation of mock servers and instill custom scripts, offering
+  a comprehensive solution for web debugging issues.
+category: development-tools
+labels:
+- api mocking
+- testing
+- development
+company:
+  organization: RQ Labs Inc.
+  headquarters: US
+  founded: 2021
+  homepage: https://requestly.io
+  privacyPolicy: https://requestly.io/privacy
+  termsOfService: https://requestly.io/terms
+  linkedin: https://www.linkedin.com/company/requestly/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Requestly

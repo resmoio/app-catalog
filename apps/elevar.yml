@@ -1,0 +1,37 @@
+id: elevar
+name: Elevar
+description: Elevar is a tool designed to assist businesses, specifically Shopify owners, in managing
+  their data more effectively. The application provides the facility to set up a data layer and connect
+  to more than 40 marketing channels, working towards ensuring all conversions are tracked. Furthermore,
+  it offers the feature of enabling server-side tagging. Renowned among more than 6,500 direct-to-consumer
+  brands, Elevar aims to improve conversion tracking and enhance data use.
+category: others
+labels:
+- conversion tracking
+- analytics
+- tag management
+company:
+  organization: ''
+  homepage: https://www.getelevar.com
+  privacyPolicy: https://www.getelevar.com/privacy/
+  termsOfService: https://www.getelevar.com/privacy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Elevar

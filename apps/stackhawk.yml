@@ -1,0 +1,43 @@
+id: stackhawk
+name: StackHawk
+description: StackHawk is a tool designed to help developers identify and rectify security issues within
+  their apps before they reach their final stages. It becomes part of the software production process
+  by smoothly blending into continuous integration and continuous delivery (CI/CD) pipelines. This enables
+  automated security testing during software development. In a nutshell, StackHawk supports modern teams
+  in enhancing the security of applications and APIs via dynamic testing, with a particular focus on empowering
+  developers to address potential security risks.
+category: security
+labels:
+- daast
+- security testing
+- devops
+company:
+  organization: StackHawk
+  headquarters: US
+  founded: 2019
+  homepage: https://www.stackhawk.com/
+  privacyPolicy: https://www.stackhawk.com/privacy-policy/
+  termsOfService: https://www.stackhawk.com/terms-of-service/
+  securityPage: https://www.stackhawk.com/security/
+  linkedin: https://www.linkedin.com/company/stackhawk/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- stackhawk.com
+oauthDisplayNames:
+- StackHawk

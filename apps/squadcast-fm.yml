@@ -1,0 +1,34 @@
+id: squadcast-fm
+name: SquadCast.fm
+description: SquadCast.fm is a digital service which enables users to produce audio and video content
+  of a high standard. The software operates within the user's web browser and automatically saves all
+  recordings to a cloud-based storage system. Despite it being primarily targeted at remote usage, the
+  quality it delivers is akin to a professional recording studio. The first-time users are offered a trial
+  period to experience the platform's functionalities free of charge.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://squadcast.fm
+  privacyPolicy: https://squadcast.fm/privacy-policy/
+  termsOfService: https://squadcast.fm/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SquadCast.fm

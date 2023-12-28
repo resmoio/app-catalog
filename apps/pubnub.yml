@@ -1,0 +1,42 @@
+id: pubnub
+name: PubNub
+description: PubNub is a platform that provides developers with the tools needed to create applications
+  with real-time capabilities for web, mobile, and Internet of Things (IoT) environments. It offers a
+  secure, global data stream network that supports building and expanding apps with instant communication
+  features. The service includes real-time APIs that facilitate the creation of interactive remote experiences,
+  such as in-app chat functionalities.
+category: development-tools
+labels:
+- realtime communication
+- pubsub
+- chat
+company:
+  organization: PubNub
+  headquarters: US
+  founded: 2010
+  homepage: https://www.pubnub.com
+  privacyPolicy: https://www.pubnub.com/trust/legal/privacy-policy/
+  termsOfService: https://www.pubnub.com/trust/legal/terms-and-conditions/
+  statusPage: https://status.pubnub.com/
+  linkedin: https://www.linkedin.com/company/pubnub/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- pubnub.com
+oauthDisplayNames:
+- PubNub

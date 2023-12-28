@@ -1,0 +1,42 @@
+id: nmbrs
+name: Nmbrs Payroll
+description: Nmbrs Payroll is a user-friendly software developed by an IT firm, Nmbrs BV. This online
+  application is tailored to assist in both human resource and payroll management tasks. Using contemporary
+  Microsoft technologies, the developers at Nmbrs BV have created an innovative solution aimed at simplifying
+  HR and payroll operations for employers. The software offers a trial period of 30 days for new users
+  to get acquainted with its features and functionalities.
+category: hr
+labels:
+- hr
+- payroll
+- people management
+company:
+  organization: NMBRS B.V.
+  headquarters: NL
+  founded: 2001
+  homepage: https://www.nmbrs.com/
+  privacyPolicy: https://www.nmbrs.com/privacy
+  termsOfService: https://www.nmbrs.com/terms
+  statusPage: https://status.nmbrs.com/
+  securityPage: https://www.nmbrs.com/security
+  linkedin: https://www.linkedin.com/company/nmbrs-bv/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Nmbrs Payroll

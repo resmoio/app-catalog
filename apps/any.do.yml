@@ -1,0 +1,40 @@
+id: any.do
+name: Any.do
+description: Any.do is a productivity app that helps both individuals and teams to stay organised. Users
+  can manage tasks, set reminders and prioritise their work with this easy-to-use tool. The app also facilitates
+  creation of to-do lists and task sharing among team members, making it suitable for both personal and
+  professional use. It also offers features for cross-platform synchronization. The app is currently used
+  by over 25 million people globally. It is valued for its easy task management capabilities, making it
+  a popular choice for both individual users and teams alike.
+category: productivity
+labels: 
+  - to-do
+company:
+  organization: Any.do Inc.
+  headquarters: IL
+  founded: 2011
+  homepage: https://any.do
+  privacyPolicy: https://www.any.do/legal/privacy-policy
+  termsOfService: https://www.any.do/legal/app-license-agreement
+  linkedin: https://www.linkedin.com/company/any.do/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- any.do
+oauthDisplayNames:
+- Any.do

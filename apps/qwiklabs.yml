@@ -1,0 +1,44 @@
+id: qwiklabs
+name: Qwiklabs
+description: Qwiklabs is an online learning service developed by Google Cloud that offers practical labs
+  and quests pertaining to numerous cloud platforms and infrastructure. Users can acquire direct experience
+  with heavyweight platforms like Google Cloud Platform and Amazon Web Services through a range of self-paced,
+  hands-on labs. These labs offer temporary access to these platforms, helping developers and IT professionals
+  understand and use significant cloud platforms and software, such as Kubernetes, Firebase, and others,
+  in a real-world environment.
+category: education
+labels:
+- cloud training
+- gcp
+- aws
+company:
+  organization: Google
+  headquarters: US
+  founded: 2012
+  homepage: https://www.cloudskillsboost.google/
+  privacyPolicy: https://www.cloudskillsboost.google/privacy_policy/qwiklabs_privacy_policy_en.pdf
+  termsOfService: https://www.cloudskillsboost.google/terms_of_service
+  statusPage: https://www.google.com/appsstatus/dashboard/
+  securityPage: https://cloud.google.com/trust-center/
+  linkedin: https://www.linkedin.com/company/google/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- qwiklab.com
+oauthDisplayNames:
+- Qwiklabs

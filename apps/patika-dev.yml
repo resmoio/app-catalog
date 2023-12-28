@@ -1,0 +1,38 @@
+id: patika-dev
+name: Patika Dev
+description: Patika Dev is a software training platform for those looking to enhance
+  their skills in the rapidly evolving software industry. This app offers the opportunity to have no-cost
+  training from highly qualified educators. It allows for flexibility, enabling users to choose their
+  area of learning to align with their career objectives. However, it''s important to note that the direction
+  of one''s tech career significantly depends on the paths they select within the software training framework
+  provided by this application.
+category: education
+labels:
+- programming education
+- bootcamp
+- turkey
+company:
+  organization: ''
+  homepage: https://www.patika.dev
+  privacyPolicy: https://app.patika.dev/privacy
+  termsOfService: https://app.patika.dev/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Patika Dev

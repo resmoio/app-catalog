@@ -1,0 +1,35 @@
+id: spreeder
+name: Spreeder
+description: Spreeder is a speed reading application and software. It is designed to help users read three
+  times faster while fully understanding the content they're reading. By enhancing speed and comprehension,
+  Spreeder aims to help users save time and improve productivity.
+category: education
+labels:
+- speed reading
+- productivity
+- comprehension
+company:
+  organization: ''
+  homepage: https://www.spreeder.com
+  privacyPolicy: https://www.ereflect.com/privacy.html
+  termsOfService: https://www.ereflect.com/privacy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Spreeder

@@ -1,0 +1,41 @@
+id: pinterest
+name: Pinterest
+description: Pinterest is a visual exploration platform that enables users to uncover, save, and exchange
+  ideas and content from across the web. It offers a variety of images and videos, letting users create
+  digital boards tailored to their hobbies and ambitions. Users can find inspiration, generate plans,
+  and delve into new interests, making Pinterest an accessible and practical tool. It encompasses various
+  themes, such as decor, recipes, fashion, and travel, allowing users to discover and express what they
+  love. Apart from this, Pinterest serves as a convenient tool for bookmarking and discovering ingenious
+  concepts.
+category: social-media
+labels: []
+company:
+  organization: Pinterest
+  headquarters: US
+  founded: 2010
+  homepage: https://www.pinterest.com/
+  privacyPolicy: https://about.pinterest.com/privacy/
+  termsOfService: https://about.pinterest.com/privacy/
+  securityPage: https://www.linkedin.com/company/pinterest/
+  linkedin: linkedin.com/company/pinterest/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pinterest.com
+oauthDisplayNames:
+- Pinterest

@@ -1,0 +1,45 @@
+id: semrush
+name: Semrush
+description: Semrush is a digital marketing toolkit that provides various solutions to assist businesses
+  in enhancing their online presence. This software as a service (SaaS) platform offers tools for search
+  engine optimization, pay-per-click advertising, content creation, social media management, and competitive
+  analysis. It is widely used by marketers to gather insights and data, which helps in crafting efficient
+  marketing strategies. Semrush includes more than 55 tools that make online marketing processes simpler
+  and more effective, turning algorithms into useful aids rather than challenges.
+category: seo
+labels:
+- seo tools
+- keyword research
+- backlinks
+company:
+  organization: SEMrush
+  headquarters: US
+  founded: 2008
+  homepage: https://www.semrush.com/
+  privacyPolicy: https://www.semrush.com/company/legal/privacy-policy/
+  termsOfService: https://www.semrush.com/company/legal/terms-of-service/
+  securityPage: https://www.semrush.com/company/security/
+  linkedin: https://www.linkedin.com/company/semrush/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- semrush.com
+oauthDisplayNames:
+- Semrush
+- SEMrush Monitoring&Reporting
+- SEMrush Social Media Tool

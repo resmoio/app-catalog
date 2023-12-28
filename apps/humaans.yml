@@ -1,0 +1,43 @@
+id: humaans
+name: Humaans
+description: Humaans is a user-friendly HR software specifically designed to help businesses better manage
+  their human resources. It offers a centralized platform where it saves all employee data, facilitates
+  their onboarding, and keeps track of their time off. Humaans also ensures regulatory compliance to help
+  companies run smoothly and efficiently. It's particularly helpful for remote or distributed teams, allowing
+  quick set-up and ease of use on mobile devices as well as traditional computers. Its speed and simplicity
+  are its defining attributes.
+category: hr
+labels:
+- hr software
+- holidays
+- onboarding
+company:
+  organization: Humaans
+  headquarters: GB
+  founded: 2020
+  homepage: https://humaans.io/
+  privacyPolicy: https://humaans.io/privacy
+  termsOfService: https://humaans.io/terms
+  statusPage: https://humaansstatus.io/
+  securityPage: https://humaans.io/security
+  linkedin: https://www.linkedin.com/company/humaans/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Humaans

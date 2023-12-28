@@ -1,0 +1,42 @@
+id: yordex
+name: Yordex
+description: Yordex is a tool used to optimize financial operations for businesses such as platforms and
+  marketplaces. It uses automated payment processes to reduce costs and improve efficiency. Customizable
+  to specific needs, Yordex incorporates various banking partners to help businesses manage their payment
+  workflows more effectively. Main features include rapid implementation of global card issuance, bank
+  accounts, and bank transfers.
+category: others
+labels:
+- billing automation
+- payment processing
+- saas
+company:
+  organization: Yordex Ltd.
+  headquarters: GB
+  founded: 2017
+  homepage: https://www.yordex.com/
+  privacyPolicy: https://www.yordex.com/legal/privacy-policy
+  termsOfService: https://www.yordex.com/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/yordex/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- yordex.com
+- spend.app.yordex.com
+oauthDisplayNames:
+- Yordex

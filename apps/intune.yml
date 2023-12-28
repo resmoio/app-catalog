@@ -1,0 +1,41 @@
+id: intune
+name: Intune
+description: Microsoft Intune is a service hosted in the cloud designed specifically for managing mobile
+  devices and their respective apps. It provides organizations with the power to control devices, apps,
+  and data accessibility, prioritizing secure sharing and storage methods for corporate data. This is
+  applicable to both devices owned by the company and personal devices.
+category: others
+labels:
+- mdm
+- mobile device management
+- security
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 2011
+  homepage: https://www.microsoft.com/en-us/security/business/microsoft-intune
+  privacyPolicy: https://privacy.microsoft.com/en-us/privacystatement
+  termsOfService: https://www.microsoft.com/en-us/legal/terms-of-use
+  statusPage: https://admin.microsoft.com/servicestatus
+  securityPage: https://learn.microsoft.com/en-us/compliance/
+  linkedin: https://www.linkedin.com/company/microsoft/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- Intune

@@ -1,0 +1,35 @@
+id: surfshark
+name: SurfShark
+description: Surfshark is a cybersecurity firm that concentrates on designing solutions for data privacy
+  and protection. It offers a Virtual Private Network (VPN) service that prioritizes the security of user
+  data. Users have access to over 3200 servers across 100 countries and can use it on unlimited devices.
+  This service is supported by a 24/7 customer support system. Policywise, Surfshark operates on a no-logs
+  basis and runs on RAM-only servers, further strengthening data security.
+category: enterprise-it-services
+labels: []
+company:
+  organization: Surfshark
+  headquarters: NL
+  founded: 2018
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- surfshark.com
+oauthDisplayNames:
+- Surfshark

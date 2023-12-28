@@ -1,0 +1,36 @@
+id: meetgeekai
+name: Meetgeek.ai
+description: Meetgeek.ai is an artificial intelligence-based tool designed to enhance the way meetings
+  are conducted and recorded. It automatically records video during meetings, transcribes the exchanged
+  words, summarizes the essential points discussed, and also identifies key insights. This process optimizes
+  the recording of meeting notes, making the dissemination of information efficient and straightforward.
+category: others
+labels:
+- video transcription
+- meeting notes
+- ai
+company:
+  organization: ''
+  homepage: https://meetgeek.ai/
+  privacyPolicy: https://www.meetgeek.ai/privacy-policy
+  termsOfService: https://www.meetgeek.ai/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Meetgeek.ai

@@ -1,0 +1,40 @@
+id: retrotool
+name: RetroTool
+description: RetroTool is an online service that supports teams in holding effective agile retrospective
+  meetings. The platform allows for collaborative work by offering adjustable templates and facilitates
+  immediate interaction among participants. It also includes features for tracking actionable items, aiding
+  teams in reviewing and enhancing their work processes. RetroTool aims to simplify the reflective aspect
+  of agile methodologies, focusing on continuous improvement.
+category: productivity
+labels:
+- agile retrospectives
+- team collaboration
+- action items
+company:
+  organization: RetroTool
+  headquarters: US
+  founded: 2017
+  homepage: https://retrotool.io/
+  privacyPolicy: https://retrotool.io/privacy-policy
+  termsOfService: https://retrotool.io/terms-of-use
+  linkedin: https://www.linkedin.com/company/retrotool/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- RetroTool

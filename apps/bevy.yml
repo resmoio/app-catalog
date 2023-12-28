@@ -1,0 +1,43 @@
+id: bevy
+name: Bevy
+description: Bevy is a tool used to plan, promote, and run both online and offline events. It's used by
+  individuals, businesses, and educational institutions. The platform provides complex analytics, seamless
+  integrations, and secure data protection, thus enabling entities to develop and broaden their worldwide
+  customer communities. Bevy is specifically designed for managing events that are led by user groups,
+  with a focus on growing these communities. It's trusted by notable companies, including Google and Salesforce.
+  It does not just organize an event, but also helps in strengthening the community around the product
+  or topic of the event.
+category: others
+labels:
+- events
+- marketing
+- engagement
+company:
+  organization: Bevy
+  headquarters: US
+  founded: 2017
+  homepage: https://www.bevy.com/
+  privacyPolicy: https://www.bevy.com/privacy-policy
+  termsOfService: https://www.bevy.com/terms-of-use
+  securityPage: https://www.bevy.com/security
+  linkedin: https://www.linkedin.com/company/bevyhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Bevy

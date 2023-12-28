@@ -1,0 +1,41 @@
+id: multcloud
+name: MultCloud
+description: MultCloud is a utility tool designed to simplify user interaction with various cloud storage
+  services. Instead of logging into multiple accounts, users can manage, move, copy, and sync their
+  data across different platforms through one interface. With the support of numerous popular cloud
+  storage services, it allows for effortless file transfers and a centralized system of management
+  thus offering a comprehensive solution for file management tasks associated with cloud storage.
+category: cloud
+labels:
+- cloud storage
+- file transfer
+- sync
+company:
+  organization: MultCloud
+  headquarters: SG
+  founded: 2012
+  homepage: https://www.multcloud.com/
+  privacyPolicy: https://www.multcloud.com/policy
+  termsOfService: https://www.multcloud.com/terms
+  securityPage: https://www.multcloud.com/security.html
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- multcloud.com
+oauthDisplayNames:
+- MultCloud

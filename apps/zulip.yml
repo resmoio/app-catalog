@@ -1,0 +1,43 @@
+id: zulip
+name: Zulip Cloud
+description: Zulip Cloud is an open-source chat software developed in 2012, focusing on improving team
+  communication. It offers unique features such as threaded conversations, which help maintain organized
+  and efficient team discussions, particularly in technical or detailed topics. Its primary purpose is
+  to promote productive collaboration within a team by supporting not only instantaneous interaction but
+  also asynchronous conversations. This ensures all chat channels' discussions are easy to navigate and
+  access.
+category: chat
+labels:
+- team chat
+- threads
+- streams
+company:
+  organization: Zulip Cloud
+  headquarters: US
+  founded: 2012
+  homepage: https://zulip.com/
+  privacyPolicy: https://zulip.com/policies/privacy
+  termsOfService: https://zulip.com/policies/terms
+  statusPage: https://zulip.com/integrations/doc/statuspage
+  securityPage: https://zulip.com/security/
+  linkedin: https://www.linkedin.com/company/zulip-project/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Zulip Cloud

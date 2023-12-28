@@ -1,0 +1,40 @@
+id: woocommerce
+name: WooCommerce
+description: WooCommerce is an open-source eCommerce platform that utilizes WordPress. This platform is
+  highly adaptable, allowing users to personalize their online businesses to fit their needs. As an eCommerce
+  solution, it provides a robust foundation for developing an online retail presence without the need
+  for extensive technical knowledge. Despite its versatility, WooCommerce maintains the simplicity of
+  WordPress, making it a suitable choice for a range of users, from novice to experienced.
+category: e-commerce
+labels:
+- ecommerce
+- wordpress
+- storefront
+company:
+  organization: WooCommerce
+  headquarters: US
+  founded: 2008
+  homepage: https://woo.com/
+  privacyPolicy: https://automattic.com/privacy/
+  termsOfService: https://wordpress.com/tos/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- woocommerce.com
+oauthDisplayNames:
+- WooCommerce

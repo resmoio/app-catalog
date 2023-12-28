@@ -1,0 +1,36 @@
+id: power-tools
+name: Power Tools
+description: Power Tools is a comprehensive collection of over 30 enhancements for Google Sheets. This
+  application simplifies complex tasks by offering utilities to merge records, split data, and eradicate
+  duplicate entries. In essence, Power Tools streamlines data management in Google Sheets, making it efficient
+  and more user-friendly.
+category: others
+labels:
+- google sheets
+- automation
+- productivity
+company:
+  organization: ''
+  homepage: https://www.ablebits.com/google-sheets-add-ons/power-tools/index.php
+  privacyPolicy: https://www.ablebits.com/docs/ablebits-privacy-policy/
+  termsOfService: https://www.ablebits.com/docs/ablebits-privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Power Tools

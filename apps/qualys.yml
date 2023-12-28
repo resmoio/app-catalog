@@ -1,0 +1,50 @@
+id: qualys
+name: Qualys
+description: Qualys is a platform based on the cloud that provides security and compliance solutions to
+  organizations. It is instrumental in identifying potential security risks, checking compliance with
+  various rules and regulations, and safeguarding information technology systems and web applications
+  from potential cyber threats. Qualys has established itself as a forerunner in the field of cloud-based
+  information security and compliance solutions. Its functions also encompass automation of auditing,
+  compliance checks, and protection measures for IT systems and web applications.
+category: security
+labels:
+- vulnerability management
+- compliance
+- security
+company:
+  organization: Qualys
+  headquarters: US
+  founded: 1999
+  homepage: https://www.qualys.com/
+  privacyPolicy: https://www.qualys.com/company/privacy/
+  statusPage: https://status.qualys.com/
+  securityPage: https://success.qualys.com/support/s/standards
+  linkedin: https://www.linkedin.com/company/qualys/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: true
+appDomains:
+- qualys.com
+- qualys.eu
+- qualys.co.uk
+- qualys.ae
+- qualys.it
+- qualys.in
+- qualys.ca
+- qualys.com.au
+- qualysksa.com
+oauthDisplayNames: []

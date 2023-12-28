@@ -1,0 +1,41 @@
+id: filestage
+name: Filestage
+description: Filestage is a platform designed to assist in the review and approval process of various
+  content types. It is particularly useful for creative teams, facilitating the management of critiques
+  and approvals for items such as videos, audio files, design work, and documents. The application allows
+  users to share content, set deadlines, and receive feedback in an organized manner. Custom workflows
+  can be established for different stakeholder groups, simplifying the feedback process and making it
+  easy to track.
+category: productivity
+labels:
+- file sharing
+- review
+- approval
+company:
+  organization: Filestage
+  headquarters: DE
+  founded: 2014
+  homepage: https://filestage.io
+  privacyPolicy: https://filestage.io/data-privacy/
+  termsOfService: https://filestage.io/terms/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- filestage.io
+oauthDisplayNames:
+- Filestage

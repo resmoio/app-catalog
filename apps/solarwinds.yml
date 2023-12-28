@@ -1,0 +1,34 @@
+id: solarwinds
+name: SolarWinds
+description: SolarWinds is a technology-oriented company devised to support organizations regarding their
+  IT infrastructure's maintenance, management, and security aspects. It offers diverse tools used by IT
+  professionals for network monitoring, server and application handling, as well as security management.
+  Most importantly, these tools help to enhance performance, resolve technical issues and enable efficient
+  functioning of IT environments.
+category: development-tools
+labels: []
+company:
+  organization: SolarWinds
+  headquarters: US
+  founded: 1999
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- solarwinds.com
+oauthDisplayNames: []

@@ -1,0 +1,34 @@
+id: thinkbuddy
+name: ThinkBuddy
+description: ThinkBuddy is a modern software application designed to refine users' digital experiences.
+  The main function of ThinkBuddy is to streamline tasks, making routine processes more efficient and
+  thereby increasing productivity levels. This is achieved by integrating artificial intelligence technologies
+  into its system. In essence, ThinkBuddy is an all-in-one tool intended to enhance digital workflow and
+  productivity for all users.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://thinkbuddy.io
+  privacyPolicy: https://thinkbuddy.io/support
+  termsOfService: https://thinkbuddy.io/support
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- ThinkBuddy

@@ -1,0 +1,40 @@
+id: seek
+name: SEEK
+description: SEEK is an employment platform based in Australia, designed to connect job seekers with potential
+  employment opportunities and provide career-related information. It also serves as a resource for organizations
+  looking to hire suitable candidates. The platform aims to support individuals in their pursuit of employment
+  and assist companies in their recruitment endeavors.
+category: others
+labels:
+- job search
+- hiring
+- careers
+company:
+  organization: SEEK
+  headquarters: AU
+  founded: 1997
+  homepage: https://www.seek.com.au
+  privacyPolicy: https://www.seek.com.au/my-privacy/
+  termsOfService: https://www.seek.com.au/terms/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- seek.com
+- seek.com.au
+oauthDisplayNames:
+- SEEK

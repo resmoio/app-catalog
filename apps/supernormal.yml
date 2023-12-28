@@ -1,0 +1,41 @@
+id: supernormal
+name: Supernormal
+description: Supernormal is a software application that provides automated transcription and note-taking
+  for meetings. It captures discussions in real-time, converting speech to text, and compiles thorough
+  notes from the transcripts. This application integrates with Google Meet and allows users to effortlessly
+  share the generated notes with various services like Google Drive, Notion, Slack, and customer relationship
+  management systems such as Hubspot and Salesforce, enhancing productivity by reducing the time spent
+  on manual note-taking.
+category: others
+labels: []
+company:
+  organization: Supernormal
+  headquarters: SE
+  founded: 2020
+  homepage: https://supernormal.com/
+  privacyPolicy: https://supernormal.com/privacy-policy
+  termsOfService: https://supernormal.com/terms
+  statusPage: https://status.supernormal.com/
+  securityPage: https://supernormal.com/security
+  linkedin: https://www.linkedin.com/company/supernormalapp/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- supernormal.com
+oauthDisplayNames:
+- Supernormal

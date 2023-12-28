@@ -1,0 +1,44 @@
+id: ringcentral
+name: RingCentral
+description: RingCentral is a software application that specializes in cloud communication services for
+  businesses. Formed in 1999, it allows modern teams to connect and cooperate effectively, regardless
+  of their location or device. The application features capabilities for video or audio calls, messaging,
+  and the use of bots for command shortcuts. Also included is an intelligent call center service powered
+  by Artificial Intelligence (AI). Together these features make RingCentral a comprehensive communication
+  platform optimizing business operations and improving client relations.
+category: chat
+labels:
+- cloud communications
+- voip
+- call center
+company:
+  organization: RingCentral Inc.
+  headquarters: US
+  founded: 1999
+  homepage: https://www.ringcentral.com/
+  privacyPolicy: https://www.ringcentral.com/legal/privacy-notice.html
+  termsOfService: https://www.ringcentral.com/legal/last-update-October-15-2019/eulatos.html
+  statusPage: https://status.ringcentral.com/
+  securityPage: https://www.ringcentral.com/trust-center.html
+  linkedin: https://www.linkedin.com/company/ringcentral/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- ringcentral.com
+oauthDisplayNames:
+- RingCentral

@@ -1,0 +1,40 @@
+id: iconscout
+name: Iconscout
+description: Iconscout is a comprehensive online platform that offers a vast array of high-quality icons,
+  illustrations, and other design assets. It is designed to support individuals involved in creative and
+  developing fields by simplifying their design process and enhancing their visual projects. This platform
+  hosts over 7.6 million items, including standard and 3D illustrations and Lottie animations. These resources
+  are available in different formats, such as PNG, SVG, GIF, EPS, JSON, etc. Users can access these assets
+  either for free or on a premium basis to fulfill their various design needs.
+category: design
+labels:
+- icons
+- illustrations
+- assets
+company:
+  organization: Design Barn Inc.
+  founded: 2016
+  homepage: https://iconscout.com
+  privacyPolicy: https://iconscout.com/legal/privacy-policy
+  termsOfService: https://iconscout.com/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/iconscout/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Iconscout

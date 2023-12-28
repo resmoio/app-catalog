@@ -1,0 +1,43 @@
+id: sonarcloud
+name: Sonar Cloud
+description: SonarCloud is an online platform based in the cloud that facilitates regular checks of code
+  quality. Its main role includes automatic reviews of the source code to uncover issues such as coding
+  errors, programming inefficiencies, and potential security risks. The system is compatible with a range
+  of programming languages and various development workflows, simplifying the process of maintaining clean,
+  reliable source code. Furthermore, it can be incorporated into existing cloud DevOps platforms, providing
+  a code reviewing function that promotes the consistent and efficient production of high-quality code.
+category: development-tools
+labels:
+- code quality
+- security
+- devops
+company:
+  organization: Sonar
+  headquarters: CH
+  founded: 2008
+  homepage: https://www.sonarsource.com/products/sonarcloud/
+  privacyPolicy: https://www.sonarsource.com/company/privacy/
+  termsOfService: https://www.sonarsource.com/docs/sonarsource_terms_and_conditions.pdf
+  statusPage: https://sonarcloud.statuspage.io/
+  securityPage: https://www.sonarsource.com/trust-center/
+  linkedin: https://www.linkedin.com/company/sonarsource/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- sonarcloud.io
+oauthDisplayNames: []

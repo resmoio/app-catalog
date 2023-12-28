@@ -1,0 +1,38 @@
+id: firebase
+name: Firebase
+description: Firebase, a platform developed by Google, provides tools and services to aid developers in
+  creating and expanding their apps. Designed to streamline application development, it offers foundational
+  services necessary for both mobile and web apps. These services include real-time databases, user authentication,
+  data analysis, and hosting features. Firebase caters to apps across various platforms, including iOS,
+  Android, and the Web, making it a preferred choice for developers seeking comprehensive backend support.
+category: cloud
+labels: []
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains:
+- firebase.google.com
+- console.firebase.google.com
+- firebaseapp.com
+registrationEmails:
+- firebase-no-reply@google.com
+oauthDisplayNames: []

@@ -1,0 +1,43 @@
+id: accor
+name: Accor
+description: Accor is a worldwide hospitality company that manages more than 5,400 properties. It employs
+  over 290,000 workers and has a diverse catalog comprising more than 40 hotel brands. These brands include
+  offerings for all preferences and budgets, from luxury to economy lodgings. The company stands firm
+  in its commitment to contributing positively to the local and global communities. It is focused on redefining
+  the hospitality industry to meet various needs, thus ensuring all people can enjoy hotel services.
+category: transportation-and-travel
+labels:
+- travel
+- hotels
+- hospitality
+company:
+  organization: Accor SA
+  headquarters: FR
+  founded: 1967
+  homepage: https://all.accor.com/
+  statusPage: https://developer.accor.com/status
+  privacyPolicy: https://all.accor.com/information/legal/data-protection.en.shtml
+  termsOfService: https://all.accor.com/information/legal/internet-sales-conditions.en.shtml
+  linkedin: https://www.linkedin.com/company/accor/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- login.accor.com
+- all.accor.com
+oauthDisplayNames:
+- Accor

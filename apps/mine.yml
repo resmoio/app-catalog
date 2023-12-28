@@ -1,0 +1,39 @@
+id: mine
+name: Mine
+description: Mine is a tool that allows users to identify and manage their personal
+  data on various online platforms. The application enables individuals to decide where their data should
+  be present and where it should not. It operates as a smart data assistant, offering features that help
+  people both discover and control the distribution of their personal data in the digital environment.
+category: others
+labels:
+- personal data
+- digital footprint
+- privacy
+company:
+  organization: Mine
+  headquarters: IL
+  founded: 2019
+  homepage:  https://www.saymine.com
+  privacyPolicy: https://www.saymine.com/legal/privacy-policy
+  termsOfService: https://www.saymine.com/legal/mine-terms-of-service
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- saymineapp.com
+oauthDisplayNames:
+- Mine

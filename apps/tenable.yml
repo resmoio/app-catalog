@@ -1,0 +1,43 @@
+id: tenable
+name: Tenable
+description: Tenable is a cybersecurity company that specializes in managing vulnerabilities within an
+  organization's IT infrastructure. Its main product, Tenable.io, assists in identifying, researching,
+  and prioritizing these vulnerabilities. By offering a comprehensive understanding of the cybersecurity
+  risk across various computing assets, Tenable enables security teams to concentrate on crucial vulnerabilities
+  and assets. It supports the visibility of the modern attack surface, extending from internal IT systems
+  to the cloud.
+category: security
+labels:
+- vulnerability management
+- security
+- compliance
+company:
+  organization: Tenable
+  headquarters: US
+  founded: 2002
+  homepage: https://www.tenable.com/
+  privacyPolicy: https://www.tenable.com/privacy-policy
+  termsOfService: https://www.tenable.com/legal
+  statusPage: https://status.tenable.com/
+  securityPage: https://www.tenable.com/trust
+  linkedin: https://www.linkedin.com/company/tenableinc/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- tenable.com
+oauthDisplayNames: []

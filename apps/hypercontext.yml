@@ -1,0 +1,41 @@
+id: hypercontext
+name: Hypercontext
+description: Hypercontext is a tool designed to streamline team meetings. The software enables managers
+  and their teams to optimize their conversations by offering features like meeting agendas, shared note-taking
+  capacities, and well-defined action plans. The main purpose of this application is to ensure team alignment
+  on priorities, promote openness, and stimulate more efficient outcomes through organized, goal-oriented
+  meetings. Essentially, Hypercontext is a hub for conducting effective 1:1s and team meetings, setting
+  objectives, managing meeting processes, and eliciting feedback within a unified framework.
+category: productivity
+labels:
+- meetings
+- notes
+- collaboration
+company:
+  organization: Hypercontext
+  headquarters: US
+  founded: 2021
+  homepage: https://hypercontext.com/
+  privacyPolicy: https://hypercontext.com/privacy-policy
+  termsOfService: https://hypercontext.com/terms-of-service
+  linkedin: https://www.linkedin.com/company/hypercontext/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Hypercontext

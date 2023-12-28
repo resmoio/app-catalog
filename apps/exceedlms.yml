@@ -1,0 +1,42 @@
+id: exceedlms
+name: ExceedLMS
+description: ExceedLMS is a Learning Management System developed by Intellum. This software combines customer
+  experience and education to assist in the growth of a business. It is mostly used by sizable brands
+  and rapidly evolving companies to help increase revenue, support customer retention and lower support
+  costs. ExceedLMS includes a range of tools to devise, oversee, monitor, and augment individual learning
+  experiences. These experiences can be shared among customers, partners, or employees, enabling the provision
+  of personalized learning experiences at a large scale.
+category: education
+labels:
+- lms
+- training
+- onboarding
+company:
+  organization: Intellum Inc.
+  headquarters: US
+  founded: 2000
+  homepage: https://www.intellum.com/platform/overview
+  privacyPolicy: https://www.intellum.com/privacy-policy
+  termsOfService: https://www.intellum.com/terms-of-service
+  linkedin: https://www.linkedin.com/company/intellum/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- exceedlms.com
+oauthDisplayNames:
+- ExceedLMS

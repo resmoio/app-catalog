@@ -1,0 +1,33 @@
+id: chromecast
+name: Chromecast
+description: Chromecast is a device that Google has developed to facilitate media streaming. It enables
+  users to send, or 'cast', content from their smartphones, tablets, or computers to their television
+  or other display devices wirelessly. Users need to be on the same Wi-Fi network to cast videos, music,
+  images, and even web content directly to their TV. This makes it an easy and cost-effective way to view
+  streaming content on a larger screen. Chromecast can work with several apps and services, adding flexibility
+  to the user's viewing options.
+category: news-and-entertainment
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Chromecast

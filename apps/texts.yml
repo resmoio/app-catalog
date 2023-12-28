@@ -1,0 +1,34 @@
+id: texts
+name: Texts
+description: Texts is a messaging platform that allows users to send and receive messages across various
+  mainstream messaging services. This platform brings together many messaging services under one interface,
+  simplifying communication and improving efficiency for its users. It serves as an all-encompassing messaging
+  tool for an easier and organized messaging experience.
+category: chat
+labels: []
+company:
+  organization: Texts
+  homepage: https://texts.com/
+  privacyPolicy: https://texts.com/privacy
+  termsOfService: https://texts.com/privacy.html
+  linkedin: https://www.linkedin.com/company/textshq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Texts

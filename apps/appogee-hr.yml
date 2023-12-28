@@ -1,0 +1,40 @@
+id: appogee-hr
+name: Appogee HR
+description: Appogee HR is a software application designed to assist in managing various human resources
+  tasks. It is useful in different HR areas such as recruitment and onboarding, performance monitoring,
+  and timekeeping. Appogee HR provides a central platform that enables efficient management of employee
+  information and tasks. Its simple, easy-to-use features make it suitable for businesses of various sizes.
+  This software helps improve the smooth operation of HR activities, boost employee engagement, and help
+  businesses adhere to necessary regulations. It also includes options for project tracking and handling
+  all types of employee absences.
+category: hr
+labels: []
+company:
+  organization: Appogee HR Limited
+  headquarters: GB
+  founded: 2010
+  homepage: https://www.appogeehr.com/
+  privacyPolicy: https://www.appogeehr.com/privacy/
+  termsOfService: https://www.appogeehr.com/terms-of-service
+  securityPage: https://www.appogeehr.com/trust/security
+  linkedin: https://www.linkedin.com/company/appogee-ltd/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- Appogee HR

@@ -1,0 +1,43 @@
+id: greenhouse
+name: Greenhouse
+description: Greenhouse is a software designed for managing talent acquisition, useful for businesses
+  looking to simplify and improve their hiring processes. As an applicant tracking system, it provides
+  a suite of tools and services that target HR, recruiting, and talent teams. Instead relying on promotional
+  keywords, making it more accessible and straightforward than other hiring software on the market.
+category: hr
+labels:
+- ats
+- recruiting
+- hiring
+company:
+  organization: Greenhouse Software
+  headquarters: US
+  founded: 2012
+  homepage: https://www.greenhouse.com/
+  privacyPolicy: https://www.greenhouse.com/uk/privacy-policy
+  termsOfService: https://www.greenhouse.com/uk/legal
+  statusPage: https://status.greenhouse.io/
+  securityPage: https://www.greenhouse.co/security
+  linkedin: https://www.linkedin.com/company/greenhouse-inc-/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- greenhouse.io
+- greenhouse.com
+oauthDisplayNames:
+- Greenhouse

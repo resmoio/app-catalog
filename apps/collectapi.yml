@@ -1,0 +1,36 @@
+id: collectapi
+name: CollectApi
+description: CollectAPI is a platform where users can find application programming interfaces, commonly
+  known as APIs. It functions as a marketplace-style setting, allowing users to access a variety of APIs
+  based on their specific needs. It aims to streamline the process of acquiring APIs, thereby simplifying
+  and improving the user's experience.
+category: development-tools
+labels:
+- api directory
+- discovery
+- marketplace
+company:
+  organization: ''
+  homepage: https://collectapi.com
+  privacyPolicy: https://collectapi.com/privacy
+  termsOfService: https://collectapi.com/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- CollectApi

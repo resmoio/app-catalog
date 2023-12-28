@@ -1,0 +1,42 @@
+id: bird-eats-bug
+name: Bird Eats Bug
+description: Bird Eats Bug is an application that assists QA teams by making the process of reporting
+  bugs more organized. The automatic capture of technical data accelerates the identification and resolution
+  of problems and generates detailed bug reports. This tool, which operates from a browser, simplifies
+  the creation of technical bug reports without needing advanced knowledge. Aimed at enhancing efficiency,
+  Bird Eats Bug provides a streamlined way to handle bug reporting for both technical and non-technical
+  users.
+category: development-tools
+labels:
+- bug reporting
+- testing
+- debugging
+company:
+  organization: Bird Labs GmbH
+  headquarters: DE
+  founded: 2020
+  homepage: https://birdeatsbug.com/
+  privacyPolicy: https://birdeatsbug.com/privacy-policy
+  termsOfService: https://birdeatsbug.com/terms-of-service
+  securityPage: https://birdeatsbug.com/security-and-privacy
+  linkedin: https://www.linkedin.com/company/bird-eats-bug/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Bird Eats Bug

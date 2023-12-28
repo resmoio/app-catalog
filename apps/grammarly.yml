@@ -1,0 +1,44 @@
+id: grammarly
+name: Grammarly
+description: Grammarly is a writing aid application, utilizing artificial intelligence to provide improved
+  writing capabilities. The application serves as a useful tool for anyone wanting to refine their written
+  communication by pinpointing and amending grammar, spelling, punctuation, and style mistakes. It also
+  offers suggestions for enhanced clarity and tone. As such, Grammarly benefits a broad audience from
+  writers and students to professionals, enabling them to communicate in a more clear and effective manner.
+  It is easy to get started with the app by simply downloading it.
+category: productivity
+labels:
+- writing assistant
+- grammar
+- plagiarism
+company:
+  organization: Grammarly
+  headquarters: US
+  founded: 2009
+  homepage: https://www.grammarly.com/
+  privacyPolicy: https://www.grammarly.com/privacy-policy
+  termsOfService: https://www.grammarly.com/terms
+  statusPage: https://status.grammarly.com/
+  securityPage: https://www.grammarly.com/trust
+  linkedin: https://www.linkedin.com/company/grammarly/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- grammarly.com
+oauthDisplayNames:
+- Grammarly

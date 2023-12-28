@@ -1,0 +1,46 @@
+id: edx
+name: edX
+description: The edX app is an online learning platform created by Harvard University and the Massachusetts
+  Institute of Technology (MIT) in 2012. It provides a wide variety of university-level courses from numerous
+  academic disciplines, making education accessible to learners all over the world. edX collaborates with
+  prestigious universities and organizations to offer courses and degree programs online. Its vast course
+  catalogue includes everything from free individual courses to comprehensive degree programs. Partners
+  include highly recognized entities such as Harvard, Google, Amazon, and more.
+category: education
+labels:
+- online courses
+- education
+- moocs
+company:
+  organization: Sachem Head
+  headquarters: US
+  founded: 2012
+  homepage: https://www.edx.org/
+  privacyPolicy: https://www.edx.org/edx-privacy-policy
+  termsOfService: https://www.edx.org/edx-terms-service
+  statusPage: https://status.edx.org/
+  securityPage: https://www.edx.org/policy/security
+  linkedin: https://www.linkedin.com/school/edx/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- courses.edx.org
+- edx.org
+oauthDisplayNames:
+- EdX.org
+- edX

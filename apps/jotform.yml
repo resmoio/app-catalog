@@ -1,0 +1,39 @@
+id: jotform
+name: JotForm
+description: JotForm is an online application that allows users to design and publish forms for data collection
+  purposes. Using an intuitive drag-and-drop interface, users can construct a variety of forms and surveys
+  without needing technical expertise. The tool can come in handy for registering information, gathering
+  applications, managing orders, and tracking payments. It's worth noting that there's a free version
+  of the application available for those who want to test its basic capabilities first.
+category: productivity
+labels: []
+company:
+  organization: JotForm
+  headquarters: US
+  founded: 2006
+  homepage: https://www.jotform.com
+  privacyPolicy: https://www.jotform.com/privacy/
+  termsOfService: https://www.jotform.com/terms/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+relatedDomains:
+- jotform.us
+appDomains:
+- jotform.com
+oauthDisplayNames:
+- JotForm

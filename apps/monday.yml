@@ -1,0 +1,38 @@
+id: monday
+name: monday.com
+description: Monday.com is a versatile, open platform designed to support various aspects of work. The
+  platform encourages remote teamwork and assists in organizing, structuring, and streamlining different
+  programs, projects, and processes. It offers a variety of tools, including boards, views, charts, automations,
+  and integrations. Users can customize these tools to create workflow apps that suit their unique needs.
+  Moreover, the application allows the creation and modification of its boards directly within Microsoft
+  Teams. This collaborative workspace allows users to efficiently visualize and manage their team tasks.
+category: project-management
+labels: []
+company:
+  organization: monday.com Ltd.
+  headquarters: IL
+  founded: 2012
+  homepage: https://monday.com
+  privacyPolicy: https://monday.com/terms/privacy
+  termsOfService: https://monday.com/terms/tos
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- monday.com
+oauthDisplayNames:
+- monday.com

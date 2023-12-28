@@ -1,0 +1,36 @@
+id: lucid
+name: Lucid
+description: Lucid is an online platform for groups to jointly work on visual content like charts, diagrams,
+  or wireframes. Its easy-to-use design and array of templates and instruments aim to simplify the sharing
+  of complex ideas and smooth out the creative process. By supporting real-time cooperation, Lucid caters
+  to teams working remotely or in different locations. Essentially, Lucid assists teams in transforming
+  ideas into tangible outcomes through its visual collaboration tools.
+category: design
+labels: []
+company:
+  organization: Lucid Software
+  headquarters: US
+  founded: 2010
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- lucid.co
+appDomains:
+- lucid.app
+oauthDisplayNames: []

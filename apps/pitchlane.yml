@@ -1,0 +1,33 @@
+id: pitchlane
+name: Pitchlane
+description: Pitchlane is a software that simplifies the process of creating and sending personalized
+  video messages. It is designed to help users engage with their audience or potential customers by using
+  video as a communication tool. The automation aspect of the app streamlines the distribution of these
+  videos, making it efficient for users to reach out to multiple recipients.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://pitchlane.io
+  privacyPolicy: https://pitchlane.io/privacy
+  termsOfService: https://pitchlane.io/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Pitchlane

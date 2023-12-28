@@ -1,0 +1,43 @@
+id: onesignal
+name: OneSignal
+description: OneSignal is a unified platform that facilitates ongoing communication between businesses
+  and their audience via multiple channels. The platform provides push notifications, email, SMS, and
+  in-app messaging capabilities to help businesses maintain consistent customer engagement. By keeping
+  their audience updated and actively participating, businesses can encourage loyalty from their customers.
+  OneSignal is a trusted platform relied upon by more than one million developers worldwide. It positions
+  itself as a market-leading solution in customer messaging that extends its services to both mobile and
+  web platforms.
+category: marketing
+labels:
+- push notifications
+- messaging
+- marketing
+company:
+  organization: OneSignal
+  headquarters: US
+  founded: 2014
+  homepage: https://onesignal.com
+  privacyPolicy: https://policies.google.com/privacy
+  termsOfService: https://policies.google.com/terms
+  linkedin: https://www.linkedin.com/company/onesignal/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- onesignal.com
+oauthDisplayNames:
+- OneSignal

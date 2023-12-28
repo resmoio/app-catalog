@@ -1,0 +1,39 @@
+id: raycast
+name: Raycast
+description: Raycast is a productivity application that uses an interface similar to a command-line to
+  aid users in efficiently managing their software environment. It enables users to perform tasks, regulate
+  their software, and access information rapidly using their keyboard, enhancing workflow efficiency.
+  Raycast is developed with a focus on improving user concentration and reducing the need for frequent
+  software toggling by ensuring most actions can be achieved via keystrokes. It ensures a quick and streamlined
+  user interaction.
+category: productivity
+labels: []
+company:
+  organization: Raycast
+  headquarters: UK
+  founded: 2020
+  homepage: https://www.raycast.com/
+  privacyPolicy: https://www.raycast.com/privacy
+  termsOfService: https://www.raycast.com/terms-of-service
+  linkedin: https://www.linkedin.com/company/raycastapp/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- raycast.com
+oauthDisplayNames:
+- Raycast

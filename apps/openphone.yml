@@ -1,0 +1,40 @@
+id: openphone
+name: OpenPhone
+description: OpenPhone is a phone app designed to provide a smooth communication experience for teams.
+  It offers businesses and professionals their own dedicated phone numbers, promoting streamlined organization
+  and management of calls and messages. This app is uniquely suited for startups and small businesses,
+  allowing them to establish a new business phone number or transfer an existing number. OpenPhone's primary
+  goal is to create an easy and efficient solution for managing professional communication.
+category: productivity
+labels:
+- business phone
+- voip
+- communication
+company:
+  organization: OpenPhone Technologies, Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://www.openphone.com
+  privacyPolicy: https://www.openphone.com/privacy
+  termsOfService: https://www.openphone.com/terms
+  linkedin: https://www.linkedin.com/company/openphone
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- OpenPhone

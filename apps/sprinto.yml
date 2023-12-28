@@ -1,0 +1,44 @@
+id: sprinto
+name: Sprinto
+description: Sprinto is a software application designed to assist companies in meeting compliance standards,
+  facilitating the completion of enterprise deals, and successfully navigating vendor security evaluations.
+  It aims to build trust and confidence among customers and partners by offering transparency in adherence
+  to compliance requirements. The platform automates security compliance processes, aligning them with
+  audits, and performs a substantial number of compliance checks monthly. It offers support for various
+  compliance frameworks, streamlining the path for SaaS providers to maintain continuous compliance with
+  security protocols without impeding their operational pace.
+category: security
+labels:
+- vendor security
+- compliance
+- due diligence
+company:
+  organization: Sprinto Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://sprinto.com/
+  privacyPolicy: https://sprinto.com/privacy/
+  termsOfService: https://sprinto.com/terms/
+  statusPage: https://status.sprinto.com/
+  securityPage: https://sprinto.com/security/
+  linkedin: https://www.linkedin.com/company/sprinto-com/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sprinto

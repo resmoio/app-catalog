@@ -1,0 +1,42 @@
+id: craft-docs
+name: Craft Docs
+description: Craft Docs is a digital platform that allows teams to create, share, and manage documents
+  collectively. The platform offers features like real-time collaboration and formatting tools to simplify
+  document creation and organization. To aid in the easy retrieval of information, Craft Docs incorporates
+  search capabilities and a history of document versions. Users can utilize the platform's structured
+  interface to enhance both personal and business productivity. Please note that the use of Craft Docs
+  can be trialed for free.
+category: productivity
+labels:
+- docs
+- wiki
+- collaboration
+company:
+  organization: Craft Docs Ltd
+  headquarters: US
+  founded: 2019
+  homepage: https://www.craft.do/
+  privacyPolicy: https://www.craft.do/privacy
+  termsOfService: https://www.craft.do/terms
+  securityPage: https://www.craft.do/security
+  linkedin: https://www.linkedin.com/company/craftdocs/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Craft Docs

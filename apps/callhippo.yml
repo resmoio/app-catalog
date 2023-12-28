@@ -1,0 +1,37 @@
+id: callhippo
+name: Callhippo
+description: Callhippo is a virtual phone system designed for businesses of all sizes. It rapidly provides
+  local and toll-free phone numbers from over 50 countries, making it possible to set these up in as little
+  as three minutes. Tailored to improve efficiency, it offers quick and easy access to communication tools
+  that can support business operations and eradicate communication barriers.
+category: business-intelligence
+labels: []
+company:
+  organization: CallHippo
+  headquarters: US
+  founded: 2016
+  homepage: https://callhippo.com
+  privacyPolicy: https://callhippo.com/privacy/
+  termsOfService: https://callhippo.com/terms/
+  linkedin: https://www.linkedin.com/company/callhippo.com
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- callhippo.com
+oauthDisplayNames:
+- Callhippo

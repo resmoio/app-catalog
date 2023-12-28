@@ -1,0 +1,44 @@
+id: lusha
+name: Lusha
+description: Lusha is a service that aids business-to-business sales and marketing efforts. It serves
+  as a shared data platform that links sales, business development, and human resources professionals.
+  Lusha allows users to identify and contact potential leads in large quantities, using data on buyer
+  intention to target particular markets. Additionally, it contributes to keeping Customer Relationship
+  Management systems current by automatically updating them with correct and recent contact details. Lusha's
+  data can be particularly useful on social networks, websites, Salesforce, or directly within your own
+  product.
+category: sales
+labels:
+- lead intelligence
+- enrichment
+- automation
+company:
+  organization: lusha
+  headquarters: US
+  founded: 2016
+  homepage: https://www.lusha.com/
+  privacyPolicy: https://policies.google.com/privacy?hl=en-US
+  termsOfService: https://policies.google.com/terms?hl=en-US
+  statusPage: https://status.lusha.com/
+  linkedin: https://www.linkedin.com/company/lushadata/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lusha.com
+oauthDisplayNames:
+- Lusha

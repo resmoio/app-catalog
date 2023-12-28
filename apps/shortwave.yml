@@ -1,0 +1,40 @@
+id: shortwave
+name: Shortwave
+description: Shortwave is an email management tool that enhances functionality of existing Gmail accounts.
+  It aims to help users simplify their email tasks by sending smart and fast emails. Shortwave uses artificial
+  intelligence to help in organizing user's emails, which in turn increases user productivity and saves
+  time.
+category: productivity
+labels:
+- email
+- calendar
+- tasks
+company:
+  organization: Shortwave Communications Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://www.shortwave.com
+  privacyPolicy: https://www.shortwave.com/policies/privacy-policy/
+  termsOfService: https://www.shortwave.com/policies/terms-of-service/
+  securityPage: https://www.shortwave.com/docs/concepts/security/
+  linkedin: https://linkedin.com/company/getshortwave
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Shortwave

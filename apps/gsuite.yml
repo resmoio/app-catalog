@@ -1,0 +1,48 @@
+id: gsuite
+name: Google Workspace
+description: Google Workspace, once known as G Suite, is a set of tools developed by Google, designed
+  to aid productivity and collaboration. These cloud-based services include Gmail, Google Drive, Google
+  Meet, and Google Calendar, among others such as Google Docs, Sheets, and Slides. Primarily geared towards
+  businesses and organizations, Google Workspace allows for efficient teamwork. It offers customized business
+  emails and several collaboration instruments. This suite not only ensures secure business applications
+  but also improves productivity.
+category: identity-and-access
+labels:
+- productivity
+- collaboration
+- g suite
+company:
+  organization: Google
+  headquarters: US
+  founded: 1998
+  homepage: https://workspace.google.com/
+  privacyPolicy: https://policies.google.com/privacy
+  termsOfService: https://policies.google.com/terms?hl=en
+  statusPage: https://status.cloud.google.com/
+  securityPage: https://workspace.google.com/security/
+  linkedin: https://www.linkedin.com/company/google/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- workspace.google.com
+- gsuite.google.com
+- apps.google.com
+registrationEmails:
+- workspace_noreply@google.com
+- googleworkspace-noreply@google.com
+oauthDisplayNames: []

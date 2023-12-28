@@ -1,0 +1,38 @@
+id: cardinal
+name: Cardinal
+description: Cardinal is an app that employs artificial intelligence to manage and organize your product
+  backlog. It gathers information from customer feedback, CRM data, and task management problems, analyzing
+  it to make judgments about customer preferences and feature relevancy. It helps users to understand
+  their customers' needs and align them with their product strategy in a more controlled and efficient
+  manner.
+category: business-intelligence
+labels:
+- analytics
+- product usage
+- engagement
+company:
+  organization: ''
+  homepage: https://cardinalapp.io
+  privacyPolicy: https://app.termly.io/document/privacy-policy/b2389469-13dc-42a5-a5d6-c81169c954e3
+  termsOfService: https://app.termly.io/document/acceptable-use/b34db13f-d55d-4d5d-8e38-bc4a131e20eb
+  securityPage: https://cardinalapp.io/security
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Cardinal

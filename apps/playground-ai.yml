@@ -1,0 +1,35 @@
+id: playground-ai
+name: Playground AI
+description: Playground AI is an online tool powered by artificial intelligence that enables users to
+  create unique images. It is free to use and offers a wide range of applications. Users can utilize it
+  to generate images for art projects, social media content, presentations, posters, and even videos and
+  logos. Importantly, Playground AI brings imaginations to life, making it a suitable tool for both personal
+  and professional use.
+category: productivity
+labels: []
+company:
+  organization: Playground AI
+  headquarters: US
+  founded: 2022
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- playgroundai.com
+oauthDisplayNames:
+- Playground AI

@@ -1,0 +1,38 @@
+id: fellow
+name: Fellow
+description: Fellow is a tool that facilitates all types of meetings, from individual sessions to team
+  gatherings. It allows for the construction of cooperative meeting agendas, task assignment, and decision
+  recording. Its goal is to streamline meeting preparation and follow-up, making it easier to produce
+  actionable outcomes from every discussion or collaboration session.
+category: productivity
+labels:
+- 1 on 1s
+- team meetings
+- agendas
+- meeting insights
+- productivity
+company:
+  organization: ''
+  homepage: https://fellow.app
+  privacyPolicy: https://fellow.app/privacy-policy/
+  termsOfService: https://fellow.app/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Fellow

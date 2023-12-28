@@ -1,0 +1,41 @@
+id: huawei-email
+name: Huawei Email
+description: Huawei Email is an application designed to allow users to manage their emails, contacts,
+  and schedules effectively. It focuses on delivering a smooth user experience, with features geared towards
+  productivity and privacy. Data security is a priority within the application, making it a reliable choice
+  for personal or business email communication. As part of the product range from Huawei, a global leader
+  in information and communications technology, this application contributes to their aim of creating
+  a comprehensively connected and intelligent world.
+category: mail
+labels:
+- email
+- calendar
+- contacts
+company:
+  organization: Huawei Technologies Co. Ltd.
+  headquarters: China
+  homepage: https://www.huawei.com/
+  privacyPolicy: https://www.huawei.com/en/privacy-policy
+  termsOfService: https://www.huawei.com/en/legal
+  securityPage: https://www.huaweicloud.com/intl/en-us/securecenter/security.html
+  linkedin: https://www.linkedin.com/company/huawei/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Huawei Email

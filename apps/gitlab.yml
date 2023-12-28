@@ -1,0 +1,45 @@
+id: gitlab
+name: GitLab
+description: GitLab is an online platform designed to encompass the full range of needs for software development.
+  It supplies tools for the essential stages of crafting software, from start to finish. This includes
+  the ability to keep track of versions, manage issues, review code, facilitate integration and deployment
+  activities continuously, and foster collaboration among team members. The platform is known for consolidating
+  these features in a single location, promoting smooth workflows for development teams. GitLab places
+  a high emphasis on secure coding practices, in line with shared objectives across developers of enhancing
+  speed and reliability in software creation.
+category: code-hosting
+labels:
+- devops
+- ci/cd
+- repository
+company:
+  organization: GitLab
+  headquarters: US
+  founded: 2014
+  homepage: https://about.gitlab.com/
+  privacyPolicy: https://about.gitlab.com/privacy/
+  termsOfService: https://about.gitlab.com/terms/
+  statusPage: https://status.gitlab.com/
+  securityPage: https://about.gitlab.com/handbook/security/
+  linkedin: https://www.linkedin.com/company/gitlab-com/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- gitlab.com
+oauthDisplayNames:
+- GitLab

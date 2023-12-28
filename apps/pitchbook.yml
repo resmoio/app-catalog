@@ -1,0 +1,34 @@
+id: pitchbook
+name: PitchBook
+description: PitchBook is a platform designed for financial professionals, offering a variety of data,
+  research, and analytical tools focused on private and public investments. It covers areas such as venture
+  capital, private equity, and mergers and acquisitions, helping users to stay informed, observe industry
+  trends, and discover investment opportunities. The application includes detailed data on private equity
+  and venture capital, along with updated industry news and analysis.
+category: business-intelligence
+labels: []
+company:
+  organization: Morningstar
+  headquarters: US
+  founded: 1984
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pitchbook.com
+oauthDisplayNames: []

@@ -1,0 +1,36 @@
+id: plain
+name: Plain
+description: Plain is a support platform designed to streamline interactions with customers. It is notable
+  for its speed and integration with Linear and Slack, which allows for efficient communication. Moreover,
+  it comes with a robust API that can be integrated with various other systems. This platform is particularly
+  beneficial for developers who need a flexible and efficient way to manage customer support.
+category: others
+labels:
+- customer support platform
+- helpdesk
+- slack
+company:
+  organization: ''
+  homepage: https://www.plain.com
+  privacyPolicy: https://plain.com/legal-pages/privacy-policy
+  termsOfService: https://plain.com/legal-pages/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Plain

@@ -1,0 +1,36 @@
+id: sublime-platform
+name: Sublime Platform
+description: Sublime Platform is designed to safeguard emails by detecting and stopping various types
+  of threats such as business email compromise (BEC), credential phishing, and malware. It achieves this
+  through a combination of rule-based Detection-as-Code and artificial intelligence that learns and adapts
+  to behaviors. This tool helps users maintain a secure email environment by actively preventing attacks.
+category: development-tools
+labels:
+- email security
+- phishing
+- protection
+company:
+  organization: ''
+  homepage: https://sublimesecurity.com
+  privacyPolicy: https://sublimesecurity.com/privacy.html
+  termsOfService: https://sublimesecurity.com/privacy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sublime Platform

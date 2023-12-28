@@ -1,0 +1,36 @@
+id: round-robin-app
+name: Round Robin app
+description: The Round Robin App is a tool designed to offer improved ticket management in Zendesk®.
+  It works by automatically assigning tickets to agents following a standardized rotation system. This
+  organized system addresses the needs of users by making the ticket assignment process more efficient
+  and straightforward, effectively streamlining operations.
+category: productivity
+labels:
+- support ticketing
+- load balancing
+- automation
+company:
+  organization: Aksoft LLP
+  homepage: https://roundrobin-assignment.com/
+  privacyPolicy: https://roundrobin-assignment.com/privacy-policy.html
+  termsOfService: https://roundrobin-assignment.com/terms-of-service.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Round Robin app

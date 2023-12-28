@@ -1,0 +1,43 @@
+id: smallpdf
+name: smallpdf
+description: Smallpdf is an online application that provides users with tools for handling PDF files.
+  Through this platform, users can modify and manage their documents without the need to download any
+  additional software. Smallpdf's capabilities include compressing files, converting files, and
+  editing PDFs directly from a web browser. This makes it a convenient and accessible tool for those
+  working with PDF files. Additionally, it offers solutions to common issues encountered with PDF files,
+  all of which are freely available.
+category: productivity
+labels:
+- pdf editor
+- converter
+- compressor
+company:
+  organization: Smaldf
+  headquarters: SZ
+  founded: 2013
+  homepage: https://smallpdf.com/
+  privacyPolicy: https://smallpdf.com/privacy
+  termsOfService: https://smallpdf.com/terms
+  securityPage: https://smallpdf.com/trust-center
+  linkedin: https://www.linkedin.com/company/smallpdf/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- smallpdf.com
+oauthDisplayNames:
+- smallpdf

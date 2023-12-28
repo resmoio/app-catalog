@@ -1,0 +1,34 @@
+id: repeatdev
+name: Repeat.dev
+description: Repeat.dev is a web-based application that offers a variety of features such as creating
+  webhooks, scheduling tasks, forwarding emails, and deploying tasks, all of which can be executed instantly.
+  Its simple web editor interface allows users to accomplish these tasks with minimal hassle. This application
+  aims to simplify the user's online activities and expedite their workflow.
+category: development-tools
+labels:
+- workflow automation
+- api integration
+- serverless
+company:
+  organization: ''
+  homepage: https://repeat.dev
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Repeat.dev

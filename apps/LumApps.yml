@@ -1,0 +1,41 @@
+id: lumapps
+name: LumApps
+description: LumApps, a modern digital workspace application, helps employees stay connected to their
+  organization no matter where they are. Its unique offering lies in allowing employees to tailor their
+  work experiences in ways that suit them best. Integrated with Microsoft Teams, it facilitates two-way
+  communication for enhanced collaboration. LumApps can be thought of as a virtual layout of a company
+  that promotes engagement and connection among employees, thereby supporting a productive work environment.
+  This application redefines the concept of an intranet by offering a modern, user-friendly platform suitable
+  for remote and in-office work alike.
+category: content-management
+labels:
+- intranet
+- employee experience
+- digital workplace
+company:
+  organization: LumApps
+  headquarters: FR
+  founded: 2012
+  homepage: https://www.lumapps.com
+  privacyPolicy: https://www.lumapps.com/legal/privacy-policy/
+  termsOfService: https://www.lumapps.com/legal/terms-of-use/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- lumapps.com
+oauthDisplayNames: []

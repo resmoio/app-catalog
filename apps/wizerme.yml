@@ -1,0 +1,39 @@
+id: wizerme
+name: wizer.me
+description: Wizer.me is a digital platform designed for educators. It lets them produce engaging worksheets
+  and assignments for their students. This service seamlessly blends multimedia elements with standard
+  content, serving as a flexible tool for enriching students' learning journeys in a digital-savvy era.
+category: education
+labels:
+- interactive worksheets
+- education
+- remote learning
+company:
+  organization: wizer.me
+  headquarters: IL
+  founded: 2015
+  homepage: https://app.wizer.me/
+  privacyPolicy: https://info.wizer.me/privacy-policy/
+  termsOfService: https://info.wizer.me/terms-of-service/
+  linkedin: https://www.linkedin.com/company/wizer-me
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wizer.me
+oauthDisplayNames:
+- wizer.me

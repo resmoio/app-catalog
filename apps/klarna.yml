@@ -1,0 +1,44 @@
+id: klarna
+name: Klarna
+description: Klarna is a financial technology application from Sweden that allows customers to make purchases
+  and defer payment without any associated interest or fees. This service provides a convenient and facilitated
+  shopping experience that benefits both businesses and consumers. Specifically, it aids online merchants
+  with the integration of payment systems on their platforms. Furthermore, it ensures a seamless checkout
+  process for shoppers. In essence, Klarna acts as a simplified payment solution for the e-commerce industry,
+  enhancing the interaction between vendors and their customers.
+category: e-commerce
+labels:
+- buy now pay later
+- installment plans
+- ecommerce
+company:
+  organization: Klarna Bank AB
+  headquarters: SE
+  founded: 2005
+  homepage: https://www.klarna.com/us/
+  privacyPolicy: https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy
+  termsOfService: https://www.klarna.com/us/terms-of-use/
+  statusPage: https://status.klarna.com/
+  securityPage: https://www.klarna.com/us/legal/
+  linkedin: https://www.linkedin.com/company/klarna/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- klarna.com
+oauthDisplayNames:
+- Klarna

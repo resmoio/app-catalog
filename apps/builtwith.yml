@@ -1,0 +1,40 @@
+id: builtwith
+name: BuiltWith
+description: BuiltWith is a tool that gives users insights into the technologies employed by various websites.
+  It aids businesses in understanding market trends and studying their competition. Furthermore, it serves
+  as a website profiling tool capable of assisting in lead generation and business intelligence. It provides
+  data on technology usage and adoption, functioning as an analytic asset for companies.
+category: web-analytics
+labels:
+- technology profiler
+- seo
+- web analytics
+company:
+  organization: BuiltWith
+  headquarters: AU
+  founded: 2007
+  homepage: https://builtwith.com
+  privacyPolicy: https://builtwith.com/privacy
+  termsOfService: https://builtwith.com/terms
+  linkedin: https://www.linkedin.com/company/builtwith
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- builtwith.com
+oauthDisplayNames:
+- BuiltWith

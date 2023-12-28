@@ -1,0 +1,34 @@
+id: rudder
+name: Rudder
+description: Rudder is a configuration management tool that's open-source, primarily designed to assist
+  IT teams in the automated management of infrastructure configurations. It enables administrators to
+  establish and consistently implement system configurations across servers, securing uniformity and adherence
+  to policies. Rudder's functions include the management of policies related to configurations, offering
+  reports, and detecting deviations. These features aim to streamline infrastructure handling and sustain
+  large-scale server configurations.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- rudder.io
+oauthDisplayNames:
+- RudderWebApp

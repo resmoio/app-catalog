@@ -1,0 +1,37 @@
+id: upwork
+name: Upwork-Nylas Integration
+description: The Upwork-Nylas Integration application serves as a platform that bridges the gap between
+  businesses and freelance professionals or agencies worldwide. It facilitates novel ways of cooperation
+  that enables companies and freelancers to reach their maximum potential.
+category: business-intelligence
+labels:
+- freelancers
+- hiring
+- work marketplace
+company:
+  organization: ''
+  homepage: https://www.upwork.com/
+  privacyPolicy: https://www.upwork.com/legal#privacy
+  termsOfService: https://www.upwork.com/legal#privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- upwork.com
+oauthDisplayNames:
+- Upwork-Nylas Integration
+- Upwork-SSO

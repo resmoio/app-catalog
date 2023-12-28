@@ -1,0 +1,42 @@
+id: calendly
+name: Calendly
+description: Calendly is an online scheduling application that assists in organizing meetings and appointments.
+  By allowing users to offer their available times and enabling others to secure time slots, it enhances
+  the efficiency of the planning process, minimizing the need for repetitive communication. It's especially
+  useful for individuals, teams, and organizations aiming to streamline their meeting set-up procedures.
+  Despite its modern design, its primary function is to simplify the process of finding mutually agreeable
+  times for meetings, thereby encouraging productivity across teams.
+category: productivity
+labels: []
+company:
+  organization: Calendly
+  headquarters: US
+  founded: 2013
+  homepage: https://calendly.com/
+  privacyPolicy: https://calendly.com/privacy
+  termsOfService: https://calendly.com/terms
+  statusPage: https://www.calendlystatus.com/
+  securityPage: https://calendly.com/security
+  linkedin: https://www.linkedin.com/company/calendly/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- calendly.com
+oauthDisplayNames:
+- Calendly
+- Calendly Integrations

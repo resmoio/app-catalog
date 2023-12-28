@@ -1,0 +1,42 @@
+id: coda
+name: Coda
+description: Coda is a unified workspace that merges the usefulness of documents and spreadsheets, offering
+  a central platform for team collaboration. Users can generate "Coda docs", interactive documents that
+  include text, tables, images, and interactive components, such as buttons and sliders. These creative
+  possibilities let teams devise their own tools, applications, and workflows within the workspace. Coda
+  makes it possible to convert documents into lively, functional spaces, streamlining work and enabling
+  customized solutions. More than 40,000 teams utilize Coda for its distinctive combination of data integration
+  and team collaboration features.
+category: productivity
+labels: []
+company:
+  organization: Coda
+  headquarters: US
+  founded: 2014
+  homepage: https://coda.io/
+  privacyPolicy: https://coda.io/trust/privacy
+  termsOfService: https://coda.io/trust/tos
+  statusPage: https://status.coda.io/
+  securityPage: https://coda.io/trust
+  linkedin: https://www.linkedin.com/company/codainc/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- coda.io
+oauthDisplayNames:
+- Coda

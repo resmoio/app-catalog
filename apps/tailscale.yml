@@ -1,0 +1,41 @@
+id: tailscale
+name: Tailscale
+description: Tailscale is a networking application that uses the WireGuard protocol to safely link devices
+  over the internet, simulating a private network. Suitable for both individuals and organizations, it
+  simplifies the process of setting up a private network without any configuration, thus omitting the
+  conventional challenges of VPN installations. Users can easily access services or devices from any location
+  or network. In just a matter of minutes, Tailscale can be installed on any device, providing remote
+  access regardless of physical location.
+category: security
+labels: []
+company:
+  organization: Tailscale
+  headquarters: US
+  founded: 2019
+  homepage: https://tailscale.com/
+  privacyPolicy: https://tailscale.com/privacy-policy/
+  termsOfService: https://tailscale.com/terms/
+  statusPage: https://status.tailscale.com/
+  securityPage: https://tailscale.com/security/
+  linkedin: https://www.linkedin.com/company/tailscale/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tailscale.com
+oauthDisplayNames:
+- Tailscale

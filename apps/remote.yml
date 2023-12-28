@@ -1,0 +1,37 @@
+id: remote
+name: Remote Desktop Manager
+description: Remote Desktop Manager is a software solution designed to universally manage remote connections
+  and passwords. Developed by Devolutions, this tool is suitable for individuals, managed service providers
+  (MSPs), and IT professionals. Its primary function is to offer a centralized platform where users can
+  keep and share their remote connections and privileged passwords conveniently and securely.
+category: others
+labels:
+- remote access
+- passwords
+- infrastructure
+company:
+  organization: ''
+  homepage: https://remotedesktopmanager.com
+  privacyPolicy: https://devolutions.net/download/documents/privacy-policy-en.pdf
+  termsOfService: https://devolutions.net/download/documents/privacy-policy-en.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- remote.com
+oauthDisplayNames:
+- Remote Desktop Manager

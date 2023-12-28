@@ -1,0 +1,45 @@
+id: lattice
+name: Lattice
+description: Lattice is a tool primarily designed to help leaders create and maintain motivated and successful
+  teams, thus lending to an overall conducive and productive working environment. This tool facilitates
+  various functions including the initiation and oversight of performance reviews and employee engagement
+  surveys, progress tracking of objectives and key results, collecting feedback in real time, and arranging
+  for management meetings. Lattice is especially supportive for those in leadership roles who are keen
+  on employee development and strategic decision-making, carried out through an evidence-based approach.
+category: hr
+labels:
+- performance management
+- okrs
+- hr
+company:
+  organization: Lattice
+  headquarters: US
+  founded: 2015
+  homepage: https://lattice.com/
+  privacyPolicy: https://lattice.com/privacy/policy
+  termsOfService: https://lattice.com/privacy/terms-of-service
+  statusPage: https://status.lattice.com/
+  securityPage: https://lattice.com/privacy/security-measures
+  linkedin: https://www.linkedin.com/company/lattice-hq/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lattice.com
+- latticehq.com
+oauthDisplayNames:
+- Lattice

@@ -1,0 +1,33 @@
+id: codeblocks
+name: Code::Blocks
+description: Code::Blocks is a popular open-source development tool that offers an integrated environment
+  for coding, compiling, and solving programming glitches. It works with various programming languages
+  and supports a range of compilers. Users can adapt its interface to suit their preferences. This versatile
+  tool caters to different software development requirements, regardless of the project's size.
+category: development-tools
+labels: []
+company:
+  organization: ''
+  homepage: https://www.codeblocks.org/
+
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- codeblocks.org
+oauthDisplayNames:
+- Code Blocks

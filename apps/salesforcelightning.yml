@@ -1,0 +1,32 @@
+id: salesforcelightning
+name: Salesforce Lightning For Gmail
+description: Salesforce Lightning for Gmail is a program that brings together Salesforce's customer relationship
+  management (CRM) system and Google's email platform, Gmail. It gives users the ability to directly
+  interact with Salesforce data within their Gmail account. This tool enables users to see customer
+  details, log emails, generate tasks, and monitor interactions directly from their Gmail interface.
+  By integrating email communication with CRM data, it creates an efficient workflow for managing sales
+  and customer relationships.
+category: productivity
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

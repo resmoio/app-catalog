@@ -1,0 +1,35 @@
+id: openflow
+name: OpenFlow
+description: OpenFlow is an application designed to serve as an operational system for businesses. It
+  helps manage different business aspects, enabling smoother and more effective operations. Its primary
+  function is to unify various business systems for efficient usage and management.
+category: others
+labels:
+- workflows
+- dashboards
+- low code
+company:
+  organization: ''
+  homepage: https://app.getopenflow.com
+  privacyPolicy: https://getopenflow.com/privacy
+  termsOfService: https://getopenflow.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- OpenFlow

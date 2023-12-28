@@ -1,0 +1,41 @@
+id: budibase
+name: Budibase
+description: Budibase is a platform that allows users to construct and launch custom web applications,
+  all without needing to write any code. It features an easy-to-navigate drag-and-drop interface, empowering
+  users to make applications that are fully operational and responsive. The platform accommodates smooth
+  integration with various data sources, thus enabling users to connect their applications with databases,
+  APIs, among other external services efficiently. Applicable for both internal and customer-oriented
+  uses, Budibase facilitates the speedy development and deployment of web apps, aiming to optimize workflow
+  and boost productivity.
+category: development-tools
+labels: []
+company:
+  organization: Budibase Limited
+  headquarters: IE
+  founded: 2019
+  homepage: https://budibase.com/
+  privacyPolicy: https://budibase.com/privacy/
+  termsOfService: https://budibase.com/terms-of-service/
+  statusPage: https://status.budibase.com/
+  securityPage: https://docs.budibase.com/docs/security
+  linkedin: https://www.linkedin.com/company/budibase/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Budibase

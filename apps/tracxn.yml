@@ -1,0 +1,36 @@
+id: tracxn
+name: Trackxn
+description: Join 850+ Venture Capitalists, Private Equity Firms, Investment Banks
+  and Corporates who leverage Tracxn to track the world's most innovative companies
+  and emerging sectors
+category: business-intelligence
+labels:
+  - startup ecosystem
+  - market research
+  - emerging tech
+company:
+  organization: Tracxn Technologies Limited
+  homepage: https://tracxn.com
+  privacyPolicy: https://tracxn.com/privacypolicy
+  termsOfService: https://tracxn.com/termsofuse
+  linkedin: https://www.linkedin.com/company/tracxn
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+  - Tracxn

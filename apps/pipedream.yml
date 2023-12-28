@@ -1,0 +1,44 @@
+id: pipedream
+name: Pipedream
+description: Pipedream is a platform designed to simplify the connection of APIs for developers. This
+  tool aids in the automation of workflows by offering a serverless computing environment to run code
+  in response to events, such as receiving webhook payloads. It saves developers from struggling with
+  tasks like writing repetitive code or managing infrastructure, enabling faster development of customized
+  integrations. Although it offers code-level control for those who require it, no coding is necessary
+  for users who don't. Currently, Pipedream is utilized by more than 750,000 developers worldwide.
+category: development-tools
+labels:
+- api integration
+- automation
+- workflows
+company:
+  organization: Pipedream
+  headquarters: US
+  founded: 2019
+  homepage: https://pipedream.com/
+  privacyPolicy: https://pipedream.com/privacy
+  termsOfService: https://pipedream.com/terms
+  statusPage: https://status.pipedream.com/
+  securityPage: https://pipedream.com/docs/privacy-and-security/
+  linkedin: https://www.linkedin.com/company/pipedreamhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pipedream.com
+oauthDisplayNames:
+- Pipedream

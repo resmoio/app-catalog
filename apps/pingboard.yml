@@ -1,0 +1,36 @@
+id: pingboard
+name: Pingboard
+description: Pingboard is a software program designed to visually represent the structure of an organization,
+  serving both as an organizational chart and an employee directory. It facilitates the building of interactive
+  org charts and management of employee profiles. It also serves as a unified platform for storing employee
+  data, enabling transparent and efficient internal communication. The software supports the visualization
+  of departments, teams, and individual roles within the organization. Despite being developed by an HR
+  tech company, its main focus isn't just on employee retention and engagement; it equally takes into
+  account efficient organization structure representation.
+category: hr
+labels: []
+company:
+  organization: Pingboard
+  headquarters: US
+  founded: 2013
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- pingboard.com
+oauthDisplayNames: []

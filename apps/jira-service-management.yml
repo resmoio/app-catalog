@@ -1,0 +1,42 @@
+id: jira-service-management
+name: Jira Service Management
+description: Jira Service Management, created by Atlassian, is a streamlined platform designed for the
+  organization and monitoring of service inquiries from various customers. This platform incorporates
+  aspects of IT operations management (ITOM) and IT service management (ITSM), melding them into a single,
+  coherent solution. It's an adaptable, team-focused system purposed for the modernization of IT services.
+  The app also offers a trial period for potential users to explore its features at no cost.
+category: crm
+labels:
+- it service management
+- itsm
+- atlassian
+company:
+  organization: Atlassian
+  headquarters: Australia
+  founded: 2002
+  homepage: https://www.atlassian.com/software/jira/service-management/features/service-desk
+  privacyPolicy: https://www.atlassian.com/legal/privacy-policy
+  termsOfService: https://www.atlassian.com/legal/cloud-terms-of-service
+  statusPage: https://status.atlassian.com/
+  securityPage: https://www.atlassian.com/trust
+  linkedin: https://www.linkedin.com/company/atlassian/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Jira Service Management

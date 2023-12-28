@@ -1,0 +1,38 @@
+id: gencraft
+name: Gencraft
+description: GenCraft is a content creation tool that uses artificial intelligence to assist users in
+  crafting written material such as articles, blog posts, and social media captions. It utilizes algorithms
+  and machine learning to produce engaging content quickly, aiming to reduce the time and effort typically
+  required in the writing process. The platform is designed to streamline the development of relevant
+  and high-quality content.
+category: marketing
+labels:
+- ai content creation
+- copywriting
+- seo
+company:
+  organization: Gencraft LLC
+  headquarters: US
+  homepage: https://gencraft.com/
+  privacyPolicy: https://gencraft.com/privacy
+  termsOfService: https://gencraft.com/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Gencraft

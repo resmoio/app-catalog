@@ -1,0 +1,40 @@
+id: quip
+name: Quip
+description: Quip is a platform that provides documents and spreadsheets that can be worked on by multiple
+  individuals simultaneously. It's embedded within Salesforce, allowing for seamless integration with
+  existing business processes. It also comes with chat functionality, allowing team members to communicate
+  effectively during their projects. Overall, Quip aims to help teams get their work done in a smarter,
+  more efficient manner by providing a unified platform for documentation, collaboration, and communication.
+category: productivity
+labels:
+- salesforce
+- documents
+- productivity
+company:
+  organization: Salesforce
+  headquarters: US
+  founded: 1999
+  homepage: https://quip.com
+  privacyPolicy: https://quip.com/about/privacy
+  termsOfService: https://quip.com/about/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- quip.com
+oauthDisplayNames:
+- Quip

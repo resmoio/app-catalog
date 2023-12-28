@@ -1,0 +1,37 @@
+id: hashnode
+name: Hashnode
+description: Hashnode serves as an international platform for developers to engage with one another. It
+  presents high-quality technical and programming articles for learning purposes and promotes active discussions.
+  Furthermore, Hashnode provides users with the capability to initiate their own developer blog. It characteristically
+  combines the power of developer blogs and community interaction. It promotes continuous learning, sharing,
+  and growth amongst its users in a developer-centric environment.
+category: forums
+labels:
+- blogging
+- articles
+- community
+company:
+  organization: ''
+  homepage: https://hashnode.com
+  privacyPolicy: https://hashnode.com/privacy
+  termsOfService: https://hashnode.com/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Hashnode

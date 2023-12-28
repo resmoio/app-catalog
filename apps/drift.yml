@@ -1,0 +1,45 @@
+id: drift
+name: Drift
+description: Drift is a comprehensive platform designed to help businesses effectively communicate with
+  their customers. It uses a feature known as the Drift Conversation Cloud to match appropriate conversations
+  to the correct individuals at convenient times and locations. This tool primarily supports businesses
+  by improving the quality of potential client interactions, driving revenue growth, and nurturing enduring
+  customer relationships. Drift integrates various forms of communication, such as chat, email, and video
+  and uses artificial intelligence to tailor experiences throughout the customer's journey. Hence, it
+  helps businesses to establish vital connections with their customers through multiple channels.
+category: customer-support
+labels:
+- conversational marketing
+- chat
+- personalization
+company:
+  organization: Drift
+  headquarters: US
+  founded: 2015
+  homepage: https://www.drift.com/
+  privacyPolicy: https://www.drift.com/privacy-policy/
+  termsOfService: drift.com/terms-of-service/
+  statusPage: https://drift.status.io/
+  securityPage: https://www.drift.com/security/
+  linkedin: https://www.linkedin.com/company/drift/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- drift.com
+oauthDisplayNames:
+- Drift

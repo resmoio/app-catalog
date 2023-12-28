@@ -1,0 +1,36 @@
+id: gpt-for-gmail
+name: GPT for Gmail
+description: GPT for Gmail is a complimentary add-on designed to enhance the clarity, impact, and authenticity
+  of a user's written communication. This tool can be utilised directly within Google's suite of applications
+  like Docs, Sheets, Slides, Drive, and Gmail. The main purpose of this app is to aid users in increasing
+  their productivity by improving their written output.
+category: marketing
+labels: []
+company:
+  organization: WebGenesis Inc.
+  headquarters: US
+  founded: 2023
+  homepage: https://gpt.space/gmail
+  privacyPolicy: https://gpt.space/privacy-policy
+  termsOfService: https://gpt.space/terms-of-service
+  linkedin: https://www.linkedin.com/company/gptworkspace/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- GPT for Gmail

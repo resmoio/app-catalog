@@ -1,0 +1,37 @@
+id: rippling
+name: Rippling
+description: Rippling is a comprehensive platform designed to manage an international workforce. It is
+  equipped to handle different aspects of your business such as employees' payroll, their expenses as
+  well as the computers and applications they use for work. Think of it as a centralized system where
+  HR, IT, and finance tasks are streamlined for easier management and organization of your team's resources
+  and needs.
+category: hr
+labels:
+- hr
+- it management
+- infrastructure
+company:
+  organization: ''
+  homepage: https://www.rippling.com
+  privacyPolicy: https://app.rippling.com/legal/privacy
+  termsOfService: https://app.rippling.com/legal/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Rippling

@@ -1,0 +1,42 @@
+id: kayak
+name: KAYAK
+description: Kayak is a travel search engine that assists in planning and booking trips. Its platform
+  provides a comparison of prices for flights, hotels, and rental cars from various travel sites, enabling
+  travelers to find suitable options. The service includes effective search filters and user-friendly
+  features for streamlining choices. Additionally, Kayak offers fare alerts and price forecasting, supporting
+  users in their decision-making process and potential savings. This tool is extensively used globally,
+  indicating its reliability. Kayak uses advanced technology to ensure users are presented with the best
+  available travel deals.
+category: transportation-and-travel
+labels:
+- travel search
+- flights
+- hotels
+company:
+  organization: KAYAK Software Corporation
+  headquarters: US
+  founded: 2004
+  homepage: https://www.kayak.com/
+  privacyPolicy: kayak.com/privacy
+  termsOfService: https://www.kayak.com/terms-of-use
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- kayak.com
+oauthDisplayNames:
+- KAYAK

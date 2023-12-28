@@ -1,0 +1,36 @@
+id: ign
+name: IGN SSO
+description: IGN SSO is a comprehensive application that serves as a valuable resource for all video game
+  enthusiasts. It provides the latest news and expert reviews on numerous video games, as well as walkthroughs
+  to help guide players. The app covers a broad spectrum of games, ensuring that users are consistently
+  informed about new developments and trends in the gaming world.
+category: news-and-entertainment
+labels:
+- gaming news
+- reviews
+- entertainment
+company:
+  organization: ''
+  homepage: https://www.ign.com/
+  privacyPolicy: https://corp.ign.com/privacy
+  termsOfService: https://corp.ign.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- IGN SSO

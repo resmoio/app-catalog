@@ -1,0 +1,40 @@
+id: updown
+name: updown.io
+description: Updown.io is a software application designed to monitor websites. Its features include continuous
+  checks for safety issues and vulnerabilities, with the option to scan as often as every 15 seconds.
+  The tool also has the benefit of compatibility, meaning it can be integrated with widely-used platforms
+  and technologies such as Slack, Telegram, Webhook, and Zapier. These integrations enable users to further
+  streamline their website monitoring processes.
+category: monitoring
+labels:
+- uptime monitoring
+- status pages
+- reliability
+company:
+  organization: ''
+  headquarters: FR
+  founded: 2012
+  homepage: https://updown.io
+  privacyPolicy: https://updown.io/privacy_policy
+  termsOfService: https://updown.io/tos
+  statusPage: https://status.updown.io/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- updown.io

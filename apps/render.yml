@@ -1,0 +1,43 @@
+id: render
+name: Render
+description: Render is a valuable tool that assists developers in deploying and managing web applications
+  simply and effectively. It automates complicated tasks, which expedites the process of constructing,
+  expanding, and maintaining applications. This allows businesses to shine their primary focus on innovation
+  rather than the management of infrastructure. Render also offers an integrated cloud environment to
+  create and operate all your apps and websites, providing additional features such as complimentary TLS
+  certificates, a worldwide CDN, private networks, and automated deployments from Git.
+category: development-tools
+labels:
+- web hosting
+- serverless
+- deployments
+company:
+  organization: Render Services Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://render.com
+  privacyPolicy: https://render.com/privacy
+  termsOfService: https://render.com/terms
+  statusPage: https://status.render.com/
+  securityPage: https://trust.render.com/
+  linkedin: https://www.linkedin.com/company/renderco/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Render

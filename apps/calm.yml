@@ -1,0 +1,37 @@
+id: calm
+name: Calm
+description: Calm is a meditation and relaxation application primarily aimed at enhancing the overall
+  mental health of its users. It incorporates a variety of strategies to lower stress and improve sleep,
+  which include guided meditations, auditory stimuli like soothing sounds, as well as breathing techniques
+  and narrated sleep stories. It's a comprehensive solution, providing a diverse set of mindfulness practices
+  and relaxation tools for global users.
+category: others
+labels: []
+company:
+  organization: Calm
+  headquarters: US
+  founded: 2012
+  homepage: https://www.calm.com/
+  termsOfService: https://www.calm.com/terms
+  privacyPolicy: https://www.calm.com/privacy-policy
+  linkedin: https://www.linkedin.com/company/calm-com
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- calm.com
+oauthDisplayNames: []

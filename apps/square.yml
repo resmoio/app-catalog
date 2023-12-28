@@ -1,0 +1,34 @@
+id: square
+name: Square
+description: Square is a digital finance tool designed to assist small to medium-sized businesses in managing
+  numerous commercial aspects. It offers a variety of services including payment processing, sales data
+  analysis, inventory management, and more. It features both hardware like card readers and terminals
+  and software applications for streamlined commercial operation. Overall, Square's main function is to
+  simplify and centralize business transactions and operations through the use of innovative technology.
+category: e-commerce
+labels: []
+company:
+  organization: Square
+  headquarters: US
+  founded: 2009
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- squareup.com
+oauthDisplayNames: []

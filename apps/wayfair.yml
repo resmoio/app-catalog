@@ -1,0 +1,39 @@
+id: wayfair
+name: Wayfair
+description: Wayfair is a US-based online platform established in 2002 that specializes in offering an
+  extensive assortment of furnishings and items for homes. It is notable for being one of the largest
+  online destinations for these products, providing a wide variety of items across multiple brands and
+  styles.
+category: e-commerce
+labels:
+- furniture
+- home goods
+- ecommerce
+company:
+  organization: Wayfair
+  headquarters: US
+  founded: 2002
+  homepage: https://www.wayfair.com/
+  privacyPolicy: https://terms.wayfair.io/en-US?csnid=&csnutid=3509c497-e537-4b7c-bde1-2b65f14cbfcf&txid=I%2BF9OmTaAdZ3z%2Btla6hUAg%3D%3D#privacy
+  termsOfService: https://terms.wayfair.io/en-US?csnid=&csnutid=3509c497-e537-4b7c-bde1-2b65f14cbfcf&txid=I%2BF9OmTaAdcNiIsnWpmuAg%3D%3D#terms
+  linkedin: https://www.linkedin.com/company/wayfair/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Wayfair

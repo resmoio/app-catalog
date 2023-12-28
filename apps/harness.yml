@@ -1,0 +1,36 @@
+id: harness
+name: Harness
+description: Harness is a developmental operations (DevOps) platform aimed at streamlining the process
+  of software delivery. Serving as a comprehensive toolset, it assists with the efficient construction,
+  testing, and deployment of applications. The platform facilitates a smoother release process with a
+  focus on continuous integration and continuous delivery pipelines, automated rollbacks, and progressive
+  deployment strategies. Harness allows for enhanced visibility into the process, increasing the speed
+  and reliability of software releases. The service is suitable for engineering and DevOps teams looking
+  to reliably introduce applications into production environments.
+category: development-tools
+labels: []
+company:
+  organization: Harness
+  headquarters: US
+  founded: 2016
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- harness.io
+oauthDisplayNames: []

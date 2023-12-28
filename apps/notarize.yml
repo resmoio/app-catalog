@@ -1,0 +1,37 @@
+id: notarize
+name: Notarize
+description: Notarize is an application focused on enabling online notarizations, offering an alternative
+  to traditional paper methods that can be more convenient and secure. The service is accessible via multiple
+  devices, such as computers, tablets, and smartphones, meaning reliable notarial services are readily
+  available around the clock, regardless of location. The aim of Notarize is to streamline and modernize
+  the often complex and time-consuming process of notarizing documents.
+category: others
+labels:
+- online notary
+- legal
+- documents
+company:
+  organization: ''
+  homepage: https://notarize.com/
+  privacyPolicy: https://notarize.com/privacy_policy
+  termsOfService: https://notarize.com/privacy_policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Notarize

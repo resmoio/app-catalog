@@ -1,0 +1,45 @@
+id: qwilr
+name: Qwilr
+description: Qwilr is a practical software designed to aid business-to-business sales teams in creating
+  engaging sales and marketing materials quickly and efficiently. Equipped with a user-friendly design,
+  the platform automates document creation and incorporates analytics to streamline processes and bolster
+  productivity. Additionally, Qwilr enables users to collaborate within the software and integrates smoothly
+  with customer relationship management systems and other business tools. While Qwilr is mainly targeted
+  towards enhancing the sales process, it also cultivates an improved customer journey by providing a
+  comprehensive set of tools and features. A preview of the software is available via a two-week trial.
+category: productivity
+labels:
+- sales enablement
+- proposals
+- documents
+company:
+  organization: Qwilr
+  headquarters: AU
+  founded: 2014
+  homepage: https://qwilr.com/
+  privacyPolicy: https://qwilr.com/privacy-policy/
+  termsOfService: https://qwilr.com/terms/
+  statusPage: https://status.qwilr.com/
+  securityPage: https://qwilr.com/trust-and-security/
+  linkedin: https://www.linkedin.com/company/qwilr/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- qwilr.com
+oauthDisplayNames:
+- Qwilr

@@ -1,0 +1,36 @@
+id: spot
+name: Spot
+description: Spot is an application designed to allow teams to form a virtual office or headquarters swiftly
+  and at no cost. This digital space enables teams to collaborate, communicate, and manage their work
+  effectively from diverse locations in a centralized manner. The app is easy to use, making it simple
+  for teams to establish their virtual workspace quickly.
+category: others
+labels:
+- virtual office
+- collaboration
+- meetings
+company:
+  organization: ''
+  homepage: https://www.spotvirtual.com/
+  privacyPolicy: https://www.spotvirtual.com/privacy-policy/
+  termsOfService: https://www.spotvirtual.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Spot

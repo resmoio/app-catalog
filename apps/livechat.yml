@@ -1,0 +1,42 @@
+id: livechat
+name: LiveChat
+description: LiveChat is an internet-based communication tool designed to be both secure and straightforward
+  to use. As of now, more than 37,000 firms worldwide make use of this software. LiveChat stands out as
+  a tool that both facilitates ecommerce and significantly improves customer service. In addition to its
+  live chat functionality, LiveChat also includes help desk elements. Furthermore, the software also supports
+  virtual gatherings such as meetings or webinars. It offers a platform that simplifies the creation and
+  management of these gatherings, complete with screen sharing capabilities.
+category: chat
+labels:
+- live chat
+- customer service
+- help desk
+company:
+  organization: LiveChat
+  headquarters: US
+  founded: 2002
+  homepage: https://www.livechat.com/
+  privacyPolicy: https://www.livechat.com/legal/privacy-policy/
+  statusPage: https://status.livechat.com/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- my.livechatinc.com
+- accounts.livechat.com
+oauthDisplayNames:
+- LiveChat

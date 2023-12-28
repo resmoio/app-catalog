@@ -1,0 +1,41 @@
+id: meditopia
+name: Meditopia
+description: Meditopia is a digital tool designed to foster mental well-being. It provides a variety of
+  features, including guided meditations, sleep stories, and mindfulness techniques. The app is customizable
+  to meet the individual's needs and helps promote mental strength, tranquility, and self-awareness. By
+  joining the community of 35 million Meditopia users, individuals may find assistance in improving their
+  sleep quality and reducing stress. Meditopia provides a resource for daily mental health support for
+  both individuals and teams.
+category: news-and-entertainment
+labels:
+- meditation
+- mindfulness
+- wellbeing
+company:
+  organization: Meditopia
+  headquarters: DE
+  founded: 2015
+  homepage: https://meditopia.com/
+  privacyPolicy: https://meditopia.com/en/privacy-policy/
+  termsOfService: https://meditopia.com/en/terms-and-conditions/
+  linkedin: https://www.linkedin.com/company/meditopia/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Meditopia

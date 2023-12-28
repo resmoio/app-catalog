@@ -1,0 +1,41 @@
+id: quillbot
+name: QuillBot
+description: QuillBot is a tool which uses artificial intelligence to assist users in restating sentences,
+  paragraphs, or full articles. Its primary function is to clarify and improve the quality of the text
+  without changing the initial meaning. This makes it particularly useful for students and professionals
+  who need to enhance their writing skills. QuillBot, a startup, is focused on creating a tool that can
+  reformulate user's writing to be more concise and clear.
+category: productivity
+labels:
+- paraphrasing
+- writing assistant
+- plagiarism
+company:
+  organization: Course Hero
+  headquarters: US
+  founded: 2006
+  homepage: https://quillbot.com/
+  privacyPolicy: https://quillbot.com/privacy
+  termsOfService: https://quillbot.com/terms
+  linkedin: https://www.linkedin.com/company/quillbot/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- quillbot.com
+oauthDisplayNames:
+- QuillBot

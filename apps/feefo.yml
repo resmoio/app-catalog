@@ -1,0 +1,36 @@
+id: feefo
+name: Feefo
+description: Feefo is a globally recognized review platform that allows businesses to gather and verify
+  customer reviews. With its top-tier system, it not only boosts a company's integrity but also facilitates
+  an understanding of customer perspectives. This can lead to the potential improvement of products and
+  services based on the received feedback.
+category: customer-support
+labels:
+- reviews
+- ratings
+- verified
+company:
+  organization: ''
+  homepage: https://www.feefo.com
+  privacyPolicy: https://www.feefo.com/en/business/privacy-policy
+  termsOfService: https://www.feefo.com/en/business/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Feefo

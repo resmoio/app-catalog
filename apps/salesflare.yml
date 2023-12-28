@@ -1,0 +1,42 @@
+id: salesflare
+name: Salesflare
+description: Salesflare is a customer relationship management (CRM) tool specifically designed for small
+  businesses and startups. It aims to simplify managing sales pipeline by automating data entry and offering
+  intelligent features. Its primary function is to assist users in fostering better customer relationships
+  and increasing sales. Rather than requiring manual input, Salesflare works autonomously, effectively
+  reversing the typical CRM approach.
+category: crm
+labels:
+- sales crm
+- automation
+- email
+company:
+  organization: Salesflare
+  headquarters: BE
+  founded: 2014
+  homepage: https://salesflare.com
+  privacyPolicy: https://salesflare.com/privacy
+  termsOfService: https://salesflare.com/terms
+  statusPage: https://status.salesflare.com/
+  linkedin: https://www.linkedin.com/company/salesflaresa/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- salesflare.com
+oauthDisplayNames:
+- Salesflare

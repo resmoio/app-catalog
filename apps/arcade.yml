@@ -1,0 +1,36 @@
+id: arcade
+name: Arcade
+description: Arcade is an application that enables users to create interactive tours for products. These
+  tours can be easily integrated into websites, blogs, and social media platforms, providing a visually
+  engaging way for users to explore and understand products in a digital environment. The application
+  prioritizes ease of use, so even beginners should find the process of creating their interactive tours
+  relatively straightforward.
+category: marketing
+labels: []
+company:
+  organization: ''
+  homepage: https://www.arcade.software/
+  privacyPolicy: https://www.arcade.software/privacy
+  termsOfUse: https://www.arcade.software/terms-of-service
+  statusPage: https://arcadehq.statuspage.io/
+  linkedin: https://www.linkedin.com/company/arcadehq
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- arcade.software
+oauthDisplayNames: []

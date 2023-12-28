@@ -1,0 +1,45 @@
+id: azure
+name: Azure
+description: Azure is a cloud computing platform from Microsoft that offers a variety of services, which
+  includes computing, analytics, storage, and networking. It is intended to equip developers and businesses
+  with necessary tools and services to construct, launch, and manage applications using data centers managed
+  by Microsoft worldwide. Azure is recognized for its open and flexible nature, enabling more efficiency
+  and potential cost savings.
+category: cloud
+labels:
+- cloud
+- microsoft
+- infrastructure
+company:
+  organization: Microsoft
+  headquarters: US
+  founded: 1975
+  homepage: https://azure.microsoft.com/en-us
+  privacyPolicy: https://privacy.microsoft.com/en-us/privacystatement
+  termsOfService: https://azure.microsoft.com/en-us/support/legal/
+  statusPage: https://azure.status.microsoft/en-us/status
+  securityPage: https://learn.microsoft.com/en-us/azure/compliance/
+  linkedin: https://www.linkedin.com/company/msnazure/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- portal.azure.com
+registrationEmails:
+- azure-noreply@microsoft.com
+oauthDisplayNames:
+- Azure Portal

@@ -1,0 +1,40 @@
+id: formstack
+name: Formstack
+description: Formstack is a productivity tool designed to help organizations become more efficient. With
+  this app, users can digitize their operations, automate routine tasks, and improve overall workflows.
+  This is achieved without the need for coding skills. Formstack's key features include the ability to
+  collect data digitally, automatically generate documents, and secure digital signatures. As a user-friendly
+  software, it aims to simplify and streamline the way businesses operate.
+category: productivity
+labels:
+- forms
+- workflows
+- document management
+company:
+  organization: Formstack
+  headquarters: US
+  founded: 2006
+  homepage: https://www.formstack.com
+  privacyPolicy: https://www.formstack.com/privacy
+  termsOfService: https://www.formstack.com/privacy
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- formstack.com
+oauthDisplayNames:
+- Formstack

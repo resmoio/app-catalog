@@ -1,0 +1,42 @@
+id: tubebuddy
+name: TubeBuddy
+description: TubeBuddy is a utility tool specifically designed for YouTube creators. Its features range
+  from automation for bulk tasks to advanced SEO services for videos. It also includes capabilities like
+  keyword research, thumbnail creation, and A/B testing of content. Moreover, TubeBuddy offers in-depth
+  analytics to assist creators with channel growth. Its AI-supported technology is engineered to efficiently
+  manage and further develop YouTube channels. Essentially, TubeBuddy puts together an array of useful
+  tools for YouTube creators to save time and enhance productivity.
+category: productivity
+labels:
+- youtube tools
+- seo
+- analytics
+company:
+  organization: TubeBuddy LLC
+  headquarters: US
+  founded: 2015
+  homepage: https://www.tubebuddy.com
+  privacyPolicy: https://www.tubebuddy.com/privacy
+  termsOfService: https://www.tubebuddy.com/termsofuse
+  statusPage: https://status.tugboatlogic.com/
+  linkedin: https://www.linkedin.com/company/tubebuddy-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TubeBuddy

@@ -1,0 +1,39 @@
+id: uber
+name: Uber
+description: Uber is a digital platform that acts as an intermediary connecting those seeking transportation
+  services with drivers via a mobile application. It allows one to request a ride and finalize payment
+  within the app itself, offering a streamlined and practical solution compared to conventional taxi systems.
+category: transportation-and-travel
+labels:
+- ride sharing
+- transportation
+- mobility
+company:
+  organization: Uber
+  headquarters: US
+  founded: 2009
+  homepage: https://www.uber.com/
+  privacyPolicy: https://www.uber.com/legal/en/
+  termsOfService: https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en
+  linkedin: https://www.linkedin.com/company/uber-com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- uber.com
+oauthDisplayNames:
+- Uber

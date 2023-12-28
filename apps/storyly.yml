@@ -1,0 +1,41 @@
+id: storyly
+name: Storyly
+description: Storyly is a software application that provides a platform for businesses to create engaging
+  stories for their audience on mobile apps. Its primary function is to help businesses improve user interaction
+  and retention by providing a unique, more engaging format to present content, products, or experiences.
+  The app seamlessly integrates with other apps and websites, allowing users to publish their immersive
+  full-screen narratives directly. Despite its ability to create dynamic content, Storyly is designed
+  to keep operations simple and user-friendly.
+category: marketing
+labels:
+- mobile stories
+- engagement
+- marketing
+company:
+  organization: App Samurai Inc.
+  headquarters: US
+  founded: 2019
+  homepage: https://www.storyly.io/
+  privacyPolicy: https://www.storyly.io/privacy-policy
+  termsOfService: https://www.storyly.io/terms-of-use
+  linkedin: https://www.linkedin.com/company/storyly/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Storyly

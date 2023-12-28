@@ -1,0 +1,37 @@
+id: fiddler
+name: Fiddler
+description: Fiddler Classic is a web debugging tool that allows users to monitor and analyze HTTP traffic
+  between their computer and the internet. It provides a platform for debugging web applications by capturing
+  network requests and responses. Users can familiarize themselves with its features and usage through
+  a brief tutorial available upon installation.
+category: development-tools
+labels:
+- web debugging
+- http inspector
+- proxy
+company:
+  organization: ''
+  homepage: https://getfiddler.com
+  privacyPolicy: https://www.progress.com/legal/privacy-policy?_gau003d2.177046758.256415522.1585648578-92885333.1585648578
+  termsOfService: https://www.telerik.com/about/terms-of-use
+  securityPage: https://www.progress.com/security?_ga=2.38141600.2078518993.1701184843-1560004244.1701184843&_gl=1*rlot1i*_gcl_au*MjA1Mzk3OTIyOS4xNzAxMTg0ODQz*_ga*MTU2MDAwNDI0NC4xNzAxMTg0ODQz*_ga_9JSNBCSF54*MTcwMTE4NDg0My4xLjEuMTcwMTE4NDg3NS4yOC4wLjA.
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Fiddler

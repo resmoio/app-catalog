@@ -1,0 +1,44 @@
+id: clickhouse
+name: ClickHouse
+description: ClickHouse is an open-source database management system that focuses on online analytical
+  processing. It uses a column-oriented structure and allows for real-time creation of analytical reports
+  via SQL queries. This application presents a rapid solution for generating real-time data reports. Since
+  it's open-source, it's widely accessible, and its orientation towards column storage allows for efficient
+  data processing within the system. All in all, ClickHouse summarizes complex data analytics and report
+  generation into a speedy, user-friendly software package.
+category: storage-and-database
+labels:
+- analytics
+- big data
+- database
+company:
+  organization: ClickHouse
+  headquarters: US
+  founded: 2016
+  homepage: https://clickhouse.com/
+  privacyPolicy: https://clickhouse.com/legal/privacy-policy
+  termsOfService: https://clickhouse.com/legal/agreements/terms-of-service
+  statusPage: https://status.clickhouse.com/
+  securityPage: https://trust.clickhouse.com/
+  linkedin: https://www.linkedin.com/company/clickhouseinc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- clickhouse.cloud
+oauthDisplayNames:
+- ClickHouse

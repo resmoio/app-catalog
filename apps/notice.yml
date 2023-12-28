@@ -1,0 +1,36 @@
+id: notice
+name: Notice
+description: Notice is a tool designed to assist in the making of FAQs, documentation, or blogs for both
+  web and mobile applications. It is a no-code editor, meaning users do not need to understand programming
+  to use it. Users can work together with their teams in the app. It also offers valuable information
+  about user behavior, and can help improve the visibility of a website on search engines.
+category: others
+labels:
+- knowledge base
+- documentation
+- help center
+company:
+  organization: ''
+  homepage: https://notice.studio
+  privacyPolicy: https://notice.studio/privacy-policy
+  termsOfService: https://notice.studio/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Notice

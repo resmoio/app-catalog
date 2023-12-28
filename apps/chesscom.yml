@@ -1,0 +1,40 @@
+id: chesscom
+name: Chess.com
+description: Chess.com is a popular online platform for chess players of various expertise levels. It
+  hosts millions of users from around the world, providing a dynamic space for chess enthusiasts to learn,
+  play, and hone their skills. The platform offers a rich array of features including live games, puzzles,
+  lessons, and tournaments, all aimed at enhancing players' understanding and enjoyment of chess. Suitable
+  for all ages and abilities, Chess.com encourages a positive and inclusive environment for users. Individuals
+  can engage in enjoyable and challenging games against friends or the computer.
+category: news-and-entertainment
+labels:
+- chess
+- games
+- community
+company:
+  organization: Chess.com LLC
+  headquarters: US
+  homepage: https://chess.com
+  privacyPolicy: https://www.chess.com/legal/privacy
+  termsOfService: https://www.chess.com/blog/VladomirSeledkin/terms-of-service
+  linkedin: https://www.chess.com/blog/VladomirSeledkin/terms-of-service
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Chess.com

@@ -1,0 +1,35 @@
+id: poptin
+name: Poptin
+description: Poptin is a tool that enables you to create comprehensive popups and forms for your website.
+  These tools can help enhance your website's conversion rate significantly in just a few minutes. Poptin
+  does not require credit card information upon sign-up, making it freely accessible.
+category: marketing
+labels:
+- popups
+- lead gen
+- email lists
+company:
+  organization: ''
+  homepage: https://www.poptin.com/
+  privacyPolicy: https://www.poptin.com/privacy-policy/
+  termsOfService: https://www.poptin.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Poptin

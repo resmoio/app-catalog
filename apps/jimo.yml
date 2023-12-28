@@ -1,0 +1,40 @@
+id: jimo
+name: Jimo
+description: Jimo is a platform designed to assist teams throughout every stage of a product's lifecycle,
+  from the initial discovery and design stages to introducing new features. The platform emphasizes user-friendly
+  product development by promoting easy communication between teams and end-users. The aim of Jimo is
+  to enhance user engagement and consistent use of the product, thus supporting the product's longevity
+  and success in its intended market.
+category: marketing
+labels:
+- product adoption
+- user engagement
+- analytics
+company:
+  organization: ''
+  headquarters: FR
+  homepage: https://usejimo.com
+  privacyPolicy: https://www.usejimo.com/privacy
+  termsOfService: https://www.usejimo.com/terms-services
+  statusPage: https://status.usejimo.com/en/
+  linkedin: https://www.linkedin.com/company/usejimo/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Jimo

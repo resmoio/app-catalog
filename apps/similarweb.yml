@@ -1,0 +1,42 @@
+id: similarweb
+name: SimilarWeb.com
+description: SimilarWeb.com is an application that provides facilities for assessing website statistics,
+  understanding web traffic, and analyzing web performance. This tool is designed to support businesses
+  in understanding and navigating the digital environment. It allows for the evaluation of any website's
+  traffic, along with a comparative study of website performance. Its functionalities extend to support
+  strategic analyses that can help businesses expand their market presence. The application is an all-in-one
+  solution for comprehensive website traffic analytics and competitive intelligence.
+category: web-analytics
+labels:
+- web analytics
+- market intelligence
+- traffic
+company:
+  organization: Similarweb LTD
+  headquarters: US
+  founded: 2007
+  homepage: https://similarweb.com
+  privacyPolicy: https://www.similarweb.com/corp/legal/privacy-policy
+  termsOfService: https://www.similarweb.com/corp/legal/terms
+  securityPage: https://www.similarweb.com/corp/privacy-security/
+  linkedin: https://www.linkedin.com/company/similarweb/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SimilarWeb.com

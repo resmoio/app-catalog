@@ -1,0 +1,34 @@
+id: vistaprint
+name: Vistaprint
+description: Vistaprint is an application that aids businesses in generating personalized materials, both
+  tangible and digital. It enables enterprises to create a variety of items tailored to their needs, including
+  business cards, banners, clothing, and bags. Not limited to physical products, the application also
+  offers solutions for digital marketing and design to help businesses expand their online presence.
+category: marketing
+labels: []
+company:
+  organization: Vistaprint
+  headquarters: NL
+  founded: 1995
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vistaprint.com
+oauthDisplayNames:
+- Vistaprint

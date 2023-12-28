@@ -1,0 +1,33 @@
+id: streamlit
+name: Streamlit
+description: Streamlit is a platform that functions as a community space. This application is specifically
+  designed for discussions related to Streamlit. It's a place where users can interact, engage in discussions
+  and exchange ideas with each other about all things related to the use of Streamlit.
+category: development-tools
+labels:
+- python frameworks
+- dashboards
+- apps
+company:
+  organization: ''
+  homepage: https://discuss.streamlit.io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Streamlit

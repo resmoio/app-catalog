@@ -1,0 +1,40 @@
+id: ramp
+name: Ramp
+description: Ramp is a finance-oriented software platform that aids companies in handling their corporate
+  expenditures efficiently. Its key functionalities include tracking expenses in real-time, capturing
+  receipts automatically, and providing intelligent card solutions. These features collectively contribute
+  to a more streamlined financial workflow within an organization. By using Ramp, businesses have the
+  opportunity to increase their financial efficacy and automation, particularly in the areas of expenditure
+  management and the processes surrounding accounts payable.
+category: account-and-finance
+labels: []
+company:
+  organization: Ramp
+  headquarters: US
+  founded: 2019
+  homepage: https://ramp.com/
+  privacyPolicy: https://ramp.com/legal/privacy-policy
+  termsOfService: https://ramp.com/legal/platform-agreement
+  securityPage: https://ramp.com/security
+  linkedin: https://www.linkedin.com/company/ramp/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ramp.com
+oauthDisplayNames:
+- Ramp

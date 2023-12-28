@@ -1,0 +1,42 @@
+id: web3auth
+name: Web3Auth
+description: Web3Auth serves as a cloud-based infrastructure designed for decentralized applications and
+  wallets. It provides unique solutions for multi-factor authentication without having to hold or keep
+  watch over users' information (non-custodial). Moreover, it offers a simple and secure way to access
+  digital assets and identities. Equipped with Key Management and Multi-Party Computation (MPC) and Account
+  Abstraction (AA) features, it allows various platforms to link and work together. Web3Auth is particularly
+  helpful for Web3 wallets and applications in offering a smooth login experience to different kinds of
+  users, be they mainstream or familiar with Web3.
+category: identity-and-access
+labels:
+- web3 security
+- authentication
+- blockchain
+company:
+  organization: Torus Labs Pte Ltd
+  headquarters: SG
+  founded: 2018
+  homepage: https://web3auth.io
+  privacyPolicy: https://docs.web3auth.io/legal/privacy-policy
+  termsOfService: https://web3auth.io/docs/legal/terms-and-conditions
+  linkedin: https://www.linkedin.com/company/web3auth/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Web3Auth

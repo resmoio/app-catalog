@@ -1,0 +1,36 @@
+id: yugabytedb
+name: YugabyteDB Managed
+description: YugabyteDB Managed is an app that offers YugabyteDB as a service. The app is designed to
+  minimize the responsibilities linked to the management of databases and related infrastructure. By providing
+  these services, YugabyteDB Managed allows users to become effective in their work more quickly without
+  worrying about the administrative parts of database management.
+category: storage-and-database
+labels:
+- distributed sql database
+- kubernetes
+- open source
+company:
+  organization: ''
+  homepage: https://yugabyte.com/cloud
+  privacyPolicy: https://www.yugabyte.com/privacy-policy/
+  termsOfService: https://www.yugabyte.com/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- YugabyteDB Managed

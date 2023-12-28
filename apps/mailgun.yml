@@ -1,0 +1,35 @@
+id: mailgun
+name: Mailgun
+description: Mailgun is an email management system designed for use by developers to add email functions
+  to their applications. It offers capabilities such as sending, receiving, and tracking emails, as well
+  as parsing email contents and tailoring email layouts. It is particularly useful for businesses that
+  need to manage marketing and transactional emails and communicate with customers effectively. Users
+  can interact with Mailgun using application programming interfaces (APIs), making it a versatile tool
+  for various applications.
+category: mail
+labels: []
+company:
+  organization: Rackspace
+  headquarters: US
+  founded: 1998
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mailgun.com
+oauthDisplayNames: []

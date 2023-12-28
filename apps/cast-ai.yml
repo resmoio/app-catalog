@@ -1,0 +1,38 @@
+id: cast-ai
+name: cast.ai prod environment
+description: The CAST AI application provides a platform utilizing artificial intelligence
+  for the autonomous management of Kubernetes. The primary features of the software are aimed at efficiency,
+  reducing cloud expenses by approximately half. Further, it helps with automating DevOps tasks and mitigating
+  system downtime. Thus, CAST AI contributes to enhanced operational profitability without necessitating
+  any significant additional workload.
+category: cloud
+labels:
+- cloud optimization
+- cost reduction
+- devops
+company:
+  organization: ''
+  homepage: https://cast.ai
+  privacyPolicy: https://cast.ai/privacy-policy/
+  termsOfService: https://cast.ai/terms-of-service/
+  linkedin: https://www.linkedin.com/company/cast-ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- cast.ai prod environment

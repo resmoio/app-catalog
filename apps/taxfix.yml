@@ -1,0 +1,36 @@
+id: taxfix
+name: Taxfix
+description: Taxfix is an app designed to help users complete their taxes in a quick and simple manner.
+  On average, users have received a return of approximately 1,095. The app has earned over 50,000
+  positive reviews, confirming its effectiveness and user-friendly nature. With Taxfix, fulfilling tax
+  returns no longer needs to be a daunting task.
+category: account-and-finance
+labels:
+- tax filing
+- returns
+- germany
+company:
+  organization: ''
+  homepage: https://taxfix.de/
+  privacyPolicy: https://taxfix.de/datenschutzrichtlinie-fuer-nutzerforschung-bei-taxfix/
+  termsOfService: https://taxfix.de/datenschutzrichtlinie-fuer-nutzerforschung-bei-taxfix/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Taxfix

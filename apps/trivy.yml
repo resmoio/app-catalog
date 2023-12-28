@@ -1,0 +1,41 @@
+id: trivy
+name: Trivy
+description: Trivy is a vulnerability scanner specifically designed for containers, primarily used in
+  Continuous Integration (CI) processes. It identifies vulnerabilities in Operating System (OS) packages,
+  which include Debian, Ubuntu, and Alpine, along with application dependencies, to ensure the safety
+  of container images from known security risks. As an open-source tool, it offers a wide range of security
+  scanning capabilities, including Infrastructure as Code (IaC), Software Bill of Materials (SBOM) discovery,
+  and cloud scanning. It plays a crucial role in maintaining Kubernetes security.
+category: security
+labels:
+- container scanning
+- vulnerability assessment
+- registry
+company:
+  organization: Aqua
+  headquarters: US
+  founded: 2015
+  homepage: https://trivy.dev/
+  privacyPolicy: https://www.aquasec.com/privacy/
+  termsOfService: https://www.aquasec.com/terms-of-use/
+  securityPage: https://www.aquasec.com/trust/compliance/
+  linkedin: https://www.linkedin.com/company/aquasecteam/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

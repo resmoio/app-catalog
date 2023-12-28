@@ -1,0 +1,34 @@
+id: vidiq
+name: Vidiq
+description: Vidiq is an application designed to assist with development and management of YouTube audiences,
+  aimed largely at marketers. It offers users the means and information necessary to expand their viewer
+  base more rapidly on YouTube and other platforms. Vidiq's features focus on enhancing the number of
+  views and subscribers on the user's YouTube channel.
+category: business-intelligence
+labels: []
+company:
+  organization: Vidiq
+  headquarters: US
+  founded: 2012
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- vidiq.com
+oauthDisplayNames:
+- vidIQ

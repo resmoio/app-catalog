@@ -1,0 +1,34 @@
+id: languagetool
+name: LanguageTool
+description: LanguageTool is a tool built to check grammar and paraphrase text in English, Spanish, and
+  20 other languages. It helps users promptly detect and correct grammar and style errors in their writing.
+category: productivity
+labels:
+- grammar checker
+- proofreading
+- writing
+company:
+  organization: ''
+  homepage: https://languagetool.org/
+  privacyPolicy: https://languagetool.org/legal/privacy
+  termsOfService: https://languagetool.org/legal/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- LanguageTool

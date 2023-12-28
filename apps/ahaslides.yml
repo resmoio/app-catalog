@@ -1,0 +1,38 @@
+id: ahaslides
+name: AhaSlides
+description: AhaSlides is a software designed to enhance audience interaction during classroom lessons,
+  meetings, workshops, and other events. It contains features such as live polls, quizzes, real-time charts,
+  and word clouds to provide an interactive presentation experience. The program is straightforward to
+  use as it does not require installation or downloads.
+category: online-meetings
+labels: []
+company:
+  organization: AhaSlides
+  headquarters: SG
+  founded: 2019
+  homepage: https://ahaslides.com/
+  privacyPolicy: https://ahaslides.com/privacy/
+  termsOfService: https://ahaslides.com/terms/
+  securityPage: https://ahaslides.com/security/
+  linkedin: https://www.linkedin.com/company/ahaslides/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ahaslides.com
+oauthDisplayNames:
+- AhaSlides

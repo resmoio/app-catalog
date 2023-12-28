@@ -1,0 +1,40 @@
+id: elfster
+name: Elfster
+description: Elfster is a free, online platform that assists users in organizing gift exchanges for events
+  like office parties or gatherings with family and friends. With built-in Secret Santa generator and
+  Christmas list features, Elfster simplifies the task of party planning. Users can conveniently manage
+  their events online, and everyone involved can share their gift preferences, contributing to an enjoyable
+  and convenient gift-giving experience.
+category: social-media
+labels:
+- secret santa
+- gift exchange
+- organizer
+company:
+  organization: Elfster
+  headquarters: US
+  founded: 2003
+  homepage: https://www.elfster.com
+  privacyPolicy: https://www.elfster.com/privacy
+  termsOfService: https://www.elfster.com/tos
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- elfster.com
+oauthDisplayNames:
+- Elfster

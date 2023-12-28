@@ -1,0 +1,41 @@
+id: replit
+name: Replit
+description: Replit is an online platform for creating and running code. Users can write and execute programs
+  in over 50 different programming languages, directly from their browsers. This tool offers a collaborative
+  environment, which means users can work on coding projects together in real-time. The platform also
+  eases the steps of programming, testing, and resolving code issues. Replit incorporates artificial intelligence
+  to help users construct software on any device without requiring initial setup. This feature makes it
+  accessible and user-friendly, promoting effective and efficient coding practices.
+category: code-hosting
+labels: []
+company:
+  organization: Replit
+  headquarters: US
+  founded: 2016
+  homepage: https://replit.com/
+  privacyPolicy: https://repl.it/site/privacy
+  termsOfService: https://repl.it/site/terms
+  statusPage: https://status.replit.com/
+  securityPage: https://docs.replit.com/legal-and-security-info/security
+  linkedin: https://www.linkedin.com/company/repl-it/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- replit.com
+oauthDisplayNames:
+- Replit

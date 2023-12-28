@@ -1,0 +1,39 @@
+id: front
+name: Front
+description: Front is a digital platform designed to aid teams in their communication efforts, specifically
+  within customer operations. Its aim is to simplify the communication process, thus enabling teams to
+  provide superior customer service more efficiently. As an integral communication hub, Front encourages
+  the cultivation of robust customer relationships through various digital platforms.
+category: mail
+labels:
+- shared inbox
+- customer communication
+- automation
+company:
+  organization: Front
+  headquarters: US
+  founded: 2013
+  homepage: https://front.com/
+  privacyPolicy: https://front.com/privacy-policy
+  termsOfService: https://front.com/terms-of-service
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- front.com
+oauthDisplayNames:
+- Front

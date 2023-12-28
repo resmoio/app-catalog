@@ -1,0 +1,35 @@
+id: openai
+name: OpenAI
+description: OpenAI is a research organization that specializes in artificial intelligence (AI). Their
+  main objective is to further the development of AI technology while maintaining its safety and usefulness
+  to society. OpenAI has created various AI models, such as the GPT series, which can comprehend and produce
+  text in a manner akin to humans. These models can be utilised in diverse fields like natural language
+  processing and content creation. Moreover, OpenAI invests in research, participates in ethical discussions,
+  and collaborates on different projects to influence the progression of AI.
+category: generative-ai
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- tm.openai.com
+appDomains:
+- openai.com
+oauthDisplayNames: []

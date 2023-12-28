@@ -1,0 +1,38 @@
+id: contrast
+name: Contrast
+description: Contrast is a user-friendly application that provides a platform for people to host webinars
+  that can retain audience attention until the end. It prioritizes an interactive, playful, and authentic
+  approach to webinars. Initiating and participating in webinars through Contrast does not require software
+  downloads or credit card information. Hence, it is an accessible and notable choice for digital meetups
+  and online events.
+category: content-management
+labels:
+- video conferencing
+- webinars
+- meetings
+company:
+  organization: ''
+  homepage: https://getcontrast.io
+  privacyPolicy: https://intercom.help/getcontrast/en/articles/5650538-privacy-policy
+  termsOfService: https://help.getcontrast.io/en/articles/5563362-users-terms-of-use
+  linkedin: https://www.linkedin.com/company/getcontrast
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Contrast

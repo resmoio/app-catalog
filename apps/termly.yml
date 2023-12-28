@@ -1,0 +1,43 @@
+id: termly
+name: Termly.io
+description: Termly.io is a platform designed to support businesses in implementing and updating privacy
+  compliance and legal policies in line with their specific needs and legal requirements. This application
+  facilitates the efficient collection of user consent, adaptation to changing legal environments, and
+  the maintenance of user privacy. Tools available within Termly.io include privacy policy generators
+  and cookie consent management, all framed within a worldwide data privacy law context. This makes it
+  an integrated solution for handling complex data privacy regulations.
+category: security
+labels:
+- privacy policies
+- consent management
+- legal
+company:
+  organization: Termly Inc.
+  headquarters: US
+  founded: 2017
+  homepage: https://termly.io
+  privacyPolicy: https://termly.io/our-privacy-policy/
+  termsOfService: https://termly.io/our-terms-of-use/
+  securityPage: https://termly.io/privacy-center/compliance-security/
+  linkedin: https://www.linkedin.com/company/termly/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- termly.io
+oauthDisplayNames:
+- Termly.io

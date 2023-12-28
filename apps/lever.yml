@@ -1,0 +1,44 @@
+id: lever
+name: Lever
+description: Lever is a software suite designed to simplify the hiring process for businesses. It combines
+  a comprehensive Applicant Tracking System (ATS) with robust Customer Relationship Management (CRM) features
+  within a platform named LeverTRM. This system allows hiring teams to maintain a well-organized candidate
+  pool, establish genuine connections with potential hires, and source suitable candidates effectively.
+  Additionally, Lever Analytics provides powerful data visualization tools that facilitate well-informed
+  decision-making for both hiring managers and executives. All in all, Lever aims to make hiring more
+  efficient and strategic for all parties involved without using overly complex procedures or terminology.
+category: hr
+labels:
+- ats
+- recruiting
+- talent management
+company:
+  organization: Employ
+  headquarters: US
+  founded: 2003
+  homepage: https://www.lever.co/
+  privacyPolicy: https://www.employinc.com/privacy/
+  termsOfService: https://www.lever.co/agreements/tos/
+  statusPage: https://status.lever.co/
+  linkedin: https://www.linkedin.com/company/lever-/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lever.co
+oauthDisplayNames:
+- Lever

@@ -1,0 +1,43 @@
+id: bettercloud
+name: BetterCloud
+description: BetterCloud is a cloud-based software platform that oversees user interactions across different
+  SaaS applications. Its main purpose is to assist IT teams by offering capabilities such as data discovery,
+  workflow automation, and policy enforcement. It allows for a consolidated approach towards data protection
+  and improving operational efficiency. BetterCloud's SaaS Management Platform (SMP) assists IT professionals
+  in identifying, managing, and safeguarding SaaS applications within the digital workspace.
+category: productivity
+labels:
+- automation
+- google sheets
+- excel
+company:
+  organization: BetterCloud Inc.
+  headquarters: US
+  founded: 2011
+  homepage: https://www.bettercloud.com/
+  privacyPolicy: https://www.bettercloud.com/privacy-statement/
+  termsOfService: https://www.bettercloud.com/main-subscription-agreement/
+  statusPage: https://status.bettercloud.com/
+  securityPage: https://www.bettercloud.com/security-and-compliance/
+  linkedin: https://www.linkedin.com/company/bettercloud/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- bettercloud.com
+oauthDisplayNames:
+- BetterCloud

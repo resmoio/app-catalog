@@ -1,0 +1,51 @@
+id: aws
+name: Amazon Web Services
+description: Amazon Web Services, also known as AWS, is a cloud computing platform offered by Amazon.
+  It extends a comprehensive range of services such as computing power, storage, and databases to businesses
+  around the world. AWS allows developers and businesses to launch, administer, and expand applications,
+  eliminating the need for investing in any physical hardware. Essentially, AWS serves as an IT infrastructure
+  providing companies with various web services. Its main function is to facilitate the functioning of
+  cloud-based services.
+category: cloud
+labels:
+- cloud
+- servers
+- infrastructure
+company:
+  organization: Amazon
+  headquarters: US
+  founded: 1994
+  homepage: https://aws.amazon.com/
+  privacyPolicy: https://aws.amazon.com/privacy/?nc1=f_pr
+  termsOfService: https://aws.amazon.com/terms/?nc1=f_pr
+  statusPage: https://health.aws.amazon.com/health/status
+  securityPage: https://aws.amazon.com/compliance/
+  linkedin: https://www.linkedin.com/company/amazon-web-services/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+relatedDomains:
+- repost.aws
+- amazonaws.com
+- awsevents.com
+- signin.aws
+- marketplace.aws
+appDomains:
+- aws.amazon.com
+oauthDisplayNames:
+- AWS SSO
+- Amazon AWS

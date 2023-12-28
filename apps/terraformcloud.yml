@@ -1,0 +1,43 @@
+id: terraformcloud
+name: Terraform Cloud
+description: Terraform Cloud is a managed service offered by HashiCorp that facilitates teamwork and coding
+  for infrastructure. The app allows teams to build and manage cloud systems consistently, through shared
+  workspaces that include version controls and integrated workflows. As an infrastructure code tool, Terraform
+  Cloud can securely and reliably construct and maintain infrastructure across various cloud networks.
+category: cloud
+labels:
+- infrastructure automation
+- ci/cd
+- hashicorp
+company:
+  organization: HashiCorp
+  headquarters: US
+  founded: 2014
+  homepage: https://www.terraform.io/
+  privacyPolicy: https://www.hashicorp.com/privacy
+  termsOfService: https://www.hashicorp.com/terms-of-service
+  statusPage: https://status.hashicorp.com/
+  securityPage: https://www.terraform.io/security
+  linkedin: https://www.linkedin.com/products/hashicorp-terraform/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- hashicorp.com
+appDomains:
+- terraform.io
+oauthDisplayNames: []

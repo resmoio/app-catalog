@@ -1,0 +1,36 @@
+id: daybridge
+name: Daybridge
+description: Daybridge is a contemporary calendar and scheduling platform. It is created with the intention
+  of simplifying personal planning. In addition, it also aids team coordination, helping members stay
+  organised and synergised in their activities. Therefore, be it for an individual or a team, Daybridge
+  aims to make scheduling and planning a smooth and easy task.
+category: content-management
+labels:
+- calendar
+- scheduling
+- meetings
+company:
+  organization: ''
+  homepage: https://daybridge.com
+  privacyPolicy: https://daybridge.com/legal/privacy-policy
+  termsOfService: https://daybridge.com/legal/terms
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Daybridge

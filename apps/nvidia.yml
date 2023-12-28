@@ -1,0 +1,43 @@
+id: nvidia
+name: NVIDIA
+description: The NVIDIA app is a product of NVIDIA Corporation, an American technology company established
+  in 1993. NVIDIA's main focus is its Graphics Processing Unit (GPU) products which are used in diverse
+  fields, from video gaming to artificial intelligence research. It is a computing platform that intersects
+  graphics, high performance computing, and artificial intelligence. While predominantly recognized for
+  the creation of the world's fastest supercomputer, NVIDIA is also significant to the gaming world for
+  building an extensive gaming platform.
+category: others
+labels:
+- graphics cards
+- gpus
+- ai
+company:
+  organization: NVIDIA
+  headquarters: US
+  founded: 1993
+  homepage: https://www.nvidia.com/en-us/
+  privacyPolicy: https://www.nvidia.com/en-us/about-nvidia/privacy-policy/
+  termsOfService: https://www.nvidia.com/en-us/geforce-now/terms-of-use/
+  statusPage: https://status.ngc.nvidia.com/
+  linkedin: https://www.linkedin.com/company/nvidia/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- nvidia.com
+oauthDisplayNames:
+- NVIDIA

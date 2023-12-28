@@ -1,0 +1,40 @@
+id: kaleido-ai
+name: Kaleido AI
+description: Kaleido AI is a software that utilizes artificial intelligence to automatically remove backgrounds
+  from both images and videos. It's used by designers who can generate bulk designs, benefiting from the
+  software's easy integration plug-ins. The primary value the software provides is the simplification
+  of the creative process, as well as time and cost reduction. It's a useful tool particularly for computer-based
+  work involving frequent use of visual elements. Despite the company also offering other products and
+  hiring, this description primarily focuses on its AI-based image and video processing software.
+category: generative-ai
+labels:
+- background removal
+- photo editing
+- bulk editing
+company:
+  organization: Kaleido Al GmbH
+  headquarters: AU
+  homepage: https://www.kaleido.ai/
+  privacyPolicy: https://www.kaleido.ai/privacy
+  termsOfService: https://www.kaleido.ai/privacy
+  linkedin: https://www.linkedin.com/company/kaleido-ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Kaleido AI

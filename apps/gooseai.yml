@@ -1,0 +1,35 @@
+id: gooseai
+name: GooseAI
+description: GooseAI is a cost-effective solution that offers fully managed natural language processing
+  (NLP) services via an API. It operates similarly to OpenAI in structure, and is also fully compatible
+  with OpenAI's completion API. This makes it a reliable platform for those who seek a more affordable
+  alternative for their AI infrastructure.
+category: others
+labels:
+- nlp
+- summarization
+- translation
+company:
+  organization: GooseAI
+  homepage: https://goose.ai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- goose.ai
+oauthDisplayNames:
+- GooseAI

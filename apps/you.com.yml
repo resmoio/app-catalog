@@ -1,0 +1,34 @@
+id: you.com
+name: You.com
+description: You.com is a search engine that assists users in locating specific information on the internet.
+  Instead of presenting an overwhelming array of results, it focuses on displaying the most relevant
+  data. This means that a user's search is likely to yield precise and helpful content on this
+  platform.
+category: productivity
+labels: []
+company:
+  organization: You.com
+  headquarters: US
+  founded: 2020
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- you.com
+oauthDisplayNames:
+- you.com

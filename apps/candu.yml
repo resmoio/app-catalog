@@ -1,0 +1,42 @@
+id: candu
+name: Candu
+description: Candu is an interactive platform designed to aid software teams in creating and refining
+  their application's user interface. It furnishes a set of tools that simplify the process of crafting
+  custom user experiences. Additionally, Candu eliminates the need for coding knowledge, making it accessible
+  for any team member to create engaging experiences. This not only contributes to user satisfaction and
+  growth, but also allows engineers to concentrate their efforts on developing the product further. With
+  Candu, the UI design process becomes more intuitive and aligned with the users' needs.
+category: others
+labels:
+- ui/ux design
+- prototyping
+- ideation
+company:
+  organization: Candu
+  headquarters: US
+  founded: 2019
+  homepage: https://www.candu.ai/
+  privacyPolicy: https://www.candu.ai/privacy-policy
+  termsOfService: https://www.candu.ai/terms-of-use
+  securityPage: https://www.candu.ai/security
+  linkedin: https://www.linkedin.com/company/candu-labs/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Candu

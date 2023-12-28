@@ -1,0 +1,36 @@
+id: monica
+name: Monica
+description: Monica is an AI assistant that uses the ChatGPT API to assist with discussions on any topic.
+  This free app provides more than 80 templates to make copywriting simpler. Monica's capabilities extend
+  beyond composition, as it can embed text into any website. Additionally, she can be used to understand,
+  translate, and reword text selected from any web page.
+category: crm
+labels:
+- personal assistant
+- ai
+- chatgpt
+company:
+  organization: ''
+  homepage: https://monica.im
+  privacyPolicy: https://monica.im/privacy.html
+  termsOfService: https://monica.im/privacy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Monica

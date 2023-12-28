@@ -1,0 +1,40 @@
+id: skills-for-all
+name: Skills For All
+description: Skills for All is an online education platform focused on equipping people globally with
+  important abilities needed in the digital era. This platform provides various programs and resources
+  to enhance digital literacy, technology proficiency, and preparedness for diverse career paths. It offers
+  free online technology courses, backed by Cisco Networking Academy's experience, that connect learners
+  to potential career paths.
+category: education
+labels:
+- digital skills
+- career development
+- training
+company:
+  organization: ''
+  headquarters: US
+  founded: 1997
+  homepage: https://skillsforall.com
+  privacyPolicy: https://skillsforall.com/p/privacy.html
+  termsOfService: https://www.netacad.com/sites/default/files/netacad-terms-and-conditions-en.pdf
+  linkedin: https://www.linkedin.com/school/cisco-networking-academy1/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Skills For All

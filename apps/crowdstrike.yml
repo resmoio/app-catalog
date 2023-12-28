@@ -1,0 +1,40 @@
+id: crowdstrike
+name: Crowdstrike
+description: CrowdStrike is a company specializing in cybersecurity. Their main product, CrowdStrike Falcon,
+  applies artificial intelligence and machine learning to identify and address cyber threats as they occur.
+  The company's solutions, which are cloud-based, offer protection for various digital elements, including
+  endpoints, cloud workloads, identity information, and data.
+category: security
+labels:
+- endpoint security
+- edr
+- ransomware
+company:
+  organization: CrowdStrike
+  headquarters: US
+  founded: 2011
+  homepage: https://www.crowdstrike.com/
+  privacyPolicy: https://www.crowdstrike.com/privacy-notice/
+  termsOfService: https://www.crowdstrike.com/website-terms-of-use/
+  securityPage: https://www.crowdstrike.com/why-crowdstrike/crowdstrike-compliance-certification/
+  linkedin: https://www.linkedin.com/company/crowdstrike/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- crowdstrike.com
+oauthDisplayNames: []

@@ -1,0 +1,34 @@
+id: frase
+name: Frase
+description: Frase is an application designed to assist in market research through artificial intelligence.
+  It is particularly geared towards search engine optimization (SEO) and content creation, aiming to enhance
+  the visibility of your content on Google. The tool simplifies the process of producing content designed
+  to rank highly in internet search results.
+category: productivity
+labels: []
+company:
+  organization: Copysmith
+  headquarters: US
+  founded: 2020
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- frase.io
+oauthDisplayNames:
+- Frase

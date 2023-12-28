@@ -1,0 +1,45 @@
+id: logrocket
+name: LogRocket
+description: LogRocket is a service that assists developers in identifying and solving issues within front-end
+  applications. The platform allows a review of problematic user sessions in a manner similar to watching
+  a video. This functionality aids in pinpointing various issues and enhancing the user experience by
+  showing exactly where users encounter difficulties. LogRocket documents these user sessions along with
+  critical data about network requests and logs. By doing this, it can identify user experience problems
+  and highlight the roots of any software bugs. The primary focus of LogRocket is understanding and solving
+  the problems users face, assisting developers in enhancing their software.
+category: web-analytics
+labels:
+- session replay
+- debugging
+- analytics
+company:
+  organization: LogRocket
+  headquarters: US
+  founded: 2016
+  homepage: https://logrocket.com/
+  privacyPolicy: https://logrocket.com/privacy/
+  termsOfService: https://logrocket.com/terms-and-conditions/
+  statusPage: https://status.logrocket.com/
+  securityPage: https://docs.logrocket.com/docs/security
+  linkedin: https://www.linkedin.com/company/logrocket/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- app.logrocket.com
+oauthDisplayNames:
+- LogRocket

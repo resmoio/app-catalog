@@ -1,0 +1,45 @@
+id: asana
+name: Asana
+description: Asana is a tool for project management accessible via web and mobile platforms. Its primary
+  function is to aid teams in organizing, tracking, and managing their work. With a variety of tools such
+  as task assignment, deadline tracking, and project visualization, Asana promotes efficient workflows
+  and helps stay on top of tasks and projects. The application also allows for conversion of team conversations
+  into actionable tasks, making it easy for remote and distributed teams to focus on their respective
+  tasks and projects, irrespective of their location.
+category: project-management
+labels:
+- project management
+- tasks
+- collaboration
+company:
+  organization: Asana
+  headquarters: US
+  founded: 2008
+  homepage: https://asana.com/
+  privacyPolicy: https://asana.com/terms#privacy-statement
+  termsOfService: https://asana.com/terms#terms-of-service
+  statusPage: https://status.asana.com/
+  securityPage: https://asana.com/trust
+  linkedin: https://www.linkedin.com/company/asana/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- asana.com
+oauthDisplayNames:
+- Asana
+- Asana for Google Drive

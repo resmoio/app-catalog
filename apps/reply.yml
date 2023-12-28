@@ -1,0 +1,37 @@
+id: reply
+name: Reply
+description: Reply.io is an artificial intelligence-focused platform designed to aid sales development
+  teams. It assists in locating new potential customers, engages them across various platforms, and initiates
+  new business opportunities. This process remains personalized for each interaction. The platform also
+  offers functionalities for free business-to-business data and sales automation, enabling large-scale
+  operations without compromising on individual engagement quality.
+category: mail
+labels:
+- sales engagement
+- outreach
+- chat
+company:
+  organization: ''
+  homepage: https://reply.io
+  privacyPolicy: https://reply.io/privacy-policy/
+  termsOfService: https://reply.io/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Reply

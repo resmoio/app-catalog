@@ -1,0 +1,42 @@
+id: coursera
+name: Coursera
+description: Coursera is an accessible online learning platform that partners with worldwide universities
+  and organizations to offer an array of courses in differing disciplines such as technology, business,
+  arts, and more. The platform is beneficial for individuals looking to enhance their skills and expand
+  their knowledge in various fields at their own pace. It also offers opportunity for professionals to
+  move forward in their careers by learning from industry leaders such as Google, IBM, and Meta. In addition,
+  Coursera offers degree programs from prestigious universities like Michigan, Penn, and Imperial.
+category: education
+labels:
+- online courses
+- education
+- universities
+company:
+  organization: Coursera
+  headquarters: US
+  founded: 2012
+  homepage: https://www.coursera.org/
+  privacyPolicy: https://www.coursera.org/about/privacy
+  termsOfService: https://www.coursera.org/about/terms
+  linkedin: https://www.linkedin.com/company/coursera
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- coursera.org
+oauthDisplayNames:
+- Coursera

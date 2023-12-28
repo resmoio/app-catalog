@@ -1,0 +1,40 @@
+id: adobe-stock
+name: Adobe Stock
+description: Adobe Stock is a platform that allows users to access an enormous variety of royalty-free
+  media. Its library includes millions of items such as stock images, photos, graphics, vectors, video
+  footage, and illustrations. In addition, Adobe Stock provides templates, 3D assets, and editorial resources,
+  all of which are of high quality. Users are free to explore and utilize these resources without incurring
+  any immediate risk or commitment.
+category: productivity
+labels: []
+company:
+  organization: Adobe
+  headquarters: US
+  founded: 1982
+  homepage: https://stock.adobe.com/
+  statusPage: https://status.adobe.com/
+  privacyPolicy: https://www.adobe.com/privacy.html
+  termsOfService: https://www.adobe.com/legal/terms.html
+  securityPage: https://www.adobe.com/trust.html
+  linkedin: https://www.linkedin.com/company/adobe/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- stock.adobe.com
+oauthDisplayNames:
+- Adobe Stock

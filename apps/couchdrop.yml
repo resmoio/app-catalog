@@ -1,0 +1,40 @@
+id: couchdrop
+name: Couchdrop
+description: Couchdrop is a straightforward tool for both individuals and businesses that offers secure
+  and seamless file sharing and storage in the cloud. It prioritizes data security and provides an easy-to-use
+  platform which simplifies file organization and management. Couchdrop can be connected directly to existing
+  storage systems, and it also supports SFTP and Managed File Transfers. Therefore, Couchdrop can help
+  in ensuring a smooth and secure process of sending and receiving files.
+category: content-sharing
+labels:
+- file sharing
+- transfer
+- privacy
+company:
+  organization: Couchdrop Limited
+  founded: 2017
+  homepage: https://couchdrop.io
+  privacyPolicy: https://www.couchdrop.io/hubfs/privacy/latest/privacy_policy.pdf?hsLang=en
+  termsOfService: https://www.couchdrop.io/hubfs/privacy/latest/terms_of_service.pdf?hsLang=en
+  statusPage: https://couchdropstatus.statuspage.io/
+  linkedin: https://www.linkedin.com/company/couchdrop-sftp-mft/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Couchdrop

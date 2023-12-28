@@ -1,0 +1,33 @@
+id: internet-archive
+name: Internet Archive
+description: Internet Archive is an application that gathers and replays business-to-business transactions
+  for users. Its function simplifies and centralizes the process of tracking such interactions, allowing
+  for efficient record-keeping and review.
+category: content-management
+labels: []
+company:
+  organization: Internet Archive
+  headquarters: US
+  founded: 2000
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- archive.org
+oauthDisplayNames:
+- Internet Archive

@@ -1,0 +1,35 @@
+id: sweep
+name: Sweep
+description: Sweep is a software application designed to assist businesses in monitoring and managing
+  their environmental, social, and governance (ESG) factors along with their carbon emissions. The app
+  views carbon not as a constraint, but as a catalyst for innovation and beneficial development. It aims
+  to support all businesses in their pursuit of becoming a sustainable and long-lasting entity, also known
+  as a Forever Company. With its key offering, Sweep provides a pathway to commercial longevity by encouraging
+  responsible, forward-thinking practices.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: https://sweep.net
+  privacyPolicy: https://www.sweep.net/company/11-privacy-policy
+  termsOfService: https://www.sweep.net/company/11-privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Sweep

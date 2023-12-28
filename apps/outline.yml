@@ -1,0 +1,40 @@
+id: outline
+name: Outline
+description: Outline is a platform equipped with features of a knowledge base and wiki. It is specifically
+  designed to facilitate team collaboration and information sharing. This platform allows teams to compile
+  and access shared knowledge systematically, aiding in maintaining shared understanding and alignment.
+  Outline functions as a central hub where the teams can preserve internal documentation, product specifications,
+  resolutions for customer queries, meeting minutes, onboarding procedures, and other relevant information.
+category: productivity
+labels: []
+company:
+  organization: Outline
+  headquarters: US
+  founded: 2018
+  homepage: https://www.getoutline.com/
+  privacyPolicy: https://www.getoutline.com/privacy
+  termsOfService: https://www.getoutline.com/terms
+  statusPage: https://status.getoutline.com/
+  securityPage: https://docs.getoutline.com/s/guide/doc/security-DlJBglbImQ
+  linkedin: https://www.linkedin.com/company/general-outline/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- getoutline.com
+oauthDisplayNames:
+- Outline

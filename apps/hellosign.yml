@@ -1,0 +1,36 @@
+id: hellosign
+name: HelloSign
+description: HelloSign, now known as Dropbox Sign, is a digital workflow platform that offers several
+  useful capabilities, such as issuing electronic signatures, managing digital workflows, and sending
+  electronic faxes. Made to facilitate smoother and faster business transactions, HelloSign is currently
+  used by 80,000 customers and millions of people worldwide. This platform enables users to finalize deals
+  quicker, onboard new hires more simply, and handle documents with less errors. Note that it also provides
+  users with a convenient method for sending, receiving, and managing legally binding electric signatures.
+category: productivity
+labels: []
+company:
+  organization: Dropbox
+  headquarters: US
+  founded: 2007
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- hellosign.com
+oauthDisplayNames:
+- HelloSign

@@ -1,0 +1,40 @@
+id: clickcease
+name: ClickCease
+description: ClickCease is a software application designed to identify and prevent fraudulent clicks on
+  Google Ads campaigns. Its functionality helps to safeguard your pay-per-click (PPC) advertising budget
+  by automatically blocking perceived threats, which may include competitors or bots. In essence, ClickCease
+  serves as a protective barrier for your adverts, ensuring that your budget is spent on legitimate clicks,
+  not wasted on deceptive practices.
+category: advertising
+labels:
+- google ads
+- ppc
+- click fraud
+company:
+  organization: CHEQ
+  headquarters: IL
+  founded: 2016
+  homepage: https://www.clickcease.com
+  privacyPolicy: https://www.clickcease.com/privacy.html
+  termsOfService: https://www.clickcease.com/tos.html
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- clickcease.com
+oauthDisplayNames:
+- ClickCease

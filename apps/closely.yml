@@ -1,0 +1,38 @@
+id: closely
+name: Closely
+description: Closely is a sales engagement tool accessible via the cloud that aids businesses in handling
+  sales automation and obtaining lead details.  Its features offer users the ability to locate and engage
+  potential customers, then transform them into actual customers. This is made possible by automated outreach
+  efforts, LinkedIn networking, and the management of B2B emails. Closely can help users to manage their
+  sales pipeline, track productivity, and integrate with native CRM tools seamlessly. The application
+  is also efficient in configuring personalized campaigns.
+category: sales
+labels: []
+company:
+  organization: Esterson Limited
+  headquarters: Cyprus
+  founded: 2021
+  homepage: https://closelyhq.com/
+  privacyPolicy: https://closelyhq.com/pp/
+  termsOfService: https://closelyhq.com/terms/
+  linkedin: https://www.linkedin.com/company/closelyhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Closely

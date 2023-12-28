@@ -1,0 +1,44 @@
+id: cloudconvert
+name: CloudConvert
+description: CloudConvert is an online service that allows users to change and edit files in different
+  formats without difficulty. It can handle an assortment of document, image, video, and audio formats
+  and comes with added features such as batch processing and compatibility with various cloud storage
+  solutions. It also offers an option for API integration. It is used by people, companies, and app developers
+  globally for their file conversion requirements. It prioritizes security while making file conversion
+  straightforward.
+category: content-sharing
+labels:
+- file conversion
+- manipulation
+- api
+company:
+  organization: Lunaweb GmbH
+  headquarters: DE
+  founded: 2012
+  homepage: https://cloudconvert.com/
+  privacyPolicy: https://cloudconvert.com/privacy
+  termsOfService: https://cloudconvert.com/terms
+  statusPage: https://status.cloudconvert.com/
+  securityPage: https://cloudconvert.com/security
+  linkedin: https://za.linkedin.com/company/cloudconvert
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- cloudconvert.com
+oauthDisplayNames:
+- CloudConvert

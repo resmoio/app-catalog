@@ -1,0 +1,44 @@
+id: wave
+name: Wave
+description: Wave is a financial software application designed to facilitate numerous financial tasks
+  for small to micro-sized businesses. This application offers a wide range of tools, including features
+  for accounting, invoicing, payroll, payment processing, and receipt scanning. It also provides tools
+  for personal finance. Wave aims to boost a company's financial management and growth by streamlining
+  their finance-related tasks. This software does not require any payment for its basic services, while
+  its payroll and credit card processing services come with a fee.
+category: account-and-finance
+labels:
+- small business accounting
+- invoicing
+- payments
+company:
+  organization: Ameriprise Financial
+  headquarters: US
+  founded: 1894
+  homepage: https://www.waveapps.com
+  privacyPolicy: https://my.waveapps.com/privacy/
+  termsOfService: https://my.waveapps.com/terms/
+  statusPage: https://status.waveapps.com/
+  securityPage: https://www.waveapps.com/legal/security-and-privacy
+  linkedin: https://ca.linkedin.com/company/wave-hq
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- waveapps.com
+oauthDisplayNames:
+- Wave

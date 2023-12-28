@@ -1,0 +1,44 @@
+id: sanity
+name: Sanity
+description: Sanity is a content management system designed to streamline the delivery of digital content
+  across various sectors, including marketing, support, and e-commerce. It provides a platform for organizing
+  structured content, enabling teams to construct and manage digital experiences. It focuses on customization
+  and collaboration, allowing for the easy scaling of online content. Albeit its primary function is content
+  organization, its flexible nature allows it to transform content management into an advantage by enhancing
+  operational efficiency.
+category: content-management
+labels:
+- headless cms
+- content management
+- apis
+company:
+  organization: Sanity
+  headquarters: US
+  founded: 2018
+  homepage: https://www.sanity.io/
+  privacyPolicy: https://www.sanity.io/legal/privacy
+  termsOfService: https://www.sanity.io/legal/tos
+  statusPage: https://www.sanity-status.com/
+  securityPage: https://www.sanity.io/security
+  linkedin: https://www.linkedin.com/company/sanity-io/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- sanity.io
+oauthDisplayNames:
+- Sanity

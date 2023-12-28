@@ -1,0 +1,32 @@
+id: nextdns
+name: NextDNS
+description: NextDNS is a service that operates in the cloud, offering improved security and privacy for
+  web browsing by filtering the Domain Name System (DNS). It can prevent unwanted materials such as advertisements,
+  trackers, and harmful websites from loading by blocking them at the DNS level. The service can be put
+  to use across different devices resulting in a more secure and private web usage. Moreover, it provides
+  users with analytics and the ability to customize filter rules.
+category: security
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- nextdns.io
+oauthDisplayNames: []

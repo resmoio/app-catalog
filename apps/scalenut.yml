@@ -1,0 +1,37 @@
+id: scalenut
+name: Scalenut
+description: Scalenut is an application that assists users with managing their content. It facilitates
+  users in identifying keyword groups, creating content briefs, and enhancing their content to achieve
+  higher search rankings. Primarily, the application helps users in managing the whole life cycle of their
+  content. Its functionality is bolstered by incorporation of Artificial Intelligence, which aids in tasks
+  related to SEO and content marketing.
+category: others
+labels:
+- content planning
+- seo
+- copywriting
+company:
+  organization: ''
+  homepage: https://scalenut.com
+  privacyPolicy: https://www.scalenut.com/privacy-policy
+  termsOfService: https://www.scalenut.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Scalenut

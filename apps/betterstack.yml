@@ -1,0 +1,42 @@
+id: betterstack
+name: Better Stack
+description: Better Stack is a tool aimed to assist developers in improving the internet experience. It
+  offers meticulously designed monitoring tools that are simple yet efficient to use. The application
+  simplifies the development process, enabling the user to deliver dependable software more efficiently.
+  With Better Stack, users can examine the inner workings of any software stack, debug problems, and prevent
+  system downtime. It prioritises spotting, resolving, and preventing system unavailability.
+category: development-tools
+labels:
+- observability
+- monitoring
+- debugging
+company:
+  organization: Better Stack
+  headquarters: CZ
+  founded: 2021
+  homepage: https://betterstack.com/
+  privacyPolicy: https://betterstack.com/privacy
+  termsOfService: https://betterstack.com/terms
+  statusPage: https://betterstack.com/status-page
+  securityPage: https://betterstack.com/security
+  linkedin: https://www.linkedin.com/company/betterstack/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Better Stack

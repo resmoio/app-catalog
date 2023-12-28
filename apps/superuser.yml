@@ -1,0 +1,32 @@
+id: superuser
+name: Super User
+description: Super User is a segment of the Stack Exchange community, functioning as a question-and-answer
+  platform for those interested in computing. It provides a stage for users to raise queries and formulate
+  responses about topics like computer hardware, software, troubleshooting, and other technological aspects.
+  Through Super User, individuals can share their tech knowledge, seek help, and participate in conversations
+  about computing and technology.
+category: forums
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- superuser.com
+oauthDisplayNames: []

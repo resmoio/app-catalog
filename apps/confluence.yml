@@ -1,0 +1,40 @@
+id: confluence
+name: Confluence
+description: Confluence is a practical software designed by Atlassian, developed to streamline team collaboration.
+  It serves as a unified platform where teams can create, share, and actively work together on documents
+  and projects. Frequently used in a variety of contexts such as drafting technical documents, taking
+  meeting notes, project planning, and general knowledge-sharing, it promotes efficiency and cooperation
+  within teams. Notably, the software also offers integration with Jira, making it a useful tool for diverse
+  project management needs. With Confluence, remote collaboration becomes more organised and manageable.
+category: content-management
+labels: []
+company:
+  organization: Confluence
+  headquarters: US
+  founded: 2004
+  homepage: https://www.atlassian.com/software/confluence
+  privacyPolicy: https://www.atlassian.com/legal/privacy-policy
+  termsOfService: https://www.atlassian.com/legal/cloud-terms-of-service
+  statusPage: https://status.atlassian.com/
+  securityPage: https://www.atlassian.com/trust
+  linkedin: https://www.linkedin.com/showcase/confluence-by-atlassian/product/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- atlassian.net/wiki
+oauthDisplayNames: []

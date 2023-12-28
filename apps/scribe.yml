@@ -1,0 +1,43 @@
+id: scribe
+name: Scribe
+description: Scribe is a software application that creates step-by-step guides automatically. It uses
+  both recorded processes and screenshots to generate these guides, making it an efficient tool for creating
+  instructional materials. The app provides a method for users to easily create and share their work processes.
+  The produced guides include text, links, and screenshots, offering a comprehensive illustration of any
+  process. This feature of instant creation of visual guides saves a considerable amount of time which
+  otherwise would have been used in training and explaining tasks.
+category: productivity
+labels:
+- documentation
+- screenshots
+- tutorials
+company:
+  organization: Scribe
+  headquarters: US
+  founded: 2019
+  homepage: https://scribehow.com/
+  privacyPolicy: https://scribehow.com/legal/privacy
+  termsOfService: https://scribehow.com/legal/terms
+  securityPage: https://scribehow.com/security
+  linkedin: https://www.linkedin.com/company/scribehow/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- scribehow.com
+oauthDisplayNames:
+- Scribe

@@ -1,0 +1,41 @@
+id: localiq
+name: LOCALiQ
+description: LOCALiQ is a marketing platform that helps businesses improve their growth and presence within
+  their local markets. It provides various resources such as tools for managing online listings, improving
+  SEO, handling social media accounts, and creating content. By integrating all these features, LOCALiQ
+  aids businesses in optimizing their online presence. It focuses not just on attracting customers, but
+  also retaining them, thus providing a holistic approach to growth marketing.
+category: marketing
+labels:
+- local seo
+- listings
+- reviews
+company:
+  organization: Gannett Co Inc.
+  headquarters: US
+  founded: 2018
+  homepage: https://localiq.com/
+  privacyPolicy: https://localiq.com/legal/privacy-policy/?itm_source=localiq&itm_medium=footer
+  termsOfService: https://localiq.com/legal/online-marketing-services-terms/
+  securityPage: https://localiq.com/legal/security-policy/?itm_source=localiq&itm_medium=footer
+  linkedin: https://www.linkedin.com/company/localiq/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- LOCALiQ

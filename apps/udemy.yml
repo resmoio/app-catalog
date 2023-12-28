@@ -1,0 +1,42 @@
+id: udemy
+name: Udemy
+description: Udemy is an online learning platform that provides a wide selection of courses on a variety
+  of subjects like business, technology, the arts, and personal development. These courses, taught by
+  expert instructors, can be pursued at the students' convenience and from their homes. This provides
+  a flexible and self-paced learning environment. Udemy's primary goal is to assist individuals, companies,
+  and governments to acquire the necessary skills to achieve their objectives.
+category: education
+labels:
+- online courses
+- video tutorials
+- education
+company:
+  organization: Udemy
+  headquarters: US
+  founded: 2009
+  homepage: https://www.udemy.com/
+  privacyPolicy: https://www.udemy.com/terms/privacy/
+  termsOfService: https://www.udemy.com/terms/
+  statusPage: https://status.udemy.com/
+  linkedin: https://www.linkedin.com/company/udemy/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- udemy.com
+oauthDisplayNames:
+- Udemy

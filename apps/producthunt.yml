@@ -1,0 +1,38 @@
+id: producthunt
+name: Product Hunt
+description: Product Hunt is a web-based platform where users can discover and share new merchandise and
+  innovations that span various sectors, such as technology, gadgets, and applications. It offers a community-oriented
+  environment for inventors, developers, and enthusiasts to present their creations and garner responses
+  from a larger audience. Product Hunt features a daily collection of the most novel products, including
+  the latest mobile applications, websites, and technology products that have attracted extensive attention.
+category: business-intelligence
+labels: []
+company:
+  organization: Product Hunt
+  headquarters: US
+  founded: 2013
+  homepage: https://www.producthunt.com/
+  privacyPolicy: https://www.producthunt.com/legal#privacy
+  termsOfService: https://www.producthunt.com/legal#terms
+  linkedin: https://www.linkedin.com/company/producthunt/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- producthunt.com
+oauthDisplayNames:
+- Product Hunt

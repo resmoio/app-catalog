@@ -1,0 +1,34 @@
+id: mosyle-school
+name: Mosyle School
+description: Mosyle School is a tool designed for educational institutions to manage mobile devices effectively.
+  Specifically, it equips schools with the means to oversee and assign Apple devices like iPads and Macs.
+  Users can distribute apps and content, manage classrooms, monitor devices remotely, and implement security
+  measures. The aim of Mosyle School is to foster an enriched learning and teaching experience, while
+  ensuring a safe and constructive digital space for both students and educational staff.
+category: education
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- mosyle.com
+appDomains:
+- myschool.mosyle.com
+oauthDisplayNames: []

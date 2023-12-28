@@ -1,0 +1,41 @@
+id: podio
+name: Podio
+description: Podio is a business tool that offers customizable services to meet varying workflow requirements.
+  It provides the unique feature of allowing users to create their own apps aimed at enhancing their work
+  process and communication strategies. It is also characterized by its simple, user-friendly format,
+  relying on low-code approaches. This way, it aims to provide efficient solutions even for those who
+  do not have extensive technical knowledge. Podio starts with a basic free package, which users can opt
+  for before choosing to upgrade for more intricate features.
+category: project-management
+labels:
+- work management
+- collaboration
+- automation
+company:
+  organization: Citrix Systems
+  headquarters: US
+  founded: 1989
+  homepage: https://podio.com/
+  privacyPolicy: https://www.cloud.com/privacy-policy
+  termsOfService: https://www.cloud.com/terms-of-use
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: true
+appDomains:
+- podio.com
+oauthDisplayNames:
+- Podio

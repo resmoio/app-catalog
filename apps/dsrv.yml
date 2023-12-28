@@ -1,0 +1,35 @@
+id: dsrv
+name: DSRV Platform
+description: The DSRV Platform is a service that makes it simple to set up and control your personalized
+  node. The platform is designed to maximize user experience, focusing on the ease of initiating a node
+  and receiving an endpoint. This service enables users to effectively manage their node operations.
+category: others
+labels:
+- cloud hosting
+- kubernetes
+- serverless
+company:
+  organization: ''
+  homepage: https://app.dsrvlabs.com
+  privacyPolicy: https://app.dsrvlabs.com/membership/PrivacyPolicy.jsp
+  termsOfService: https://app.dsrvlabs.com/membership/PrivacyPolicy.jsp
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- DSRV Platform

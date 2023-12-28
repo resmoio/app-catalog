@@ -1,0 +1,54 @@
+id: atlassian
+name: Atlassian
+description: Atlassian is a company that designs tools mainly used by software developers and project
+  managers. They offer a range of different products. Jira, one of their main products, helps track projects
+  and their associated issues. Confluence is another tool that assists team collaboration and documentation
+  like a wiki. Trello is designed for visual project management, giving an intuitive perspective of project
+  progress. Overall, Atlassian's suite of applications facilitates teamwork, software development, and
+  problem tracking for teams.
+category: development-tools
+labels:
+- developer tools
+- jira
+- confluence
+company:
+  organization: Atlassian
+  headquarters: AU
+  founded: 2002
+  homepage: https://www.atlassian.com/
+  privacyPolicy: https://www.atlassian.com/legal/privacy-policy
+  termsOfService: https://www.atlassian.com/legal/cloud-terms-of-service
+  statusPage: https://status.atlassian.com/
+  securityPage: https://www.atlassian.com/trust
+  linkedin: https://www.linkedin.com/company/atlassian/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+relatedDomains:
+- am.atlassian.com
+- e.atlassian.com
+appDomains:
+- atlassian.com
+registrationEmails:
+- noreply@atlassian.com
+- no-reply@mail.notifications.atlassian.com
+oauthDisplayNames:
+- Atlassian
+- Atlassian Cloud
+- Confluence Cloud
+- Jira Cloud
+- Jira cloud

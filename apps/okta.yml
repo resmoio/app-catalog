@@ -1,0 +1,60 @@
+id: okta
+name: Okta
+description: Okta is a neutral and user-friendly platform that can function with you existing solutions,
+  offering flexibility in selecting the most suitable technology for both current and future use. This
+  platform enables the creation and management of access requests within your Okta organization. As part
+  of Okta's offerings, there are Workforce and Customer Identity Clouds which facilitate secure access,
+  authentication, and automation processes. This places identity security as a central component of business
+  growth and security.
+category: identity-and-access
+labels:
+- identity management
+- authentication
+- sso
+company:
+  organization: Okta
+  headquarters: US
+  founded: 2009
+  homepage: https://www.okta.com
+  privacyPolicy: https://support.okta.com/help/s/article/Customer-Data-Retention-Policy?language=en_US
+  termsOfService: https://www.okta.com/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- okta.com
+- okta-emea.com
+oauthDisplayNames:
+- Okta
+appRelations:
+  byName:
+    aws:
+    - amazon_aws_sso
+    - aws_console
+    azuread:
+    - active_directory
+    jira:
+    - jira-on-demand
+    zoom:
+    - zoomus
+    microsoft365:
+    - office365
+samlRelations:
+  aws:
+  - amazon_aws_sso
+  zoom:
+  - zoomus

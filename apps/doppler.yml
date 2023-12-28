@@ -1,0 +1,42 @@
+id: doppler
+name: Doppler
+description: Doppler is a platform designed for developers and security teams. It focuses on securely
+  synchronizing secrets and app configurations across various devices, environments, and team members,
+  retiring the use of .env files. Alongside, it integrates a feature, similar to Doodle's, for swiftly
+  scheduling meetings by setting up polls or using the Bookable Calendar. This eliminates the need for
+  long email threads and lets users easily choose their preferred dates and times. In essence, Doppler
+  aids in streamlining tasks, enhancing security, and promoting efficiency.
+category: development-tools
+labels:
+- ci/cd
+- gitOps
+- kubernetes
+company:
+  organization: Doppler
+  headquarters: US
+  founded: 2018
+  homepage: https://www.doppler.com/
+  privacyPolicy: https://www.doppler.com/legal/privacy
+  termsOfService: https://www.doppler.com/legal/terms
+  securityPage: https://trust.doppler.com/
+  linkedin: https://www.linkedin.com/company/dopplerhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Doppler

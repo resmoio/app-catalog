@@ -1,0 +1,35 @@
+id: inspectlet
+name: Inspectlet
+description: Inspectlet is a tool used for understanding visitor behavior on websites. It records sessions
+  to show website owner's how people navigate their sites, tracking movements, and clicks. With features
+  including heatmaps and conversion funnel analysis, it allows an analysis of user interactions to spot
+  areas that may need improvement. This assists in enhancing user experiences and website performance.
+  Overall, Inspectlet is useful for making informed decisions to improve online platforms based on actual
+  user activity.
+category: web-analytics
+labels: []
+company:
+  organization: Inspectlet
+  headquarters: US
+  founded: 2012
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- inspectlet.com
+oauthDisplayNames: []

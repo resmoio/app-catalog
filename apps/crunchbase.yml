@@ -1,0 +1,41 @@
+id: crunchbase
+name: Crunchbase
+description: Crunchbase is an information resource that houses important data on companies, investors,
+  and industry trends. This business database provides a comprehensive scope of information, from funding
+  specifics to key staff details and acquisition history, enabling users to make informed business decisions.
+  As a provider of live company data, Crunchbase is valuable for startups, investors, and business professionals
+  who require up-to-date insights and connectivity in their professional landscape.
+category: data-analytics
+labels:
+- business intelligence
+- startups
+- funding
+company:
+  organization: CrunchBase
+  headquarters: US
+  founded: 2007
+  homepage: https://www.crunchbase.com/
+  privacyPolicy: https://about.crunchbase.com/terms-of-service/privacy-policy/
+  termsOfService: https://about.crunchbase.com/terms-of-service/
+  linkedin: https://www.linkedin.com/company/crunchbase/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- crunchbase.com
+oauthDisplayNames:
+- Crunchbase

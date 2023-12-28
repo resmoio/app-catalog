@@ -1,0 +1,40 @@
+id: elementor
+name: Elementor
+description: Elementor is an open-source website building platform primarily made for WordPress. It is
+  beneficial for both professionals looking to expand their skills and businesses seeking to establish
+  an online presence. Available in both free and premium versions, this tool allows the creation of professional-level
+  websites with relative ease. It caters to a wide range of user needs, from those interested in crafting
+  personal sites to those developing business websites.
+category: design
+labels:
+- website builder
+- wordpress
+- page builder
+company:
+  organization: Elementor
+  headquarters: IL
+  founded: 2015
+  homepage: https://elementor.com
+  privacyPolicy: https://elementor.com/about/privacy/
+  termsOfService: https://elementor.com/terms/tos/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- elementor.com
+oauthDisplayNames:
+- Elementor

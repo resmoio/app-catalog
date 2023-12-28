@@ -1,0 +1,42 @@
+id: murf
+name: Murf
+description: Murf is a software application that uses artificial intelligence to create high-quality voiceovers.
+  The application removes the need for recording equipment, making it more accessible for users to generate
+  realistic voiceovers. Users can easily convert their written text into speech in a matter of minutes,
+  with over 120 different voice options available in 20 different languages. This feature makes the process
+  of creating a voiceover simpler and more efficient.
+category: others
+labels:
+- text to speech
+- voice cloning
+- audio
+company:
+  organization: Murf
+  headquarters: US
+  founded: 2020
+  homepage: https://murf.ai/
+  privacyPolicy: https://murf.ai/resources/privacy_policy/
+  termsOfService: https://murf.ai/resources/terms_of_service/
+  securityPage: https://murf.ai/security
+  linkedin: https://www.linkedin.com/company/murf-ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- murf.ai
+oauthDisplayNames:
+- Murf

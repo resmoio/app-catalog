@@ -1,0 +1,37 @@
+id: bannerbear
+name: Bannerbear
+description: Bannerbear provides an automated service for creating visual content, such as social media
+  graphics, online store banners, and podcast video clips. Using an application programming interface
+  (API), it enables teams to streamline the production of these visuals, which can be customized and scaled
+  according to their needs.
+category: design
+labels:
+- marketing
+- video
+- social media
+company:
+  organization: ''
+  homepage: https://bannerbear.com
+  privacyPolicy: https://bannerbear.com/privacy
+  termsOfService: https://bannerbear.com/terms
+  linkedin: https://www.linkedin.com/company/bannerbear
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Bannerbear

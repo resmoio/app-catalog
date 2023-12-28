@@ -1,0 +1,35 @@
+id: dock
+name: Dock
+description: Dock is a handy tool meant for streamlining the task of constructing, administrating, and
+  coordinating containers. It allows developers to bundle their applications and related components into
+  transportable containers, thus maintaining uniformity across various settings. Furthermore, Dock supports
+  effective application deployment, scaling, and version management, proving to be a crucial component
+  in contemporary software development procedures. It also facilitates organizations in creating, managing,
+  and showcasing digital credentials that can be verified instantly.
+category: development-tools
+labels: []
+company:
+  organization: Dock
+  headquarters: US
+  founded: 2017
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dock.io
+oauthDisplayNames: []

@@ -1,0 +1,40 @@
+id: instatext
+name: Instatext
+description: Instatext is a text-editing application that aims to improve the clarity and formality of
+  written content. It uses artificial intelligence technology to optimize style, vocabulary, grammar,
+  and overall readability, aiding in effective communication. While it is particularly beneficial for
+  people whose first language isn't English, it can help anyone seeking to enhance their written output.
+  The tool simplifies the process of fine-tuning your writing, delivering clear and polished text swiftly.
+category: marketing
+labels:
+- writing assistant
+- editing
+- clarity
+company:
+  organization: InstaText d.o.o.
+  headquarters: SL
+  founded: 2019
+  homepage: https://instatext.io
+  privacyPolicy: https://instatext.io/privacy-policy/
+  termsOfService: https://instatext.io/terms-and-conditions/
+  linkedin: https://www.linkedin.com/company/instatext/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Instatext

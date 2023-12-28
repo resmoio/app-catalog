@@ -1,0 +1,44 @@
+id: allo
+name: Allo.io
+description: Allo.io is an application that supports teamwork and project leadership. It gathers relevant
+  information from various apps, offering team leads an accessible view of projects, tasks, and employee
+  workloads. The visual dashboard simplifies project tracking, identifies potential roadblocks and opportunities,
+  and allows teams to keep up to date on project developments. This unified view can save time and improve
+  collaboration among team members. Additionally, Allo.io transforms long text conversations into visual
+  presentations without requiring any design skills. This tool helps teams efficiently meet their objectives
+  and deadlines.
+category: project-management
+labels:
+- productivity
+- meetings
+- management
+company:
+  organization: BeeCanvas Inc.
+  headquarters: US
+  founded: 2017
+  homepage: https://allo.io
+  privacyPolicy: https://allo.io/legal/en/privacy-policy
+  termsOfService: https://allo.io/legal/en/terms-of-service
+  securityPage: https://allo.io/security?from_path=%2F
+  linkedin: https://www.linkedin.com/company/allohq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- allo.io
+oauthDisplayNames:
+- Allo.io

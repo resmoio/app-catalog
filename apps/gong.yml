@@ -1,0 +1,37 @@
+id: gong
+name: Gong
+description: Gong is an application that records conversations with customers. It then
+  analyzes this information on a large scale and provides findings. This allows teams to make decisions
+  informed by factual data, rather than subjective opinions. The application specializes in data intelligence
+  to help improve revenue.
+category: sales
+labels:
+- revenue intelligence
+- insights
+- calls
+company:
+  organization: ''
+  homepage: https://www.gong.io
+  privacyPolicy: https://www.gong.io/privacy-policy/
+  termsOfService: https://www.gong.io/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- gong.io
+oauthDisplayNames:
+- Gong

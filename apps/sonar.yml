@@ -1,0 +1,41 @@
+id: sonar
+name: Access to Sonarsource Services
+description: SonarSource provides tools that help developers and their teams create clear and functioning
+  code more efficiently. These tools include open-source and commercial products such as SonarLint, SonarCloud,
+  and SonarQube. These resources support 30 different programming languages and are used by about 400,000
+  organizations globally. The key features of the app specifically aims to aid developers in writing clean
+  code and correct issues with existing code, which consequently results in better quality software.
+category: development-tools
+labels:
+- code quality
+- static analysis
+- linting
+company:
+  organization: SONARSOURCE SA
+  headquarters: CH
+  founded: 2008
+  homepage: https://www.sonarsource.com/
+  privacyPolicy: https://www.sonarsource.com/company/privacy/
+  termsOfService: https://www.sonarsource.com/docs/sonarsource_terms_and_conditions.pdf
+  securityPage: https://www.sonarsource.com/trust-center/
+  linkedin: https://www.linkedin.com/company/sonarsource/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Access to Sonarsource Services

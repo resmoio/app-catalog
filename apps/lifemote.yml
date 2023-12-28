@@ -1,0 +1,34 @@
+id: lifemote
+name: Lifemote
+description: Lifemote is a smart home management platform. It serves as a unified tool for users to operate
+  and keep an eye on diverse smart devices ranging from lights and cameras to thermostats in their homes.
+  With its intuitive interfaces and the potential to access the system remotely, Lifemote bolsters simplicity,
+  boosts energy-saving efforts and augments security for homeowners by transforming their dwelling into
+  a connected environment.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lifemote.com
+oauthDisplayNames:
+- Lifemote Authentication Service
+- Lifemote Tools

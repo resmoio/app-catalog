@@ -1,0 +1,36 @@
+id: tldr-this
+name: TLDR This
+description: TLDR This is a no-cost online tool that uses modern AI technology to shorten lengthy texts
+  such as articles, documents, essays, or papers. The application transforms these detailed materials
+  into brief, digestible summary paragraphs. This automated summarization feature allows users to efficiently
+  understand the key points of extensive texts without having to read through the entire content.
+category: productivity
+labels:
+- text summarizer
+- compression
+- paraphrasing
+company:
+  organization: ''
+  homepage: https://tldrthis.com
+  privacyPolicy: https://tldrthis.com/privacy
+  termsOfService: https://tldrthis.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TLDR This

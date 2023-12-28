@@ -1,0 +1,41 @@
+id: lovecrafts
+name: LoveCrafts
+description: LoveCrafts is an online platform that caters to craft enthusiasts. It links users with an
+  assortment of knitting, crochet, and other craft-related supplies. The platform emphasizes knowledge
+  sharing and the exchange of ideas, allowing users to discover new crafting patterns and methods. Users
+  also have the option to buy necessary materials and display their finished projects. This platform fosters
+  a supportive community for crafters of all levels to engage and learn together.
+category: e-commerce
+labels:
+- craft supplies
+- ecommerce
+- community
+company:
+  organization: LoveCrafts
+  headquarters: UK
+  founded: 2013
+  homepage: https://www.lovecrafts.com/
+  privacyPolicy: https://www.lovecrafts.com/en-gb/c/legal/privacy-policy
+  termsOfService: https://www.lovecrafts.com/en-gb/c/legal/terms-of-use
+  linkedin: https://www.linkedin.com/company/lovecrafts/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lovecrafts.com
+oauthDisplayNames:
+- LoveCrafts

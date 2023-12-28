@@ -1,0 +1,43 @@
+id: linktree
+name: Linktree
+description: Linktree is a simple tool designed to allow individuals and businesses to organize and share
+  multiple online links from a single, centralized landing page. The platform consolidates various web
+  destinations, including social media profiles, articles, and products, into an easily accessible hub.
+  Simplifying online presence and communication, it optimizes user engagement by presenting an organized
+  collection of links. Linktree stands out as a practical solution for managing online content and making
+  it easier to find. Essentially, it brings together scattered online content in one place - the user's
+  Linktree - thus promoting smooth discovery.
+category: marketing
+labels:
+- link sharing
+- branding
+- engagement
+company:
+  organization: Linktree
+  headquarters: AU
+  founded: 2016
+  homepage: https://linktr.ee/
+  privacyPolicy: https://linktr.ee/s/privacy
+  termsOfService: https://linktr.ee/s/terms
+  linkedin: https://www.linkedin.com/company/linktree/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- linktr.ee
+oauthDisplayNames:
+- Linktree

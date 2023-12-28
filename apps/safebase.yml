@@ -1,0 +1,42 @@
+id: safebase
+name: SafeBase
+description: SafeBase Trust Center is a tool that helps security and sales teams work together effortlessly.
+  It allows organizations to manage their crucial security, compliance, and privacy information in a proactive
+  way. The platform eliminates redundant questionnaires, making it easier for businesses to build trust
+  with customers and expedite the closing of deals. SafeBase also streamlines the process of scaling up
+  by automating access to important data.
+category: security
+labels:
+- security posture
+- trust center
+- partnerships
+company:
+  organization: SafaBase Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://safebase.io
+  privacyPolicy: https://safebase.io/privacy
+  termsOfService: https://safebase.io/terms-of-service
+  statusPage: https://status.safebase.io/
+  securityPage: https://security.safebase.io/
+  linkedin: https://www.linkedin.com/company/safebase/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- SafeBase

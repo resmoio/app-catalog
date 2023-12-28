@@ -1,0 +1,46 @@
+id: webex
+name: Cisco Webex
+description: Cisco Webex is a web conferencing service by the esteemed America-based company, Cisco. This
+  service equips businesses with resources for fluid communication and collaboration. With tools for remote
+  work, online meetings, and business operations, Webex aims to advocate for efficient business, regardless
+  of location. It also provides on-demand features for web conferencing and remote control of applications.
+  This trusted industry pioneer presents video conferencing, calling, and contact center solutions, making
+  it a solid choice for businesses, big or small, looking to accommodate the increasing demand for hybrid
+  work setups.
+category: online-meetings
+labels:
+- video conferencing
+- collaboration
+- web meetings
+company:
+  organization: Cisco
+  headquarters: US
+  founded: 1995
+  homepage: https://www.webex.com/
+  privacyPolicy: https://www.cisco.com/c/en/us/about/legal/privacy-full.html
+  termsOfService: https://www.cisco.com/c/en/us/about/legal/terms-conditions.html
+  statusPage: https://status.webex.com/commercial/status?lang=en_US
+  securityPage: https://www.cisco.com/c/en/us/about/trust-center.html
+  linkedin: https://www.linkedin.com/company/webex/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains:
+- webex.co.uk
+- webex.com
+oauthDisplayNames:
+- Cisco Webex

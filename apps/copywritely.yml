@@ -1,0 +1,37 @@
+id: copywritely
+name: Copywritely
+description: Copywritely is a text analysis tool that checks key aspects of content such as plagiarism,
+  redundancy, and keyword stuffing. It provides a detailed report on these parameters, which is particularly
+  useful for anyone creating online content. This includes online marketers and copywriters. Moreover,
+  entrepreneurs could find this tool beneficial for improving their SEO content optimization. This could
+  lead to their platforms achieving a higher ranking on Google and potentially an increase in sales.
+category: content-management
+labels:
+- content analysis
+- seo
+- plagiarism
+company:
+  organization: ''
+  homepage: https://copywritely.com/
+  privacyPolicy: https://copywritely.com/privacy-policy/
+  termsOfService: https://copywritely.com/terms-and-conditions/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Copywritely

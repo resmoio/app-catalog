@@ -1,0 +1,37 @@
+id: numerousai
+name: Numerous.ai
+description: Numerous.ai is an artificial intelligence-enabled plugin primarily designed to enhance the
+  functionality of Excel and Google Sheets. It enables the integration of ChatGPT, making it easier for
+  users to convey their spreadsheet-based computations and data management tasks via conversation-like
+  instructions. The underlying technology of Numerous.ai seeks to simplify the way users interact with
+  their spreadsheet software.
+category: others
+labels:
+- google sheets
+- excel
+- chatgpt
+company:
+  organization: ''
+  homepage: https://numerous.ai
+  privacyPolicy: https://numerous.ai/privacy.html
+  termsOfService: https://numerous.ai/privacy.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Numerous.ai

@@ -1,0 +1,101 @@
+id: opsgenie
+name: Opsgenie
+description: Opsgenie is a platform designed for facilitating the management of alerts and on-call duties.
+  Its primary function is to ensure effective incident resolution by streamlining the processes to receive,
+  escalate, and manage alerts. The platform acts as a centralized hub for monitoring and addressing incidents,
+  promoting swift coordination among team members. Consequently, it aids in reducing downtime and enhancing
+  collaboration. Its purpose is to make sure no critical alerts go unnoticed, prompting quick service
+  restoration, and ultimately dealing with the root causes. It is notably beneficial for managing services
+  that need to be operational continuously.
+category: monitoring
+labels:
+- alert management
+- on-call scheduling
+- devops
+company:
+  organization: Atlassian
+  headquarters: AU
+  founded: 2002
+  homepage: https://www.atlassian.com/software/opsgenie
+  privacyPolicy: https://www.atlassian.com/legal/privacy-policy
+  termsOfService: https://www.atlassian.com/legal/cloud-terms-of-service
+  statusPage: https://opsgenie.status.atlassian.com/
+  securityPage: https://www.atlassian.com/software/opsgenie/security
+  linkedin: https://www.linkedin.com/products/atlassian-opsgenie/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: true
+relatedDomains:
+- opsgenie.net
+appDomains:
+- app.opsgenie.com
+oauthDisplayNames:
+- Opsgenie
+appRelations:
+  byName:
+    aws:
+    - AmazonSns
+    - CloudWatch
+    - CloudWatchEvents
+    - AmazonSes
+    - AmazonCloudTrail
+    - DevOpsGuru
+    - AmazonEc2AutoScaling
+    - AmazonEventBridge
+    - AmazonRds
+    - AmazonRoute53HealthCheck
+    - AmazonSecurityHub
+    - AmazonSnsOutgoing
+    azure:
+    - AzureAutoScale
+    - AzureEventHubs
+    - AzureOMS
+    - AzureResourceHealth
+    - AzureServiceHealth
+    slack:
+    - SlackApp
+    splunk-rigor-monitoring:
+    - Rigor
+    splunk:
+    - SplunkITSI
+    newrelic:
+    - NewRelicV2
+    msteams:
+    - MSTeamsV2
+    mongo:
+    - MongoDBCloud
+    ringcentral:
+    - RingCentralEmail
+    - RingCentralGlip
+    jira-service-management:
+    - JiraServiceDesk
+    statuspage:
+    - StatusPageIO
+    salesforce:
+    - SalesForceServiceCloud
+    grafana:
+    - GrafanaV2
+    bamboohr:
+    - AtlassianBambooEmail
+    zendesk:
+    - ZendeskV2
+    solarwinds:
+    - VividCortex
+    - SolarwindsMSPNCentral
+    - SolarWindsWebHelpDesk
+    updown:
+    - UpdownIO

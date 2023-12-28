@@ -1,0 +1,41 @@
+id: dailyco
+name: Daily.co
+description: Daily.co is a software application that provides users with a platform to utilize video calls.
+  Users can create multiple rooms for different calls, and the application keeps a record of their call
+  and API logs. It also offers features for managing user plans and teams. The application is equipped
+  with a user-friendly dashboard that showcases all of these features, enhancing ease of access and overall
+  usability. Therefore, it serves as a comprehensive video calling tool that monitors usage and allows
+  for efficient call management.
+category: productivity
+labels:
+- video conferencing
+- meetings
+- webinars
+company:
+  organization: ''
+  homepage: https://www.daily.co/
+  privacyPolicy: https://www.daily.co/legal/privacy/
+  termsOfService: https://www.daily.co/legal/terms-of-service/
+  securityPage: https://www.daily.co/products/security-at-daily/
+  linkedin: https://www.linkedin.com/company/dailyco
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dashboard.daily.co
+oauthDisplayNames:
+- Daily.co

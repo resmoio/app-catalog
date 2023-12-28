@@ -1,0 +1,40 @@
+id: lottiefiles
+name: Lottie Files
+description: Lottie Files is a platform focused on Lottie animations - small, high-quality animations
+  generally used in mobile and web applications. It furnishes tools for designers to create, test, and
+  share their work. Additionally, it offers a collection of free and premium animations for download by
+  developers. The platform emphasizes ease of use, and supports the creation, editing, collaboration,
+  and fast distribution of Lottie animations.
+category: design
+labels:
+- lottie animation
+- after effects
+- design
+company:
+  organization: Lottie Files
+  headquarters: US
+  founded: 2018
+  homepage: https://lottiefiles.com/
+  privacyPolicy: https://lottiefiles.com/page/privacy-policy
+  termsOfService: https://lottiefiles.com/page/terms-and-conditions
+  linkedin: https://www.linkedin.com/company/lottiefiles/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Lottie Files

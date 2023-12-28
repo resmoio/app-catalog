@@ -1,0 +1,43 @@
+id: seeking-alpha
+name: Seeking Alpha
+description: Seeking Alpha is an online platform used by millions of investors around the world. It offers
+  a place for these individuals to come together, discuss, and exchange ideas about investing. The platform
+  presents up-to-date news, analysis, and a variety of subscription options to support informed investment
+  decisions. In addition to facilitating conversation and idea exchange, Seeking Alpha provides tools
+  to analyze stocks, earnings calls, and investment portfolios. As a hub for investment information and
+  analysis, the platform draws in roughly 17 million visitors each month.
+category: others
+labels:
+- investing news
+- analysis
+- research
+company:
+  organization: Seeking Alpha
+  headquarters: US
+  founded: 2004
+  homepage: https://seekingalpha.com
+  privacyPolicy: https://about.seekingalpha.com/privacy?source=footer
+  termsOfService: https://about.seekingalpha.com/terms?source=footer
+  statusPage: https://status.seekingalpha.com/
+  linkedin: https://www.linkedin.com/company/56547/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- seekingalpha.com
+oauthDisplayNames:
+- Seeking Alpha

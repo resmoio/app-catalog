@@ -1,0 +1,41 @@
+id: tandem
+name: Tandem
+description: Tandem is an application that facilitates easy communication among remote teams, attempting
+  to replicate the convenience of in-person interactions. It offers a clear view of teammate's availability
+  and current tasks, making it straightforward to initiate conversations. Essentially, it serves as a
+  virtual office, streamlining the process of spontaneous collaboration and interaction among team members.
+  In addition to this, Tandem provides features like screen-sharing and online co-working, enhancing teamwork
+  and fostering effective and efficient working habits.
+category: online-meetings
+labels:
+- virtual office
+- collaboration
+- communication
+company:
+  organization: Tandem
+  headquarters: US
+  founded: 2019
+  homepage: https://tandem.chat
+  privacyPolicy: https://tandem.chat/privacy
+  termsOfService: https://tandem.chat/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tandem.chat
+oauthDisplayNames:
+- Tandem

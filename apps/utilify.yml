@@ -1,0 +1,42 @@
+id: utilify
+name: Utilify
+description: Utilify is a web-based tool designed to foster and manage user communities by rewarding customer
+  loyalty. It utilizes blockchain technology, but its users don't need any coding skills to use it. This
+  makes Utilify accessible to a wide range of people- from tech-savvy users to those who might be interacting
+  with web technology for the first time. By integrating blockchain and a straightforward interface, Utilify
+  facilitates the creation and nurturing of online communities. Ultimately, it aims to capitalize on the
+  concept of an 'ownership economy', where users feel a greater sense of belonging and investment in their
+  communities.
+category: others
+labels:
+- web3
+- nfts
+- loyalty programs
+company:
+  organization: Niceberg. Inc.
+  headquarters: US
+  founded: 2022
+  homepage: https://utilify.xyz
+  privacyPolicy: https://utilify.xyz/privacy
+  termsOfService: https://utilify.xyz/terms
+  linkedin: https://www.linkedin.com/company/utilifyxyz/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Utilify

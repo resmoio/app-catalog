@@ -1,0 +1,37 @@
+id: bearlyai
+name: Bearly.ai
+description: \"Bearly.ai\" is a tool that assists with reading, writing, and learning processes by utilizing
+  artificial intelligence. It can be conveniently accessed through a hotkey on a desktop interface. This
+  software is compatible with numerous operating systems, including Mac, Windows, and Linux. By incorporating
+  the aid of world-leading AI technology, it aims to accelerate these tasks and make them more efficient.
+category: others
+labels:
+- productivity
+- reading
+- writing
+company:
+  organization: ''
+  homepage: https://bearly.ai
+  privacyPolicy: https://bearly.ai/privacy-policy
+  termsOfService: https://bearly.ai/terms-of-service
+  linkedin: https://www.linkedin.com/company/bearly-ai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Bearly.ai

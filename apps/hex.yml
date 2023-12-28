@@ -1,0 +1,40 @@
+id: hex
+name: Hex
+description: Hex Technologies offers a software platform designed to facilitate data science and analytics
+  tasks in a collaborative manner. It allows users to raise inquiries, analyze data, and share their results
+  seamlessly within a single platform. It features interactive data notebooks, data-focused applications,
+  artificial intelligence-assisted functions, and strong security measures, accommodating individuals
+  and businesses. Hex aims to simplify data handling and promote shared endeavors without unnecessary
+  complications.
+category: data-analytics
+labels: []
+company:
+  organization: ''
+  founded: 2019
+  homepage: https://hex.tech
+  privacyPolicy: https://learn.hex.tech/docs/security/privacy-policy
+  termsOfService: https://learn.hex.tech/docs/security/terms-and-conditions
+  statusPage: https://hex.statuspage.io./
+  securityPage: https://hex.tech/security/
+  linkedin: https://www.linkedin.com/company/hex-technologies/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- hex.pm
+oauthDisplayNames:
+- Hex

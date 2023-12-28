@@ -1,0 +1,40 @@
+id: omio
+name: Omio
+description: Omio is a travel application designed to streamline the process of scheduling travel across
+  multiple methods of transportation. This includes trains, buses, flights, and more, all accessible from
+  one central location. It offers up-to-the-minute details on prices and availability, allowing travelers
+  to select optimal options for their trips. Omio can be used for anything from local commuting plans
+  to global explorations, providing a user-friendly and effective approach to organizing travel plans.
+category: transportation-and-travel
+labels:
+- travel booking
+- transportation
+- aggregator
+company:
+  organization: GoEuro Corp.
+  headquarters: Denmark
+  founded: 2013
+  homepage: https://www.goeuro.com
+  privacyPolicy: https://www.omio.com/privacy-policy
+  termsOfService: https://www.omio.com/terms-of-use
+  linkedin: https://www.linkedin.com/company/omio/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Omio

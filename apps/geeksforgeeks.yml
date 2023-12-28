@@ -1,0 +1,38 @@
+id: geeksforgeeks
+name: GeeksforGeeks
+description: GeeksforGeeks is an online resource designed for those interested in computer science. The
+  site features extensive content, from explanatory articles and tutorials to practice problems. It widely
+  covers topics such as algorithms, data structures, and competitive programming. Users can also prepare
+  for company-specific interview questions. Its well-structured, comprehensible content makes it an apt
+  choice for both beginners and seasoned programmers seeking to build or refine their coding skills.
+category: education
+labels: []
+company:
+  organization: GeeksforGeeks
+  headquarters: IN
+  founded: 2009
+  homepage: https://www.geeksforgeeks.org/
+  privacyPolicy: https://www.geeksforgeeks.org/legal/privacy-policy/
+  termsOfService: https://www.geeksforgeeks.org/legal/terms-of-use/
+  linkedin: https://www.linkedin.com/company/geeksforgeeks/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- geeksforgeeks.org
+oauthDisplayNames:
+- GeeksforGeeks

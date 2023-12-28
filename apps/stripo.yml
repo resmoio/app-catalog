@@ -1,0 +1,36 @@
+id: stripo
+name: Stripo
+description: Stripo is a free email template builder that allows users to cultivate professional, responsive
+  emails with ease, even without HTML skills. It offers a drag-and-drop HTML email editor, simplifying
+  and accelerating the process of email creation. Stripo also provides features to automate email production,
+  saving the user's time and effort.
+category: marketing
+labels:
+- email templates
+- marketing
+- editor
+company:
+  organization: ''
+  homepage: https://stripo.email/
+  privacyPolicy: https://stripo.email/privacy-policy/
+  termsOfService: https://stripo.email/privacy-policy/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Stripo

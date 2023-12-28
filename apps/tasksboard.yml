@@ -1,0 +1,40 @@
+id: tasksboard
+name: TasksBoard
+description: TasksBoard is a task management platform that allows users to manage, edit, and work together
+  on tasks across multiple devices. Regardless of the operating system it Mac, Windows
+  or using a web browser, TasksBoard ensures a smooth task management experience. The platform also functions
+  as a desktop application for Google Tasks, facilitating task management directly from the desktop,
+  further enhancing accessibility and convenience.
+category: project-management
+labels:
+- task management
+- kanban
+- collaboration
+company:
+  organization: Qualtir LLC
+  headquarters: CH
+  founded: 2012
+  homepage: https://tasksboard.com/
+  privacyPolicy: https://tasksboard.com/privacy
+  termsOfService: https://tasksboard.com/terms
+  linkedin: https://www.linkedin.com/company/tasksboard/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- TasksBoard

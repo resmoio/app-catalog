@@ -1,0 +1,32 @@
+id: scalefusion
+name: Scalefusion
+description: Scalefusion is a centralized management tool intended for businesses to effectively organize,
+  secure, and manage a range of devices, endpoints, and applications. Users can arrange for the deployment
+  of devices, manage applications, distribute digital content, and implement security controls. With Scalefusion,
+  any business can simplify their device management process, boost the safety of their data, and consistently
+  meet compliance standards across various devices and platforms.
+category: security
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- scalefusion.com
+oauthDisplayNames: []

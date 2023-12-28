@@ -1,0 +1,42 @@
+id: microsoft365
+name: Microsoft 365
+description: Microsoft 365 is a collection of productivity and collaboration tools provided by Microsoft.
+  The suite includes widely used Microsoft Office applications, with offerings like Word, Excel, PowerPoint,
+  and Outlook. It also features other tools such as Teams, SharePoint, and OneDrive. All these applications
+  can be utilized on various devices through an internet connection. The key benefit of Microsoft 365
+  is the consolidation of creation, sharing, and collaborative functions within one spatial framework.
+  It aids users in accomplishing tasks efficiently without the need to jump between separate applications.
+category: identity-and-access
+labels:
+- office 365
+- collaboration
+- productivity
+company:
+  organization: Microsoft Corporation
+  headquarters: US
+  founded: 1975
+  homepage: https://www.office.com/
+  privacyPolicy: https://privacy.microsoft.com/en-us/privacystatement
+  termsOfService: https://www.microsoft.com/en-us/legal/terms-of-use
+  statusPage: https://admin.microsoft.com/servicestatus
+  securityPage: https://learn.microsoft.com/en-us/compliance/
+  linkedin: https://www.linkedin.com/company/microsoft/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: true
+appDomains: []
+oauthDisplayNames: []

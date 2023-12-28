@@ -1,0 +1,37 @@
+id: discord
+name: Discord
+description: Discord is a widely used communication platform especially popular amongst gamers. The platform
+  enables users to create or join servers where they can communicate through text, voice calls, or video
+  chats. The application has various features like customizable roles, options to share media, and also
+  integrates with different gaming platforms. From gaming sessions to study groups or online social get-togethers,
+  Discord offers a flexible and intuitive place for smooth communication. Regardless of the purpose, users
+  can effortlessly interact and engage with others who share their interests.
+category: chat
+labels: []
+company:
+  organization: Discord
+  headquarters: US
+  founded: 2015
+  homepage: https://discord.com/
+  privacyPolicy: https://discord.com/privacy
+  termsOfService: https://discord.com/terms
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- discord.com
+oauthDisplayNames: []

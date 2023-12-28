@@ -1,0 +1,41 @@
+id: meetup
+name: Meetup
+description: Meetup is a social networking app that helps people connect in group settings, either in-person
+  or virtually. It allows users to form groups and organize events based on common interests, pastimes,
+  or causes. This facilitates the interaction and collaboration between individuals who share similar
+  passions, either within their local areas or online. In essence, Meetup serves as a bridge, connecting
+  people within a plethora of cities, assisting them in engaging in the activities they enjoy.
+category: social-media
+labels:
+- events
+- community
+- networking
+company:
+  organization: AlleyCorp
+  headquarters: US
+  founded: 2007
+  homepage: https://help.meetup.com/hc/en-us
+  privacyPolicy: https://help.meetup.com/hc/en-us/articles/360044422391-Privacy-Policy
+  termsOfService: https://help.meetup.com/hc/en-us/articles/360027447252
+  linkedin: https://www.linkedin.com/company/meetup/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- meetup.com
+oauthDisplayNames:
+- Meetup

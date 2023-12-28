@@ -1,0 +1,39 @@
+id: boomerang-for-gmail
+name: Boomerang for Gmail
+description: Boomerang for Gmail is a software tool that enhances the features of your Gmail and Google
+  Workspace accounts. It incorporates the convenience of scheduled email sending and reminders within
+  the platform, allowing users to stay organized and focused. Its additional capabilities also include
+  meeting scheduling, which can help streamline professional responsibilities and personal obligations.
+  It's designed to integrate seamlessly into your email environment, making it easier than ever to keep
+  track of important tasks and appointments.
+category: productivity
+labels:
+- email
+- calendar
+- meetings
+company:
+  organization: ''
+  homepage: https://www.boomeranggmail.com
+  privacyPolicy: https://www.boomeranggmail.com/privacy.html
+  termsOfService: https://www.boomeranggmail.com/terms.html
+  linkedin: https://www.linkedin.com/company/baydin
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Boomerang for Gmail

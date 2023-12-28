@@ -1,0 +1,37 @@
+id: gartner
+name: Gartner
+description: Gartner is a respected worldwide organization that specializes in research and advisory
+  services. It primarily operates in the sectors of technology, business, and information technology.
+  Gartner's major contributions include detailed research reports and highly respected advisory services,
+  as well as Magic Quadrants universally recognized benchmarks of market direction and maturity.
+  The firm aids organizations in making informed choices, comprehending complex technological infrastructures,
+  and maintaining market competitiveness. Both businesses and IT professionals frequently turn to Gartner
+  for advice on industry trends and best practices. Gartner's services, based on substantiated research,
+  aid clients in optimizing IT to improve business performance.
+category: business-intelligence
+labels: []
+company:
+  organization: Gartner
+  headquarters: US
+  founded: 1979
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- gartner.com
+oauthDisplayNames: []

@@ -1,0 +1,43 @@
+id: hunter
+name: Hunter
+description: Hunter is a web-based tool designed to find and confirm professional email addresses associated
+  with specific domains and companies. It is especially beneficial for those in business, marketing, or
+  sales who need to generate leads, reach out to potential clients or network. This tool allows users
+  to swiftly identify relevant email addresses, enabling them to connect with vital contacts for their
+  operations. Hunter provides a means to establish meaningful professional connections, enhancing business
+  communication.
+category: sales
+labels:
+- email finder
+- lead gen
+- outreach
+company:
+  organization: Hunter
+  headquarters: US
+  founded: 2015
+  homepage: https://hunter.io/
+  privacyPolicy: https://hunter.io/privacy-policy
+  termsOfService: https://hunter.io/terms-of-service
+  securityPage: https://hunter.io/security-policy
+  linkedin: https://www.linkedin.com/company/hunterio/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- hunter.io
+oauthDisplayNames:
+- Hunter

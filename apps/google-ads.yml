@@ -1,0 +1,42 @@
+id: google-ads
+name: Google Ads
+description: Google Ads is a web-based advertising service developed by Google. It provides diverse advertising
+  avenues to businesses irrespective of their size. The service allows firms to create and manage ads
+  that are displayed on Google's search results, various websites, mobile applications, and videos. Google
+  Ads utilizes intricate targeting options and analytical tools, enabling companies to connect with their
+  preferred audience, enhance their brand awareness, and increase website traffic, ultimately optimizing
+  their return on online advertising investments.
+category: advertising
+labels:
+- advertising
+- adwords
+- marketing
+company:
+  organization: Google LLC
+  headquarters: US
+  founded: 2000
+  homepage: https://workspace.google.com/u/0/marketplace/app/google_ads/288999541255
+  privacyPolicy: https://policies.google.com/privacy?hl%5Cu003den%22
+  termsOfService: https://policies.google.com/terms?hl%5Cu003den%22
+  securityPage: https://cloud.google.com/security/compliance/offerings
+  linkedin: https://www.linkedin.com/company/google-ads-google-partner/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Google Ads

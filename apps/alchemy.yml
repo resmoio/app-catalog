@@ -1,0 +1,43 @@
+id: alchemy
+name: Alchemy
+description: Alchemy is a platform designed to give developers the resources they need to construct and
+  expand decentralized applications, often termed as dApps. It provides a user-friendly API and developer
+  tools, allowing developers to connect with varying blockchain networks and access necessary data. This
+  platform is useful for creating efficient dApps geared towards the developing decentralized web. Alchemy
+  also affords a comprehensive training, reinforcement, and compliance resolution aimed at ensuring manufacturing
+  staff have adequate knowledge and confidence to execute their roles effectively and efficiently. It
+  supports a range of audiences, from manufacturing workers to startup developers, and is particularly
+  beneficial for web3 development, offering steady infrastructure, enhanced APIs, and developer tools.
+category: others
+labels: []
+company:
+  organization: Alchemy Inc
+  headquarters: US
+  founded: 2017
+  homepage: https://www.alchemy.com/
+  privacyPolicy: https://www.alchemy.com/policies/privacy-policy
+  termsOfService: https://www.alchemy.com/policies/terms
+  statusPage: https://status.alchemy.com/
+  securityPage: https://www.alchemy.com/security
+  linkedin: https://www.linkedin.com/company/alchemyinc/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- alchemy.com
+oauthDisplayNames:
+- Alchemy

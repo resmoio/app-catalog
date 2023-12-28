@@ -1,0 +1,42 @@
+id: ganttpro
+name: GanttPRO
+description: GanttPRO is a web-based project management tool that uses Gantt charts. It aids teams in
+  planning, organizing, and overseeing projects by offering a visual overview of task progression, interdependence,
+  and due dates. GanttPRO facilitates the creation and scheduling of projects, providing a functional
+  and easy-to-understand interface for project management. The application does not require a lengthy
+  sign-up process and enables swift project creation and management.
+category: project-management
+labels:
+- project management
+- gantt charts
+- planning
+company:
+  organization: GanttPRO
+  headquarters: BY
+  founded: 2015
+  homepage: https://ganttpro.com/
+  privacyPolicy: https://ganttpro.com/privacy-policy-ganttpro/
+  termsOfService: https://ganttpro.com/terms-of-use-ganttpro/
+  securityPage: https://ganttpro.com/security-ganttpro/
+  linkedin: https://www.linkedin.com/company/ganttpro/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ganttpro.com
+oauthDisplayNames:
+- GanttPRO

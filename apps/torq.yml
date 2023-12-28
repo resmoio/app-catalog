@@ -1,0 +1,43 @@
+id: torq
+name: Torq
+description: Torq is a modern application designed to support the automation of security measures. It
+  is adaptable and able to work easily with pre-existing tools, ensuring a smooth scaling process as a
+  business grows and its needs change. This versatile platform doesn't need coding knowledge to operate,
+  making it accessible for both security and operations teams. It responds to security threats by activating
+  pre-set workflows. Unlike many apps in its category, Torq offers true scalability for large organizations
+  and operates at a speed that outpaces most Security Orchestration, Automation and Response (SOAR) tools.
+category: security
+labels:
+- security automation
+- workflows
+- devops
+company:
+  organization: Torq
+  headquarters: US
+  founded: 2020
+  homepage: https://torq.io
+  privacyPolicy: https://torq.io/privacy
+  termsOfService: https://torq.io/terms-conditions
+  statusPage: https://status.torq.io/
+  linkedin: https://www.linkedin.com/company/torqio/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- torq.io
+oauthDisplayNames:
+- Torq

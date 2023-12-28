@@ -1,0 +1,45 @@
+id: lastpass
+name: Lastpass
+description: LastPass is a service that manages and stores passwords securely in individual accounts using
+  encryption. It assists users in creating and maintaining safe passwords, and provides both a browser
+  extension and a mobile app to automatically populate passwords for websites and to coordinate passwords
+  across multiple devices. LastPass works with various web browsers including Firefox, Internet Explorer,
+  Opera, and Safari. It offers features like single-sign-on (SSO) and multi-factor authentication (MFA)
+  solutions, compatible with over 1,200 apps. Its primary function is to generate robust passwords and
+  keep them in a safe vault.
+category: identity-and-access
+labels:
+- password manager
+- security
+- encryption
+company:
+  organization: LastPass
+  headquarters: US
+  founded: 2008
+  homepage: https://www.lastpass.com/
+  privacyPolicy: https://www.lastpass.com/trust-center/privacy
+  termsOfService: https://www.lastpass.com/legal-center/terms-of-service/business
+  statusPage: https://status.lastpass.com/
+  securityPage: https://www.lastpass.com/trust-center
+  linkedin: https://www.linkedin.com/company/lastpass/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- lastpass.com
+oauthDisplayNames:
+- LastPass-App

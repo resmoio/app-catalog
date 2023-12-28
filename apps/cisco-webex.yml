@@ -1,0 +1,37 @@
+id: cisco-webex
+name: Webex by Cisco
+description: Cisco Webex is an all-in-one tool for digital collaboration. It provides services for conducting
+  online meetings, video conferences, team-based communications, and webinars. This platform supports
+  numerous functionalities like screen sharing, digital whiteboarding, and live chat to facilitate seamless
+  communication and collaboration. These functions make Cisco Webex an ideal tool for individuals and
+  teams who are required to cooperate on tasks, irrespective of their geographical locations.
+category: online-meetings
+labels: []
+company:
+  organization: Cisco
+  homepage: https://www.webex.com/
+  privacyPolicy: https://www.cisco.com/c/en/us/about/legal/privacy-full.html
+  termsOfService: https://www.cisco.com/c/en/us/about/legal/terms-conditions.html
+  linkedin: https://www.linkedin.com/company/webex
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- webex.com
+oauthDisplayNames:
+- Cisco Webex Meetings
+- Cisco Webex Social Login

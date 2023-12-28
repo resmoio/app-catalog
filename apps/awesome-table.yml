@@ -1,0 +1,39 @@
+id: awesome-table
+name: Awesome Table
+description: Awesome Table is an application that makes it easy for users to import data into Google Sheets
+  from multiple sources, including Hubspot, Zendesk, Stripe and others. What sets it apart is its ease
+  of use - users can then present this data on a website with just a few clicks. The entire process requires
+  no specialized technical expertise, making it accessible for individuals of all skill levels.
+category: productivity
+labels:
+- data
+- google sheets
+- publishing
+company:
+  organization: Axiom Sales Kinetics
+  headquarters: US
+  founded: 1990
+  homepage: https://awesome-table.com/
+  privacyPolicy: https://awesome-table.com/privacy-policy
+  termsOfService: https://awesome-table.com/privacy-policy
+  linkedin: https://be.linkedin.com/showcase/awesometable/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Awesome Table

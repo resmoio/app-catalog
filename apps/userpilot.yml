@@ -1,0 +1,34 @@
+id: userpilot
+name: Userpilot
+description: Userpilot is a platform designed to enhance user engagement and retention in various businesses.
+  Its offerings include interactive product tours, user onboarding processes, tooltips, and surveys. It
+  provides a guided experience through applications, introduces features, and collects feedback to improve
+  the user's experience. Overall, it benefits product teams by increasing user activation and the use
+  of features in their software.
+category: productivity
+labels: []
+company:
+  organization: Userpilot
+  headquarters: US
+  founded: 2018
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- userpilot.com
+oauthDisplayNames: []

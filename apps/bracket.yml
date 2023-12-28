@@ -1,0 +1,37 @@
+id: bracket
+name: Bracket
+description: Bracket is an application that facilitates data communication between several platforms and
+  databases such as Salesforce, Hubspot, Google Sheets, and Airtable among others. It enables users to
+  read and write data from these tools efficiently. Its key functionality involves two-way data synchronization,
+  simplifying the task of connecting different databases and platforms.
+category: others
+labels:
+- databases
+- api
+- google sheets
+company:
+  organization: ''
+  homepage: https://www.usebracket.com/
+  privacyPolicy: https://www.usebracket.com/privacy-policy
+  termsOfService: https://www.usebracket.com/terms-of-service
+  linkedin: https://www.linkedin.com/company/use-bracket
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Bracket

@@ -1,0 +1,41 @@
+id: chatpdf
+name: ChatPDF
+description: ChatPDF is a user-friendly interface that interacts with various PDF documents. This application
+  permits users to 'chat' or engage with a range of textual contents, such as books, research papers,
+  manuals, essays, and legal contracts, thereby making all these materials more accessible and easier
+  to navigate. This innovative tool does not require a sign-in, providing an effortless, no-obligation
+  way for users to interact with their chosen PDFs. The intelligence platform that ChatPDF operates on
+  builds upon the advancements of previous tools like ChatGPT.
+category: chat
+labels:
+- pdf
+- annotation
+- summarization
+company:
+  organization: ChatPDF
+  headquarters: DE
+  founded: 2023
+  homepage: https://www.chatpdf.com
+  privacyPolicy: https://www.chatpdf.com/privacy-policy.html
+  termsOfService: https://www.chatpdf.com/tos.html
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- chatpdf.com
+oauthDisplayNames:
+- ChatPDF

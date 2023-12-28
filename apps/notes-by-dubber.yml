@@ -1,0 +1,41 @@
+id: notes-by-dubber
+name: Notes by Dubber
+description: Notes by Dubber is a notetaking service designed to enhance productivity during meetings
+  on platforms such as Zoom. It uses artificial intelligence to automatically record, transcribe, and
+  summarize meetings, which can then be used to formulate meeting agendas. This allows meeting participants
+  to focus more on the discussions rather than note-taking. The application also generates transcripts
+  and identifies important action items, providing a useful summary of the meeting for reference.
+category: others
+labels:
+- video transcription
+- meeting notes
+- ai
+company:
+  organization: Dubber Corporation
+  headquarters: AU
+  founded: 2011
+  homepage: https://www.dubber.net/
+  privacyPolicy: https://www.dubber.net/notes/privacy-policy
+  termsOfService: https://www.dubber.net/notes/terms-and-conditions
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.notiv.com
+- dubber.zendesk.com
+oauthDisplayNames:
+- Notes by Dubber

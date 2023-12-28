@@ -1,0 +1,42 @@
+id: mentimeter
+name: Mentimeter
+description: Mentimeter is a platform designed to improve audience engagement during meetings, conferences,
+  and training sessions. This versatile tool is capable of collecting input and visualizing data in real-time,
+  making these sessions more productive and effective. Mentimeter offers various features, such as Word
+  Clouds, Polls, and Quizzes, that help users garner valuable feedback from participants. Interactive
+  elements like these allow audiences to contribute in real time, making their experiences more engaging.
+  The platform does not require any installs or downloads and can be used for free.
+category: marketing
+labels:
+- audience engagement
+- presentations
+- polling
+company:
+  organization: Mentimeter
+  headquarters: SE
+  founded: 2014
+  homepage: https://www.mentimeter.com/
+  privacyPolicy: https://www.mentimeter.com/privacy
+  termsOfService: https://www.mentimeter.com/terms
+  linkedin: https://www.linkedin.com/company/mentimeter/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mentimeter.com
+oauthDisplayNames:
+- Mentimeter

@@ -1,0 +1,36 @@
+id: spiky
+name: Spiky
+description: Spiky is an application that utilizes artificial intelligence to assess customer calls, aiding
+  in the process of onboarding and providing ongoing guidance. It helps revenue teams by offering conversation
+  analysis. It does this by unlocking valuable insights derived from AI, which can facilitate business
+  growth. The app is designed to streamline workflows and provide useful, data-driven information.
+category: others
+labels:
+- call analytics
+- conversational intelligence
+- sales
+company:
+  organization: ''
+  homepage: https://spiky.ai/
+  privacyPolicy: https://spiky.ai/privacy-policy
+  termsOfService: https://spiky.ai/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Spiky

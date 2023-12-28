@@ -1,0 +1,44 @@
+id: descript
+name: Descript
+description: Descript is a tool designed to simplify the editing of audio and video files. It converts
+  multimedia content into transcribed text, allowing users to make changes directly in the transcription.
+  It is geared towards content creators and offers features like voice cloning and seamless editing. The
+  application is ideal for both simple and complex projects, using artificial intelligence to streamline
+  the process and make editing less challenging. While it's a powerful tool, its aim is to make content
+  creation more approachable and accessible to all.
+category: content-management
+labels:
+- audio editing
+- transcription
+- assistant
+company:
+  organization: Descript
+  headquarters: US
+  founded: 2017
+  homepage: https://www.descript.com/
+  privacyPolicy: https://www.descript.com/privacy
+  termsOfService: https://www.descript.com/terms
+  statusPage: https://status.descript.com/
+  securityPage: https://www.descript.com/security
+  linkedin: https://www.linkedin.com/company/descript/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- descript.com
+oauthDisplayNames:
+- Descript

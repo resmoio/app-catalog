@@ -1,0 +1,41 @@
+id: disco
+name: Disco
+description: Disco is a user-friendly community platform designed to enhance the employee learning experience.
+  It incorporates artificial intelligence to streamline the onboarding process for new team members and
+  provide valuable insights for management. Additionally, it functions as an HR tool that fosters company
+  culture through the recognition and promotion of employee achievements. This platform brings together
+  various tools to bolster employee performance, professional growth, and staff engagement. Thus, Disco
+  serves as a comprehensive solution for improving the overall employee experience.
+category: hr
+labels:
+- community
+- engagement
+- education
+company:
+  organization: Discotheque
+  headquarters: US
+  founded: 2014
+  homepage: https://www.justdisco.com
+  privacyPolicy: https://www.justdisco.com/privacy
+  termsOfService: https://www.justdisco.com/terms
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- values.justdisco.com
+oauthDisplayNames:
+- Disco

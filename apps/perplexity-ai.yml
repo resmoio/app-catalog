@@ -1,0 +1,42 @@
+id: perplexity-ai
+name: Perplexity AI
+description: Perplexity AI is a tool designed to function like a research assistant, supplying answers
+  from current sources in an effort to satiate users' need for information. It uses advanced artificial
+  intelligence to drive conversation, acting as a search engine that responds to inquiries with language-model
+  responses. Perplexity AI fosters an exchange of knowledge amongst a variety of user groups by providing
+  search solutions. It integrates a chat-based function, allowing it to answer questions in a more intuitive
+  and engaging manner.
+category: others
+labels:
+- research assistant
+- ai
+- knowledge engine
+company:
+  organization: Perplexity AI
+  headquarters: US
+  founded: 2022
+  homepage: https://www.perplexity.ai
+  privacyPolicy: https://www.perplexity.ai/privacy
+  termsOfService: https://www.perplexity.ai/tos
+  linkedin: https://www.linkedin.com/company/perplexity-ai/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- perplexity.ai
+oauthDisplayNames:
+- Perplexity AI

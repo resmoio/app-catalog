@@ -1,0 +1,40 @@
+id: ga4migratorforgoogle
+name: GA4 Migrator for Google Analytics™
+description: The GA4 Migrator for Google Analytics is a tool that helps users move from the older Universal
+  Analytics to the new GA4 platform easily. It offers automated features and guidelines to make sure that
+  data remains consistent and precise during the transition.
+category: web-analytics
+labels:
+- google analytics
+- migration
+- universal analytics
+company:
+  organization: Google
+  headquarters: US
+  founded: 2020
+  homepage: https://workspace.google.com/marketplace/app/ga4_migrator_for_google_analytics/472716783070
+  privacyPolicy: https://policies.google.com/privacy
+  termsOfService: https://developers.google.com/terms/site-terms
+  statusPage: https://www.google.com/appsstatus/dashboard/
+  securityPage: https://safety.google/security-privacy/
+  linkedin: https://www.linkedin.com/company/google/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains: []
+oauthDisplayNames:
+- GA4 Migrator for Google Analytics™

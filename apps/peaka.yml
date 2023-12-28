@@ -1,0 +1,31 @@
+id: peaka
+name: Peaka
+description: Peaka is an application that simplifies the process of creating web applications. It stands
+  out due to its user-friendly interface which eliminates the need for any coding knowledge. This means
+  that individuals can make their own web apps even if they don't have a background in computer programming.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- peaka.studio
+oauthDisplayNames:
+- Peaka

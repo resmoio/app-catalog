@@ -1,0 +1,38 @@
+id: alltrails
+name: AllTrails
+description: AllTrails is an app and website that gives users access to thorough data on different trails
+  worldwide. Aimed at outdoor lovers, it accommodates activities such as hiking, biking, and running.
+  The platform is designed to assist users in discovering and organizing their own outdoor ventures. It
+  includes over 400,000 trail maps, reviews, photographs, and user-created content. This content can act
+  as a source of inspiration for hikers, campers, and nature fans, offering them valuable information
+  about different trails through the experiences of others.
+category: transportation-and-travel
+labels: []
+company:
+  organization: AllTrails
+  headquarters: US
+  founded: 2010
+  homepage: https://www.alltrails.com/
+  privacyPolicy: https://www.alltrails.com/privacy
+  termsOfService: https://www.alltrails.com/terms
+  linkedin: https://www.linkedin.com/company/alltrails/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- AllTrails

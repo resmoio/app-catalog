@@ -1,0 +1,33 @@
+id: setmore-appointments
+name: Setmore Appointments
+description: Setmore Appointments is a software application that allows users to schedule appointments
+  online at any time of the day. This software eliminates the hassle of manual scheduling and reminder
+  setting, as it automates these processes. Setmore is available for free and is designed to make appointment
+  management easier, more efficient, and more reliable.
+category: productivity
+labels: []
+company:
+  organization: ''
+  homepage: https://www.setmore.com/
+  privacyPolicy: https://www.setmore.com/#privacy-policy
+  termsOfService: https://www.setmore.com/#privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Setmore Appointments

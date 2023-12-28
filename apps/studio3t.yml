@@ -1,0 +1,37 @@
+id: studio3t
+name: Studio 3T License Manager
+description: Studio 3T License Manager is a user-friendly interface for MongoDB, designed to help developers
+  manage their databases more effectively. It includes a variety of features such as a visual query builder
+  and capability for SQL querying specific to MongoDB. It also comes with options for data importation
+  and exportation. This application aims to streamline and improve database workflows by removing unnecessary
+  complexities.
+category: development-tools
+labels: []
+company:
+  organization: Studio 3T License Manager
+  headquarters: DE
+  founded: 2013
+  homepage: https://license.studio3t.com/
+  privacyPolicy: https://studio3t.com/privacy-policy
+  termsOfService: https://studio3t.com/legal/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- s3t-auth.studio3t.com
+oauthDisplayNames:
+- Studio 3T License Manager

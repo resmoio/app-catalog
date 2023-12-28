@@ -1,0 +1,45 @@
+id: customerio
+name: Customer.io
+description: Customer.io serves as a platform for businesses to connect with their customers in a personalized
+  manner. With a convenient layout, businesses can direct emails, messages, and notifications, guided
+  by the specific customer's behaviors, likes, and interactions. It offers an automated system, assisting
+  businesses in connecting with users during various points in the customers' journey. By examining user
+  data and evolving content, businesses can reinforce significant interactions, enhance customer loyalty,
+  and foster growth. Customer.io is an automated messaging method primarily designed for marketers who
+  require more control and flexibility in deploying data-driven emails, notifications, and SMS messages.
+category: customer-support
+labels:
+- marketing automation
+- email
+- push notifications
+company:
+  organization: Customer.io
+  headquarters: US
+  founded: 2012
+  homepage: https://customer.io
+  privacyPolicy: https://customer.io/legal/privacy-policy/
+  termsOfService: https://customer.io/legal/terms-of-service/
+  statusPage: https://status.customerio.com/
+  securityPage: https://customer.io/security/
+  linkedin: https://www.linkedin.com/company/customer-io/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- customer.io
+oauthDisplayNames:
+- Customer.io

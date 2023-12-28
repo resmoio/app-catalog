@@ -1,0 +1,42 @@
+id: onecause
+name: OneCause Peer to Peer
+description: OneCause Peer to Peer is an online tool designed to meet the needs of nonprofit organizations.
+  It allows these organizations to handle various fundraising activities through cloud-based auction management
+  systems. Key operations like online auctions, mobile bidding, ticketing, and payments can be managed
+  effectively. This software also encourages engagement with donors, making the fundraising process more
+  interactive and efficient. This tool also supports peer-to-peer fundraising, broadening an organization's
+  pool of potential donors. OneCause Peer to Peer simplifies complex fundraising tasks for nonprofits,
+  making their efforts more productive and streamlined.
+category: others
+labels:
+- fundraising
+- auctions
+- events
+company:
+  organization: OneCause Inc.
+  headquarters: US
+  founded: 2007
+  homepage: https://www.onecause.com
+  privacyPolicy: https://www.onecause.com/general/security-privacy-policy/
+  termsOfService: https://www.onecause.com/general/user-terms/
+  linkedin: https://www.linkedin.com/company/onecause/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- OneCause Peer to Peer

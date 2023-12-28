@@ -1,0 +1,46 @@
+id: hubspot
+name: HubSpot
+description: HubSpot is a comprehensive digital platform designed to support business growth and customer
+  relationship management. It offers a variety of tools across different sectors, including marketing,
+  sales, service, and operational assistance. The platform is cloud-based and primarily focuses on inbound
+  marketing strategies. With features such as marketing automation, Customer Relationship Management (CRM),
+  content management, and analytics, HubSpot provides resources needed for businesses to engage customers
+  effectively and manage their online presence strategically. Its broad range of tools also includes website-building
+  capability to meet diverse business requirements.
+category: crm
+labels:
+- marketing automation
+- crm
+- analytics
+company:
+  organization: HubSpot
+  headquarters: US
+  founded: 2006
+  homepage: https://www.hubspot.com/
+  privacyPolicy: https://legal.hubspot.com/privacy-policy
+  termsOfService: https://legal.hubspot.com/terms-of-service
+  statusPage: https://status.hubspot.com/
+  securityPage: https://legal.hubspot.com/security
+  linkedin: https://www.linkedin.com/company/hubspot/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- hubspot.com
+oauthDisplayNames:
+- HubSpot
+- HubSpot Sales

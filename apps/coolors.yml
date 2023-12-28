@@ -1,0 +1,39 @@
+id: coolors
+name: Coolors
+description: Coolors is a color palette generation tool that simplifies the process of creating engaging
+  color combinations. It's suitable for designers, artists, and those interested in colors. Users can
+  easily explore, modify, and test a wide range of color spectrums through its intuitive platform. Rather
+  than generating or browsing through color combinations, users can design their own palettes efficiently
+  and quickly.
+category: design
+labels:
+- color palettes
+- design
+- inspiration
+company:
+  organization: coolors s.r.l.
+  headquarters: Italy
+  homepage: https://coolors.co
+  privacyPolicy: https://coolors.co/privacy-policy
+  termsOfService: https://coolors.co/terms-of-service
+  linkedin: https://www.linkedin.com/company/coolors/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Coolors

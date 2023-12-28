@@ -1,0 +1,41 @@
+id: axiom
+name: Axiom
+description: Axiom is a serverless log management tool designed to streamline the collection and examination
+  of data for businesses of all sizes. It offers features tailored for managing vast amounts of data without
+  the need for dedicated server infrastructure. Additionally, Axiom includes tools geared towards improving
+  sales coaching and methods, supporting both large corporations and small to medium-sized enterprises
+  in enhancing their sales processes.
+category: data-analytics
+labels:
+- logs
+- monitoring
+- troubleshooting
+company:
+  organization: Axiom Sales Kinetics
+  headquarters: US
+  founded: 1990
+  homepage: https://axiom.co/
+  privacyPolicy: https://axiom.ai/privacy-policy
+  termsOfService: https://axiom.ai/privacy-policy
+  linkedin: https://uk.linkedin.com/company/axiom-ai
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- axiom.co
+oauthDisplayNames:
+- Axiom

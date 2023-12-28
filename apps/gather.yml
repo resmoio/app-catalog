@@ -1,0 +1,43 @@
+id: gather
+name: Gather
+description: Gather is an online tool designed for virtual interaction. It allows users to create and
+  enter digital environments, using avatars to interact with others. The platform simulates physical meetings,
+  making it a useful tool for virtual events, collaborative workspaces, meetups, and conferences. It combines
+  the functionality of video calling with a 2D interface that resembles a map. This setup aims to make
+  virtual interactions more similar to actual human contact.
+category: online-meetings
+labels:
+- virtual events
+- workspace
+- collaboration
+company:
+  organization: Gather
+  headquarters: US
+  founded: 2020
+  homepage: https://www.gather.town/
+  privacyPolicy: https://www.gather.town/privacy-policy
+  termsOfService: https://www.gather.town/terms-of-service
+  statusPage: https://status.gather.town/
+  securityPage: https://www.gather.town/security
+  linkedin: https://www.linkedin.com/company/gathertown/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- gather.town
+oauthDisplayNames:
+- Gather

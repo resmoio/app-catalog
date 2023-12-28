@@ -1,0 +1,41 @@
+id: anthropic
+name: Anthropic
+description: Anthropic is a company based in San Francisco that specializes in artificial intelligence
+  (AI) research, prioritizing safety. The company employs a diverse team with expertise in machine learning,
+  physics, policy, and product development. Their main product, Claude, is an AI assistant created to
+  handle a variety of tasks. Anthropic's research encompasses natural language processing, human feedback
+  response, scaling laws, reinforcement learning, code generation, and making AI systems more understandable.
+category: others
+labels:
+- ai
+- research
+- chatbots
+company:
+  organization: Anthropic, PBC
+  headquarters: US
+  founded: 2021
+  homepage: https://www.anthropic.com/
+  privacyPolicy: https://console.anthropic.com/legal/privacy
+  termsOfService: https://console.anthropic.com/legal/terms
+  linkedin: https://www.linkedin.com/company/anthropicresearch/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- claude.ai
+oauthDisplayNames:
+- Anthropic

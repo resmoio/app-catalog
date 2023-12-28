@@ -1,0 +1,43 @@
+id: partnerpage
+name: PartnerPage
+description: PartnerPage is an application designed to help users feature their marketing and technology
+  partners on their websites. Through creating a comprehensive Partner Directory, users can provide their
+  partners with dedicated profiles, making them more noticeable to visitors. This app is especially beneficial
+  to SaaS companies, as it enhances their ability to showcase their partners, thereby fostering stronger
+  business relationships. Through PartnerPage, users can make their partners readily accessible to their
+  audience.
+category: business-intelligence
+labels:
+- partners
+- directory
+- referrals
+company:
+  organization: PartnerPage
+  headquarters: US
+  founded: 2019
+  homepage: https://www.partnerpage.io/
+  privacyPolicy: https://www.partnerpage.io/privacy
+  termsOfService: https://www.partnerpage.io/terms
+  statusPage: https://status.partnerpage.io/
+  securityPage: ''
+  linkedin: https://www.linkedin.com/company/partnerpage
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- PartnerPage

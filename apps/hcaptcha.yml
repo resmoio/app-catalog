@@ -1,0 +1,39 @@
+id: hcaptcha
+name: hCaptcha
+description: hCaptcha is a tool designed to ward off automated internet bots while safeguarding user data.
+  It is often seen as a leading alternative to reCAPTCHA. With a central focus on privacy, it strives
+  to create a safer online environment. Being an advanced artificial intelligence security platform, hCaptcha
+  not only outperforms its counterparts like reCAPTCHA v2, v3, and Enterprise but also offers superior
+  value. This tool is utilized by millions globally to secure their websites while maintaining a user-friendly
+  interface.
+category: security
+labels:
+- captcha
+- security
+- accessibility
+company:
+  organization: ''
+  homepage: https://www.hcaptcha.com
+  privacyPolicy: https://www.hcaptcha.com/privacy
+  termsOfService: https://www.hcaptcha.com/terms
+  statusPage: https://www.hcaptchastatus.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- hCaptcha

@@ -1,0 +1,39 @@
+id: beam-analytics
+name: Beam Analytics
+description: Beam Analytics IO is a substitute for Google Analytics, emphasizing user privacy. Its primary
+  features include adherence to GDPR regulations and the absence of cookie-tracking. It also offers a
+  free tier of usage, making it a budget-friendly option for businesses. Furthermore, the application
+  is equipped with capabilities such as funnel analysis and custom event tracking, enabling businesses
+  to gain valuable insights. Notably, despite being affordable, Beam manages to maintain its commitment
+  to being Google Analytics' alternative without compromising on the important features.
+category: data-analytics
+labels:
+- analytics
+- privacy
+- dashboard
+company:
+  organization: Renlee Limited
+  homepage: https://beamanalytics.io/
+  privacyPolicy: https://beamanalytics.io/privacy
+  termsOfService: https://beamanalytics.io/terms
+  linkedin: https://www.linkedin.com/company/beam-analytics/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Beam Analytics

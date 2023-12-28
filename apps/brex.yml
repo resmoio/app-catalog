@@ -1,0 +1,43 @@
+id: brex
+name: Brex Dashboard
+description: Brex Dashboard is a digital financial tool created by Brex, a financial technology company.
+  It offers business credit cards and cash management accounts mainly for startups and other businesses.
+  The application's key function is to streamline and automate financial processes, highlighting adaptability
+  and rewards that suit contemporary businesses. Additionally, Brex provides a variety of services such
+  as corporate credit cards, financial management software, reimbursements, and travel and bill payments.
+  It also offers real-time budget management solutions in multiple countries and currencies, which can
+  enhance efficiency in financial compliance and book-keeping.
+category: account-and-finance
+labels:
+- accounting
+- finance
+- automation
+company:
+  organization: ''
+  homepage: https://brex.com
+  privacyPolicy: https://www.brex.com/legal/privacy
+  termsOfService: https://www.brex.com/legal/user-terms
+  statusPage: https://status.brex.com/
+  securityPage: https://www.brex.com/trust
+  linkedin: https://www.linkedin.com/company/brexhq/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dashboard.brex.com
+oauthDisplayNames:
+- Brex Dashboard

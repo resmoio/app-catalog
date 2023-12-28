@@ -1,0 +1,40 @@
+id: ticktick
+name: TickTick
+description: TickTick is a comprehensive productivity application that offers a wide range of features
+  to boost efficiency and task management. Its capabilities include but are not limited to, to-do lists,
+  reminders, a built-in calendar, a timer, note-making, habit tracking, and collaborative tools. TickTick's
+  primary function is to provide a central location where users can manage tasks, track habits, and organize
+  schedules. This application is designed to facilitate better task management for both work-related tasks
+  and personal goals, helping to optimize the user's lifestyle.
+category: productivity
+labels: []
+company:
+  organization: TickTick
+  headquarters: US
+  founded: 2013
+  homepage: https://ticktick.com
+  privacyPolicy: https://ticktick.com/about/privacy
+  termsOfService: https://ticktick.com/about/tos
+  securityPage: https://ticktick.com/about/security
+  linkedin: https://www.linkedin.com/company/ticktick/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- ticktick.com
+oauthDisplayNames:
+- TickTick

@@ -1,0 +1,42 @@
+id: marvel-prototyping
+name: Marvel Prototyping
+description: Marvel Prototyping is a tool that enables users to create functional prototypes of their
+  app ideas, even without coding skills. Through this platform, users can take their initial concepts
+  or drawings and turn them into interactive app demos in a matter of minutes. The app allows for the
+  transformation of drawings into dynamic prototypes by capturing images and linking them, facilitating
+  an easy transition from idea to visual prototype.
+category: design
+labels:
+- prototyping
+- mockups
+- wireframes
+company:
+  organization: Marvel Prototyping Ltd
+  headquarters: GB
+  founded: 2013
+  homepage: https://marvelapp.com/
+  privacyPolicy: https://marvelapp.com/privacy
+  termsOfService: https://marvelapp.com/terms
+  statusPage: https://status.marvelapp.com/
+  securityPage: https://marvelapp.com/security
+  linkedin: https://www.linkedin.com/company/marvel-app/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: true
+  saml: false
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Marvel Prototyping

@@ -1,0 +1,42 @@
+id: multi
+name: Multi
+description: The Multi app operates as a user-oriented platform that facilitates the swift creation and
+  launch of WebView applications, which can be customized for any geographic area or traffic source. It's
+  designed to enable speedy app deployment by furnishing features like pre-set cloaking. Additionally,
+  Multi features a multiplayer collaboration tool specifically tailored for MacOS. This utility allows
+  teams to collaborate within shared apps; users can point, draw, and conduct edits with an experience
+  akin to working directly on their own computers. This app is wrapped in a well-designed, native MacOS
+  interface.
+category: others
+labels:
+- webview apps
+- mobile
+- marketplace
+company:
+  organization: Multi
+  headquarters: RU
+  homepage: https://multi.app/
+  privacyPolicy: https://multi.app/privacy-policy
+  termsOfService: https://multi.app/terms-of-service
+  securityPage: https://multi.app/security
+  linkedin: https://www.linkedin.com/company/multi-app/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Multi

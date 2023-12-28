@@ -1,0 +1,38 @@
+id: logflare
+name: Logflare
+description: Logflare is a platform designed to collect, process, and study logs and events instantly.
+  The app is created with developers in mind, making it straightforward to link with a range of platforms
+  and tools. It offers solutions for managing logs that are both scalable and efficient.
+category: monitoring
+labels:
+- logging
+- observability
+- monitoring
+company:
+  organization: Logflare
+  headquarters: US
+  founded: 2007
+  homepage: https://logflare.app/
+  privacyPolicy: https://logflare.app/privacy
+  termsOfService: https://logflare.app/terms
+  statusPage: https://lookerstudio.google.com/u/0/reporting/1OiXkL1AOTJw4-dpudE1y_AGQc_mThGm-/page/kcvr?s=gIAFsUMbDS4
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Logflare

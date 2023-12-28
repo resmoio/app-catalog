@@ -1,0 +1,39 @@
+id: awesomescreenshot
+name: Awesome Screenshot
+description: Awesome Screenshot is a browser extension that enables users to take screenshots and record
+  screencasts straight from their internet browsers. It allows the addition of annotations to screenshots
+  such as rectangles, circles, arrows, lines, and text, as well as the ability to blur out sensitive details.
+  It offers a user-friendly approach to capture, add notes, store, share, and work with images.
+category: design
+labels:
+- screenshots
+- annotation
+- chrome
+company:
+  organization: Awesome Screenshot
+  headquarters: US
+  founded: 2010
+  homepage: https://www.awesomescreenshot.com/
+  privacyPolicy: https://www.awesomescreenshot.com/privacy
+  termsOfService: https://www.awesomescreenshot.com/privacy/terms.html
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- awesomescreenshot.com
+oauthDisplayNames:
+- Awesome Screenshot

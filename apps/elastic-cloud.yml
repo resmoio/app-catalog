@@ -1,0 +1,43 @@
+id: elastic-cloud
+name: Elastic Cloud
+description: Elastic Cloud is a cloud-based application designed by Elastic to facilitate efficient deployment
+  and management of Elasticsearch and Kibana instances. It provides an accessible platform to utilize
+  Elasticsearch's search and analytics features, without requiring in-depth knowledge from the user. The
+  app guarantees security, performance optimization, and availability which aids in simplifying data analysis.
+  It offers both hosted Elasticsearch and application search features, contributing to effective data
+  management and scaling. Thus, Elastic Cloud provides tools for businesses to focus on their primary
+  goals while extracting useful insights from data.
+category: data-analytics
+labels:
+- elasticsearch
+- logging
+- analytics
+company:
+  organization: Elasticsearch B.V.
+  headquarters: US
+  homepage: https://www.elastic.co/cloud
+  privacyPolicy: https://www.elastic.co/legal/privacy-statement
+  termsOfService: https://www.elastic.co/legal/terms-of-use
+  statusPage: https://status.elastic.co/
+  securityPage: https://www.elastic.co/security-and-compliance
+  linkedin: https://www.linkedin.com/company/elastic-co/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: true
+  soc2: false
+  gdpr: true
+  fedramp: true
+  hipaa: true
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Elastic Cloud

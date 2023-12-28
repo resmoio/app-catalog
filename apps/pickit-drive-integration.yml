@@ -1,0 +1,41 @@
+id: pickit-drive-integration
+name: Pickit Drive Integration
+description: Pickit Drive Integration is an app that effortlessly connects with Google Drive, enabling
+  administrators to locate and transfer various files to Pickit. Its function is to grant easy access
+  and application of these files throughout the whole organization. It is a platform specifically designed
+  to gather, arrange, and distribute your brand materials and digital content in a highly organised manner.
+  This tool simplifies the management of digital resources, making it one of the most user-friendly platforms
+  in this domain.
+category: business-intelligence
+labels:
+- google drive
+- pickit
+- business intelligence
+company:
+  organization: PicHit.Me AB
+  headquarters: SW
+  founded: 2013
+  homepage: https://www.pickit.com
+  privacyPolicy: https://www.pickit.com/privacy-policy
+  termsOfService: https://www.pickit.com/tos
+  linkedin: https://www.linkedin.com/company/pickit/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Pickit Drive Integration

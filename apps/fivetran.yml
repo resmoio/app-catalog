@@ -1,0 +1,39 @@
+id: fivetran
+name: Fivetran
+description: Fivetran is an online platform that simplifies the process of data integration. It does this
+  by automating the transfer of data from multiple sources into one central data warehouse. The goal of
+  Fivetran is to make the process of data replication as effortless as possible so that teams can quickly
+  access and analyze their data, leading to more efficient and valuable insights. It operates on a cloud-based
+  system, making it accessible from any location at any given time.
+category: data-analytics
+labels: []
+company:
+  organization: Fivetran
+  headquarters: US
+  founded: 2012
+  homepage: https://www.fivetran.com/
+  termsOfService: https://www.fivetran.com/legal#msa
+  statusPage: https://status.fivetran.com/
+  securityPage: https://www.fivetran.com/security
+  linkedin: https://www.linkedin.com/company/fivetran/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: true
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: true
+appDomains:
+- fivetran.com
+oauthDisplayNames:
+- Fivetran

@@ -1,0 +1,42 @@
+id: kahoot
+name: Kahoot!
+description: Kahoot! is an educational tool and platform that provides users with the ability to create
+  and participate in quizzes, discussions, and surveys. It can be accessed through a web browser or
+  on the Kahoot! app. This platform, often used within schools and other learning environments, stimulates
+  interactive and cooperative learning opportunities. With over a billion users annually across various
+  settings\u2014 including educational institutes, workplaces, and homes\u2014 it effectively combines
+  fun and engagement with learning.
+category: education
+labels:
+- game-based learning
+- education
+- engagement
+company:
+  organization: Kahoot
+  headquarters: 'NO'
+  founded: 2012
+  homepage: https://kahoot.com/
+  privacyPolicy: https://trust.kahoot.com/privacy-policy/
+  termsOfService: https://trust.kahoot.com/terms-and-conditions/
+  statusPage: https://status.kahoot.com/
+  securityPage: https://trust.kahoot.com/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Kahoot!

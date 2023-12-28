@@ -1,0 +1,36 @@
+id: syft-analytics
+name: Syft Analytics
+description: Syft Analytics is an application designed to aid businesses, accountants, and non-profit
+  organizations. This tool focuses on financial reporting and promotes interaction and collaboration among
+  its users. It allows these users to better manage and understand their financial data, making the process
+  of decision-making more insightful and productive.
+category: data-analytics
+labels:
+- spreadsheet reporting
+- accounting
+- finance
+company:
+  organization: ''
+  homepage: https://www.syftanalytics.com
+  privacyPolicy: https://www.syftanalytics.com/privacy-policy
+  termsOfService: https://www.syftanalytics.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Syft Analytics

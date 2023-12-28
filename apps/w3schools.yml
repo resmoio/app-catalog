@@ -1,0 +1,41 @@
+id: w3schools
+name: W3Schools
+description: W3Schools is an accessible online educational platform focusing on web
+  development. It provides free, detailed tutorials and exercises across a broad spectrum of web languages
+  like HTML, CSS, JavaScript, Python, SQL, and Java, among others. Moreover, it amplifies learning by
+  offering helpful references relating to the topics covered. This comprehensive resource is suitable
+  for anyone looking to enhance their web development skills or gain new ones. It goes beyond basics,
+  covering more advanced languages and topics such as jQuery, AngularJS, AJAX, and more.
+category: education
+labels:
+- web development tutorials
+- reference
+- training
+company:
+  organization: W3Schools
+  headquarters: 'NO'
+  founded: 1999
+  homepage: https://www.w3schools.com
+  privacyPolicy: https://www.w3schools.com/about/about_privacy.asp
+  termsOfService: https://www.w3schools.com/about/about_copyright.asp
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- w3schools.com
+oauthDisplayNames:
+- W3Schools

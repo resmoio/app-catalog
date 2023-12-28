@@ -1,0 +1,34 @@
+id: wistia
+name: Wistia
+description: Wistia is a platform that facilitates the process of creating, hosting and managing video
+  content for businesses. It simplifies the act of customizing videos and incorporating them into websites.
+  Additionally, Wistia provides the means to collect and analyze viewer interaction data which in turn
+  can be used to improve content and optimize viewer engagement. It also aids the integration of videos
+  into marketing strategies for better business outcomes.
+category: marketing
+labels: []
+company:
+  organization: Wistia
+  headquarters: US
+  founded: 2006
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- wistia.com
+oauthDisplayNames: []

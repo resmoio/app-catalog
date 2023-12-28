@@ -1,0 +1,32 @@
+id: trailblazerme
+name: Trailblazer.me
+description: Trailblazer.me is a tool developed by Salesforce, aiming to gather users' profiles from different
+  Salesforce platforms under a single roof. The primary function of this application is to enable users
+  to establish one comprehensive profile, which can be utilized to access diverse Salesforce applications
+  without logging in multiple times. By ensuring a streamlined, consistent identity throughout the Salesforce
+  environment, Trailblazer.me improves the user experience.
+category: identity-and-access
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- trailblazer.me
+oauthDisplayNames: []

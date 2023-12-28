@@ -1,0 +1,30 @@
+id: toters
+name: Toters
+description: ''
+category: others
+labels:
+- food-delivery
+company:
+  organization: ''
+  homepage: https://www.totersapp.com/
+  privacyPolicy: https://www.totersapp.com/privacy-policy
+  termsOfService: https://www.totersapp.com/privacy-policy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames: []

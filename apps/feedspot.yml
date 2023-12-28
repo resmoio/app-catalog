@@ -1,0 +1,32 @@
+id: feedspot
+name: Feedspot
+description: Feedspot is an RSS Reader that provides a quick and uncomplicated method
+  for tracking multiple websites in one consolidated location. As a modern platform, it is freely accessible
+  and prides itself on its fast performance. Its streamlined design allows users to seamlessly follow
+  their favorite online content, making it a valuable tool for staying up-to-date with the condensed view
+  of various webpages.
+category: news-and-entertainment
+labels: []
+company:
+  organization: ''
+  homepage: https://www.feedspot.com
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Feedspot

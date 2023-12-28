@@ -1,0 +1,40 @@
+id: glassdoor
+name: Glassdoor
+description: Glassdoor is a website that supplies individuals with information about companies, workplace
+  cultures, and available jobs. It offers users reviews from past and current employees, details on salary
+  ranges, and accounts of interview processes. This resource aims to help people make well-informed decisions
+  regarding their career moves and potential workplaces.
+category: hr
+labels:
+- job search
+- salaries
+- company reviews
+company:
+  organization: Recruit Holdings
+  headquarters: JP
+  founded: 1960
+  homepage: https://www.glassdoor.com/
+  privacyPolicy: https://hrtechprivacy.com/brands/glassdoor#privacypolicy
+  termsOfService: https://www.glassdoor.com/about/terms/
+  linkedin: https://www.linkedin.com/company/glassdoor/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- glassdoor.com
+oauthDisplayNames:
+- Glassdoor

@@ -1,0 +1,37 @@
+id: shortcut
+name: Shortcut
+description: Shortcut is an app designed to harmonize planning and development tasks. Its key function
+  lies in maintaining a consistent and automatic connection between currently active projects and supporting
+  documents. This ensures the successful synergy of both production and engineering aspects. In essence,
+  it enables a seamless integration of various components necessary in implementation and strategy making,
+  without the need for manual intervention.
+category: project-management
+labels:
+- requirements
+- documentation
+- sync
+company:
+  organization: ''
+  homepage: https://shortcut.com
+  privacyPolicy: https://shortcut.com/privacy
+  termsOfService: https://shortcut.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Shortcut

@@ -1,0 +1,42 @@
+id: doublecloud
+name: DoubleCloud
+description: DoubleCloud is an analytics platform that utilizes open-source technologies, including ClickHouse
+  and Apache Kafka, to provide rapid data analysis and pipeline solutions. This service enables organizations
+  to perform sub-second analyses and supports the development of analytical tools for both internal and
+  customer use. It is compatible with popular cloud services such as AWS and Google Cloud Platform, aiming
+  to offer cost-effective and swift data handling options.
+category: cloud
+labels:
+- analytics
+- clickhouse
+- data pipelines
+company:
+  organization: DoubleCloud
+  headquarters: DE
+  founded: 2022
+  homepage: https://double.cloud/
+  privacyPolicy: https://double.cloud/legal/en/privacy/
+  termsOfService: https://double.cloud/legal/en/customer_agreement/
+  statusPage: https://status.double.cloud/
+  securityPage: https://double.cloud/security/
+  linkedin: https://www.linkedin.com/company/doublecloudplatform/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- DoubleCloud

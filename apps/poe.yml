@@ -1,0 +1,33 @@
+id: poe
+name: Poe
+description: Poe is an application that facilitates interactions between individuals and artificial intelligence
+  (AI). Its primary function is to allow users to pose queries and receive immediate responses. In addition,
+  it enables users to engage in consecutive exchanges with the AI, promoting dynamic dialogue.
+category: forums
+labels: []
+company:
+  organization: Quora
+  headquarters: US
+  founded: 2009
+  homepage: ''
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- poe.com
+oauthDisplayNames:
+- Poe

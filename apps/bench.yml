@@ -1,0 +1,40 @@
+id: bench
+name: Bench
+description: Bench is a digital bookkeeping and accounting application designed specifically for small
+  businesses and entrepreneurs. It offers a team of expert bookkeepers who manage and organize financial
+  records, including transaction reconciliation and expense categorization, thus ensuring financial accuracy.
+  By streamlining the process, Bench allows businesses to concentrate on their central functions while
+  not worrying about the complexities of maintaining financial records. It eliminates the need for business
+  owners to engage in time-consuming bookkeeping tasks, providing them the space to focus on other important
+  facets of their ventures.
+category: account-and-finance
+labels: []
+company:
+  organization: Bench
+  headquarters: CA
+  founded: 2012
+  homepage: https://www.bench.co/
+  privacyPolicy: https://www.bench.co/privacy
+  termsOfUse: https://www.bench.co/terms-use
+  securityPage: https://www.bench.co/security
+  linkedin: https://ca.linkedin.com/company/benchaccounting
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- bench.co
+oauthDisplayNames: []

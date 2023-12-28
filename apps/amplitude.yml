@@ -1,0 +1,44 @@
+id: amplitude
+name: Amplitude
+description: Amplitude is an analytic platform offering in-depth user behavior understanding to aid businesses
+  in decision-making processes. It provides insights into user engagement, retention, and product usage,
+  supporting organizations to improve their products and user experiences. It comes with an accessible
+  interface and varied analytic features, serving as a useful tool for product groups, marketers, and
+  analysts. Amplitude primarily aids in business growth with its digital product tools. It is intended
+  to help teams manage and develop their businesses in a data-focused environment.
+category: data-analytics
+labels:
+- analytics
+- data
+- marketing
+company:
+  organization: Amplitude Inc.
+  headquarters: US
+  founded: 2012
+  homepage: https://amplitude.com/
+  privacyPolicy: https://amplitude.com/privacy
+  termsOfService: https://amplitude.com/terms
+  statusPage: https://status.amplitude.com/
+  securityPage: https://amplitude.com/amplitude-security-and-privacy
+  linkedin: https://www.linkedin.com/company/amplitude-analytics/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- amplitude.com
+oauthDisplayNames:
+- Amplitude

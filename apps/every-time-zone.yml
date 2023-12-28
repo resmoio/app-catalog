@@ -1,0 +1,37 @@
+id: every-time-zone
+name: Every Time Zone
+description: Every Time Zone is a simple tool designed to help calculate time differences around the globe.
+  By providing visual aid, it eliminates the need for complex time zone computations. Its purpose is to
+  conveniently determine suitable meeting times for individuals in different locations. Safe from confusion
+  and math-related mistakes, users can more effectively manage their international contacts, appointments,
+  or events.
+category: productivity
+labels:
+- time zones
+- calendar
+- scheduling
+company:
+  organization: ''
+  homepage: https://everytimezone.com/
+  privacyPolicy: https://everytimezone.com/privacy
+  termsOfService: https://everytimezone.com/privacy
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Every Time Zone

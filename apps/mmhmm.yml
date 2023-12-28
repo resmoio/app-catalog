@@ -1,0 +1,32 @@
+id: mmhmm
+name: mmhmm
+description: Mmhmm is a video communication and presentation tool with a focus on enhancing user engagement.
+  It offers a variety of features such as virtual backgrounds, slide sharing, screen sharing, and dynamic
+  effects to embellish webcam videos. Mmhmm transforms standard video conferencing into visually appealing
+  and interactive sessions, aiming to make virtual presentations memorable and captivate the audience's
+  attention.
+category: online-meetings
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- mmhmm.app
+oauthDisplayNames: []

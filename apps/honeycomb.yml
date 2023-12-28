@@ -1,0 +1,43 @@
+id: honeycomb
+name: Honeycomb
+description: Honeycomb is a tool that offers helpful features to software developers and operations teams.
+  It aids in examining and debugging software systems that are in use, or "in production." Honeycomb particularly
+  excels when these systems are distributed, or spread out across several different places. This is achieved
+  through its ability to provide detailed insights into software systems, assisting users in understanding
+  and fixing the issues present. It does not promote trials or offer any free usage.
+category: data-analytics
+labels:
+- observability
+- debugging
+- monitoring
+company:
+  organization: Honeycomb
+  headquarters: US
+  founded: 2016
+  homepage: https://www.honeycomb.io/
+  privacyPolicy: https://www.honeycomb.io/privacy
+  termsOfService: https://www.honeycomb.io/terms
+  statusPage: https://status.honeycomb.io/
+  securityPage: https://www.honeycomb.io/security
+  linkedin: https://www.linkedin.com/company/honeycomb.io/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: true
+  privacyShield: false
+appDomains:
+- ui.honeycomb.io
+oauthDisplayNames:
+- Honeycomb

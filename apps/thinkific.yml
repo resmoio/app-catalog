@@ -1,0 +1,39 @@
+id: thinkific
+name: Thinkific
+description: Thinkific is an accessible online platform designed for individuals and businesses to create
+  and sell their own educational courses. It offers a simple-to-use interface and a range of features,
+  facilitating course creators to share their expertise for a fee. Thinkific also ensures a smooth learning
+  experience for students. Despite being a leading platform in terms of online courses and membership
+  sites, the focus on providing easy-to-use technology and comprehensive support remains a top priority.
+category: e-commerce
+labels: []
+company:
+  organization: Thinkific
+  headquarters: CA
+  founded: 2012
+  homepage: https://www.thinkific.com/
+  privacyPolicy: https://www.thinkific.com/privacy-policy/
+  termsOfService: https://www.thinkific.com/terms-of-service/
+  statusPage: https://status.thinkific.com/
+  securityPage: https://www.thinkific.com/security-overview/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- thinkific.com
+oauthDisplayNames:
+- Thinkific

@@ -1,0 +1,44 @@
+id: luminpdf
+name: Lumin PDF
+description: Lumin PDF is a digital tool designed for viewing, editing, and collaborating on PDF files
+  online. It is equipped with a variety of functions that support efficient document management, from
+  annotations to digital signatures. This platform can be used by individuals, teams, or businesses, assisting
+  users in efficiently handling PDF files. It also includes features for quick document and image annotation.
+  With Lumin PDF, it becomes easy to edit, send, and sign PDF documents, making it a reliable and easy-to-use
+  tool for many users.
+category: productivity
+labels:
+- pdf editor
+- annotation
+- esignature
+company:
+  organization: Lumin PDF
+  headquarters: NZ
+  founded: 2013
+  homepage: https://www.luminpdf.com/
+  privacyPolicy: https://www.luminpdf.com/privacy-policy/
+  termsOfService: https://www.luminpdf.com/terms-of-use/
+  statusPage: https://status.luminpdf.com/
+  securityPage: https://www.luminpdf.com/compliance/
+  linkedin: https://www.linkedin.com/company/lumin-pdf/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- luminpdf.com
+oauthDisplayNames:
+- Lumin PDF

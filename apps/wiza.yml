@@ -1,0 +1,41 @@
+id: wiza
+name: Wiza
+description: Wiza is an application designed to glean emails from LinkedIn. It allows users to transform
+  LinkedIn searches into organized lists of verified emails for outreach activities. The app also lends
+  a hand in data extraction from LinkedIn, checking the validity of emails, and locating specific emails.
+  Additionally, it supports API integration for supplementary functionality.
+category: business-intelligence
+labels:
+- linkedin lead gen
+- email finding
+- outreach
+company:
+  organization: Wiza Inc.
+  headquarters: CA
+  founded: 2019
+  homepage: https://wiza.co
+  privacyPolicy: https://wiza.co/privacy
+  termsOfService: https://wiza.co/tos
+  statusPage: https://status.wiza.co/
+  securityPage: https://help.wiza.co/en/collections/2898870-security
+  linkedin: https://www.linkedin.com/company/wizainc/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Wiza

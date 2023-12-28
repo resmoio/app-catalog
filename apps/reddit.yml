@@ -1,0 +1,43 @@
+id: reddit
+name: Reddit
+description: Reddit is a digital platform for online communities, functioning as a space where registered
+  users have the ability to share content, whether in the form of external links, original text posts,
+  or images. Other members then interact with these submissions through a system of voting, affecting
+  their visibility. Users can engage in discussions on diverse topics, promoting a free exchange of ideas
+  and perspectives. Reddit is characterized by its wide range of user-generated content and active engagement.
+category: social-media
+labels:
+- community
+- discussion forum
+- social media
+company:
+  organization: Cond Nast
+  headquarters: US
+  founded: 1909
+  homepage: https://www.reddit.com/
+  privacyPolicy: https://www.reddit.com/policies/privacy-policy?rdt=50261
+  termsOfService: https://www.redditinc.com/policies/user-agreement
+  statusPage: https://www.redditstatus.com/
+  linkedin: https://www.linkedin.com/company/reddit-com/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- reddit.com
+oauthDisplayNames:
+- Reddit
+- reddit-native-apps

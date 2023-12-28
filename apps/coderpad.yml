@@ -1,0 +1,39 @@
+id: coderpad
+name: CoderPad
+description: CoderPad is a digital platform used for conducting live coding interviews and technical assessments.
+  It serves as a tool to evaluate candidates' coding skills proficiently in more than 41 distinct languages.
+  Offering a user-friendly interface, it simplifies the hiring process by filtering candidates based on
+  their technical proficiency, enabling companies to hire competent developers swiftly and effectively.
+category: development-tools
+labels:
+- technical interviewing
+- assessments
+- recruiting
+company:
+  organization: CoderPad
+  headquarters: US
+  founded: 2014
+  homepage: https://coderpad.io
+  privacyPolicy: https://coderpad.io/privacy/
+  termsOfService: https://coderpad.io/tos/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- coderpad.io
+oauthDisplayNames:
+- CoderPad

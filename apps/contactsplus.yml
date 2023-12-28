@@ -1,0 +1,40 @@
+id: contactsplus
+name: Contacts+
+description: Contacts+ is a platform that offers users a way to manage and cultivate their professional
+  relationships by simplifying communication processes. The app enables users to organize their contact
+  details, oversee interactions, and encourage effective engagement. It provides tools for bringing together
+  various contacts, enhancing data, and tracking communication. Contacts+ has been designed to help users
+  establish and strengthen connections, as well as refine their networking strategies. It's an ideal resource
+  for individuals and teams looking to stay coordinated and nurture relationships. Users can align various
+  accounts to create a single directory of contacts and ensure their contact information is updated across
+  multiple devices.
+category: content-management
+labels: []
+company:
+  organization: Contacts Plus LLC.
+  headquarters: US
+  homepage: https://www.contactsplus.com
+  privacyPolicy: https://www.contactsplus.com/privacy
+  termsOfService: https://www.contactsplus.com/terms/
+  securityPage: https://www.contactsplus.com/security/
+  linkedin: https://www.linkedin.com/company/contacts-plus-app/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Contacts+

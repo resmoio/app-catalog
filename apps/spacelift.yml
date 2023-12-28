@@ -1,0 +1,42 @@
+id: spacelift
+name: Spacelift.io
+description: Spacelift.io is a platform designed to coordinate complex deployments within organizations.
+  It supports various infrastructure as code (IaC) solutions including OpenTofu, Terraform, CloudFormation,
+  Pulumi, Kubernetes, and Ansible. The platform allows users to tailor their workflows, automate routine
+  tasks, and strengthen the security of their infrastructure. Furthermore, Spacelift enhances collaboration
+  among team members and ensures dependable and uniform outcomes.
+category: development-tools
+labels:
+- infrastructure automation
+- devops
+- ci/cd
+company:
+  organization: ''
+  headquarters: US
+  founded: 2020
+  homepage: https://spacelift.io
+  privacyPolicy: https://docs.spacelift.io/legal/privacy
+  termsOfService: https://docs.spacelift.io/legal/terms
+  statusPage: https://spacelift.statuspage.io/
+  securityPage: https://docs.spacelift.io/product/security
+  linkedin: https://www.linkedin.com/company/spacelift-io/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Spacelift.io

@@ -1,0 +1,32 @@
+id: sage
+name: Sage
+description: Sage is a software that offers a variety of management tools for businesses, including systems
+  for accounting, payroll, human resources, and enterprise resource planning. It is designed to assist
+  companies in optimizing financial processes, effectively managing resources, and making well-informed
+  business decisions. Sage caters to diverse industries and accommodates companies of different sizes,
+  focusing on simplifying various business operations and aiding in company growth.
+category: account-and-finance
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- sage.com
+oauthDisplayNames: []

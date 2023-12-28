@@ -1,0 +1,37 @@
+id: coro
+name: Coro
+description: Coro is a cloud-based application that aims to provide comprehensive cybersecurity solutions
+  for various aspects of your company. It safeguards against potential threats and breaches by securing
+  emails, data, cloud applications, devices, and users. Designed with an emphasis on efficiency, Coro
+  is particularly suitable for lean IT teams striving for optimal cybersecurity measures.
+category: content-management
+labels:
+- email security
+- data protection
+- malware
+company:
+  organization: ''
+  homepage: https://www.coro.net
+  privacyPolicy: https://www.coro.net/privacy/
+  termsOfService: https://www.coro.net/terms/
+  linkedin: https://www.linkedin.com/company/coronet/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Coro

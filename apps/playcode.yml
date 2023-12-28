@@ -1,0 +1,35 @@
+id: playcode
+name: PlayCode
+description: PlayCode is an application which acts as a playground for Javascript. It provides a sandbox,
+  or a safe, isolated environment, where users can experiment with and execute Javascript code. This feature
+  is also known as REPL -Read-Eval-Print Loop-. This term refers to a simple, interactive programming environment
+  wherein the user can input commands, which the system then reads, executes, and outputs results for,
+  in an ongoing loop.
+category: development-tools
+labels:
+- online ide
+- code editor
+- javascript
+company:
+  organization: ''
+  homepage: https://playcode.io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- PlayCode

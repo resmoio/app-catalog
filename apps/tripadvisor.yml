@@ -1,0 +1,44 @@
+id: tripadvisor
+name: Tripadvisor
+description: Tripadvisor is a travel platform that offers a wide range of user-generated content, ever
+  since its establishment in 2000. This content includes reviews, ratings, and recommendations for hotels,
+  restaurants, and various attractions. It's a well-known resource for individuals venturing into new
+  areas, as it provides firsthand advice and experiences from previous visitors. The platform also plays
+  a role in trip planning and booking, supporting numerous travelers monthly. Users can read about previous
+  experiences of others at their intended destinations, facilitating decisions on their accommodation,
+  itinerary, and dining options.
+category: transportation-and-travel
+labels:
+- travel reviews
+- accommodation
+- restaurants
+company:
+  organization: IAC
+  headquarters: US
+  founded: 1995
+  homepage: https://www.tripadvisor.com/
+  privacyPolicy: https://tripadvisor.mediaroom.com/us-privacy-policy
+  termsOfService: https://tripadvisor.mediaroom.com/us-terms-of-use
+  securityPage: https://www.tripadvisor.com/Trust
+  linkedin: https://www.linkedin.com/company/tripadvisor/about/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- tripadvisor.com
+oauthDisplayNames:
+- Tripadvisor

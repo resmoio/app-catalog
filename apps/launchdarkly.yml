@@ -1,0 +1,44 @@
+id: launchdarkly
+name: LaunchDarkly
+description: LaunchDarkly is a platform geared towards feature management, enabling software development
+  teams to streamline the process of releasing software updates. Using features like real-time controls
+  and audience targeting, developers can efficiently manage application environments and feature releases.
+  It encourages faster, safer software delivery by offering a dependable method to implement features.
+  An added advantage is that it enhances the overall quality of the development experience and maximizes
+  the effectiveness of each software feature through automation.
+category: development-tools
+labels:
+- feature flags
+- testing
+- devops
+company:
+  organization: Catamorphic Co
+  headquarters: US
+  founded: 2014
+  homepage: https://launchdarkly.com/
+  privacyPolicy: https://launchdarkly.com/policies/privacy/
+  termsOfService: https://launchdarkly.com/policies/subscription-terms/
+  statusPage: https://status.launchdarkly.com/
+  securityPage: https://launchdarkly.com/security/
+  linkedin: https://www.linkedin.com/company/launchdarkly/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: true
+appDomains:
+- launchdarkly.com
+oauthDisplayNames:
+- LaunchDarkly

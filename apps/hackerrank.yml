@@ -1,0 +1,35 @@
+id: hackerrank
+name: HackerRank
+description: HackerRank is a platform intended for conducting interviews, particularly in the technical
+  field. It allows companies to assess technical skills more accurately and facilitates opportunities
+  for both employers and job seekers. Notably, HackerRank excels in offering online coding tests and interviews,
+  making it an efficient tool to hire developers. It seeks to optimize hiring to match the quick pace
+  of technological innovation.
+category: productivity
+labels: []
+company:
+  organization: InterviewStreet
+  headquarters: US
+  founded: 2006
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- hackerrank.com
+oauthDisplayNames:
+- HackerRank

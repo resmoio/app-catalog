@@ -1,0 +1,33 @@
+id: splunk-rigor-monitoring
+name: Splunk Rigor Monitoring
+description: Splunk Rigor Monitoring is a software application that provides comprehensive monitoring
+  services for digital businesses. The solution provides insights on performance trends, user-centric
+  metrics, and technical issues that could impact the user experience. It helps businesses maintain optimal
+  online performance by identifying and remedying issues in real-time. This enables users to understand
+  their digital product's health, troubleshoot problems quickly, and make informed decisions about improvements.
+  It's a valuable tool for businesses to ensure they are delivering a optimal experience to their users.
+category: others
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- monitoring.rigor.com
+oauthDisplayNames: []

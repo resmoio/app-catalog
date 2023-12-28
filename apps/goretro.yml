@@ -1,0 +1,43 @@
+id: goretro
+name: GoRetro
+description: GoRetro is a tool designed to enhance project management efficiency. It uses real-time team
+  performance data and feedback to foster continuous improvement in work processes. The application commonly
+  supports agile methodology, helping teams to conduct effective retrospective and planning meetings.
+  It provides various tools to organize these gatherings and integrate data effortlessly. Additionally,
+  GoRetro includes features for monitoring ongoing projects or "sprints," contributing to a more structured
+  and efficient workflow. It is noted for its user-friendly interface and interactive retrospectives.
+category: productivity
+labels:
+- agile
+- retrospectives
+- reflection
+company:
+  organization: Acumen Labs Ltd.
+  headquarters: IL
+  founded: 2019
+  homepage: https://www.goretro.ai/
+  privacyPolicy: https://www.goretro.ai/privacy
+  termsOfService: https://www.goretro.ai/tos
+  securityPage: https://www.goretro.ai/security
+  linkedin: https://www.linkedin.com/company/goretro/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- goretro.ai
+oauthDisplayNames:
+- GoRetro

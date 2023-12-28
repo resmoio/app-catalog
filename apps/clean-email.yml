@@ -1,0 +1,37 @@
+id: clean-email
+name: Clean Email
+description: Clean Email is an application that enhances email management by assisting users in organizing
+  their inboxes in a time-efficient manner. The program identifies and eliminates unnecessary emails,
+  thus decluttering mailboxes. Upon selecting their email provider, users can start the cleaning process.
+  In essence, Clean Email simplifies the task of maintaining orderly and clutter-free email accounts.
+category: content-management
+labels: []
+company:
+  organization: Clean Email
+  headquarters: US
+  founded: 2015
+  homepage: https://clean.email/
+  privacyPolicy: https://clean.email/privacy
+  termsOfService: https://clean.email/privacy
+  linkedin: https://www.linkedin.com/company/cleanemail
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- clean.email
+oauthDisplayNames:
+- Clean Email

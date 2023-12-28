@@ -1,0 +1,38 @@
+id: baselang
+name: BaseLang
+description: BaseLang is an online platform that offers personalized Spanish lessons with native teachers.
+  The application prioritizes real communication, hosting one-on-one live classes to facilitate active
+  learning. BaseLang provides these tutoring services on a subscription basis, with unlimited access available
+  for a monthly fee. The platform also offers a trial period for new users to explore its features for
+  a minimal charge.
+category: education
+labels:
+- language learning
+- education
+- spanish
+company:
+  organization: ''
+  homepage: https://baselang.com
+  privacyPolicy: https://baselang.com/privacy/
+  termsOfService: https://baselang.com/terms/
+  linkedin: https://www.linkedin.com/company/baselang
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- BaseLang

@@ -1,0 +1,44 @@
+id: freshworks
+name: Freshworks
+description: Freshworks is a worldwide software company that develops a variety of customer engagement
+  tools for businesses. It provides a suite of services that address various aspects of business operations
+  such as customer support, sales, marketing, and IT service management. The company's offerings include
+  well-known applications like Freshdesk, Freshsales, and Freshchat. These tools are designed to address
+  and solve a wide range of complex business problems. Featured products are easy-to-use Software as a
+  Service (SaaS) solutions, aimed at improving overall business efficiency.
+category: crm
+labels:
+- customer engagement
+- support
+- crm
+company:
+  organization: Freshworks
+  headquarters: US
+  founded: 2010
+  homepage: https://www.freshworks.com/
+  privacyPolicy: https://www.freshworks.com/privacy
+  termsOfService: https://www.freshworks.com/terms
+  statusPage: https://www.freshworks.com/status-page/
+  securityPage: https://www.freshworks.com/security/
+  linkedin: https://www.linkedin.com/company/freshworks-inc/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- freshworks.com
+oauthDisplayNames:
+- Freshworks

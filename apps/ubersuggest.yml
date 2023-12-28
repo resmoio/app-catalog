@@ -1,0 +1,33 @@
+id: ubersuggest
+name: Ubersuggest
+description: Ubersuggest is a web-based tool used for researching keywords and optimizing content for
+  better visibility on search engines. It provides data on keyword usage, including search volume and
+  competition level. This tool also gives suggestions for keywords and content to boost website performance
+  in search results. Additionally, it offers backlink data, which can be used to improve strategies for
+  online content and marketing. Ubersuggest is chiefly aimed at helping people who own websites or work
+  in digital marketing to boost their site's visibility and increase visitor traffic from search engines.
+category: seo
+labels: []
+company:
+  organization: ''
+  homepage: ''
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains: []
+oauthDisplayNames:
+- Ubersuggest
