@@ -20,10 +20,8 @@ Our catalog is structured in a simple data format for ease of use:
 - `company`: Detailed company information
 - `security`: Security features of the SaaS
 - `compliance`: Compliance and certifications information
-- `domains`: (if applicable) The service domains
+- `appDomains`: (if applicable) The service domains
 - `oauthDisplayNames`: OAuth identifiers for the service
-
-To explore the catalog, visit our [GitHub repository](https://github.com/yourusername/yourrepository).
 
 ## Contributing
 
@@ -37,7 +35,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Resmo – [@your_twitter](https://twitter.com/resmoio) - contact@resmo.com
+Resmo – [@resmoio](https://twitter.com/resmoio) - contact@resmo.com
 
 ## Data Collection Disclaimer
 
