@@ -27,7 +27,7 @@ security:
   saml: true
   bugBounty: true
   userRoles: true
-  sso: false
+  sso: true
 compliance:
   iso27001: true
   iso27018: false
