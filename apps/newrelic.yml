@@ -7,6 +7,7 @@ description: New Relic is a software analytics tool designed to monitor and anal
   Relic One and Quickstarts enable user-friendly instrumentation with minimal clicks, ensuring immediate
   observability without necessitating a credit card for sign up.
 category: monitoring
+logoId: nr
 labels:
 - apm
 - monitoring

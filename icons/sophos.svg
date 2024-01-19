@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="462.66666"
+   height="470.29333"
+   viewBox="0 0 462.66666 470.29333"
+   sodipodi:docname="sophos-shield-blue.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,470.29333)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="M 2060.72,998.461 H 913.074 v 395.379 l 1147.646,-4.59 c 112.9,0 205.27,92.38 205.27,205.28 0,112.91 -92.37,205.27 -205.27,205.27 h -636.75 v 0 c -327.84,0 -596.072,268.24 -596.072,596.08 v 0 c 0,327.84 268.232,596.07 596.072,596.07 v 0 h 1147.64 v -395.38 l -1147.64,4.58 c -112.9,0 -205.27,-92.37 -205.27,-205.27 0,-112.91 92.37,-205.28 205.27,-205.28 h 636.75 c 327.83,0 596.06,-268.23 596.06,-596.07 0,-327.84 -268.23,-596.069 -596.06,-596.069 z M 0,3527.24 V 1333.31 C 0,1105.01 123.766,894.641 323.324,783.738 L 1733.67,-0.0117188 3146.3,783.82 c 199.77,110.84 323.69,321.32 323.69,549.77 V 3527.24 H 0"
+         style="fill:#3858b0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+    </g>
+  </g>
+</svg>
