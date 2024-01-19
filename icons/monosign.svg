@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 67.2 67.2" style="enable-background:new 0 0 67.2 67.2;" xml:space="preserve" width="67.2"  height="67.2" >
+<style type="text/css">
+	.st0monosign{fill:url(#SVGID_1_);}
+	.st1monosign{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-450.879" y1="471.5858" x2="-449.8792" y2="471.5858" gradientTransform="matrix(-4.055481e-15 67.2176 67.2176 4.055481e-15 -31665.2617 30307.002)">
+	<stop offset="0" style="stop-color:#F15F5F"/>
+	<stop offset="0.1561" style="stop-color:#F15C5B"/>
+	<stop offset="0.388" style="stop-color:#F05350"/>
+	<stop offset="0.6671" style="stop-color:#EF423C"/>
+	<stop offset="0.9807" style="stop-color:#EE2425"/>
+	<stop offset="1" style="stop-color:#ED2224"/>
+</linearGradient>
+<circle class="st0monosign" cx="33.6" cy="33.6" r="33.6"/>
+<circle class="st1monosign" cx="33.6" cy="26.2" r="14.8"/>
+<path class="st1monosign" d="M33.6,31.4L33.6,31.4c-4.2,0-7.7,3.5-7.7,7.7V48c0,4.2,3.5,7.7,7.7,7.7s7.7-3.5,7.7-7.7v-8.9  C41.3,34.9,37.9,31.4,33.6,31.4z"/>
+</svg>
