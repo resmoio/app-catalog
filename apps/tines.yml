@@ -15,7 +15,7 @@ company:
   organization: Tines
   headquarters: US
   founded: 2018
-  homepage: https://tines.io
+  homepage: https://www.tines.com/
   privacyPolicy: https://www.tines.com/privacy
   termsOfService: https://www.tines.com/terms
   statusPage: https://status.tines.com/
@@ -40,5 +40,6 @@ compliance:
   privacyShield: false
 appDomains:
 - tines.com
+- tines.io
 oauthDisplayNames:
 - Tines

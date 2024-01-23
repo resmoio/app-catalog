@@ -1,0 +1,34 @@
+id: parnyio
+name: Parny.io
+description: Parny.io is an on-call management service that provides an interactive on-call management and alerting service.
+  It allows you to manage on-call, respond to alerts, follow incident flow like social media timeline and get reports of 
+  your status on Analytics page. Parny.io is integrated with more than 40 monitoring and cloud services to get alerts.
+category: monitoring
+labels:
+- alert management
+- on-call scheduling
+- devops
+company:
+  organization: Parny Teknoloji A.Ş
+  homepage: https://parny.io/
+  linkedin: https://www.linkedin.com/company/parny-io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- portal.parny.io
+oauthDisplayNames: []

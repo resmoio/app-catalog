@@ -1,0 +1,32 @@
+id: ubicloud
+name: Ubicloud
+description: Ubicloud is an open, free, and portable cloud that offers infrastructure-as-a-service (IaaS) features on 
+  providers that lease bare metal instances, such as Hetzner, OVH, and AWS Bare Metal. It is an alternative to public 
+  cloud providers like AWS, Azure, and Google Cloud. Ubicloud reduces costs, avoids lock-in, and returns control of your 
+  infrastructure back to you. It is available as a managed service and is ~3x cheaper than AWS. Ubicloud provides Elastic 
+  Compute, Virtual Networking, Block Storage, Attribute-Based Access Control, and a Cloud Console.
+category: cloud
+labels: []
+company:
+  organization: Ubicloud
+  homepage: https://www.ubicloud.com/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- console.ubicloud.com
+oauthDisplayNames: []

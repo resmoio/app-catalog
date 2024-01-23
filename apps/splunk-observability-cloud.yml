@@ -33,4 +33,5 @@ compliance:
   privacyShield: false
 appDomains:
 - app.signalfx.com
+- signalfx.com
 oauthDisplayNames: []

@@ -1,0 +1,40 @@
+id: timescale
+name: Timescale
+description: Timescale is a company specializing in time-series databases, with its flagship product being TimescaleDB. 
+  Built on PostgreSQL, TimescaleDB is designed to efficiently store and analyze large volumes of time-series data, making 
+  it well-suited for applications involving chronological data, such as financial analytics and IoT sensor readings. The 
+  database offers features like automatic data partitioning and compression to optimize performance and scalability. 
+  Timescale's solutions cater to industries where effective time-series data management is crucial for deriving meaningful 
+  insights and trends.
+category: storage-and-database
+labels: []
+company:
+  organization: Timescale Inc.
+  headquarters: US
+  founded: 2016
+  homepage: https://www.timescale.com/
+  privacyPolicy: https://www.timescale.com/legal/privacy
+  termsOfService: https://www.timescale.com/legal/timescale-cloud-terms-of-service
+  statusPage: https://status.timescale.com/
+  securityPage: https://www.timescale.com/security
+  linkedin: https://www.linkedin.com/company/timescaledb/
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- console.cloud.timescale.com
+oauthDisplayNames: []

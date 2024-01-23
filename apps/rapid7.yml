@@ -1,0 +1,40 @@
+id: rapid7
+name: Rapis7
+description: Rapid7 is a cybersecurity company that provides a range of products and services to help organizations identify, 
+  prioritize, and mitigate security vulnerabilities and threats. The company’s Insight Platform collects data from across 
+  your environment, making it easy for teams to manage vulnerabilities, monitor for malicious behavior, investigate and 
+  shut down attacks, and automate your operations. Rapid7 offers a variety of products and services, with a focus on 
+  vulnerability management, incident detection and response, and security analytics2. The company’s mission is to simplify 
+  the complex through shared visibility, analytics, and automation that unite your teams around challenges and successes 
+  of cybersecurity.
+category: security
+labels: []
+company:
+  organization: Rapid7
+  headquarters: US
+  founded: 2000
+  homepage: https://www.rapid7.com/
+  privacyPolicy: https://www.rapid7.com/privacy-policy/
+  termsOfService: https://rapidapi.com/terms/
+  securityPage: https://www.rapid7.com/trust/
+  linkedin: https://www.linkedin.com/company/39624
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- insight.rapid7.com
+oauthDisplayNames: []

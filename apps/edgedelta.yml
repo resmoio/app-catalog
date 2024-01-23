@@ -1,0 +1,35 @@
+id: edge-delta
+name: Edge Delta
+description: Edge Delta is an automated observability platform utilizing AI to continuously monitor services, providing 
+  alerts for anomalies and guiding root-cause analysis. It eliminates the need for manual threshold definitions and predicts 
+  conditions to monitor, allowing for efficient anomaly detection. The platform summarizes log data, streamlining the 
+  identification of changes and affected resources with each alert. With a distributed architecture, Edge Delta facilitates
+  cost-effective observability at scale, enabling users to store and search all their data without the need for sampling 
+  or filtering to control costs.
+category: monitoring
+labels: []
+company:
+  organization: Edge Delta, Inc.
+  homepage: https://edgedelta.com/
+  privacyPolicy: https://edgedelta.com/privacy-policy
+  termsOfService: https://edgedelta.com/terms-of-service
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- id.edgedelta.com
+oauthDisplayNames: []

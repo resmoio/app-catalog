@@ -38,6 +38,6 @@ compliance:
   hipaa: false
   privacyShield: false
 appDomains:
-  - ampt.us.auth0.com
+- ampt.us.auth0.com
 oauthDisplayNames:
 - Ampt

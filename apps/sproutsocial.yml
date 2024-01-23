@@ -1,0 +1,39 @@
+id: sproutsocial
+name: Sprout Social
+description: Sprout Social is a robust social media management platform catering to businesses and organizations. It empowers 
+  users with features for scheduling and publishing content seamlessly across various social media platforms. The platform 
+  also facilitates social listening, enabling businesses to monitor conversations, mentions, and hashtags, fostering a 
+  deeper understanding of audience sentiment. With comprehensive analytics and reporting tools, Sprout Social helps users 
+  measure the impact of their social media efforts and refine their strategies for optimal engagement. Additionally, its 
+  collaborative features allow teams to efficiently manage and respond to social media interactions.
+category: social-media
+labels: []
+company:
+  organization: Sprout Social, Inc.
+  headquarters: US
+  founded: 2010
+  homepage: https://sproutsocial.com/
+  privacyPolicy: https://sproutsocial.com/privacy-policy/
+  termsOfService: https://sproutsocial.com/legal/terms/
+  securityPage: https://sproutsocial.com/trust-center/
+  linkedin: https://www.linkedin.com/company/sprout-social-inc-
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.sproutsocial.com
+oauthDisplayNames: []

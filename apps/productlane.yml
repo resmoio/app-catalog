@@ -1,0 +1,39 @@
+id: productlane
+name: Productlane
+description: Productlane is a product discovery tool that helps modern product teams worldwide. It is built around your 
+  issue tracker and connects user feedback with Linear issues and projects. This makes all customer problems and 
+  opportunities visible for engineers, ready to act upon when the time has come. Productlane provides a multi-cursor 
+  editor, commenting, and more to process feedback together and make it visible for your whole team. It is engineered 
+  for speed with a powerful sync engine that keeps load times below 50ms. Productlane is designed to work seamlessly with
+  the modern product stack and offers integrations with tools like Slack, Raycast, Intercom, Hubspot, and more.
+category: business-intelligence
+labels: []
+company:
+  organization: Productlane
+  headquarters: DE
+  founded: 2022
+  homepage: https://productlane.com/
+  privacyPolicy: https://productlane.com/privacy
+  termsOfService: https://productlane.com/terms
+  statusPage: https://status.productlane.com/
+  linkedin: https://www.linkedin.com/company/productlane-io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- productlane.com
+oauthDisplayNames: []

@@ -37,5 +37,7 @@ compliance:
   fedramp: false
   hipaa: true
   privacyShield: false
+registrationEmails:
+- azuredevops@microsoft.com
 appDomains: []
 oauthDisplayNames: []

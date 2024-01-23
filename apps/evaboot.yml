@@ -30,6 +30,7 @@ compliance:
   fedramp: false
   hipaa: false
   privacyShield: false
-appDomains: []
+appDomains:
+- app.evaboot.com
 oauthDisplayNames:
 - Evaboot

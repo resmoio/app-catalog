@@ -9,10 +9,10 @@ description: LogMeIn is a service that offers tools for accessing computers and 
 category: productivity
 labels: []
 company:
-  organization: LastPass
+  organization: GoTo
   headquarters: US
   founded: 2003
-  homepage: ''
+  homepage: https://www.logmein.com/
 security:
   mfa: false
   auditLogs: true

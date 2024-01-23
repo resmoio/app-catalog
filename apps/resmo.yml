@@ -36,6 +36,8 @@ compliance:
   fedramp: false
   hipaa: false
   privacyShield: false
+relatedDomains:
+- resmo.io
 appDomains:
 - resmo.app
 oauthDisplayNames:

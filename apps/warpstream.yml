@@ -1,0 +1,39 @@
+id: warpstream
+name: WarpStream
+description: WarpStream is a Kafka compatible data streaming platform built directly on top of object storage. It is designed
+  to be infinitely scalable and is deployed as a stateless and auto scaling agent binary in your VPC with no local disks 
+  to manage. WarpStream is protocol compatible with Apache Kafka® and Kinesis, so you can keep using all your favorite
+  tools and software. It is cheaper than Kafka and costs the same regardless of whether you run your workloads in a 
+  single availability zone or distributed across multiple.
+category: development-tools
+labels: []
+company:
+  organization: Warpstream Labs, Inc
+  headquarters: US
+  founded: 2017
+  homepage: https://www.warpstream.com/
+  privacyPolicy: https://www.warpstream.com/privacy-policy
+  termsOfService: https://www.warpstream.com/terms-of-service
+  linkedin: https://www.linkedin.com/search/results/companies/?keywords=warpstream&origin=GLOBAL_SEARCH_HEADER&sid=wKA
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- warpstreamlabs.com
+appDomains:
+- console.warpstream.com
+oauthDisplayNames: []

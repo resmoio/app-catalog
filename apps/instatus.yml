@@ -1,0 +1,39 @@
+id: instatus
+name: Instatus
+description: Instatus is a quick and user-friendly platform that allows businesses to create visually appealing status 
+  pages within ten seconds, offering an instant solution for downtime communication. Its integrated monitoring software 
+  helps maintain customer satisfaction, reduce support tickets, and allows customer care teams to focus on real issues. 
+  Trusted by notable companies, Instatus provides a streamlined solution for presenting uptime information and ensuring 
+  a fulfilling user experience.
+category: development-tools
+labels: []
+company:
+  organization: Instatus Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://instatus.com/
+  privacyPolicy: https://instatus.com/policies/privacy
+  termsOfService: https://instatus.com/policies/terms
+  statusPage: https://instat.us/
+  securityPage: https://instatus.com/policies/security
+  linkedin: https://www.linkedin.com/company/alertops/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dashboard.instatus.com
+oauthDisplayNames: []

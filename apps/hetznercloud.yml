@@ -32,5 +32,6 @@ compliance:
   fedramp: false
   hipaa: false
   privacyShield: false
-appDomains: []
+appDomains:
+- accounts.hetzner.com
 oauthDisplayNames: []

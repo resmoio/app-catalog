@@ -38,6 +38,8 @@ compliance:
   fedramp: false
   hipaa: true
   privacyShield: true
+relatedDomains:
+- fastly-mail.com
 appDomains:
 - fastly.com
 oauthDisplayNames: []

@@ -1,0 +1,33 @@
+id: marketplacebydesign
+name: Marketplace by design
+description: Marketplace By Design is a company that provides end-to-end customized solutions for your app ecosystem including 
+  app marketplaces, partner directories and partner portals. They offer a range of services from strategy, guidance and 
+  planning to design, development and support. Their service options cater to small businesses to enterprise organizations.
+category: productivity
+labels: []
+company:
+  organization: Marketplace by Design Inc.
+  homepage: https://www.marketplacebydesign.com/
+  privacyPolicy: https://www.marketplacebydesign.com/privacy-policy-1
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+- marketplacebydesign.net
+appDomains:
+- marketplacebydesign.com
+oauthDisplayNames: []

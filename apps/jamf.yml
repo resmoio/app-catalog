@@ -39,4 +39,5 @@ compliance:
   privacyShield: true
 appDomains:
 - id.jamf.com
+- login.jamfnow.com
 oauthDisplayNames: []

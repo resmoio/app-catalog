@@ -1,0 +1,35 @@
+id: checkpoint
+name: Checkpoint
+description: Checkpoint is a cybersecurity company that provides a wide range of security solutions to protect businesses 
+  and organizations from cyber threats. Their products include firewalls, intrusion prevention systems, endpoint security, 
+  cloud security, and more. Check Point’s Infinity architecture delivers consolidated Gen V cyber security across networks, 
+  cloud, and mobile environments.
+category: security
+labels: []
+company:
+  organization: Check Point Software Technologies Ltd
+  headquarters: US
+  founded: 1993
+  homepage: https://www.checkpoint.com/
+  privacyPolicy: https://www.checkpoint.com/privacy/
+  linkedin: https://www.linkedin.com/company/check-point-software-technologies
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- login.checkpoint.com
+oauthDisplayNames: []

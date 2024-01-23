@@ -1,0 +1,36 @@
+id: launchable
+name: Launchable
+description: Launchable is a cutting-edge software testing and release management platform that leverages predictive 
+  analytics to optimize test suite efficiency. Using machine learning, Launchable analyzes testing data to identify the 
+  most impactful tests likely to find defects, allowing teams to prioritize and streamline their testing processes. The 
+  platform is designed to enhance software development workflows by providing data-driven insights, enabling teams to 
+  release higher-quality software at an accelerated pace. Launchable's focus on predictive testing contributes to more 
+  efficient and effective quality assurance in the software development lifecycle.
+category: development-tools
+labels: []
+company:
+  organization: Launchable, Inc
+  headquarters: US
+  homepage: https://www.launchableinc.com/
+  privacyPolicy: https://www.launchableinc.com/privacy-policy/
+  termsOfService: https://www.launchableinc.com/web-tos/
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- auth.launchableinc.com
+oauthDisplayNames: []

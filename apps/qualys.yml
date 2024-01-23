@@ -37,6 +37,8 @@ compliance:
   fedramp: true
   hipaa: false
   privacyShield: true
+relatedDomains:
+- qualys.net
 appDomains:
 - qualys.com
 - qualys.eu

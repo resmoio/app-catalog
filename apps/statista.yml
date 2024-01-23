@@ -1,0 +1,37 @@
+id: statista
+name: Statista
+description: Statista is an online statistics and market research platform that provides access to a vast collection of 
+  statistical data and insights. It offers a wide range of information on various topics, including business, finance, 
+  technology, and global markets. Statista aggregates data from diverse sources, such as market research reports, government 
+  publications, and industry studies, presenting it in a user-friendly format for easy interpretation. The platform is 
+  widely used by businesses, researchers, and individuals seeking reliable and up-to-date statistical information to 
+  inform decision-making processes and gain insights into trends across different industries and regions.
+category: marketing
+labels: []
+company:
+  organization: Statista, Inc.
+  headquarters: US
+  homepage: https://www.statista.com/
+  privacyPolicy: https://www.statista.com/imprint/#privacy
+  termsOfService: https://www.statista.com/imprint/#legal
+  linkedin: https://www.linkedin.com/company/statista/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- statista.com
+oauthDisplayNames: []

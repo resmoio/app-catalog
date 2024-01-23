@@ -1,0 +1,38 @@
+id: ottertune
+name: OtterTune
+description: OtterTune is an intelligent database tuning tool designed to optimize the performance of database management 
+  systems (DBMS) automatically. It utilizes machine learning techniques to analyze database workloads, identify performance
+  bottlenecks, and suggest configuration changes to enhance the overall efficiency of the database. OtterTune works with 
+  popular database systems such as MySQL, PostgreSQL, and others, helping database administrators and developers fine-tune
+  their systems without extensive manual intervention. By automating the tuning process, OtterTune aims to improve the 
+  performance, reliability, and scalability of databases, ultimately leading to better application performance and user experience.
+category: storage-and-database
+labels: []
+company:
+  organization: OtterTune
+  headquarters: US
+  founded: 2020
+  homepage: https://ottertune.com/
+  privacyPolicy: https://ottertune.com/privacy-policy
+  termsOfService: https://ottertune.com/terms-of-use
+  linkedin: https://www.linkedin.com/company/ottertune/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- service.ottertune.com
+oauthDisplayNames: []

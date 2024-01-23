@@ -9,10 +9,13 @@ description: GoTo is a unified set of tools designed to facilitate effective rem
 category: online-meetings
 labels: []
 company:
-  organization: LastPass
+  organization: GoTo
   headquarters: US
   founded: 2003
-  homepage: ''
+  homepage: https://www.goto.com/
+  termsOfService: https://www.goto.com/company/legal/terms-and-conditions
+  privacyPolicy: https://www.goto.com/company/legal/privacy
+  linkedin: https://www.linkedin.com/company/GoTo
 security:
   mfa: false
   auditLogs: false

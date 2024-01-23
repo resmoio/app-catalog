@@ -1,0 +1,38 @@
+id: acorn
+name: acorn
+description: Acorn.io is a cloud platform that allows developers to build, share, and run containerized applications. It 
+  provides a comprehensive way to describe your application and dependencies in a single file called an Acornfile. Acorn 
+  images can be created from Docker images, databases, serverless functions, storage buckets, and other containerized 
+  applications. Acorn images can be launched in your cloud sandbox with just one click. Acorn provides monitoring, logging, 
+  secret management, auto-scaling, and debugging tools out of the box to make operations a snap. Acorn is built on AWS and 
+  is designed for scalability, performance, and reliability.
+category: cloud
+labels: []
+company:
+  organization: Acorn Labs, Inc.
+  headquarters: US
+  founded: 2022
+  homepage: https://www.acorn.io/
+  privacyPolicy: https://www.acorn.io/privacy-policy
+  termsOfService: https://www.acorn.io/terms-of-use
+  linkedin: https://www.linkedin.com/company/acorn-io
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- acorn.io
+oauthDisplayNames: []

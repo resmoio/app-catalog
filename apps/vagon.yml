@@ -1,0 +1,34 @@
+id: vagon
+name: Vagon
+description: Vagon is a cloud-based platform offering remote rendering and high-performance computing solutions. The service
+  allows users to access robust computing resources and powerful GPUs remotely, facilitating resource-intensive tasks like 
+  3D rendering and gaming. Vagon enables users to run computationally demanding applications on less powerful devices by 
+  leveraging cloud-based resources. Their platform is designed to provide efficient and accessible computing power for 
+  users who may not have access to high-end hardware locally.
+category: cloud
+labels: []
+company:
+  organization: Vagon Inc.
+  homepage: https://vagon.io/
+  privacyPolicy: https://vagon.io/privacy
+  termsOfService: https://vagon.io/terms-and-conditions
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.vagon.io
+oauthDisplayNames: []

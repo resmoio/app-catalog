@@ -35,6 +35,8 @@ compliance:
   fedramp: false
   hipaa: false
   privacyShield: false
+relatedDomains:
+- academia-mail.com
 appDomains:
   - academia.edu
 oauthDisplayNames:

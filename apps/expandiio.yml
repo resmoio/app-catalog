@@ -1,0 +1,37 @@
+id: expandiio
+name: Expandi.io
+description: Expandi is a comprehensive LinkedIn automation tool designed for safe lead outreach through an omnichannel 
+  strategy. It simplifies the process, making effective LinkedIn outreach accessible to users without requiring advanced 
+  LinkedIn expertise. The platform provides a user-friendly interface, allowing individuals and businesses to enhance their
+  outreach efforts and achieve meaningful results on LinkedIn. By leveraging Expandi's features, users can optimize their 
+  outreach campaigns and navigate the complexities of LinkedIn networking with ease.
+category: marketing
+labels: []
+company:
+  organization: ProfitSoft B.V
+  headquarters: US
+  founded: 1982
+  homepage: https://expandi.io/
+  privacyPolicy: https://expandi.io/privacy-notice/
+  termsOfService: https://expandi.io/terms-conditions/
+  statusPage: https://status.expandi.io/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- expandi.io
+oauthDisplayNames: []

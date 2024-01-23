@@ -34,6 +34,9 @@ compliance:
   fedramp: false
   hipaa: true
   privacyShield: true
+relatedDomains:
+- intercom.io
+- intercom-mail.com
 appDomains:
 - app.intercom.com
 oauthDisplayNames:

@@ -1,0 +1,36 @@
+id: sitebulb
+name: Sitebulb
+description:
+  Sitebulb is a comprehensive website auditing tool designed for SEO professionals and web developers. It performs in-depth 
+  technical SEO audits, analyzing factors like crawlability, URL structure, and internal linking. The tool also assesses 
+  content quality, identifying issues such as duplicate content and missing meta tags. With detailed reports and visualizations, 
+  Sitebulb helps users prioritize and address SEO and website performance improvements for enhanced search engine visibility.
+category: seo
+labels: []
+company:
+  organization: Sitebulb Limited
+  headquarters: US
+  founded: 2015
+  homepage: https://sitebulb.com/
+  privacyPolicy: https://sitebulb.com/policies/cookie-and-privacy-policy/
+  linkedin: https://www.linkedin.com/company/sitebulb/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- sitebulb.com
+oauthDisplayNames: []

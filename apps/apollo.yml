@@ -39,6 +39,8 @@ compliance:
   privacyShield: false
 relatedDomains:
 - heyapollo.io
+- tryapollo.io
+- meetapollo.io
 appDomains:
 - apollo.io
 oauthDisplayNames:

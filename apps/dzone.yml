@@ -1,0 +1,36 @@
+id: dzone
+name: DZone
+description: DZone is a technology-focused online community and platform that provides resources, content, and collaboration 
+  opportunities for software developers and IT professionals. It serves as a knowledge-sharing hub where developers can 
+  access articles, tutorials, and discussions on a wide range of programming and software development topics. DZone also 
+  offers curated content, product reviews, and industry news to keep its community informed about the latest trends and 
+  innovations in the tech world. With a focus on fostering collaboration and learning within the developer community, DZone 
+  aims to connect professionals and facilitate the exchange of expertise and insights in the rapidly evolving field of technology.
+category: development-tools
+labels: []
+company:
+  organization: TechnologyAdvice, LLC
+  homepage: https://dzone.com/
+  privacyPolicy: https://technologyadvice.com/privacy-policy/
+  termsOfService: https://technologyadvice.com/terms-conditions/
+  linkedin: https://www.linkedin.com/company/dzone/
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- dzone.com
+oauthDisplayNames: []

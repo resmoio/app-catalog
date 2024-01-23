@@ -36,6 +36,7 @@ compliance:
   fedramp: false
   hipaa: false
   privacyShield: false
-appDomains: []
+appDomains:
+- wiza.co
 oauthDisplayNames:
 - Wiza

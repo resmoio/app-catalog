@@ -1,0 +1,35 @@
+id: bill
+name: Bill
+description: Bill  is a versatile financial management platform that automates billing, invoicing, payments, and financial 
+  document organization. It streamlines processes, improves cash flow, reduces errors, and integrates seamlessly with 
+  accounting software, making it an essential tool for efficient financial management in businesses of all sizes.
+category: account-and-finance
+labels: []
+company:
+  organization: Bill
+  headquarters: CA
+  founded: 2018
+  homepage: https://www.bill.com
+  privacyPolicy: https://www.bill.com/privacy
+  termsOfService: https://www.bill.com/legal/terms-of-service
+  linkedin: https://www.linkedin.com/company/bill
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: false
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- bill.com
+oauthDisplayNames: []

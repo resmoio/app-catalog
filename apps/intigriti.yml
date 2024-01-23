@@ -1,0 +1,38 @@
+id: intigriti
+name: Intigriti
+description: Intigriti is a crowdsourced cybersecurity platform that connects ethical hackers with organizations seeking 
+  to identify and address vulnerabilities in their digital assets. It provides a collaborative environment where security
+  researchers can participate in bug bounty programs, uncover potential weaknesses, and report them to the companies for 
+  responsible disclosure. Intigriti's platform facilitates continuous security testing, enabling organizations to proactively 
+  enhance their defenses against cyber threats. With a focus on ethical hacking and transparent communication, Intigriti 
+  fosters a mutually beneficial relationship between security researchers and businesses to strengthen overall cybersecurity posture.
+category: security
+labels: []
+company:
+  organization: Intigriti
+  homepage: https://www.intigriti.com/
+  privacyPolicy: https://kb.intigriti.com/en/articles/5666235-privacy-statement
+  termsOfService: https://kb.intigriti.com/en/articles/5466165-researcher-terms-conditions
+  securityPage: https://trust.intigriti.com/
+  statusPage: https://status.intigriti.com/
+  linkedin: https://www.linkedin.com/company/intigriti
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: true
+  userRoles: false
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- login.intigriti.com
+oauthDisplayNames: []

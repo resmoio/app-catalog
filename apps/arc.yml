@@ -34,6 +34,8 @@ compliance:
   fedramp: false
   hipaa: false
   privacyShield: false
+relatedDomains:
+- arc.net
 appDomains:
 - arc.dev
 oauthDisplayNames:

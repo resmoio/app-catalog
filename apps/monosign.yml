@@ -11,10 +11,12 @@ labels:
 - sso
 - mfa
 company:
-  organization: ''
+  organization: Monofor Inc.
+  headquarters: US
   homepage: https://monosign.com
   privacyPolicy: https://monosign.com/en/privacy
-  termsOfService: https://monosign.com/en/privacy
+  termsOfService: https://monosign.com/en/termsandconditions
+  linkedin: https://tr.linkedin.com/company/monofor
 security:
   mfa: false
   auditLogs: false

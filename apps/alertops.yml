@@ -1,0 +1,43 @@
+id: alertops
+name: AlertOps
+description: AlertOps is a comprehensive platform designed to streamline alert management and incident response processes. 
+  Its primary objective is to enhance the efficiency of incident resolution by simplifying the handling of alerts, ensuring 
+  prompt escalation, and facilitating effective management. As a centralized hub for monitoring and addressing incidents, 
+  AlertOps promotes seamless collaboration among team members, reducing downtime and minimizing service disruptions.
+  The platform's core purpose is to prevent critical alerts from going unnoticed, thereby enabling swift service restoration 
+  and efficient resolution of underlying issues. AlertOps is especially valuable for organizations that rely on continuous 
+  operational services, as it empowers them to proactively manage and mitigate potential disruptions with ease.
+category: monitoring
+labels:
+- alert management
+- on-call scheduling
+- devops
+company:
+  organization: AlertOps
+  founded: 2015
+  homepage: https://alertops.com/
+  privacyPolicy: https://alertops.com/privacy-policy/
+  termsOfService: https://alertops.com/terms-conditions/
+  statusPage: https://status.alertops.com/?_gl=1*gmkunh*_gcl_au*MTc1NjI1NzA0NC4xNzA1OTE5Mzcy
+  securityPage: https://alertops.com/security/
+  linkedin: https://www.linkedin.com/company/alertops/
+security:
+  mfa: false
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: true
+  userRoles: true
+  sso: true
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: true
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.alertops.com
+oauthDisplayNames: []

@@ -29,4 +29,5 @@ compliance:
   privacyShield: false
 appDomains:
 - dash.readme.com
+- readme.io
 oauthDisplayNames: []

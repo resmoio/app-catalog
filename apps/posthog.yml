@@ -1,0 +1,38 @@
+id: posthog
+name: PostHog
+description: PostHog is an open-source product analytics platform that provides a comprehensive suite of tools for developers 
+  to build better products. It offers features such as product analytics, feature flags, session recordings, A/B testing, 
+  heatmaps, and more. PostHog allows you to automate the collection of every event on your website or app, without 
+  sending data to third-parties. You can quickly deploy PostHog on your own infrastructure, with full access to the underlying data.
+category: development-tools
+labels: []
+company:
+  organization: PostHog, Inc.
+  headquarters: US
+  founded: 2020
+  homepage: https://posthog.com
+  privacyPolicy: https://posthog.com/privacy
+  termsOfService: https://posthog.com/terms
+  securityPage: https://posthog.com/handbook/company/security
+  statusPage: https://status.posthog.com/
+  linkedin: https://www.linkedin.com/company/posthog
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: true
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- us.posthog.com
+oauthDisplayNames: []

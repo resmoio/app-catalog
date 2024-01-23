@@ -1,0 +1,36 @@
+id: jitter
+name: Jitter
+description: Jitter Video is an innovative platform specifically crafted for the creation of professional animated content. 
+  Its focus extends to designing on-brand animations for various purposes, including UIs, videos, social media posts, 
+  websites, apps, logos, and more. What sets Jitter apart is its user-friendly approach, enabling users to animate their 
+  content seamlessly without the necessity for complex editing tools. This accessibility makes Jitter an ideal choice for 
+  individuals and businesses looking to easily incorporate dynamic and engaging animations into their visual content.
+category: design
+labels: []
+company:
+  organization: Jitter
+  founded: 2020
+  homepage: https://jitter.video/
+  privacyPolicy: https://jitter.video/privacy/
+  termsOfService: https://jitter.video/terms/
+  linkedin: https://www.linkedin.com/company/jittervideo
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- jitter.video
+oauthDisplayNames: []

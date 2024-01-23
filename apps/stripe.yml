@@ -12,7 +12,9 @@ company:
   organization: Stripe
   headquarters: US
   founded: 2010
-  homepage: ''
+  homepage: https://stripe.com/
+  privacyPolicy: https://stripe.com/privacy
+  statusPage: https://status.stripe.com/
 security:
   mfa: true
   auditLogs: true

@@ -1,0 +1,39 @@
+id: memberstack
+name: Memberstack
+description: Memberstack is a platform that allows website owners and developers to add user authentication and membership 
+  functionality to their websites without extensive coding. It enables the creation of membership sites, subscription services,
+  or gated content by integrating with existing websites and web development tools. With Memberstack, users can manage user
+  sign-ups, logins, and access permissions, as well as implement subscription billing and member-specific content. It provides 
+  a flexible solution for building and managing membership-based websites, making it easier for businesses and creators 
+  to monetize their online content or services.
+category: productivity
+labels: []
+company:
+  organization: Memberstack
+  headquarters: US
+  founded: 2018
+  homepage: https://www.memberstack.com/
+  privacyPolicy: https://docs.memberstack.com/hc/en-us/articles/11419812024347-Privacy-Policy?_gl=1*1wx7lsl*_ga*MTU4NjY1MTI5My4xNzA1OTEwNTEx*_ga_M18GBY4NJ0*MTcwNTkxMDUxMC4xLjEuMTcwNTkxMDk1Ny42MC4wLjA.
+  termsOfService: https://docs.memberstack.com/hc/en-us/articles/11420153399067-Terms-of-Service?_gl=1*1wx7lsl*_ga*MTU4NjY1MTI5My4xNzA1OTEwNTEx*_ga_M18GBY4NJ0*MTcwNTkxMDUxMC4xLjEuMTcwNTkxMDk1Ny42MC4wLjA.
+  securityPage: https://docs.memberstack.com/hc/en-us/articles/11420444005531-Security-Policy?_gl=1*1wx7lsl*_ga*MTU4NjY1MTI5My4xNzA1OTEwNTEx*_ga_M18GBY4NJ0*MTcwNTkxMDUxMC4xLjEuMTcwNTkxMDk1Ny42MC4wLjA.
+  linkedin: https://tr.linkedin.com/company/memberstack
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.memberstack.com
+oauthDisplayNames: []

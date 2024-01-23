@@ -1,0 +1,35 @@
+id: meetalfred
+name: Meet Alfred
+description: Meet Alfred is a LinkedIn automation platform designed for lead generation and marketing. It enables users 
+  to automate key LinkedIn activities, including connection requests, profile views, and messaging, streamlining outreach 
+  efforts. The platform is geared towards expanding professional networks, generating leads, and fostering relationships 
+  through targeted and automated engagement on LinkedIn. Meet Alfred provides tools for users to customize and optimize 
+  their LinkedIn outreach strategies for more effective and efficient networking.
+category: sales
+labels: []
+company:
+  organization: ''
+  homepage: https://meetalfred.com/
+  privacyPolicy: https://meetalfred.com/privacy-policy
+  termsOfService: https://meetalfred.com/terms
+  securityPage: https://meetalfred.com/security
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: true
+appDomains:
+- meetalfred.com
+oauthDisplayNames: []

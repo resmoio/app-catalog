@@ -1,0 +1,36 @@
+id: resend
+name: Resend
+description: Resend is a tool that provides an email platform for developers. It offers a simple, elegant interface that 
+  allows you to start sending emails in minutes. The platform fits right into your code with SDKs for your favorite programming 
+  languages. Resend's features include first-class developer experience, delivered test mode, modular webhooks, and the 
+  ability to develop emails using React. The platform is designed to provide full visibility and intuitive analytics, and 
+  it also offers domain authentication to protect your domain reputation.
+category: development-tools
+labels: []
+company:
+  organization: Plus Five Five, Inc.
+  homepage: https://resend.com/
+  privacyPolicy: https://resend.com/legal/privacy-policy
+  termsOfService: https://resend.com/legal/terms-of-service
+  statusPage: https://resend-status.com/
+  linkedin: https://linkedin.com/company/resend
+security:
+  mfa: true
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: true
+  saml: false
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- resend.com
+oauthDisplayNames: []

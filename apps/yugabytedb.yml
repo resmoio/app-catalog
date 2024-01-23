@@ -10,7 +10,7 @@ labels:
 - kubernetes
 - open source
 company:
-  organization: ''
+  organization: Yugabyte Inc.
   homepage: https://yugabyte.com/cloud
   privacyPolicy: https://www.yugabyte.com/privacy-policy/
   termsOfService: https://www.yugabyte.com/privacy-policy/
@@ -31,6 +31,7 @@ compliance:
   fedramp: false
   hipaa: false
   privacyShield: false
-appDomains: []
+appDomains:
+- cloud.yugabyte.com
 oauthDisplayNames:
 - YugabyteDB Managed

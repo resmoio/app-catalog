@@ -1,0 +1,35 @@
+id: buzzsumo
+name: BuzzSumo
+description:
+  BuzzSumo is a content discovery and social media analytics tool designed to help users identify popular and trending 
+  content in their industry. It allows users to search for topics or keywords to find the most shared and engaging content 
+  on various social media platforms. Additionally, BuzzSumo provides insights into competitor performance, helping businesses
+  understand what resonates with their audience and informing their content strategy. It is widely used by marketers and 
+  content creators to optimize their content, improve social media engagement, and stay informed about industry trends.
+category: content-management
+labels: []
+company:
+  organization: BuzzSumo Ltd.
+  founded: 2014
+  homepage: https://buzzsumo.com/
+  termsOfService: https://buzzsumo.com/wp-content/themes/brandwatch/src/site--buzzsumo.com/assets/Buzzsumo-Terms-2019-09.pdf
+security:
+  mfa: false
+  auditLogs: false
+  ipRestriction: false
+  passwordPolicy: false
+  saml: false
+  bugBounty: false
+  userRoles: false
+  sso: false
+compliance:
+  iso27001: false
+  iso27018: false
+  soc2: false
+  gdpr: false
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+appDomains:
+- app.buzzsumo.com
+oauthDisplayNames: []

@@ -35,6 +35,8 @@ compliance:
   fedramp: false
   hipaa: true
   privacyShield: false
+relatedDomains:
+- parallels-universe.com
 appDomains:
 - parallels.com
 oauthDisplayNames:
