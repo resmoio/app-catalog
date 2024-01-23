@@ -39,4 +39,5 @@ compliance:
   privacyShield: false
 appDomains:
 - admin.duosecurity.com
+- duosecurity.com
 oauthDisplayNames: []
