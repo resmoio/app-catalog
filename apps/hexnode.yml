@@ -1,0 +1,37 @@
+id: hexnode
+name: Hexnode
+description: Hexnode MDM allows you to monitor, manage, and secure Bring-Your-Own-Device (BYOD) environments, corporate-only device environments, and (more commonly) hybrid environments  — all from a single screen.
+category: identity-and-access
+labels: []
+company:
+  organization: Mitsogo Inc.
+  headquarters: US
+  founded: 2013
+  homepage: https://www.hexnode.com/
+  privacyPolicy: https://www.hexnode.com/legal/privacy-policy/
+  termsOfService: https://www.hexnode.com/legal/terms-of-use/
+  securityPage: https://www.hexnode.com/security-and-compliance/
+  linkedin: https://www.linkedin.com/company/hexnode
+security:
+  mfa: true
+  auditLogs: true
+  ipRestriction: false
+  passwordPolicy: true
+  saml: true
+  bugBounty: false
+  userRoles: true
+  sso: false
+compliance:
+  iso27001: true
+  iso27018: false
+  soc2: false
+  gdpr: true
+  fedramp: false
+  hipaa: false
+  privacyShield: false
+relatedDomains:
+  - hexnodemdm.com
+appDomains:
+  - hexnodemdm.com
+oauthDisplayNames:
+  - Hexnode
