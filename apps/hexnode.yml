@@ -1,7 +1,7 @@
 id: hexnode
 name: Hexnode
 description: Hexnode MDM allows you to monitor, manage, and secure Bring-Your-Own-Device (BYOD) environments, corporate-only device environments, and (more commonly) hybrid environments  — all from a single screen.
-category: identity-and-access
+category: security
 labels: []
 company:
   organization: Mitsogo Inc.
